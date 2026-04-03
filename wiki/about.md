@@ -14,6 +14,9 @@ This wiki is maintained by **Mihail Velikov**, Associate Professor of Finance at
 - [GitHub](https://github.com/velikov-mihail)
 - [Twitter / X](https://x.com/VelikovMihail)
 
-## How This Wiki Was Built
+## Stack
 
-The wiki follows a "knowledge base" pattern: raw source materials (web articles, academic papers, practitioner guides) are compiled by an LLM (Claude) into interlinked markdown. It is viewable locally in [Obsidian](https://obsidian.md) and published online via [MkDocs Material](https://squidfunk.github.io/mkdocs-material/).
+- [Claude Code](https://claude.ai/code) — content generation and curation
+- [Obsidian](https://obsidian.md) — local editing and graph navigation
+- [MkDocs Material](https://squidfunk.github.io/mkdocs-material/) — static site generation
+- [GitHub Pages](https://pages.github.com/) — hosting and deployment
