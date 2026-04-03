@@ -5,6 +5,7 @@ sources:
   - "[[raw/papers/Post by Chris Blattman on X - velikov.mihail@gmail.com - Gmail.pdf]]"
 date_updated: 2026-04-03
 ---
+- **Original**: [https://x.com/cblatts/status/2027018464670491065](https://x.com/cblatts/status/2027018464670491065)
 
 **Authors**: Chris Blattman (University of Chicago, Harris School of Public Policy)
 

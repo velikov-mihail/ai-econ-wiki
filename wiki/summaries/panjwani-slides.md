@@ -5,6 +5,7 @@ sources:
   - "[[raw/papers/Ankit_Panjwani_AI_Agents_for_Economic_Research.pdf]]"
 date_updated: 2026-04-03
 ---
+- **Original**: [https://voxdev.org/event/ai-agents-economics-research](https://voxdev.org/event/ai-agents-economics-research)
 
 **Authors**: Aniket Panjwani (PhD Economics, Northwestern; Director of AI/ML at Payslice)
 

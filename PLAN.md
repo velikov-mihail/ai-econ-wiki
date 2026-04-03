@@ -17,8 +17,7 @@
 ## Phase 7: Source URLs & Remaining Polish
 
 ### 7.1 — Source URLs: DONE
-91 of ~96 summaries now have an `**Original**:` link to the source article.
-4 summaries have no published URL (local presentations/PDFs): baylor-ai-taskforce, blattman-x-post, panjwani-slides, spina-paper.
+All ~96 individual summaries now have an `**Original**:` link to the source article.
 
 ### 7.3 — Enable GitHub Pages
 1. Go to repo Settings → Pages → Source: **GitHub Actions**

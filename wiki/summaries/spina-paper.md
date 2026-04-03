@@ -5,6 +5,7 @@ sources:
   - "[[raw/papers/main.tex]]"
 date_updated: 2026-04-03
 ---
+- **Original**: [https://github.com/aspi6246/Claude-Code-Presentation](https://github.com/aspi6246/Claude-Code-Presentation)
 
 **Authors**: Alessandro Spina (UTS Finance Department)
 

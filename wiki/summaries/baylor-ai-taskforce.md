@@ -5,6 +5,7 @@ sources:
   - "[[raw/papers/baylor_ai_taskforce.pdf]]"
 date_updated: 2026-04-03
 ---
+- **Original**: [https://causalinf.substack.com/p/claude-code-21-faculty-adoption-of](https://causalinf.substack.com/p/claude-code-21-faculty-adoption-of)
 
 **Authors**: Scott Cunningham (Ben H. Williams Professor of Economics, Baylor University; Visiting Professor, Harvard University)
 
