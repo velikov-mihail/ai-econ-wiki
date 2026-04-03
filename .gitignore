@@ -1,0 +1,16 @@
+# Raw source data (kept local/Dropbox only)
+raw/
+
+# Obsidian workspace/cache
+.obsidian/workspace.json
+.obsidian/cache/
+
+# MkDocs build output
+site/
+
+# Other
+output/
+__pycache__/
+.DS_Store
+Thumbs.db
+*.pyc
