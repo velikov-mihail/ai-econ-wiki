@@ -81,5 +81,9 @@ nav:
       - Reproducibility: concepts/reproducibility-transparency.md
       - AI Adoption in Academia: concepts/ai-adoption-academia.md
       - AI as Normal Technology: concepts/ai-as-normal-technology.md
-  - Visualizations: visualizations/index.md
+  - Visualizations:
+      - Overview: visualizations/index.md
+      - Category Map: visualizations/category-map.md
+      - Source Timeline: visualizations/source-timeline.md
+  - Authors: authors.md
   - Tags: tags.md

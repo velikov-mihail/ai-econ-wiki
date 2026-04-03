@@ -6,11 +6,11 @@
 - **Phase 1**: DONE — Wiki scaffolding: index files, 10 category landing pages
 - **Phase 2**: DONE — All 91 articles + 5 papers summarized (86 individual summary pages across 10 categories)
 - **Phase 3**: DONE — 15 cross-cutting concept pages created
-- **Phase 4**: NOT STARTED — Category map (Mermaid), author index, source timeline
+- **Phase 4**: DONE — Category map (Mermaid), author index, source timeline
 - **Phase 5**: NOT STARTED — Optional validation tools
 - **Phase 6**: NOT STARTED — Polish, cross-link pass, local MkDocs test, GitHub remote + deploy
 
-**Next steps**: Phase 4 (visualizations/navigation), then Phase 6 (polish + deploy). Phase 5 is optional.
+**Next steps**: Phase 6 (polish + deploy). Phase 5 is optional.
 
 ---
 

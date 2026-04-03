@@ -27,7 +27,10 @@ A curated knowledge base on using AI tools and workflows for economics, business
 
 - **[[summaries/index\|Summaries]]** — One page per source article or paper
 - **[[concepts/index\|Concepts]]** — Cross-cutting themes synthesized across sources
-- **[[visualizations/index\|Visualizations]]** — Diagrams and maps of the knowledge base
+- **[[visualizations/index\|Visualizations]]** — Diagrams, maps, and timelines
+- **[[authors\|Author Index]]** — Every author with links to their summaries
+- **[[visualizations/category-map\|Category Map]]** — How the ten categories relate
+- **[[visualizations/source-timeline\|Source Timeline]]** — Sources by publication date
 
 ## About
 
