@@ -4,6 +4,7 @@ tags: [home]
 date_updated: 2026-04-03
 ---
 
+
 # AI in Economics & Social Science Research
 
 A curated knowledge base on using AI tools and workflows for economics, business, and social science research. Built from ~90 web articles, academic papers, and practitioner guides.
@@ -32,4 +33,4 @@ A curated knowledge base on using AI tools and workflows for economics, business
 
 ## About
 
-This wiki is maintained by an LLM (Claude) from raw source materials. It follows a "knowledge base" pattern: raw sources are compiled into interlinked markdown, viewable in [Obsidian](https://obsidian.md) locally and published online via MkDocs Material.
+This wiki is maintained by [[about|Mihail Velikov]] (Penn State, Smeal College of Business) using an LLM (Claude) to compile raw source materials into interlinked markdown. It is viewable in [Obsidian](https://obsidian.md) locally and published online via MkDocs Material.
