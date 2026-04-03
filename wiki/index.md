@@ -18,10 +18,10 @@ A curated knowledge base on using AI tools and workflows for economics, business
 | [[summaries/claude-code-skills\|Claude Code Skills & Advanced]] | Skills, DAAF, continuous improvement, compilation workflows | 8 |
 | [[summaries/data-analysis\|Data Analysis & Web Scraping]] | WRDS, EDGAR, scraping, data pipelines | 6 |
 | [[summaries/academic-research\|Academic Research & Publishing]] | Vibe research, feedback machines, AI-assisted writing | 11 |
-| [[summaries/finance-econometrics\|Finance & Econometrics]] | Project APE, automated research in finance, policy evaluation | — |
-| [[summaries/ai-tools\|AI Tools & Comparisons]] | ChatGPT vs Claude, Cursor, NotebookLM, tool selection | — |
-| [[summaries/institutional-societal\|Institutional & Societal]] | AI adoption, the bitter lesson, AI as normal technology | — |
-| [[summaries/professional-productivity\|Professional Productivity]] | Executive assistant, project management, tax, meetings | — |
+| [[summaries/finance-econometrics\|Finance & Econometrics]] | Project APE, automated research in finance, policy evaluation | 7 |
+| [[summaries/ai-tools\|AI Tools & Comparisons]] | ChatGPT vs Claude, Cursor, NotebookLM, tool selection | 7 |
+| [[summaries/institutional-societal\|Institutional & Societal]] | AI adoption, the bitter lesson, AI as normal technology | 8 |
+| [[summaries/professional-productivity\|Professional Productivity]] | Executive assistant, project management, tax, meetings | 13 |
 
 ## Navigation
 
