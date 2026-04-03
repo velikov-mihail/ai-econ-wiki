@@ -12,7 +12,7 @@ A curated knowledge base on using AI tools and workflows for economics, business
 
 | Category | Description | Summaries |
 |----------|-------------|-----------|
-| [[summaries/foundations-setup\|Foundations & Setup]] | Installation, privacy, getting started with AI coding tools | — |
+| [[summaries/foundations-setup\|Foundations & Setup]] | Installation, privacy, getting started with AI coding tools | 14 |
 | [[summaries/prompt-engineering-workflow\|Prompt Engineering & Workflow]] | Prompt design, plan-driven development, workflow architecture | — |
 | [[summaries/ai-agents\|AI Agents & Agentic AI]] | Agent frameworks, agentic workflows, autonomous research | — |
 | [[summaries/claude-code-skills\|Claude Code Skills & Advanced]] | Skills, DAAF, continuous improvement, compilation workflows | — |
