@@ -31,8 +31,7 @@ docs_dir: wiki
 plugins:
   - search
   - roamlinks
-  - tags:
-      tags_file: tags.md
+  - tags
 
 markdown_extensions:
   - admonition

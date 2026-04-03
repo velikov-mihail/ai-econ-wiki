@@ -1,6 +1,6 @@
 ---
 title: "Alex Imas Thread: Man-Computer Symbiosis and the Excitement of AI in Research"
-tags: [summary, human-AI-collaboration, research-productivity, historical-perspective]
+tags: [summary, human-ai-collaboration, research-productivity, historical-perspective]
 sources:
   - "[[raw/articles/Thread by @alexolegimas.md]]"
 date_updated: 2026-04-03
@@ -28,7 +28,7 @@ The thread provides historical and philosophical context for understanding the c
 
 ## Related Concepts
 
-- [[concepts/human-AI-collaboration]]
+- [[concepts/human-ai-collaboration]]
 - [[concepts/automated-research]]
 - [[concepts/research-productivity]]
 
