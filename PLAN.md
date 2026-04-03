@@ -1,5 +1,19 @@
 # Implementation Plan: AI-in-Economics Wiki
 
+## Progress (as of 2026-04-03)
+
+- **Phase 0**: DONE — Git repo initialized, .gitignore, MkDocs config, requirements.txt, GitHub Actions deploy workflow, raw articles deduplicated (91 unique articles remain)
+- **Phase 1**: DONE — Wiki scaffolding: index files, 10 category landing pages
+- **Phase 2**: DONE — All 91 articles + 5 papers summarized (86 individual summary pages across 10 categories)
+- **Phase 3**: DONE — 15 cross-cutting concept pages created
+- **Phase 4**: NOT STARTED — Category map (Mermaid), author index, source timeline
+- **Phase 5**: NOT STARTED — Optional validation tools
+- **Phase 6**: NOT STARTED — Polish, cross-link pass, local MkDocs test, GitHub remote + deploy
+
+**Next steps**: Phase 4 (visualizations/navigation), then Phase 6 (polish + deploy). Phase 5 is optional.
+
+---
+
 ## Context
 
 You have ~97 markdown web clippings and 6 papers in `raw/` covering AI workflows for economics/social science research. The goal is to compile these into a structured wiki in `wiki/`, publish it online via MkDocs Material + GitHub Pages, and maintain it as a living resource for academic researchers. The wiki follows Karpathy's "LLM knowledge base" pattern: raw sources are compiled by the LLM into interlinked markdown, viewable in Obsidian locally and published online.
