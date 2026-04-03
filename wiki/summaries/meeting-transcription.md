@@ -5,6 +5,8 @@ sources:
   - "[[raw/articles/Meeting Transcription - Claude Blattman · AI for Professionals Who Don't Code.md]]"
 date_updated: 2026-04-03
 ---
+- **Original**: [https://claudeblattman.com/essentials/granola/](https://claudeblattman.com/essentials/granola/)
+
 
 **Author/Source**: Chris Blattman, [claudeblattman.com](https://claudeblattman.com/essentials/granola/)
 

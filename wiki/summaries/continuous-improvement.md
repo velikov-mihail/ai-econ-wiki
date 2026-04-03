@@ -5,6 +5,8 @@ sources:
   - "[[raw/articles/Continuous Improvement - Claude Blattman · AI for Professionals Who Don't Code.md]]"
 date_updated: 2026-04-03
 ---
+- **Original**: [https://claudeblattman.com/system/continuous-improvement/](https://claudeblattman.com/system/continuous-improvement/)
+
 
 - **Author/Source**: Chris Blattman, [claudeblattman.com](https://claudeblattman.com/system/continuous-improvement/)
 

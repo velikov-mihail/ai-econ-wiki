@@ -5,6 +5,8 @@ sources:
   - "[[raw/articles/Every Claude Code Hack I Know (March 2026).md]]"
 date_updated: 2026-04-03
 ---
+- **Original**: [https://x.com/mvanhorn/status/2035857346602340637](https://x.com/mvanhorn/status/2035857346602340637)
+
 
 **Author/Source**: @mvanhorn (Matt Van Horn), [X/Twitter thread](https://x.com/mvanhorn/status/2035857346602340637), March 22, 2026
 

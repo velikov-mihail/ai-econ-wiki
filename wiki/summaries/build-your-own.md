@@ -5,6 +5,8 @@ sources:
   - "[[raw/articles/Build Your Own - Claude Blattman · AI for Professionals Who Don't Code.md]]"
 date_updated: 2026-04-03
 ---
+- **Original**: [https://claudeblattman.com/system/](https://claudeblattman.com/system/)
+
 
 - **Author/Source**: Chris Blattman, [claudeblattman.com](https://claudeblattman.com/system/)
 

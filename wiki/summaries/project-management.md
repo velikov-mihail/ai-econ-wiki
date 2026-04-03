@@ -5,6 +5,8 @@ sources:
   - "[[raw/articles/Project Management - Claude Blattman · AI for Professionals Who Don't Code.md]]"
 date_updated: 2026-04-03
 ---
+- **Original**: [https://claudeblattman.com/workflows/project-management/](https://claudeblattman.com/workflows/project-management/)
+
 
 **Author/Source**: Chris Blattman, [claudeblattman.com](https://claudeblattman.com/workflows/project-management/)
 

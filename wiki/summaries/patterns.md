@@ -5,6 +5,8 @@ sources:
   - "[[raw/articles/Patterns - Claude Blattman · AI for Professionals Who Don't Code.md]]"
 date_updated: 2026-04-03
 ---
+- **Original**: [https://claudeblattman.com/system/patterns/](https://claudeblattman.com/system/patterns/)
+
 
 **Author/Source**: Chris Blattman, [claudeblattman.com](https://claudeblattman.com/system/patterns/)
 

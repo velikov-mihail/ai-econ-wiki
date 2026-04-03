@@ -8,8 +8,6 @@ date_updated: 2026-04-03
 
 This wiki is maintained by **Mihail Velikov**, Associate Professor of Finance at the Smeal College of Business, Penn State University. His research focuses on asset pricing, wealth and asset management, machine learning, and AI in finance, with publications in the *Journal of Finance*, *Journal of Financial Economics*, *Review of Financial Studies*, *Management Science*, and the *Journal of Financial and Quantitative Analysis*.
 
-This knowledge base was built as a resource for his undergraduate course on Data Science & AI in Finance, and for the broader community of economists and social scientists exploring AI tools in their research workflows.
-
 ## Links
 
 - [Personal website](https://sites.google.com/site/velikovmihail/home)

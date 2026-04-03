@@ -5,6 +5,8 @@ sources:
   - "[[raw/articles/Install (Mac) - Claude Blattman · AI for Professionals Who Don't Code.md]]"
 date_updated: 2026-04-03
 ---
+- **Original**: [https://claudeblattman.com/toolkit/install-mac/](https://claudeblattman.com/toolkit/install-mac/)
+
 
 **Author/Source**: Chris Blattman, [claudeblattman.com](https://claudeblattman.com/toolkit/install-mac/)
 

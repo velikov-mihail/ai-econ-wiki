@@ -5,6 +5,8 @@ sources:
   - "[[raw/articles/Example Project Dashboard - Claude Blattman · AI for Professionals Who Don't Code.md]]"
 date_updated: 2026-04-03
 ---
+- **Original**: [https://claudeblattman.com/workflows/examples/project-overview-example/](https://claudeblattman.com/workflows/examples/project-overview-example/)
+
 
 **Author/Source**: Chris Blattman, [claudeblattman.com](https://claudeblattman.com/workflows/examples/project-overview-example/)
 

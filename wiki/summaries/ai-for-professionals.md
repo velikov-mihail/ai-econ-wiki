@@ -5,6 +5,8 @@ sources:
   - "[[raw/articles/AI for Professionals Who Don't Code.md]]"
 date_updated: 2026-04-03
 ---
+- **Original**: [https://claudeblattman.com/](https://claudeblattman.com/)
+
 
 **Author/Source**: Chris Blattman (political economist, UChicago Harris), [claudeblattman.com](https://claudeblattman.com/)
 

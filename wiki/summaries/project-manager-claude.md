@@ -5,6 +5,8 @@ sources:
   - "[[raw/articles/Let's Work on the Next Task Claude Code, GitHub, and the Most Diligent Project Manager I've Ever Had.md]]"
 date_updated: 2026-04-03
 ---
+- **Original**: [https://www.behind-the-enemy-lines.com/2026/03/lets-work-on-next-task-claude-code.html](https://www.behind-the-enemy-lines.com/2026/03/lets-work-on-next-task-claude-code.html)
+
 
 **Author/Source**: Panos Ipeirotis, [Behind the Enemy Lines blog](https://www.behind-the-enemy-lines.com/2026/03/lets-work-on-next-task-claude-code.html), published 2026-03-04
 

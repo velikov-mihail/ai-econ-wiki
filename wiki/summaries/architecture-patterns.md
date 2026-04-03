@@ -5,6 +5,8 @@ sources:
   - "[[raw/articles/Architecture Patterns - Claude Blattman · AI for Professionals Who Don't Code.md]]"
 date_updated: 2026-04-03
 ---
+- **Original**: [https://claudeblattman.com/tax-workflow/build-your-own/architecture-patterns/](https://claudeblattman.com/tax-workflow/build-your-own/architecture-patterns/)
+
 
 **Author/Source**: Chris Blattman, [claudeblattman.com](https://claudeblattman.com/tax-workflow/build-your-own/architecture-patterns/)
 

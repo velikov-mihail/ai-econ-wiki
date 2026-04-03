@@ -5,6 +5,8 @@ sources:
   - "[[raw/articles/Using Claude Code for Tax Season - Claude Blattman · AI for Professionals Who Don't Code.md]]"
 date_updated: 2026-04-03
 ---
+- **Original**: [https://claudeblattman.com/tax-workflow/](https://claudeblattman.com/tax-workflow/)
+
 
 **Author/Source**: Chris Blattman, [claudeblattman.com](https://claudeblattman.com/tax-workflow/)
 

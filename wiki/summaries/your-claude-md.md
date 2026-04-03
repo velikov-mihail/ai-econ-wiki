@@ -5,6 +5,8 @@ sources:
   - "[[raw/articles/Your CLAUDE.md - Claude Blattman · AI for Professionals Who Don't Code.md]]"
 date_updated: 2026-04-03
 ---
+- **Original**: [https://claudeblattman.com/toolkit/claude-md/](https://claudeblattman.com/toolkit/claude-md/)
+
 
 **Author/Source**: Chris Blattman, [claudeblattman.com](https://claudeblattman.com/toolkit/claude-md/)
 

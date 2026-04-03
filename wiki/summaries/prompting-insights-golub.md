@@ -5,6 +5,8 @@ sources:
   - "[[raw/articles/Prompting Insights Modern AI for Economics Research with Benjamin Golub  Markus Academy  Ep. 154.md]]"
 date_updated: 2026-04-03
 ---
+- **Original**: [https://www.youtube.com/watch?v=ixyzgnmqAiU](https://www.youtube.com/watch?v=ixyzgnmqAiU)
+
 
 **Author/Source**: Benjamin Golub (Northwestern University / refine.ink), Markus' Academy Ep. 154, published 2025-12-23. [YouTube](https://www.youtube.com/watch?v=ixyzgnmqAiU)
 

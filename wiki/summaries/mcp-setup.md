@@ -5,6 +5,8 @@ sources:
   - "[[raw/articles/MCP Setup - Claude Blattman · AI for Professionals Who Don't Code.md]]"
 date_updated: 2026-04-03
 ---
+- **Original**: [https://claudeblattman.com/toolkit/mcp-setup/](https://claudeblattman.com/toolkit/mcp-setup/)
+
 
 **Author/Source**: Chris Blattman, [claudeblattman.com](https://claudeblattman.com/toolkit/mcp-setup/)
 

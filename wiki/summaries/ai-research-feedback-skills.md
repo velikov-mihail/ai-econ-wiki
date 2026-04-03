@@ -5,6 +5,8 @@ sources:
   - "[[raw/articles/claesbackmanAI-research-feedback A collection of Claude Code skills for academic research review. These tools were developed by Claes Bäckman.md]]"
 date_updated: 2026-04-03
 ---
+- **Original**: [https://github.com/claesbackman/AI-research-feedback](https://github.com/claesbackman/AI-research-feedback)
+
 
 - **Author/Source**: Claes Backman, [GitHub: claesbackman/AI-research-feedback](https://github.com/claesbackman/AI-research-feedback)
 

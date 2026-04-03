@@ -5,6 +5,8 @@ sources:
   - "[[raw/articles/Example Noise Canceling - Claude Blattman · AI for Professionals Who Don't Code.md]]"
 date_updated: 2026-04-03
 ---
+- **Original**: [https://claudeblattman.com/workflows/school-digest/](https://claudeblattman.com/workflows/school-digest/)
+
 
 **Author/Source**: Chris Blattman, [claudeblattman.com](https://claudeblattman.com/workflows/school-digest/)
 

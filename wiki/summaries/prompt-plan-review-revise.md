@@ -5,6 +5,8 @@ sources:
   - "[[raw/articles/Prompt, Plan, Review, Revise - Claude Blattman · AI for Professionals Who Don't Code.md]]"
 date_updated: 2026-04-03
 ---
+- **Original**: [https://claudeblattman.com/workflows/first-session-skills/](https://claudeblattman.com/workflows/first-session-skills/)
+
 
 **Author/Source**: Chris Blattman, [claudeblattman.com](https://claudeblattman.com/workflows/first-session-skills/)
 

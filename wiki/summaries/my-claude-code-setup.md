@@ -5,6 +5,8 @@ sources:
   - "[[raw/articles/My Claude Code Setup.md]]"
 date_updated: 2026-04-03
 ---
+- **Original**: [https://psantanna.com/claude-code-my-workflow/](https://psantanna.com/claude-code-my-workflow/)
+
 
 **Author/Source**: Pedro Sant'Anna, [psantanna.com](https://psantanna.com/claude-code-my-workflow/)
 

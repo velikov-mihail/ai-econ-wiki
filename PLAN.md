@@ -16,17 +16,9 @@
 
 ## Phase 7: Source URLs & Remaining Polish
 
-### 7.1 — Source URLs (IN PROGRESS)
-47 of ~96 summaries now have an `**Original**:` link to the source article. Remaining work:
-- Add source URLs to the ~44 summaries from claudeblattman.com that use relative raw refs (e.g., building-skills, chatbot-essentials, etc.) — their URLs need to be constructed from the site structure
-- Add source URLs to the 5 paper summaries (korinek-2023, panjwani-slides, spina-paper, baylor-ai-taskforce) — use DOIs or repo URLs
-- Fix the 1 missing raw ref: `getting-started-researchers` → find the correct raw article match
-
-### 7.2 — Remaining summaries without source URLs
-The tool `tools/_add_source_urls.py` was used (and removed). To find remaining gaps:
-```bash
-cd wiki/summaries && grep -rL "Original" *.md | grep -v index | grep -v foundations-setup | grep -v prompt-engineering | grep -v ai-agents | grep -v claude-code-skills | grep -v data-analysis | grep -v academic-research | grep -v finance-econometrics | grep -v ai-tools | grep -v institutional-societal | grep -v professional-productivity
-```
+### 7.1 — Source URLs: DONE
+91 of ~96 summaries now have an `**Original**:` link to the source article.
+4 summaries have no published URL (local presentations/PDFs): baylor-ai-taskforce, blattman-x-post, panjwani-slides, spina-paper.
 
 ### 7.3 — Enable GitHub Pages
 1. Go to repo Settings → Pages → Source: **GitHub Actions**
