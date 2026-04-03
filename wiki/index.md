@@ -10,18 +10,16 @@ A curated knowledge base on using AI tools and workflows for economics, business
 
 ## Categories
 
-| Category                                                                 | Description                                                   | Summaries |
-| ------------------------------------------------------------------------ | ------------------------------------------------------------- | --------- |
-| [[summaries/foundations-setup|Foundations & Setup]]                     | Installation, privacy, getting started with AI coding tools   | 14        |
-| [[summaries/prompt-engineering-workflow|Prompt Engineering & Workflow]] | Prompt design, plan-driven development, workflow architecture | 9         |
-| [[summaries/ai-agents|AI Agents & Agentic AI]]                          | Agent frameworks, agentic workflows, autonomous research      | 8         |
-| [[summaries/claude-code-skills|Claude Code Skills & Advanced]]          | Skills, DAAF, continuous improvement, compilation workflows   | 8         |
-| [[summaries/data-analysis|Data Analysis & Web Scraping]]                | WRDS, EDGAR, scraping, data pipelines                         | 6         |
-| [[summaries/academic-research|Academic Research & Publishing]]          | Vibe research, feedback machines, AI-assisted writing         | 11        |
-| [[summaries/finance-econometrics|Finance & Econometrics]]               | Project APE, automated research in finance, policy evaluation | 7         |
-| [[summaries/ai-tools|AI Tools & Comparisons]]                           | ChatGPT vs Claude, Cursor, NotebookLM, tool selection         | 7         |
-| [[summaries/institutional-societal|Institutional & Societal]]           | AI adoption, the bitter lesson, AI as normal technology       | 8         |
-| [[summaries/professional-productivity|Professional Productivity]]       | Executive assistant, project management, tax, meetings        | 13        |
+- **[[summaries/foundations-setup|Foundations & Setup]]** (14) — Installation, privacy, getting started with AI coding tools
+- **[[summaries/prompt-engineering-workflow|Prompt Engineering & Workflow]]** (9) — Prompt design, plan-driven development, workflow architecture
+- **[[summaries/ai-agents|AI Agents & Agentic AI]]** (8) — Agent frameworks, agentic workflows, autonomous research
+- **[[summaries/claude-code-skills|Claude Code Skills & Advanced]]** (8) — Skills, DAAF, continuous improvement, compilation workflows
+- **[[summaries/data-analysis|Data Analysis & Web Scraping]]** (6) — WRDS, EDGAR, scraping, data pipelines
+- **[[summaries/academic-research|Academic Research & Publishing]]** (11) — Vibe research, feedback machines, AI-assisted writing
+- **[[summaries/finance-econometrics|Finance & Econometrics]]** (7) — Project APE, automated research in finance, policy evaluation
+- **[[summaries/ai-tools|AI Tools & Comparisons]]** (7) — ChatGPT vs Claude, Cursor, NotebookLM, tool selection
+- **[[summaries/institutional-societal|Institutional & Societal]]** (8) — AI adoption, the bitter lesson, AI as normal technology
+- **[[summaries/professional-productivity|Professional Productivity]]** (13) — Executive assistant, project management, tax, meetings
 
 ## Navigation
 
