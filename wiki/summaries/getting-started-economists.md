@@ -33,10 +33,10 @@ This video is explicitly designed for academic economists and frames everything 
 ## Related Concepts
 
 - [[concepts/claude-code]]
-- [[concepts/context-window]]
+- [[concepts/context-management]]
 - [[concepts/agentic-ai]]
-- [[concepts/data-privacy-ai]]
-- [[concepts/ai-tool-setup]]
+- [[concepts/data-privacy]]
+- [[concepts/ai-tools-landscape]]
 
 ## Related Summaries
 

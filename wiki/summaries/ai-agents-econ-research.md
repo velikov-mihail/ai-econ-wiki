@@ -31,9 +31,9 @@ This is the most directly actionable resource for economists starting with agent
 - **Related Concepts**
   - [[concepts/agentic-workflows]]
   - [[concepts/claude-code]]
-  - [[concepts/skills]]
-  - [[concepts/git-for-economists]]
-  - [[concepts/agents-md]]
+  - [[concepts/skills-vs-agents]]
+  - [[concepts/version-control-research]]
+  - [[concepts/agentic-ai]]
 
 - **Related Summaries**
   - [[summaries/agents-vs-skills]]

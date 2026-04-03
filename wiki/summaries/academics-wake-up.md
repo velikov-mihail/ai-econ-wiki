@@ -29,7 +29,7 @@ This article directly addresses the institutional disruption facing economics an
 **Related Concepts**:
 - [[concepts/ai-adoption-academia]]
 - [[concepts/agentic-ai]]
-- [[concepts/human-ai-complementarity]]
+- [[concepts/human-ai-collaboration]]
 - [[concepts/jagged-frontier]]
 
 **Related Summaries**:

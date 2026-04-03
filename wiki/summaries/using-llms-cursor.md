@@ -34,7 +34,7 @@ This is one of the most directly relevant resources for economics researchers ad
 
 - [[concepts/ai-agents]]
 - [[concepts/prompt-engineering]]
-- [[concepts/cursor-ide]]
+- [[concepts/ide-and-terminal]]
 - [[concepts/retrieval-augmented-generation]]
 - [[concepts/agentic-workflows]]
 

@@ -29,10 +29,10 @@ Directly relevant to economics faculty and PhD students navigating their own tax
 
 ## Related Concepts
 
-- [[wiki/concepts/ai-workflow-design]]
-- [[wiki/concepts/professional-productivity]]
+- [[concepts/ai-workflows]]
+- [[concepts/research-productivity]]
 
 ## Related Summaries
 
-- [[wiki/summaries/tax-season]]
-- [[wiki/summaries/when-to-get-help]]
+- [[summaries/tax-season]]
+- [[summaries/when-to-get-help]]

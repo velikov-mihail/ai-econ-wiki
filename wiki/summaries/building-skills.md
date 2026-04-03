@@ -34,7 +34,7 @@ For economics researchers, the skill-building framework offers a systematic way 
 - [[concepts/claude-code]]
 - [[concepts/skills-vs-agents]]
 - [[concepts/prompt-engineering]]
-- [[concepts/ai-workflow-automation]]
+- [[concepts/ai-workflows]]
 
 ## Related Summaries
 

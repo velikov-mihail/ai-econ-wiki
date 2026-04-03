@@ -31,9 +31,9 @@ While the specific use case is tax preparation, the underlying pattern is direct
 
 ## Related Concepts
 
-- [[concepts/ai-workflow-automation]]
+- [[concepts/ai-workflows]]
 - [[concepts/ai-research-tools]]
-- [[concepts/prompting-techniques]]
+- [[concepts/prompt-engineering]]
 
 ## Related Summaries
 

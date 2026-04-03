@@ -28,13 +28,13 @@ This example is directly modeled on the kind of project an empirical economist w
 
 ## Related Concepts
 
-- [[wiki/concepts/ai-research-workflows]]
-- [[wiki/concepts/ai-workflow-design]]
-- [[wiki/concepts/claude-code-skills]]
+- [[concepts/ai-research-tools]]
+- [[concepts/ai-workflows]]
+- [[concepts/claude-code-skills]]
 
 ## Related Summaries
 
-- [[wiki/summaries/project-management]]
-- [[wiki/summaries/example-research-design]]
-- [[wiki/summaries/project-manager-claude]]
-- [[wiki/summaries/meeting-transcription]]
+- [[summaries/project-management]]
+- [[summaries/example-research-design]]
+- [[summaries/project-manager-claude]]
+- [[summaries/meeting-transcription]]

@@ -33,7 +33,7 @@ This paper is directly relevant to economics researchers thinking about AI's mac
 - [[concepts/ai-adoption-academia]]
 - [[concepts/jagged-frontier]]
 - [[concepts/agentic-ai]]
-- [[concepts/human-ai-complementarity]]
+- [[concepts/human-ai-collaboration]]
 
 **Related Summaries**:
 - [[summaries/bitter-lesson]]

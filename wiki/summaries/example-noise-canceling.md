@@ -29,12 +29,12 @@ The two transferable techniques -- calibration against real data before deployin
 
 ## Related Concepts
 
-- [[wiki/concepts/prompt-engineering]]
-- [[wiki/concepts/ai-workflow-design]]
-- [[wiki/concepts/claude-code-skills]]
+- [[concepts/prompt-engineering]]
+- [[concepts/ai-workflows]]
+- [[concepts/claude-code-skills]]
 
 ## Related Summaries
 
-- [[wiki/summaries/ai-executive-assistant]]
-- [[wiki/summaries/meeting-transcription]]
-- [[wiki/summaries/project-management]]
+- [[summaries/ai-executive-assistant]]
+- [[summaries/meeting-transcription]]
+- [[summaries/project-management]]

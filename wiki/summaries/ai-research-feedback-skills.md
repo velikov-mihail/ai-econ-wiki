@@ -34,9 +34,9 @@ This is among the most directly useful tools for economics researchers in this w
 
 - [[concepts/claude-code]]
 - [[concepts/skills-vs-agents]]
-- [[concepts/ai-for-research]]
-- [[concepts/reproducibility]]
-- [[concepts/academic-writing]]
+- [[concepts/ai-research-tools]]
+- [[concepts/reproducibility-transparency]]
+- [[concepts/ai-writing]]
 
 ## Related Summaries
 

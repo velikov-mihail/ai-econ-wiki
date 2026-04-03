@@ -33,8 +33,8 @@ The techniques described here are immediately applicable to academic economics w
 
 - [[concepts/prompt-engineering]]
 - [[concepts/ai-tools-landscape]]
-- [[concepts/hallucination-and-verification]]
-- [[concepts/ai-for-writing]]
+- [[concepts/ai-limitations]]
+- [[concepts/ai-writing]]
 
 ## Related Summaries
 

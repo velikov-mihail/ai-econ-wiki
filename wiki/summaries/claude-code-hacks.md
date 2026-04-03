@@ -31,8 +31,8 @@ While written from a software development perspective, several techniques transf
 ## Related Concepts
 
 - [[concepts/claude-code]]
-- [[concepts/ai-workflow-automation]]
-- [[concepts/voice-dictation]]
+- [[concepts/ai-workflows]]
+- [[concepts/voice-and-transcription]]
 - [[concepts/ai-agents]]
 - [[concepts/plan-driven-development]]
 

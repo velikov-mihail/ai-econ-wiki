@@ -32,7 +32,7 @@ This is directly relevant to applied microeconomics and empirical finance, where
 - [[concepts/vibe-research]]
 - [[concepts/ai-limitations]]
 - [[concepts/empirical-methods]]
-- [[concepts/p-hacking]]
+- [[concepts/empirical-methods]]
 
 ## Related Summaries
 

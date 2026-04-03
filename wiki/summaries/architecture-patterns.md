@@ -33,7 +33,7 @@ These patterns transfer directly to empirical research workflows. The Collection
 ## Related Concepts
 
 - [[concepts/ai-workflows]]
-- [[concepts/validation-and-verification]]
+- [[concepts/research-quality]]
 - [[concepts/design-patterns]]
 - [[concepts/human-in-the-loop]]
 

@@ -31,10 +31,10 @@ While primarily aimed at software engineering workflows, ChernyCode's patterns a
 ## Related Concepts
 
 - [[concepts/claude-code]]
-- [[concepts/agents-and-skills]]
-- [[concepts/memory-files]]
-- [[concepts/plan-mode]]
-- [[concepts/agentic-coding]]
+- [[concepts/skills-vs-agents]]
+- [[concepts/claude-md-files]]
+- [[concepts/plan-driven-development]]
+- [[concepts/agentic-ai]]
 - [[concepts/prompt-engineering]]
 
 ## Related Summaries

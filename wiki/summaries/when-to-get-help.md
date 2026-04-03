@@ -29,11 +29,11 @@ Highly relevant to economics faculty at all career stages. The academic-specific
 
 ## Related Concepts
 
-- [[wiki/concepts/ai-workflow-design]]
-- [[wiki/concepts/professional-productivity]]
+- [[concepts/ai-workflows]]
+- [[concepts/research-productivity]]
 
 ## Related Summaries
 
-- [[wiki/summaries/academic-tax-basics]]
-- [[wiki/summaries/tax-season]]
-- [[wiki/summaries/cost-reality]]
+- [[summaries/academic-tax-basics]]
+- [[summaries/tax-season]]
+- [[summaries/cost-reality]]

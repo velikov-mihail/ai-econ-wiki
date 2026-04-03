@@ -31,7 +31,7 @@ This directly addresses a major pain point in PhD advising: the high cost of pur
 - [[concepts/ai-research-tools]]
 - [[concepts/vibe-research]]
 - [[concepts/research-quality]]
-- [[concepts/ai-in-teaching]]
+- [[concepts/ai-in-education]]
 
 ## Related Summaries
 

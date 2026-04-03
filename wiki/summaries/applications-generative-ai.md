@@ -34,7 +34,7 @@ This is arguably the most comprehensive and authoritative guide to practical LLM
 
 - [[concepts/research-productivity]]
 - [[concepts/coding-with-llms]]
-- [[concepts/ai-writing-assistance]]
+- [[concepts/ai-writing]]
 - [[concepts/data-analysis-with-ai]]
 - [[concepts/prompt-engineering]]
 

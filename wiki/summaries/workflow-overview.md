@@ -33,7 +33,7 @@ The four-stage pipeline (collect, compile, review, enter) is a general template 
 ## Related Concepts
 
 - [[concepts/ai-workflows]]
-- [[concepts/validation-and-verification]]
+- [[concepts/research-quality]]
 - [[concepts/human-in-the-loop]]
 - [[concepts/design-patterns]]
 

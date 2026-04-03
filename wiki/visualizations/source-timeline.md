@@ -83,56 +83,56 @@ These sources (primarily from Chris Blattman's AI guide site) do not have explic
 
 | Summary | Author |
 |---------|--------|
-| [[summaries/ai-executive-assistant\|Building an AI Executive Assistant]] | Chris Blattman |
-| [[summaries/ai-for-professionals\|AI for Professionals Who Don't Code]] | Chris Blattman |
-| [[summaries/ai-project-folders\|AI Project Folders]] | Chris Blattman |
-| [[summaries/ai-research-feedback-skills\|AI Research Feedback Skills]] | Claes Backman |
-| [[summaries/agents-vs-skills\|Agents vs Skills]] | Chris Blattman |
-| [[summaries/agentic-everything\|Agentic Everything]] | Teddy Svoronos |
-| [[summaries/architecture-patterns\|Architecture Patterns]] | Chris Blattman |
-| [[summaries/awesome-econ-ai\|Awesome Econ AI Stuff]] | Antonio Mele |
-| [[summaries/building-skills\|Building Skills]] | Chris Blattman |
-| [[summaries/build-your-own\|Build Your Own]] | Chris Blattman |
-| [[summaries/chatbot-essentials\|Chatbot Essentials]] | Chris Blattman |
-| [[summaries/chatbots-done-right\|Chatbots Done Right]] | Chris Blattman |
-| [[summaries/chatgpt-vs-claude\|ChatGPT vs Claude]] | Chris Blattman |
-| [[summaries/cherny-code\|ChernyCode]] | Antonio Mele |
-| [[summaries/claude-code-newbies\|Claude Code for Newbies]] | Chris Blattman |
-| [[summaries/claude-wrds-tools\|Claude Code WRDS Toolkit]] | Piotrek Orlowski |
-| [[summaries/compilation-review\|Compilation & Multi-Year Review]] | Chris Blattman |
-| [[summaries/continuous-improvement\|Continuous Improvement]] | Chris Blattman |
-| [[summaries/cost-reality\|The Cost Reality]] | Chris Blattman |
-| [[summaries/daaf-framework\|DAAF Framework]] | Brian Heseung Kim |
-| [[summaries/document-collection\|Document Collection]] | Chris Blattman |
-| [[summaries/example-noise-canceling\|Example: Noise Canceling]] | Chris Blattman |
-| [[summaries/example-project-dashboard\|Example: Project Dashboard]] | Chris Blattman |
-| [[summaries/example-research-design\|Example: Research Design]] | Chris Blattman |
-| [[summaries/getting-started-researchers\|Getting Started: Researcher's Setup Guide]] | Paul Goldsmith-Pinkham |
-| [[summaries/install-mac\|Install Claude Code (Mac)]] | Chris Blattman |
-| [[summaries/install-windows\|Install Claude Code (Windows)]] | Chris Blattman |
-| [[summaries/learn-ai-coding-agents\|Learn About AI Coding Agents]] | Antonio Mele |
-| [[summaries/mcp-setup\|MCP Setup]] | Chris Blattman |
-| [[summaries/meeting-transcription\|Meeting Transcription]] | Chris Blattman |
-| [[summaries/my-claude-code-setup\|My Claude Code Setup]] | Pedro Sant'Anna |
-| [[summaries/notebooklm\|NotebookLM]] | Chris Blattman |
-| [[summaries/patterns\|Patterns]] | Chris Blattman |
-| [[summaries/privacy-setup\|Privacy & Setup Decisions]] | Chris Blattman |
-| [[summaries/project-ape\|Project APE]] | Social Catalyst Lab |
-| [[summaries/project-management\|Project Management with AI]] | Chris Blattman |
-| [[summaries/prompt-engineering\|Prompt Engineering]] | Chris Blattman |
-| [[summaries/prompt-plan-review-revise\|Prompt, Plan, Review, Revise]] | Chris Blattman |
-| [[summaries/real-claude-md\|A Real CLAUDE.md]] | Chris Blattman |
-| [[summaries/setup-vs-code\|Set Up VS Code]] | Chris Blattman |
-| [[summaries/skill-library\|Skill Library]] | Chris Blattman |
-| [[summaries/starter-templates\|Starter Templates]] | Chris Blattman |
-| [[summaries/stress-test-plan\|Stress-Test Any Plan]] | Chris Blattman |
-| [[summaries/tax-season\|Using Claude Code for Tax Season]] | Chris Blattman |
-| [[summaries/teaching-ai-your-voice\|Teaching AI Your Voice]] | Chris Blattman |
-| [[summaries/voice-dictation\|Voice Dictation]] | Chris Blattman |
-| [[summaries/when-to-get-help\|When to Get Help]] | Chris Blattman |
-| [[summaries/workflow-overview\|Workflow Overview]] | Chris Blattman |
-| [[summaries/workflows\|Workflows]] | Chris Blattman |
-| [[summaries/your-claude-md\|Your CLAUDE.md]] | Chris Blattman |
+| [[summaries/ai-executive-assistant|Building an AI Executive Assistant]] | Chris Blattman |
+| [[summaries/ai-for-professionals|AI for Professionals Who Don't Code]] | Chris Blattman |
+| [[summaries/ai-project-folders|AI Project Folders]] | Chris Blattman |
+| [[summaries/ai-research-feedback-skills|AI Research Feedback Skills]] | Claes Backman |
+| [[summaries/agents-vs-skills|Agents vs Skills]] | Chris Blattman |
+| [[summaries/agentic-everything|Agentic Everything]] | Teddy Svoronos |
+| [[summaries/architecture-patterns|Architecture Patterns]] | Chris Blattman |
+| [[summaries/awesome-econ-ai|Awesome Econ AI Stuff]] | Antonio Mele |
+| [[summaries/building-skills|Building Skills]] | Chris Blattman |
+| [[summaries/build-your-own|Build Your Own]] | Chris Blattman |
+| [[summaries/chatbot-essentials|Chatbot Essentials]] | Chris Blattman |
+| [[summaries/chatbots-done-right|Chatbots Done Right]] | Chris Blattman |
+| [[summaries/chatgpt-vs-claude|ChatGPT vs Claude]] | Chris Blattman |
+| [[summaries/cherny-code|ChernyCode]] | Antonio Mele |
+| [[summaries/claude-code-newbies|Claude Code for Newbies]] | Chris Blattman |
+| [[summaries/claude-wrds-tools|Claude Code WRDS Toolkit]] | Piotrek Orlowski |
+| [[summaries/compilation-review|Compilation & Multi-Year Review]] | Chris Blattman |
+| [[summaries/continuous-improvement|Continuous Improvement]] | Chris Blattman |
+| [[summaries/cost-reality|The Cost Reality]] | Chris Blattman |
+| [[summaries/daaf-framework|DAAF Framework]] | Brian Heseung Kim |
+| [[summaries/document-collection|Document Collection]] | Chris Blattman |
+| [[summaries/example-noise-canceling|Example: Noise Canceling]] | Chris Blattman |
+| [[summaries/example-project-dashboard|Example: Project Dashboard]] | Chris Blattman |
+| [[summaries/example-research-design|Example: Research Design]] | Chris Blattman |
+| [[summaries/getting-started-researchers|Getting Started: Researcher's Setup Guide]] | Paul Goldsmith-Pinkham |
+| [[summaries/install-mac|Install Claude Code (Mac)]] | Chris Blattman |
+| [[summaries/install-windows|Install Claude Code (Windows)]] | Chris Blattman |
+| [[summaries/learn-ai-coding-agents|Learn About AI Coding Agents]] | Antonio Mele |
+| [[summaries/mcp-setup|MCP Setup]] | Chris Blattman |
+| [[summaries/meeting-transcription|Meeting Transcription]] | Chris Blattman |
+| [[summaries/my-claude-code-setup|My Claude Code Setup]] | Pedro Sant'Anna |
+| [[summaries/notebooklm|NotebookLM]] | Chris Blattman |
+| [[summaries/patterns|Patterns]] | Chris Blattman |
+| [[summaries/privacy-setup|Privacy & Setup Decisions]] | Chris Blattman |
+| [[summaries/project-ape|Project APE]] | Social Catalyst Lab |
+| [[summaries/project-management|Project Management with AI]] | Chris Blattman |
+| [[summaries/prompt-engineering|Prompt Engineering]] | Chris Blattman |
+| [[summaries/prompt-plan-review-revise|Prompt, Plan, Review, Revise]] | Chris Blattman |
+| [[summaries/real-claude-md|A Real CLAUDE.md]] | Chris Blattman |
+| [[summaries/setup-vs-code|Set Up VS Code]] | Chris Blattman |
+| [[summaries/skill-library|Skill Library]] | Chris Blattman |
+| [[summaries/starter-templates|Starter Templates]] | Chris Blattman |
+| [[summaries/stress-test-plan|Stress-Test Any Plan]] | Chris Blattman |
+| [[summaries/tax-season|Using Claude Code for Tax Season]] | Chris Blattman |
+| [[summaries/teaching-ai-your-voice|Teaching AI Your Voice]] | Chris Blattman |
+| [[summaries/voice-dictation|Voice Dictation]] | Chris Blattman |
+| [[summaries/when-to-get-help|When to Get Help]] | Chris Blattman |
+| [[summaries/workflow-overview|Workflow Overview]] | Chris Blattman |
+| [[summaries/workflows|Workflows]] | Chris Blattman |
+| [[summaries/your-claude-md|Your CLAUDE.md]] | Chris Blattman |
 
 ---
 

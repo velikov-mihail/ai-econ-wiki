@@ -32,8 +32,8 @@ This annotated example is directly applicable to any economics researcher settin
 ## Related Concepts
 
 - [[concepts/claude-code]]
-- [[concepts/claude-md-configuration]]
-- [[concepts/ai-workflow-automation]]
+- [[concepts/claude-md-files]]
+- [[concepts/ai-workflows]]
 - [[concepts/prompt-engineering]]
 
 ## Related Summaries

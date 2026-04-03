@@ -35,7 +35,7 @@ For economics researchers, a well-crafted CLAUDE.md dramatically improves AI ass
 - [[concepts/context-management]]
 - [[concepts/claude-code]]
 - [[concepts/ai-workflows]]
-- [[concepts/configuration-as-code]]
+- [[concepts/claude-md-files]]
 
 ## Related Summaries
 

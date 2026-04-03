@@ -10,27 +10,27 @@ A curated knowledge base on using AI tools and workflows for economics, business
 
 ## Categories
 
-| Category | Description | Summaries |
-|----------|-------------|-----------|
-| [[summaries/foundations-setup\|Foundations & Setup]] | Installation, privacy, getting started with AI coding tools | 14 |
-| [[summaries/prompt-engineering-workflow\|Prompt Engineering & Workflow]] | Prompt design, plan-driven development, workflow architecture | 9 |
-| [[summaries/ai-agents\|AI Agents & Agentic AI]] | Agent frameworks, agentic workflows, autonomous research | 8 |
-| [[summaries/claude-code-skills\|Claude Code Skills & Advanced]] | Skills, DAAF, continuous improvement, compilation workflows | 8 |
-| [[summaries/data-analysis\|Data Analysis & Web Scraping]] | WRDS, EDGAR, scraping, data pipelines | 6 |
-| [[summaries/academic-research\|Academic Research & Publishing]] | Vibe research, feedback machines, AI-assisted writing | 11 |
-| [[summaries/finance-econometrics\|Finance & Econometrics]] | Project APE, automated research in finance, policy evaluation | 7 |
-| [[summaries/ai-tools\|AI Tools & Comparisons]] | ChatGPT vs Claude, Cursor, NotebookLM, tool selection | 7 |
-| [[summaries/institutional-societal\|Institutional & Societal]] | AI adoption, the bitter lesson, AI as normal technology | 8 |
-| [[summaries/professional-productivity\|Professional Productivity]] | Executive assistant, project management, tax, meetings | 13 |
+| Category                                                                 | Description                                                   | Summaries |
+| ------------------------------------------------------------------------ | ------------------------------------------------------------- | --------- |
+| [[summaries/foundations-setup|Foundations & Setup]]                     | Installation, privacy, getting started with AI coding tools   | 14        |
+| [[summaries/prompt-engineering-workflow|Prompt Engineering & Workflow]] | Prompt design, plan-driven development, workflow architecture | 9         |
+| [[summaries/ai-agents|AI Agents & Agentic AI]]                          | Agent frameworks, agentic workflows, autonomous research      | 8         |
+| [[summaries/claude-code-skills|Claude Code Skills & Advanced]]          | Skills, DAAF, continuous improvement, compilation workflows   | 8         |
+| [[summaries/data-analysis|Data Analysis & Web Scraping]]                | WRDS, EDGAR, scraping, data pipelines                         | 6         |
+| [[summaries/academic-research|Academic Research & Publishing]]          | Vibe research, feedback machines, AI-assisted writing         | 11        |
+| [[summaries/finance-econometrics|Finance & Econometrics]]               | Project APE, automated research in finance, policy evaluation | 7         |
+| [[summaries/ai-tools|AI Tools & Comparisons]]                           | ChatGPT vs Claude, Cursor, NotebookLM, tool selection         | 7         |
+| [[summaries/institutional-societal|Institutional & Societal]]           | AI adoption, the bitter lesson, AI as normal technology       | 8         |
+| [[summaries/professional-productivity|Professional Productivity]]       | Executive assistant, project management, tax, meetings        | 13        |
 
 ## Navigation
 
-- **[[summaries/index\|Summaries]]** — One page per source article or paper
-- **[[concepts/index\|Concepts]]** — Cross-cutting themes synthesized across sources
-- **[[visualizations/index\|Visualizations]]** — Diagrams, maps, and timelines
-- **[[authors\|Author Index]]** — Every author with links to their summaries
-- **[[visualizations/category-map\|Category Map]]** — How the ten categories relate
-- **[[visualizations/source-timeline\|Source Timeline]]** — Sources by publication date
+- **[[summaries/index|Summaries]]** — One page per source article or paper
+- **[[concepts/index|Concepts]]** — Cross-cutting themes synthesized across sources
+- **[[visualizations/index|Visualizations]]** — Diagrams, maps, and timelines
+- **[[authors|Author Index]]** — Every author with links to their summaries
+- **[[visualizations/category-map|Category Map]]** — How the ten categories relate
+- **[[visualizations/source-timeline|Source Timeline]]** — Sources by publication date
 
 ## About
 

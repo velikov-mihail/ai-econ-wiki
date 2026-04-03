@@ -32,7 +32,7 @@ This resource directly addresses the gap between general-purpose AI tools and th
 ## Related Concepts
 
 - [[concepts/ai-skills]]
-- [[concepts/cursor-ide]]
+- [[concepts/ide-and-terminal]]
 - [[concepts/claude-code]]
 - [[concepts/agentic-workflows]]
 

@@ -34,11 +34,11 @@ This is one of the foundational papers framing AI adoption for economists. Publi
 
 ## Related Concepts
 
-- [[concepts/llm-use-cases-research]]
+- [[concepts/ai-research-tools]]
 - [[concepts/ai-adoption-academia]]
 - [[concepts/prompt-engineering]]
-- [[concepts/ai-limitations-hallucination]]
-- [[concepts/cognitive-automation]]
+- [[concepts/ai-limitations]]
+- [[concepts/ai-workflows]]
 
 ## Related Summaries
 

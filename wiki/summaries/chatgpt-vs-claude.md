@@ -31,7 +31,7 @@ For economics researchers, this comparison highlights that tool choice should be
 
 - [[concepts/ai-tools-landscape]]
 - [[concepts/prompt-engineering]]
-- [[concepts/deep-research]]
+- [[concepts/llm-reasoning]]
 
 ## Related Summaries
 

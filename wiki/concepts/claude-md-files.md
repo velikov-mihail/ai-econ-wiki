@@ -2,11 +2,11 @@
 title: "CLAUDE.md Files"
 tags: [concept, configuration, context-management, claude-code]
 sources:
-  - "[[wiki/summaries/your-claude-md.md]]"
-  - "[[wiki/summaries/real-claude-md.md]]"
-  - "[[wiki/summaries/learn-ai-coding-agents.md]]"
-  - "[[wiki/summaries/claude-code-newbies.md]]"
-  - "[[wiki/summaries/my-claude-code-setup.md]]"
+  - "[[summaries/your-claude-md.md]]"
+  - "[[summaries/real-claude-md.md]]"
+  - "[[summaries/learn-ai-coding-agents.md]]"
+  - "[[summaries/claude-code-newbies.md]]"
+  - "[[summaries/my-claude-code-setup.md]]"
 date_updated: 2026-04-03
 ---
 
@@ -24,13 +24,13 @@ The concept has evolved from simple identity statements ("I'm a researcher") to 
 
 ## Key Perspectives
 
-**Blattman (Your CLAUDE.md)** ([[wiki/summaries/your-claude-md.md]]) introduces the concept and provides a fill-in-the-blank template. He emphasizes being specific and actionable (file paths, skill levels, tool preferences) rather than vague. Key sections include: professional identity, primary work, tools and software, file locations, skill levels, working preferences, and current projects. He notes that everything in CLAUDE.md is sent to the API, so passwords and API keys must be excluded. Voice and writing style preferences can be stored in `~/.claude/rules/core-voice.md` for auto-loading.
+**Blattman (Your CLAUDE.md)** ([[summaries/your-claude-md.md]]) introduces the concept and provides a fill-in-the-blank template. He emphasizes being specific and actionable (file paths, skill levels, tool preferences) rather than vague. Key sections include: professional identity, primary work, tools and software, file locations, skill levels, working preferences, and current projects. He notes that everything in CLAUDE.md is sent to the API, so passwords and API keys must be excluded. Voice and writing style preferences can be stored in `~/.claude/rules/core-voice.md` for auto-loading.
 
-**Blattman (Real CLAUDE.md)** ([[wiki/summaries/real-claude-md.md]]) shows the end state: a production file with a Technology Stack table mapping where files live and how to access each system, Inline Triggers that override default behavior for high-stakes actions (e.g., "use send-email.py, not MCP" for email; "use gh CLI, not MCP" for Overleaf), and a Modular Rules pattern. The Confirmation Guidelines define a boundary: ask before sending emails or writing to Google Docs, but do not ask after receiving clear instructions, after plan approval, or for routine file operations. He summarizes the design principle as: global CLAUDE.md describes *how you work*; project-level files describe *what you're working on*.
+**Blattman (Real CLAUDE.md)** ([[summaries/real-claude-md.md]]) shows the end state: a production file with a Technology Stack table mapping where files live and how to access each system, Inline Triggers that override default behavior for high-stakes actions (e.g., "use send-email.py, not MCP" for email; "use gh CLI, not MCP" for Overleaf), and a Modular Rules pattern. The Confirmation Guidelines define a boundary: ask before sending emails or writing to Google Docs, but do not ask after receiving clear instructions, after plan approval, or for routine file operations. He summarizes the design principle as: global CLAUDE.md describes *how you work*; project-level files describe *what you're working on*.
 
-**Mele** ([[wiki/summaries/learn-ai-coding-agents.md]]) places CLAUDE.md within a broader configuration hierarchy: organization policies > user CLAUDE.md > project AGENTS.md > task-level skills > immediate prompt. He positions `AGENTS.md` as the primary project-level file (version-controlled, shared, portable across Claude Code, Cursor, and Gemini CLI) and `CLAUDE.md` as the personal-preferences layer.
+**Mele** ([[summaries/learn-ai-coding-agents.md]]) places CLAUDE.md within a broader configuration hierarchy: organization policies > user CLAUDE.md > project AGENTS.md > task-level skills > immediate prompt. He positions `AGENTS.md` as the primary project-level file (version-controlled, shared, portable across Claude Code, Cursor, and Gemini CLI) and `CLAUDE.md` as the personal-preferences layer.
 
-**Sant'Anna** ([[wiki/summaries/my-claude-code-setup.md]]) demonstrates the most complex configuration: 22 slash commands, 18 context-aware rules, and a `[LEARN:tag]` system where corrections persist in a MEMORY.md file across sessions. His setup shows how CLAUDE.md can anchor a full multi-agent academic workflow.
+**Sant'Anna** ([[summaries/my-claude-code-setup.md]]) demonstrates the most complex configuration: 22 slash commands, 18 context-aware rules, and a `[LEARN:tag]` system where corrections persist in a MEMORY.md file across sessions. His setup shows how CLAUDE.md can anchor a full multi-agent academic workflow.
 
 ## Practical Implications
 
@@ -51,8 +51,8 @@ The concept has evolved from simple identity statements ("I'm a researcher") to 
 
 ## Sources
 
-- [[wiki/summaries/your-claude-md.md]] -- Blattman's introduction and template for CLAUDE.md
-- [[wiki/summaries/real-claude-md.md]] -- Blattman's annotated production CLAUDE.md example
-- [[wiki/summaries/learn-ai-coding-agents.md]] -- Mele's configuration hierarchy (CLAUDE.md vs. AGENTS.md)
-- [[wiki/summaries/claude-code-newbies.md]] -- CLAUDE.md as part of the Claude Code setup sequence
-- [[wiki/summaries/my-claude-code-setup.md]] -- Sant'Anna's advanced configuration with MEMORY.md and 18 rules
+- [[summaries/your-claude-md.md]] -- Blattman's introduction and template for CLAUDE.md
+- [[summaries/real-claude-md.md]] -- Blattman's annotated production CLAUDE.md example
+- [[summaries/learn-ai-coding-agents.md]] -- Mele's configuration hierarchy (CLAUDE.md vs. AGENTS.md)
+- [[summaries/claude-code-newbies.md]] -- CLAUDE.md as part of the Claude Code setup sequence
+- [[summaries/my-claude-code-setup.md]] -- Sant'Anna's advanced configuration with MEMORY.md and 18 rules

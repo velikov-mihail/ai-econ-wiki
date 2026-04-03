@@ -27,7 +27,7 @@ This article provides a concrete, granular case study of AI error patterns that 
 
 **Related Concepts**:
 - [[concepts/jagged-frontier]]
-- [[concepts/human-ai-complementarity]]
+- [[concepts/human-ai-collaboration]]
 - [[concepts/agentic-ai]]
 - [[concepts/ai-adoption-academia]]
 

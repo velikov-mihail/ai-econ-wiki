@@ -32,8 +32,8 @@ The multi-source compilation pattern transfers directly to empirical economics w
 ## Related Concepts
 
 - [[concepts/claude-code]]
-- [[concepts/ai-workflow-automation]]
-- [[concepts/data-validation]]
+- [[concepts/ai-workflows]]
+- [[concepts/research-quality]]
 - [[concepts/human-in-the-loop]]
 
 ## Related Summaries

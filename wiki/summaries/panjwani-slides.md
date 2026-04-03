@@ -33,9 +33,9 @@ This presentation is one of the most practical, up-to-date guides for economists
 ## Related Concepts
 
 - [[concepts/ai-agents]]
-- [[concepts/agentic-coding]]
+- [[concepts/agentic-ai]]
 - [[concepts/claude-code]]
-- [[concepts/skills-and-workflows]]
+- [[concepts/skills-vs-agents]]
 - [[concepts/ai-adoption-academia]]
 
 ## Related Summaries

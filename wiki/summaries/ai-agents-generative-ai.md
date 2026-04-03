@@ -34,11 +34,11 @@ This is the most authoritative and comprehensive academic treatment of AI agents
 
 - **Related Concepts**
   - [[concepts/agentic-workflows]]
-  - [[concepts/reasoning-models]]
-  - [[concepts/deep-research]]
-  - [[concepts/coding-agents]]
+  - [[concepts/llm-reasoning]]
+  - [[concepts/llm-reasoning]]
+  - [[concepts/agentic-ai]]
   - [[concepts/langgraph]]
-  - [[concepts/model-context-protocol]]
+  - [[concepts/mcp-protocol]]
   - [[concepts/ai-pricing-and-access]]
 
 - **Related Summaries**

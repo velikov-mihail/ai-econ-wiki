@@ -32,15 +32,15 @@ For economics researchers managing multiple projects, collaborators, and adminis
 
 ## Related Concepts
 
-- [[wiki/concepts/claude-code-skills]]
-- [[wiki/concepts/prompt-engineering]]
-- [[wiki/concepts/ai-workflow-design]]
-- [[wiki/concepts/mcp-integrations]]
+- [[concepts/claude-code-skills]]
+- [[concepts/prompt-engineering]]
+- [[concepts/ai-workflows]]
+- [[concepts/mcp-protocol]]
 
 ## Related Summaries
 
-- [[wiki/summaries/meeting-transcription]]
-- [[wiki/summaries/project-management]]
-- [[wiki/summaries/cost-reality]]
-- [[wiki/summaries/voice-dictation]]
-- [[wiki/summaries/example-noise-canceling]]
+- [[summaries/meeting-transcription]]
+- [[summaries/project-management]]
+- [[summaries/cost-reality]]
+- [[summaries/voice-dictation]]
+- [[summaries/example-noise-canceling]]

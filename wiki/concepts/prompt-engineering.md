@@ -2,11 +2,11 @@
 title: "Prompt Engineering"
 tags: [concept, prompt-engineering, communication, workflows]
 sources:
-  - "[[wiki/summaries/prompt-engineering.md]]"
-  - "[[wiki/summaries/prompting-insights-golub.md]]"
-  - "[[wiki/summaries/prompt-plan-review-revise.md]]"
-  - "[[wiki/summaries/patterns.md]]"
-  - "[[wiki/summaries/your-claude-md.md]]"
+  - "[[summaries/prompt-engineering.md]]"
+  - "[[summaries/prompting-insights-golub.md]]"
+  - "[[summaries/prompt-plan-review-revise.md]]"
+  - "[[summaries/patterns.md]]"
+  - "[[summaries/your-claude-md.md]]"
 date_updated: 2026-04-03
 ---
 
@@ -24,13 +24,13 @@ For economics researchers, prompt engineering intersects with existing skills in
 
 ## Key Perspectives
 
-**Blattman** ([[wiki/summaries/prompt-engineering.md]]) presents the foundational framework: a six-part prompt anatomy (Role, Context, Task, Constraints, Output Format, Bookend) with a three-tier effort calibration (light, standard, deep). Key techniques include XML-style tags to separate instructions from pasted content, prompt chaining for multi-step work, and strategic use of examples (try without them first). Common anti-patterns include vague thoroughness language ("be comprehensive"), over-prompting in all-caps, and failing to give the AI permission to push back. Blattman also recommends meta-prompting: creating an AI project whose job is to restructure messy input into clean prompts.
+**Blattman** ([[summaries/prompt-engineering.md]]) presents the foundational framework: a six-part prompt anatomy (Role, Context, Task, Constraints, Output Format, Bookend) with a three-tier effort calibration (light, standard, deep). Key techniques include XML-style tags to separate instructions from pasted content, prompt chaining for multi-step work, and strategic use of examples (try without them first). Common anti-patterns include vague thoroughness language ("be comprehensive"), over-prompting in all-caps, and failing to give the AI permission to push back. Blattman also recommends meta-prompting: creating an AI project whose job is to restructure messy input into clean prompts.
 
-**Golub** ([[wiki/summaries/prompting-insights-golub.md]]) provides the theorist's perspective. His central insight is that effective prompting is fundamentally about **micromanagement** -- providing the model with context it lacks and constraining behavior in advance. He emphasizes four key techniques: role-playing ("you are a senior probabilist writing for Econometrica"), step-by-step decomposition, avoiding argument with the model (start new context instead), and handoff reports to transfer context between chats. His most distinctive warning: wrong information in a chat **poisons the context** and causes the model to reconcile errors with everything that follows. The solution is to start fresh chats for focused tasks rather than correcting inline.
+**Golub** ([[summaries/prompting-insights-golub.md]]) provides the theorist's perspective. His central insight is that effective prompting is fundamentally about **micromanagement** -- providing the model with context it lacks and constraining behavior in advance. He emphasizes four key techniques: role-playing ("you are a senior probabilist writing for Econometrica"), step-by-step decomposition, avoiding argument with the model (start new context instead), and handoff reports to transfer context between chats. His most distinctive warning: wrong information in a chat **poisons the context** and causes the model to reconcile errors with everything that follows. The solution is to start fresh chats for focused tasks rather than correcting inline.
 
-**Blattman (PPRR)** ([[wiki/summaries/prompt-plan-review-revise.md]]) operationalizes prompting within a repeatable workflow. The `/prompt` skill takes rough, stream-of-consciousness input and reformats it into a structured prompt, lowering the barrier for users who find formal prompting unintuitive. The persona technique assigns multiple expert perspectives to debate and converge before committing to a plan.
+**Blattman (PPRR)** ([[summaries/prompt-plan-review-revise.md]]) operationalizes prompting within a repeatable workflow. The `/prompt` skill takes rough, stream-of-consciousness input and reformats it into a structured prompt, lowering the barrier for users who find formal prompting unintuitive. The persona technique assigns multiple expert perspectives to debate and converge before committing to a plan.
 
-**Blattman (Patterns)** ([[wiki/summaries/patterns.md]]) catalogs structural and behavioral patterns that extend prompting into reusable tools. The Critic Stance pattern explicitly shifts Claude from collaborator to critic, counteracting its default tendency toward agreement. Depth Calibration adjusts thoroughness to task stakes. Domain Auto-Detection infers the right behavior from content signals rather than requiring explicit flags.
+**Blattman (Patterns)** ([[summaries/patterns.md]]) catalogs structural and behavioral patterns that extend prompting into reusable tools. The Critic Stance pattern explicitly shifts Claude from collaborator to critic, counteracting its default tendency toward agreement. Depth Calibration adjusts thoroughness to task stakes. Domain Auto-Detection infers the right behavior from content signals rather than requiring explicit flags.
 
 ## Practical Implications
 
@@ -51,8 +51,8 @@ For economics researchers, prompt engineering intersects with existing skills in
 
 ## Sources
 
-- [[wiki/summaries/prompt-engineering.md]] -- Blattman's six-part prompt anatomy and three-tier effort framework
-- [[wiki/summaries/prompting-insights-golub.md]] -- Golub on micromanagement, poisoned context, and handoff reports
-- [[wiki/summaries/prompt-plan-review-revise.md]] -- The PPRR loop and the `/prompt` skill for structured prompting
-- [[wiki/summaries/patterns.md]] -- Design patterns including Critic Stance and Depth Calibration
-- [[wiki/summaries/your-claude-md.md]] -- CLAUDE.md as persistent prompt context across sessions
+- [[summaries/prompt-engineering.md]] -- Blattman's six-part prompt anatomy and three-tier effort framework
+- [[summaries/prompting-insights-golub.md]] -- Golub on micromanagement, poisoned context, and handoff reports
+- [[summaries/prompt-plan-review-revise.md]] -- The PPRR loop and the `/prompt` skill for structured prompting
+- [[summaries/patterns.md]] -- Design patterns including Critic Stance and Depth Calibration
+- [[summaries/your-claude-md.md]] -- CLAUDE.md as persistent prompt context across sessions

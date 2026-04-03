@@ -31,8 +31,8 @@ The toolkit stack described here directly addresses pain points in academic econ
 
 - [[concepts/ai-tools-landscape]]
 - [[concepts/prompt-engineering]]
-- [[concepts/voice-dictation]]
-- [[concepts/meeting-transcription]]
+- [[concepts/voice-and-transcription]]
+- [[concepts/voice-and-transcription]]
 
 ## Related Summaries
 

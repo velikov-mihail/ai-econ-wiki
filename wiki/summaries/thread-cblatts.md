@@ -33,8 +33,8 @@ Blattman's thread highlights an underappreciated dimension of AI productivity in
 
 - [[concepts/claude-code-skills]]
 - [[concepts/research-productivity]]
-- [[concepts/ai-workflow-automation]]
-- [[concepts/project-management]]
+- [[concepts/ai-workflows]]
+- [[concepts/research-productivity]]
 
 ## Related Summaries
 

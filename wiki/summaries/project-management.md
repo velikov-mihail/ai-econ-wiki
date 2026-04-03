@@ -31,14 +31,14 @@ This system directly addresses the project management challenges faced by empiri
 
 ## Related Concepts
 
-- [[wiki/concepts/ai-workflow-design]]
-- [[wiki/concepts/claude-code-skills]]
-- [[wiki/concepts/ai-research-workflows]]
+- [[concepts/ai-workflows]]
+- [[concepts/claude-code-skills]]
+- [[concepts/ai-research-tools]]
 
 ## Related Summaries
 
-- [[wiki/summaries/ai-executive-assistant]]
-- [[wiki/summaries/meeting-transcription]]
-- [[wiki/summaries/project-manager-claude]]
-- [[wiki/summaries/example-project-dashboard]]
-- [[wiki/summaries/example-research-design]]
+- [[summaries/ai-executive-assistant]]
+- [[summaries/meeting-transcription]]
+- [[summaries/project-manager-claude]]
+- [[summaries/example-project-dashboard]]
+- [[summaries/example-research-design]]

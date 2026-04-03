@@ -31,7 +31,7 @@ If OpenAI's vision materializes, it would fundamentally change the economics res
 
 ## Related Concepts
 
-- [[concepts/ai-automation]]
+- [[concepts/ai-workflows]]
 - [[concepts/future-of-academic-publishing]]
 - [[concepts/ai-limitations]]
 - [[concepts/ai-research-tools]]

@@ -35,7 +35,7 @@ The project folder pattern applies directly to recurring research tasks. An econ
 - [[concepts/context-management]]
 - [[concepts/prompt-engineering]]
 - [[concepts/ai-workflows]]
-- [[concepts/productivity-systems]]
+- [[concepts/research-productivity]]
 
 ## Related Summaries
 

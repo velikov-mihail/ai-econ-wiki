@@ -32,10 +32,10 @@ Researchers routinely handle sensitive data -- IRB-protected survey responses, p
 
 ## Related Concepts
 
-- [[concepts/data-privacy-ai]]
+- [[concepts/data-privacy]]
 - [[concepts/claude-code]]
-- [[concepts/mcp-integrations]]
-- [[concepts/research-data-security]]
+- [[concepts/mcp-protocol]]
+- [[concepts/data-privacy]]
 
 ## Related Summaries
 

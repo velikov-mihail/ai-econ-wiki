@@ -29,7 +29,7 @@ This article directly addresses how social science faculty (especially those tea
 - **Related Concepts**
   - [[concepts/agentic-workflows]]
   - [[concepts/claude-code]]
-  - [[concepts/ai-and-teaching]]
+  - [[concepts/ai-in-education]]
   - [[concepts/domain-expertise-vs-ai-skills]]
 
 - **Related Summaries**

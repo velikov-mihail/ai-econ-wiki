@@ -29,7 +29,7 @@ This is perhaps the most directly relevant article for economics researchers con
 **Related Concepts**:
 - [[concepts/agentic-ai]]
 - [[concepts/ai-adoption-academia]]
-- [[concepts/human-ai-complementarity]]
+- [[concepts/human-ai-collaboration]]
 - [[concepts/jagged-frontier]]
 
 **Related Summaries**:

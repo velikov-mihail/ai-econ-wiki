@@ -29,12 +29,12 @@ This technique is directly applicable to reviewing research designs, pre-analysi
 
 ## Related Concepts
 
-- [[wiki/concepts/prompt-engineering]]
-- [[wiki/concepts/ai-workflow-design]]
-- [[wiki/concepts/sycophancy-and-bias]]
+- [[concepts/prompt-engineering]]
+- [[concepts/ai-workflows]]
+- [[concepts/sycophancy-and-bias]]
 
 ## Related Summaries
 
-- [[wiki/summaries/project-management]]
-- [[wiki/summaries/ai-executive-assistant]]
-- [[wiki/summaries/example-research-design]]
+- [[summaries/project-management]]
+- [[summaries/ai-executive-assistant]]
+- [[summaries/example-research-design]]

@@ -33,9 +33,9 @@ This toolkit directly addresses the data access bottleneck in empirical finance 
 ## Related Concepts
 
 - [[concepts/claude-code]]
-- [[concepts/agents-and-skills]]
+- [[concepts/skills-vs-agents]]
 - [[concepts/data-pipelines]]
-- [[concepts/agentic-coding]]
+- [[concepts/agentic-ai]]
 - [[concepts/wrds-data-access]]
 
 ## Related Summaries

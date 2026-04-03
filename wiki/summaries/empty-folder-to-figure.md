@@ -32,8 +32,8 @@ This article provides a concrete template for the exploratory data analysis phas
 
 - [[concepts/data-pipelines]]
 - [[concepts/claude-code]]
-- [[concepts/agentic-coding]]
-- [[concepts/context-window-management]]
+- [[concepts/agentic-ai]]
+- [[concepts/context-management]]
 - [[concepts/prompt-engineering]]
 - [[concepts/visualization]]
 

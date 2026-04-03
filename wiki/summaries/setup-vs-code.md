@@ -33,9 +33,9 @@ The three-panel layout (files, document, AI assistant) directly maps to how rese
 ## Related Concepts
 
 - [[concepts/claude-code]]
-- [[concepts/ide-setup]]
-- [[concepts/ai-tool-setup]]
-- [[concepts/research-project-management]]
+- [[concepts/ide-and-terminal]]
+- [[concepts/ai-tools-landscape]]
+- [[concepts/research-productivity]]
 
 ## Related Summaries
 

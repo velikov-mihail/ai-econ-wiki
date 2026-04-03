@@ -33,8 +33,8 @@ The continuous improvement pipeline addresses a fundamental challenge in researc
 ## Related Concepts
 
 - [[concepts/claude-code]]
-- [[concepts/continuous-improvement]]
-- [[concepts/ai-workflow-automation]]
+- [[concepts/plan-driven-development]]
+- [[concepts/ai-workflows]]
 - [[concepts/prompt-engineering]]
 
 ## Related Summaries

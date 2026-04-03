@@ -2,12 +2,12 @@
 title: "Human-AI Collaboration"
 tags: [concept, workflow, research-quality]
 sources:
-  - "[[wiki/summaries/vibe-research.md]]"
-  - "[[wiki/summaries/reflections-vibe-research.md]]"
-  - "[[wiki/summaries/what-ai-got-wrong.md]]"
-  - "[[wiki/summaries/research-in-time-of-ai.md]]"
-  - "[[wiki/summaries/feedback-machines.md]]"
-  - "[[wiki/summaries/agentic-everything.md]]"
+  - "[[summaries/vibe-research.md]]"
+  - "[[summaries/reflections-vibe-research.md]]"
+  - "[[summaries/what-ai-got-wrong.md]]"
+  - "[[summaries/research-in-time-of-ai.md]]"
+  - "[[summaries/feedback-machines.md]]"
+  - "[[summaries/agentic-everything.md]]"
 date_updated: 2026-04-03
 ---
 
@@ -27,17 +27,17 @@ The error patterns documented by Blattman and others reveal a systematic feature
 
 ## Key Perspectives
 
-**Gregoire ([[wiki/summaries/vibe-research.md|Vibe Research]])** provides the most detailed account of human-AI collaboration in producing a complete academic paper. Over four days, he used Claude Code as the primary workhorse with multiple agents for parallel review. Human judgment was critical at every stage: choosing the idea, steering model design, deciding which reviewer suggestions to accept, and verifying references and math. He caught one fabricated reference and one with wrong metadata through systematic verification. His honest admission -- discomfort with not fully understanding every line of math in his own paper -- highlights the intellectual ownership tension inherent in deep AI collaboration.
+**Gregoire ([[summaries/vibe-research.md|Vibe Research]])** provides the most detailed account of human-AI collaboration in producing a complete academic paper. Over four days, he used Claude Code as the primary workhorse with multiple agents for parallel review. Human judgment was critical at every stage: choosing the idea, steering model design, deciding which reviewer suggestions to accept, and verifying references and math. He caught one fabricated reference and one with wrong metadata through systematic verification. His honest admission -- discomfort with not fully understanding every line of math in his own paper -- highlights the intellectual ownership tension inherent in deep AI collaboration.
 
-**Gans ([[wiki/summaries/reflections-vibe-research.md|Reflections on Vibe Research]])** provides the cautionary counterpoint. After a year of AI-first research, he identifies three failure modes: AI makes subtle theoretical mistakes beyond simple math errors (especially around equilibrium concepts and information sets); lower completion costs lead to pursuing weaker ideas; and LLMs are "seductive" -- they present formal results with confidence, making it easy to believe you have a result when you do not. His conclusion: high-speed, low-human-input research did not produce high-quality output.
+**Gans ([[summaries/reflections-vibe-research.md|Reflections on Vibe Research]])** provides the cautionary counterpoint. After a year of AI-first research, he identifies three failure modes: AI makes subtle theoretical mistakes beyond simple math errors (especially around equilibrium concepts and information sets); lower completion costs lead to pursuing weaker ideas; and LLMs are "seductive" -- they present formal results with confidence, making it easy to believe you have a result when you do not. His conclusion: high-speed, low-human-input research did not produce high-quality output.
 
-**Blattman ([[wiki/summaries/what-ai-got-wrong.md|What AI Got Wrong]])** documents specific error patterns from a tax preparation case study that generalize to research: PDF extraction errors in roughly 1 in 10 documents, plausible but wrong categorizations, and outright hallucinated numbers. Every error follows the same pattern: AI does something plausible but wrong, the error requires domain knowledge to catch, and a deliberate review mechanism catches it. His meta-lesson: "AI makes tax preparation faster. It does not make tax preparation easier."
+**Blattman ([[summaries/what-ai-got-wrong.md|What AI Got Wrong]])** documents specific error patterns from a tax preparation case study that generalize to research: PDF extraction errors in roughly 1 in 10 documents, plausible but wrong categorizations, and outright hallucinated numbers. Every error follows the same pattern: AI does something plausible but wrong, the error requires domain knowledge to catch, and a deliberate review mechanism catches it. His meta-lesson: "AI makes tax preparation faster. It does not make tax preparation easier."
 
-**Goldsmith-Pinkham ([[wiki/summaries/research-in-time-of-ai.md|Research in the Time of AI]])** offers the systematic framework. He maps AI capabilities onto each stage of the research pipeline (ideation through publication) and identifies the key distinction: execution skills (coding, data cleaning, drafting) are depreciating, while judgment skills (research taste, identification strategy, institutional knowledge) are appreciating. AI is "a flashlight in the dark -- the hard part is still knowing where to walk."
+**Goldsmith-Pinkham ([[summaries/research-in-time-of-ai.md|Research in the Time of AI]])** offers the systematic framework. He maps AI capabilities onto each stage of the research pipeline (ideation through publication) and identifies the key distinction: execution skills (coding, data cleaning, drafting) are depreciating, while judgment skills (research taste, identification strategy, institutional knowledge) are appreciating. AI is "a flashlight in the dark -- the hard part is still knowing where to walk."
 
-**Backman ([[wiki/summaries/feedback-machines.md|Feedback Machines]])** demonstrates a specific collaboration pattern: using AI as a structured feedback tool. His workflow progresses from referee-style reports to section-by-section evaluation to consistency checks. The key limitation: AI can make weak arguments sound coherent, potentially smoothing over conceptual problems rather than fixing them.
+**Backman ([[summaries/feedback-machines.md|Feedback Machines]])** demonstrates a specific collaboration pattern: using AI as a structured feedback tool. His workflow progresses from referee-style reports to section-by-section evaluation to consistency checks. The key limitation: AI can make weak arguments sound coherent, potentially smoothing over conceptual problems rather than fixing them.
 
-**Svoronos ([[wiki/summaries/agentic-everything.md|Agentic Everything]])** frames the collaboration challenge as requiring two separate skills: domain expertise (which directs the AI) and AI tool proficiency (which makes direction effective). Both are necessary; neither is sufficient.
+**Svoronos ([[summaries/agentic-everything.md|Agentic Everything]])** frames the collaboration challenge as requiring two separate skills: domain expertise (which directs the AI) and AI tool proficiency (which makes direction effective). Both are necessary; neither is sufficient.
 
 ## Practical Implications
 
@@ -60,9 +60,9 @@ For economics researchers designing human-AI workflows:
 
 ## Sources
 
-- [[wiki/summaries/vibe-research.md|Vibe Research]] -- Gregoire's four-day paper with detailed human-AI division of labor
-- [[wiki/summaries/reflections-vibe-research.md|Reflections on Vibe Research]] -- Gans's year-long cautionary experiment
-- [[wiki/summaries/what-ai-got-wrong.md|What AI Got Wrong]] -- Blattman's taxonomy of AI error patterns
-- [[wiki/summaries/research-in-time-of-ai.md|Research in the Time of AI]] -- Goldsmith-Pinkham's pipeline framework
-- [[wiki/summaries/feedback-machines.md|Feedback Machines]] -- Backman's structured feedback workflow
-- [[wiki/summaries/agentic-everything.md|Agentic Everything]] -- Svoronos on the dual-skill requirement
+- [[summaries/vibe-research.md|Vibe Research]] -- Gregoire's four-day paper with detailed human-AI division of labor
+- [[summaries/reflections-vibe-research.md|Reflections on Vibe Research]] -- Gans's year-long cautionary experiment
+- [[summaries/what-ai-got-wrong.md|What AI Got Wrong]] -- Blattman's taxonomy of AI error patterns
+- [[summaries/research-in-time-of-ai.md|Research in the Time of AI]] -- Goldsmith-Pinkham's pipeline framework
+- [[summaries/feedback-machines.md|Feedback Machines]] -- Backman's structured feedback workflow
+- [[summaries/agentic-everything.md|Agentic Everything]] -- Svoronos on the dual-skill requirement

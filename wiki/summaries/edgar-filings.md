@@ -35,9 +35,9 @@ This article provides a practical template for any economist working with regula
 - [[concepts/data-pipelines]]
 - [[concepts/web-scraping]]
 - [[concepts/claude-code]]
-- [[concepts/plan-mode]]
+- [[concepts/plan-driven-development]]
 - [[concepts/text-as-data]]
-- [[concepts/context-window-management]]
+- [[concepts/context-management]]
 
 ## Related Summaries
 

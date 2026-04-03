@@ -33,9 +33,9 @@ This is one of the most directly relevant sources for economics researchers beca
 ## Related Concepts
 
 - [[concepts/prompt-engineering]]
-- [[concepts/llm-limitations]]
+- [[concepts/ai-limitations]]
 - [[concepts/context-management]]
-- [[concepts/ai-for-economics-research]]
+- [[concepts/ai-research-tools]]
 
 ## Related Summaries
 

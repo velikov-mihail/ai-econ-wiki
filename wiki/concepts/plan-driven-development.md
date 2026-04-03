@@ -2,12 +2,12 @@
 title: "Plan-Driven Development"
 tags: [concept, workflows, planning, methodology]
 sources:
-  - "[[wiki/summaries/prompt-plan-review-revise.md]]"
-  - "[[wiki/summaries/claude-code-hacks.md]]"
-  - "[[wiki/summaries/architecture-patterns.md]]"
-  - "[[wiki/summaries/patterns.md]]"
-  - "[[wiki/summaries/ai-agents-econ-research.md]]"
-  - "[[wiki/summaries/workflows.md]]"
+  - "[[summaries/prompt-plan-review-revise.md]]"
+  - "[[summaries/claude-code-hacks.md]]"
+  - "[[summaries/architecture-patterns.md]]"
+  - "[[summaries/patterns.md]]"
+  - "[[summaries/ai-agents-econ-research.md]]"
+  - "[[summaries/workflows.md]]"
 date_updated: 2026-04-03
 ---
 
@@ -25,15 +25,15 @@ The pattern has deep parallels in economics research. Pre-analysis plans, resear
 
 ## Key Perspectives
 
-**Blattman (PPRR)** ([[wiki/summaries/prompt-plan-review-revise.md]]) provides the most complete framework. The four-step loop was demonstrated by building a website in 90 minutes on a plane. The intellectual centerpiece is the `/review-plan` step: a fresh agent reads the plan cold, mimicking external peer review. The author ran `/review-plan` twice with different reviewer personas to catch blind spots -- missing prerequisites, assumed knowledge, structural errors, and usability problems. The `/done` step addresses session continuity by writing structured handoff notes. Combined with CLAUDE.md, the loop creates a system where AI interactions compound rather than starting fresh each time.
+**Blattman (PPRR)** ([[summaries/prompt-plan-review-revise.md]]) provides the most complete framework. The four-step loop was demonstrated by building a website in 90 minutes on a plane. The intellectual centerpiece is the `/review-plan` step: a fresh agent reads the plan cold, mimicking external peer review. The author ran `/review-plan` twice with different reviewer personas to catch blind spots -- missing prerequisites, assumed knowledge, structural errors, and usability problems. The `/done` step addresses session continuity by writing structured handoff notes. Combined with CLAUDE.md, the loop creates a system where AI interactions compound rather than starting fresh each time.
 
-**Van Horn** ([[wiki/summaries/claude-code-hacks.md]]) takes plan-driven development to its extreme. His core workflow flips the traditional 80/20 coding-to-planning ratio: every idea immediately becomes a `plan.md` via the `/ce:plan` skill, which launches parallel research agents to analyze the codebase, search past solutions, and produce a grounded plan with acceptance criteria. Implementation then becomes mechanical execution via `/ce:work`. He also uses `/last30days` research queries before planning to ground decisions in current community knowledge rather than stale training data.
+**Van Horn** ([[summaries/claude-code-hacks.md]]) takes plan-driven development to its extreme. His core workflow flips the traditional 80/20 coding-to-planning ratio: every idea immediately becomes a `plan.md` via the `/ce:plan` skill, which launches parallel research agents to analyze the codebase, search past solutions, and produce a grounded plan with acceptance criteria. Implementation then becomes mechanical execution via `/ce:work`. He also uses `/last30days` research queries before planning to ground decisions in current community knowledge rather than stale training data.
 
-**Blattman (Patterns)** ([[wiki/summaries/patterns.md]]) catalogs the design patterns that make plan-driven development work. Phased Execution breaks complex workflows into stages with user checkpoints ("STOP: Discuss with user before proceeding"). Iteration Gates present output and explicitly ask whether to proceed, adjust, or stop. These patterns prevent irreversible actions from running without review.
+**Blattman (Patterns)** ([[summaries/patterns.md]]) catalogs the design patterns that make plan-driven development work. Phased Execution breaks complex workflows into stages with user checkpoints ("STOP: Discuss with user before proceeding"). Iteration Gates present output and explicitly ask whether to proceed, adjust, or stop. These patterns prevent irreversible actions from running without review.
 
-**Blattman (Architecture Patterns)** ([[wiki/summaries/architecture-patterns.md]]) extends plan-driven thinking to pipeline architecture. The Collection-Compilation-Review pipeline structures any document-heavy workflow into discrete stages that can be reviewed independently. The Threshold Gate pattern checks whether expensive work will matter before doing it. The Validation Stack layers four independent checks on the principle that no single layer catches all error types.
+**Blattman (Architecture Patterns)** ([[summaries/architecture-patterns.md]]) extends plan-driven thinking to pipeline architecture. The Collection-Compilation-Review pipeline structures any document-heavy workflow into discrete stages that can be reviewed independently. The Threshold Gate pattern checks whether expensive work will matter before doing it. The Validation Stack layers four independent checks on the principle that no single layer catches all error types.
 
-**Panjwani** ([[wiki/summaries/ai-agents-econ-research.md]]) identifies "not planning before implementation" as one of the three biggest beginner mistakes economists make with AI. He recommends writing plans to files and starting fresh sessions for execution, specifically because long unstructured sessions degrade agent performance as context windows fill.
+**Panjwani** ([[summaries/ai-agents-econ-research.md]]) identifies "not planning before implementation" as one of the three biggest beginner mistakes economists make with AI. He recommends writing plans to files and starting fresh sessions for execution, specifically because long unstructured sessions degrade agent performance as context windows fill.
 
 ## Practical Implications
 
@@ -53,9 +53,9 @@ The pattern has deep parallels in economics research. Pre-analysis plans, resear
 
 ## Sources
 
-- [[wiki/summaries/prompt-plan-review-revise.md]] -- Blattman's PPRR loop: the foundational plan-driven workflow
-- [[wiki/summaries/claude-code-hacks.md]] -- Van Horn's "plan first, always" principle with parallel research agents
-- [[wiki/summaries/architecture-patterns.md]] -- Pipeline architecture and validation patterns
-- [[wiki/summaries/patterns.md]] -- Phased Execution, Iteration Gates, and Depth Calibration
-- [[wiki/summaries/ai-agents-econ-research.md]] -- Panjwani on planning as essential for context window management
-- [[wiki/summaries/workflows.md]] -- The layered workflow system building from PPRR upward
+- [[summaries/prompt-plan-review-revise.md]] -- Blattman's PPRR loop: the foundational plan-driven workflow
+- [[summaries/claude-code-hacks.md]] -- Van Horn's "plan first, always" principle with parallel research agents
+- [[summaries/architecture-patterns.md]] -- Pipeline architecture and validation patterns
+- [[summaries/patterns.md]] -- Phased Execution, Iteration Gates, and Depth Calibration
+- [[summaries/ai-agents-econ-research.md]] -- Panjwani on planning as essential for context window management
+- [[summaries/workflows.md]] -- The layered workflow system building from PPRR upward

@@ -32,8 +32,8 @@ The interface problem is acutely relevant to economists. Most researchers access
 - **Related Concepts**
   - [[concepts/claude-code]]
   - [[concepts/agentic-workflows]]
-  - [[concepts/ai-interfaces]]
-  - [[concepts/cowork-and-dispatch]]
+  - [[concepts/ai-tools-landscape]]
+  - [[concepts/agentic-ai]]
   - [[concepts/cognitive-load-and-ai]]
 
 - **Related Summaries**

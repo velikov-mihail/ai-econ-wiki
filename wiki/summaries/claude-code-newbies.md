@@ -31,9 +31,9 @@ This guide is the entry point for economists who want to move beyond browser-bas
 ## Related Concepts
 
 - [[concepts/claude-code]]
-- [[concepts/claude-md-configuration]]
-- [[concepts/mcp-integrations]]
-- [[concepts/ai-workflow-automation]]
+- [[concepts/claude-md-files]]
+- [[concepts/mcp-protocol]]
+- [[concepts/ai-workflows]]
 
 ## Related Summaries
 

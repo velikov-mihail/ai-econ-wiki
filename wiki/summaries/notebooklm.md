@@ -33,7 +33,7 @@ NotebookLM is directly applicable to economics research workflows that involve s
 ## Related Concepts
 
 - [[concepts/literature-review-ai]]
-- [[concepts/document-grounded-ai]]
+- [[concepts/document-processing]]
 - [[concepts/ai-tools-landscape]]
 - [[concepts/qualitative-research-ai]]
 

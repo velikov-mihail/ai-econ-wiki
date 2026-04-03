@@ -33,10 +33,10 @@ This is the most directly relevant setup guide for academic economists. Written 
 ## Related Concepts
 
 - [[concepts/claude-code]]
-- [[concepts/context-window]]
+- [[concepts/context-management]]
 - [[concepts/agentic-ai]]
-- [[concepts/ai-tool-setup]]
-- [[concepts/data-privacy-ai]]
+- [[concepts/ai-tools-landscape]]
+- [[concepts/data-privacy]]
 
 ## Related Summaries
 

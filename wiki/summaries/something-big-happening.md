@@ -28,7 +28,7 @@ While written for a general audience, this article captures the "practitioner sh
 **Related Concepts**:
 - [[concepts/agentic-ai]]
 - [[concepts/ai-adoption-academia]]
-- [[concepts/human-ai-complementarity]]
+- [[concepts/human-ai-collaboration]]
 
 **Related Summaries**:
 - [[summaries/train-left-station]]

@@ -34,7 +34,7 @@ This demonstration is directly relevant to the growing text-as-data literature i
 - [[concepts/data-pipelines]]
 - [[concepts/web-scraping]]
 - [[concepts/claude-code]]
-- [[concepts/plan-mode]]
+- [[concepts/plan-driven-development]]
 - [[concepts/text-as-data]]
 
 ## Related Summaries

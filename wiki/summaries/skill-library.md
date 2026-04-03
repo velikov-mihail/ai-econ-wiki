@@ -32,8 +32,8 @@ Several skills are directly relevant to academic economics workflows. The `/prop
 
 - [[concepts/claude-code]]
 - [[concepts/skills-vs-agents]]
-- [[concepts/mcp-integrations]]
-- [[concepts/ai-workflow-automation]]
+- [[concepts/mcp-protocol]]
+- [[concepts/ai-workflows]]
 
 ## Related Summaries
 

@@ -1,36 +1,74 @@
 ---
-title: "Concepts"
+title: "Concept Pages"
 tags: [index, concepts]
 date_updated: 2026-04-03
 ---
 
-# Concepts
+# Concept Pages
 
-Cross-cutting themes synthesized across multiple sources. These pages connect ideas that appear in several articles and papers.
+**64** cross-cutting concept pages synthesizing ideas across multiple sources.
 
-## Tools & Infrastructure
-
-- [[agentic-workflows]] — What agentic AI means, how it differs from chat, and how researchers use agent-based workflows
-- [[claude-code]] — Claude Code as the primary agentic coding tool: setup, capabilities, adoption patterns among scientists
-- [[claude-md-files]] — CLAUDE.md as project and personal configuration: patterns, templates, and the two-tier system
-- [[mcp-protocol]] — Model Context Protocol: connecting Claude Code to Gmail, Zotero, Google Drive, and other external services
-- [[skills-vs-agents]] — When to use skills vs agents in Claude Code; decision frameworks, the self-bias problem, and agent debate patterns
-- [[cost-and-budget]] — Realistic costs ($20-200/month), ROI frameworks, minimum viable setups, and budget advice
-
-## Methods & Workflows
-
-- [[prompt-engineering]] — Prompt design principles: the six-part anatomy, effort calibration, and common anti-patterns
-- [[plan-driven-development]] — Plan-first workflows: the PPRR pattern, phased execution, and why planning before implementation matters
-- [[feedback-machines]] — Using AI for structured academic paper feedback: multi-agent review, adversarial critique
-- [[data-pipelines]] — Building data pipelines with AI: EDGAR, WRDS, FRED, Census Bureau; the "scrape, parse, structure, analyze" pattern
-
-## Research Practice
-
-- [[vibe-research]] — "Vibe research": rapid AI-assisted paper production, its promises, pitfalls, and implications for quality
-- [[human-ai-collaboration]] — Human-in-the-loop workflows, domain expertise requirements, error patterns, and division of labor
-- [[reproducibility-transparency]] — Reproducibility challenges with AI-assisted research: stochastic outputs, model deprecation, emerging solutions
-
-## Big Picture
-
-- [[ai-adoption-academia]] — Adoption patterns, barriers, the "wake up" discourse, institutional disruption, and the widening gap
-- [[ai-as-normal-technology]] — Competing views: normal general-purpose technology or discontinuous revolution; electrification analogy vs. exponential scaling
+- [[concepts/ai-adoption-academia|AI Adoption in Academia]]
+- [[concepts/ai-agents|AI Agents]]
+- [[concepts/ai-limitations|AI Limitations]]
+- [[concepts/ai-pricing-and-access|AI Pricing and Access]]
+- [[concepts/ai-research-tools|AI Research Tools]]
+- [[concepts/ai-skills|AI Skills for Researchers]]
+- [[concepts/ai-tools-landscape|AI Tools Landscape]]
+- [[concepts/ai-workflows|AI Workflows]]
+- [[concepts/ai-as-normal-technology|AI as Normal Technology]]
+- [[concepts/ai-for-non-coders|AI for Non-Coders]]
+- [[concepts/ai-for-science-policy|AI for Science Policy]]
+- [[concepts/ai-in-education|AI in Education]]
+- [[concepts/literature-review-ai|AI-Assisted Literature Review]]
+- [[concepts/ai-peer-review|AI-Assisted Peer Review]]
+- [[concepts/visualization|AI-Assisted Visualization]]
+- [[concepts/ai-writing|AI-Assisted Writing]]
+- [[concepts/agentic-ai|Agentic AI]]
+- [[concepts/agentic-workflows|Agentic Workflows]]
+- [[concepts/automated-research|Automated Research]]
+- [[concepts/claude-md-files|CLAUDE.md Files]]
+- [[concepts/claude-code|Claude Code]]
+- [[concepts/claude-code-skills|Claude Code Skills]]
+- [[concepts/coding-with-llms|Coding with LLMs]]
+- [[concepts/cognitive-load-and-ai|Cognitive Load and AI]]
+- [[concepts/context-management|Context Management]]
+- [[concepts/cost-and-budget|Cost and Budget]]
+- [[concepts/cross-language-replication|Cross-Language Replication]]
+- [[concepts/data-access|Data Access]]
+- [[concepts/data-analysis-workflows|Data Analysis Workflows]]
+- [[concepts/data-analysis-with-ai|Data Analysis with AI]]
+- [[concepts/data-pipelines|Data Pipelines]]
+- [[concepts/data-privacy|Data Privacy in AI Research]]
+- [[concepts/design-patterns|Design Patterns for AI Workflows]]
+- [[concepts/document-processing|Document Processing with AI]]
+- [[concepts/domain-expertise-vs-ai-skills|Domain Expertise vs. AI Skills]]
+- [[concepts/empirical-methods|Empirical Methods and AI]]
+- [[concepts/feedback-machines|Feedback Machines]]
+- [[concepts/future-of-academic-publishing|Future of Academic Publishing]]
+- [[concepts/hard-vs-easy-tasks|Hard vs. Easy Tasks with AI]]
+- [[concepts/human-capital|Human Capital and AI]]
+- [[concepts/human-ai-collaboration|Human-AI Collaboration]]
+- [[concepts/human-in-the-loop|Human-in-the-Loop]]
+- [[concepts/ide-and-terminal|IDE and Terminal Setup]]
+- [[concepts/llm-reasoning|LLM Reasoning]]
+- [[concepts/langgraph|LangGraph]]
+- [[concepts/mcp-protocol|Model Context Protocol (MCP)]]
+- [[concepts/open-source-models|Open-Source Models]]
+- [[concepts/plan-driven-development|Plan-Driven Development]]
+- [[concepts/pre-analysis-plans|Pre-Analysis Plans and AI]]
+- [[concepts/prompt-engineering|Prompt Engineering]]
+- [[concepts/qualitative-research-ai|Qualitative Research with AI]]
+- [[concepts/reproducibility-transparency|Reproducibility and Transparency]]
+- [[concepts/research-productivity|Research Productivity]]
+- [[concepts/research-quality|Research Quality with AI]]
+- [[concepts/retrieval-augmented-generation|Retrieval-Augmented Generation (RAG)]]
+- [[concepts/skills-vs-agents|Skills vs Agents]]
+- [[concepts/sycophancy-and-bias|Sycophancy and Bias in AI]]
+- [[concepts/text-as-data|Text as Data]]
+- [[concepts/jagged-frontier|The Jagged Frontier]]
+- [[concepts/version-control-research|Version Control for Research]]
+- [[concepts/vibe-research|Vibe Research]]
+- [[concepts/voice-and-transcription|Voice and Transcription]]
+- [[concepts/wrds-data-access|WRDS Data Access with AI]]
+- [[concepts/web-scraping|Web Scraping with AI]]

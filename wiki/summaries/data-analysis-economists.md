@@ -33,8 +33,8 @@ This demonstration directly addresses one of the most common tasks in empirical 
 
 - [[concepts/data-pipelines]]
 - [[concepts/claude-code]]
-- [[concepts/agentic-coding]]
-- [[concepts/context-window-management]]
+- [[concepts/agentic-ai]]
+- [[concepts/context-management]]
 - [[concepts/prompt-engineering]]
 
 ## Related Summaries

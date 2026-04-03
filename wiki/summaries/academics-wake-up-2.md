@@ -30,7 +30,7 @@ This piece deepens the analysis of institutional disruption in academic economic
 **Related Concepts**:
 - [[concepts/ai-adoption-academia]]
 - [[concepts/jagged-frontier]]
-- [[concepts/human-ai-complementarity]]
+- [[concepts/human-ai-collaboration]]
 - [[concepts/agentic-ai]]
 
 **Related Summaries**:

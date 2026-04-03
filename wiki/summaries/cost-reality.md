@@ -30,12 +30,12 @@ The cost analysis maps directly to academic budget decisions. At $1,700/year, th
 
 ## Related Concepts
 
-- [[wiki/concepts/tools-and-setup]]
-- [[wiki/concepts/professional-productivity]]
-- [[wiki/concepts/ai-workflow-design]]
+- [[concepts/ai-tools-landscape]]
+- [[concepts/research-productivity]]
+- [[concepts/ai-workflows]]
 
 ## Related Summaries
 
-- [[wiki/summaries/ai-executive-assistant]]
-- [[wiki/summaries/voice-dictation]]
-- [[wiki/summaries/meeting-transcription]]
+- [[summaries/ai-executive-assistant]]
+- [[summaries/voice-dictation]]
+- [[summaries/meeting-transcription]]

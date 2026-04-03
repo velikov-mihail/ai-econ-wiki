@@ -26,11 +26,11 @@ The guide emphasizes practical application for economists. Skills follow the Age
 This is an essential reference for economists setting up their AI coding environment. The `AGENTS.md` example for an economics research project (with rules for data handling, Stata/R conventions, LaTeX formatting, and reproducibility) provides a template that researchers can adapt immediately. Understanding the skill/subagent distinction and the configuration hierarchy is foundational for building reliable, reproducible agent-assisted research workflows, especially in collaborative projects where multiple researchers need consistent agent behavior.
 
 - **Related Concepts**
-  - [[concepts/skills]]
-  - [[concepts/agents-md]]
-  - [[concepts/claude-md]]
+  - [[concepts/skills-vs-agents]]
+  - [[concepts/agentic-ai]]
+  - [[concepts/claude-md-files]]
   - [[concepts/agentic-workflows]]
-  - [[concepts/model-context-protocol]]
+  - [[concepts/mcp-protocol]]
 
 - **Related Summaries**
   - [[summaries/agents-vs-skills]]

@@ -34,8 +34,8 @@ Refine.ink directly addresses a pain point in the economics publication process:
 ## Related Concepts
 
 - [[concepts/ai-peer-review]]
-- [[concepts/quality-control-ai]]
-- [[concepts/academic-research-ai]]
+- [[concepts/research-quality]]
+- [[concepts/ai-research-tools]]
 
 ## Related Summaries
 

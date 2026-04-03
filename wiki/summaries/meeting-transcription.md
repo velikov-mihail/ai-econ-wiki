@@ -29,12 +29,12 @@ Meeting transcription is directly applicable to research team management, especi
 
 ## Related Concepts
 
-- [[wiki/concepts/ai-workflow-design]]
-- [[wiki/concepts/professional-productivity]]
-- [[wiki/concepts/tools-and-setup]]
+- [[concepts/ai-workflows]]
+- [[concepts/research-productivity]]
+- [[concepts/ai-tools-landscape]]
 
 ## Related Summaries
 
-- [[wiki/summaries/ai-executive-assistant]]
-- [[wiki/summaries/project-management]]
-- [[wiki/summaries/voice-dictation]]
+- [[summaries/ai-executive-assistant]]
+- [[summaries/project-management]]
+- [[summaries/voice-dictation]]

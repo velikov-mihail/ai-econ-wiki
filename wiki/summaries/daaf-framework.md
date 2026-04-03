@@ -33,8 +33,8 @@ DAAF is one of the most directly relevant tools for economics researchers in thi
 ## Related Concepts
 
 - [[concepts/claude-code]]
-- [[concepts/ai-for-research]]
-- [[concepts/reproducibility]]
+- [[concepts/ai-research-tools]]
+- [[concepts/reproducibility-transparency]]
 - [[concepts/human-in-the-loop]]
 - [[concepts/data-analysis-workflows]]
 

@@ -32,9 +32,9 @@ This is one of the most directly applicable Claude Code setups for academic econ
 
 - [[concepts/claude-code]]
 - [[concepts/ai-agents]]
-- [[concepts/ai-workflow-automation]]
+- [[concepts/ai-workflows]]
 - [[concepts/claude-code-skills]]
-- [[concepts/quality-assurance-in-ai]]
+- [[concepts/research-quality]]
 
 ## Related Summaries
 

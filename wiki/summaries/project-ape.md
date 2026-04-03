@@ -33,8 +33,8 @@ Project APE represents one of the most systematic attempts to automate the full 
 
 - [[concepts/automated-research]]
 - [[concepts/ai-agents]]
-- [[concepts/replication-and-transparency]]
-- [[concepts/llm-evaluation]]
+- [[concepts/reproducibility-transparency]]
+- [[concepts/llm-reasoning]]
 
 ## Related Summaries
 

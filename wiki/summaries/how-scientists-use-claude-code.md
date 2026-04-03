@@ -30,7 +30,7 @@ This article provides the only empirical data on AI coding tool adoption among r
 
 - **Related Concepts**
   - [[concepts/claude-code]]
-  - [[concepts/ai-adoption-in-academia]]
+  - [[concepts/ai-adoption-academia]]
   - [[concepts/agentic-workflows]]
   - [[concepts/ai-for-science-policy]]
 

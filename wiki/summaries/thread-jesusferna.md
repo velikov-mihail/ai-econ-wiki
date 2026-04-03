@@ -30,7 +30,7 @@ This taxonomy is relevant to understanding how AI, particularly LLMs, may reshap
 
 ## Related Concepts
 
-- [[concepts/ai-and-education]]
+- [[concepts/ai-in-education]]
 - [[concepts/human-capital]]
 - [[concepts/research-productivity]]
 

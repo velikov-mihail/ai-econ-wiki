@@ -27,7 +27,7 @@ The jagged frontier framework is essential for economists studying AI's labor ma
 
 **Related Concepts**:
 - [[concepts/jagged-frontier]]
-- [[concepts/human-ai-complementarity]]
+- [[concepts/human-ai-collaboration]]
 - [[concepts/ai-adoption-academia]]
 - [[concepts/agentic-ai]]
 

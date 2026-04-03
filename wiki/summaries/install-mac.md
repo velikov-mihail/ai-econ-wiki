@@ -33,8 +33,8 @@ For economists and social scientists who are not regular terminal users, this gu
 ## Related Concepts
 
 - [[concepts/claude-code]]
-- [[concepts/terminal-basics]]
-- [[concepts/ai-tool-setup]]
+- [[concepts/ide-and-terminal]]
+- [[concepts/ai-tools-landscape]]
 
 ## Related Summaries
 

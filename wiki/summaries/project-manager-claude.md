@@ -32,12 +32,12 @@ This article is highly relevant to economics researchers because it demonstrates
 
 ## Related Concepts
 
-- [[wiki/concepts/agentic-ai]]
-- [[wiki/concepts/ai-research-workflows]]
-- [[wiki/concepts/github-for-research]]
+- [[concepts/agentic-ai]]
+- [[concepts/ai-research-tools]]
+- [[concepts/version-control-research]]
 
 ## Related Summaries
 
-- [[wiki/summaries/project-management]]
-- [[wiki/summaries/example-project-dashboard]]
-- [[wiki/summaries/example-research-design]]
+- [[summaries/project-management]]
+- [[summaries/example-project-dashboard]]
+- [[summaries/example-research-design]]

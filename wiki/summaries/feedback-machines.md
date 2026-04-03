@@ -33,7 +33,7 @@ This article provides a practical, step-by-step guide for economists and finance
 
 - [[concepts/feedback-machines]]
 - [[concepts/vibe-research]]
-- [[concepts/ai-writing-workflow]]
+- [[concepts/ai-writing]]
 - [[concepts/ai-research-tools]]
 
 ## Related Summaries

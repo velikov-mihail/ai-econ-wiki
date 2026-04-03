@@ -31,7 +31,7 @@ The layered workflow approach maps onto how researchers might incrementally adop
 ## Related Concepts
 
 - [[concepts/ai-workflows]]
-- [[concepts/productivity-systems]]
+- [[concepts/research-productivity]]
 - [[concepts/context-management]]
 
 ## Related Summaries

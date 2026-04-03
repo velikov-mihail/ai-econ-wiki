@@ -30,8 +30,8 @@ These templates map directly onto common research workflows in economics: collec
 ## Related Concepts
 
 - [[concepts/claude-code-skills]]
-- [[concepts/ai-workflow-automation]]
-- [[concepts/mcp-integrations]]
+- [[concepts/ai-workflows]]
+- [[concepts/mcp-protocol]]
 - [[concepts/prompt-engineering]]
 
 ## Related Summaries

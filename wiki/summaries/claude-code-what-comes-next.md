@@ -32,10 +32,10 @@ Mollick's explanation of the agentic harness (compacting, skills, subagents, MCP
 - **Related Concepts**
   - [[concepts/claude-code]]
   - [[concepts/agentic-workflows]]
-  - [[concepts/skills]]
-  - [[concepts/subagents]]
-  - [[concepts/model-context-protocol]]
-  - [[concepts/context-window-management]]
+  - [[concepts/skills-vs-agents]]
+  - [[concepts/agentic-ai]]
+  - [[concepts/mcp-protocol]]
+  - [[concepts/context-management]]
 
 - **Related Summaries**
   - [[summaries/claude-dispatch]]

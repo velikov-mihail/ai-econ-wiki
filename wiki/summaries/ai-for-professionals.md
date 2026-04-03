@@ -31,8 +31,8 @@ This site is one of the most directly relevant resources for economists adopting
 ## Related Concepts
 
 - [[concepts/claude-code]]
-- [[concepts/ai-workflow-automation]]
-- [[concepts/ai-for-writing]]
+- [[concepts/ai-workflows]]
+- [[concepts/ai-writing]]
 - [[concepts/prompt-engineering]]
 - [[concepts/ai-tools-landscape]]
 

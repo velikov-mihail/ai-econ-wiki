@@ -2,11 +2,11 @@
 title: "Model Context Protocol (MCP)"
 tags: [concept, infrastructure, integrations, tools]
 sources:
-  - "[[wiki/summaries/mcp-setup.md]]"
-  - "[[wiki/summaries/claude-code-what-comes-next.md]]"
-  - "[[wiki/summaries/claude-code-newbies.md]]"
-  - "[[wiki/summaries/learn-ai-coding-agents.md]]"
-  - "[[wiki/summaries/workflows.md]]"
+  - "[[summaries/mcp-setup.md]]"
+  - "[[summaries/claude-code-what-comes-next.md]]"
+  - "[[summaries/claude-code-newbies.md]]"
+  - "[[summaries/learn-ai-coding-agents.md]]"
+  - "[[summaries/workflows.md]]"
 date_updated: 2026-04-03
 ---
 
@@ -24,15 +24,15 @@ The protocol is part of what Mollick calls the "agentic harness" -- alongside co
 
 ## Key Perspectives
 
-**Blattman (MCP Setup)** ([[wiki/summaries/mcp-setup.md]]) provides the definitive setup guide. Google Workspace is the highest-value integration but requires 45-60 minutes of OAuth credential setup through Google Cloud Console. The most common frustration is OAuth tokens expiring every 7 days; the fix is switching the Google Cloud project from "Testing" to "Production" mode. Key privacy concern: each MCP integration grants Claude access to the **entire** account for that service with no way to restrict scope. Blattman recommends enabling integrations only when needed and removing them afterward for sensitive workflows. Simpler integrations (Zotero, Apple apps) require only an API key and take about 10 minutes.
+**Blattman (MCP Setup)** ([[summaries/mcp-setup.md]]) provides the definitive setup guide. Google Workspace is the highest-value integration but requires 45-60 minutes of OAuth credential setup through Google Cloud Console. The most common frustration is OAuth tokens expiring every 7 days; the fix is switching the Google Cloud project from "Testing" to "Production" mode. Key privacy concern: each MCP integration grants Claude access to the **entire** account for that service with no way to restrict scope. Blattman recommends enabling integrations only when needed and removing them afterward for sensitive workflows. Simpler integrations (Zotero, Apple apps) require only an API key and take about 10 minutes.
 
-**Mollick** ([[wiki/summaries/claude-code-what-comes-next.md]]) places MCP within the broader conceptual architecture of agentic AI. MCP is one of four "magic tricks" that make sustained autonomous work possible (alongside compacting, skills, and sub-agents). The implication for researchers is that MCP could eventually enable agents to access WRDS, FRED, or other domain-specific data sources directly, collapsing the data retrieval step of the research pipeline.
+**Mollick** ([[summaries/claude-code-what-comes-next.md]]) places MCP within the broader conceptual architecture of agentic AI. MCP is one of four "magic tricks" that make sustained autonomous work possible (alongside compacting, skills, and sub-agents). The implication for researchers is that MCP could eventually enable agents to access WRDS, FRED, or other domain-specific data sources directly, collapsing the data retrieval step of the research pipeline.
 
-**Blattman (Claude Code for Newbies)** ([[wiki/summaries/claude-code-newbies.md]]) positions MCP as the fourth step in the setup sequence: install Claude Code, optionally set up VS Code, create a CLAUDE.md file, then configure MCP integrations. This framing emphasizes that Claude Code works fully without MCP -- integrations can be added incrementally as needs arise.
+**Blattman (Claude Code for Newbies)** ([[summaries/claude-code-newbies.md]]) positions MCP as the fourth step in the setup sequence: install Claude Code, optionally set up VS Code, create a CLAUDE.md file, then configure MCP integrations. This framing emphasizes that Claude Code works fully without MCP -- integrations can be added incrementally as needs arise.
 
-**Mele** ([[wiki/summaries/learn-ai-coding-agents.md]]) notes that MCP is part of the broader agent infrastructure alongside skills and rules. The protocol enables the "tool" dimension of agents: while skills provide knowledge and rules provide configuration, MCP provides the ability to act on external systems.
+**Mele** ([[summaries/learn-ai-coding-agents.md]]) notes that MCP is part of the broader agent infrastructure alongside skills and rules. The protocol enables the "tool" dimension of agents: while skills provide knowledge and rules provide configuration, MCP provides the ability to act on external systems.
 
-**Blattman (Workflows)** ([[wiki/summaries/workflows.md]]) shows how MCP enables progressively more sophisticated workflows. The simplest workflow (Prompt/Plan/Review/Revise) needs no MCP. The Executive Assistant workflow (email triage, morning briefings, calendar queries) requires Google Workspace MCP. Project Management builds on the Executive Assistant, adding multi-project oversight. The pattern is that MCP unlocks workflow layers that cannot exist without external service access.
+**Blattman (Workflows)** ([[summaries/workflows.md]]) shows how MCP enables progressively more sophisticated workflows. The simplest workflow (Prompt/Plan/Review/Revise) needs no MCP. The Executive Assistant workflow (email triage, morning briefings, calendar queries) requires Google Workspace MCP. Project Management builds on the Executive Assistant, adding multi-project oversight. The pattern is that MCP unlocks workflow layers that cannot exist without external service access.
 
 ## Practical Implications
 
@@ -53,8 +53,8 @@ The protocol is part of what Mollick calls the "agentic harness" -- alongside co
 
 ## Sources
 
-- [[wiki/summaries/mcp-setup.md]] -- Blattman's definitive MCP setup guide with troubleshooting
-- [[wiki/summaries/claude-code-what-comes-next.md]] -- Mollick's explanation of MCP as part of the agentic harness
-- [[wiki/summaries/claude-code-newbies.md]] -- MCP in the Claude Code setup sequence
-- [[wiki/summaries/learn-ai-coding-agents.md]] -- MCP as part of the agent infrastructure
-- [[wiki/summaries/workflows.md]] -- How MCP enables progressively more sophisticated workflows
+- [[summaries/mcp-setup.md]] -- Blattman's definitive MCP setup guide with troubleshooting
+- [[summaries/claude-code-what-comes-next.md]] -- Mollick's explanation of MCP as part of the agentic harness
+- [[summaries/claude-code-newbies.md]] -- MCP in the Claude Code setup sequence
+- [[summaries/learn-ai-coding-agents.md]] -- MCP as part of the agent infrastructure
+- [[summaries/workflows.md]] -- How MCP enables progressively more sophisticated workflows

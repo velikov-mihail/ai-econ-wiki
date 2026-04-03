@@ -2,11 +2,11 @@
 title: "AI as Normal Technology"
 tags: [concept, institutional-societal, technology-adoption]
 sources:
-  - "[[wiki/summaries/ai-normal-technology.md]]"
-  - "[[wiki/summaries/bitter-lesson.md]]"
-  - "[[wiki/summaries/shape-of-ai.md]]"
-  - "[[wiki/summaries/something-big-happening.md]]"
-  - "[[wiki/summaries/train-left-station.md]]"
+  - "[[summaries/ai-normal-technology.md]]"
+  - "[[summaries/bitter-lesson.md]]"
+  - "[[summaries/shape-of-ai.md]]"
+  - "[[summaries/something-big-happening.md]]"
+  - "[[summaries/train-left-station.md]]"
 date_updated: 2026-04-03
 ---
 
@@ -26,15 +26,15 @@ This view pushes back against what Narayanan and Kapoor see as two distortions i
 
 ## Key Perspectives
 
-**Narayanan and Kapoor ([[wiki/summaries/ai-normal-technology.md|AI as Normal Technology]])** provide the foundational argument. They make three key analytical moves. First, they distinguish AI methods, applications, and adoption, noting that each operates on different timescales and that most public discussion conflates them. Second, they argue that benchmarks have poor "construct validity" for predicting economic impact -- solving competition-level math problems does not predict ability to automate accounting workflows. Third, they reframe "superintelligence" by distinguishing intelligence from power: humans are already "superintelligent" compared to pre-technological ancestors because of accumulated tools, not raw cognitive ability. AI is another such tool. On policy, they advocate resilience over nonproliferation, arguing that concentrating AI power creates brittleness and single points of failure.
+**Narayanan and Kapoor ([[summaries/ai-normal-technology.md|AI as Normal Technology]])** provide the foundational argument. They make three key analytical moves. First, they distinguish AI methods, applications, and adoption, noting that each operates on different timescales and that most public discussion conflates them. Second, they argue that benchmarks have poor "construct validity" for predicting economic impact -- solving competition-level math problems does not predict ability to automate accounting workflows. Third, they reframe "superintelligence" by distinguishing intelligence from power: humans are already "superintelligent" compared to pre-technological ancestors because of accumulated tools, not raw cognitive ability. AI is another such tool. On policy, they advocate resilience over nonproliferation, arguing that concentrating AI power creates brittleness and single points of failure.
 
-**Sutton ([[wiki/summaries/bitter-lesson.md|The Bitter Lesson]])** provides the historical pattern that both supports and complicates the "normal technology" view. His observation -- that general methods leveraging computation consistently defeat approaches encoding human domain knowledge -- supports the revolutionary view of AI's technical trajectory. But the bitter lesson itself is a historical regularity, which is exactly what the "normal technology" framework predicts: a pattern that recurs across technologies.
+**Sutton ([[summaries/bitter-lesson.md|The Bitter Lesson]])** provides the historical pattern that both supports and complicates the "normal technology" view. His observation -- that general methods leveraging computation consistently defeat approaches encoding human domain knowledge -- supports the revolutionary view of AI's technical trajectory. But the bitter lesson itself is a historical regularity, which is exactly what the "normal technology" framework predicts: a pattern that recurs across technologies.
 
-**Mollick ([[wiki/summaries/shape-of-ai.md|The Shape of AI]])** offers the "jagged frontier" framework as a bridge between the two views. AI is simultaneously superhuman and embarrassingly bad, with the boundary shifting unpredictably. The bottleneck concept is key: even impressive AI capabilities cannot automate entire workflows if they fail at a single critical sub-task. But "reverse salients" -- when a bottleneck breaks, everything behind it comes flooding through -- create the appearance of sudden discontinuous progress. The practical advice: "watch the bottlenecks, not the benchmarks."
+**Mollick ([[summaries/shape-of-ai.md|The Shape of AI]])** offers the "jagged frontier" framework as a bridge between the two views. AI is simultaneously superhuman and embarrassingly bad, with the boundary shifting unpredictably. The bottleneck concept is key: even impressive AI capabilities cannot automate entire workflows if they fail at a single critical sub-task. But "reverse salients" -- when a bottleneck breaks, everything behind it comes flooding through -- create the appearance of sudden discontinuous progress. The practical advice: "watch the bottlenecks, not the benchmarks."
 
-**Shumer ([[wiki/summaries/something-big-happening.md|Something Big Is Happening]])** represents the strongest challenge to the "normal technology" view. He reports being personally displaced from technical work and cites METR measurements showing AI task completion duration doubling every 4-7 months. The recursive self-improvement dynamic (GPT-5.3 Codex "was instrumental in creating itself") suggests a pace of progress that may not fit historical technology adoption patterns. His framing is explicitly non-normal: this is a COVID-like disruption, not a slow industrial transition.
+**Shumer ([[summaries/something-big-happening.md|Something Big Is Happening]])** represents the strongest challenge to the "normal technology" view. He reports being personally displaced from technical work and cites METR measurements showing AI task completion duration doubling every 4-7 months. The recursive self-improvement dynamic (GPT-5.3 Codex "was instrumental in creating itself") suggests a pace of progress that may not fit historical technology adoption patterns. His framing is explicitly non-normal: this is a COVID-like disruption, not a slow industrial transition.
 
-**Messing and Tucker ([[wiki/summaries/train-left-station.md|The Train Has Left the Station]])** occupy the middle ground. They acknowledge that agentic AI is qualitatively different from chatbot-era tools while noting concrete risks and limitations (agents deleting data, security vulnerabilities, quality degradation). Their institutional analysis -- projecting strain on peer review, changes to RA hiring, need for new merit assessment -- is compatible with the "normal technology" view's emphasis on organizational adaptation as the binding constraint.
+**Messing and Tucker ([[summaries/train-left-station.md|The Train Has Left the Station]])** occupy the middle ground. They acknowledge that agentic AI is qualitatively different from chatbot-era tools while noting concrete risks and limitations (agents deleting data, security vulnerabilities, quality degradation). Their institutional analysis -- projecting strain on peer review, changes to RA hiring, need for new merit assessment -- is compatible with the "normal technology" view's emphasis on organizational adaptation as the binding constraint.
 
 ## Practical Implications
 
@@ -56,8 +56,8 @@ For economics researchers, the tension between these views has concrete implicat
 
 ## Sources
 
-- [[wiki/summaries/ai-normal-technology.md|AI as Normal Technology]] -- Narayanan and Kapoor's comprehensive framework
-- [[wiki/summaries/bitter-lesson.md|The Bitter Lesson]] -- Sutton's historical pattern of computation over knowledge
-- [[wiki/summaries/shape-of-ai.md|The Shape of AI]] -- Mollick's jagged frontier and bottleneck analysis
-- [[wiki/summaries/something-big-happening.md|Something Big Is Happening]] -- Shumer's case for discontinuous change
-- [[wiki/summaries/train-left-station.md|The Train Has Left the Station]] -- Messing and Tucker's balanced institutional assessment
+- [[summaries/ai-normal-technology.md|AI as Normal Technology]] -- Narayanan and Kapoor's comprehensive framework
+- [[summaries/bitter-lesson.md|The Bitter Lesson]] -- Sutton's historical pattern of computation over knowledge
+- [[summaries/shape-of-ai.md|The Shape of AI]] -- Mollick's jagged frontier and bottleneck analysis
+- [[summaries/something-big-happening.md|Something Big Is Happening]] -- Shumer's case for discontinuous change
+- [[summaries/train-left-station.md|The Train Has Left the Station]] -- Messing and Tucker's balanced institutional assessment

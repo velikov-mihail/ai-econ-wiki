@@ -66,21 +66,70 @@ nav:
       - Professional Productivity: summaries/professional-productivity.md
   - Concepts:
       - Overview: concepts/index.md
+      - Agentic AI: concepts/agentic-ai.md
       - Agentic Workflows: concepts/agentic-workflows.md
-      - Claude Code: concepts/claude-code.md
-      - CLAUDE.md Files: concepts/claude-md-files.md
-      - MCP Protocol: concepts/mcp-protocol.md
-      - Skills vs Agents: concepts/skills-vs-agents.md
-      - Cost & Budget: concepts/cost-and-budget.md
-      - Prompt Engineering: concepts/prompt-engineering.md
-      - Plan-Driven Development: concepts/plan-driven-development.md
-      - Feedback Machines: concepts/feedback-machines.md
-      - Data Pipelines: concepts/data-pipelines.md
-      - Vibe Research: concepts/vibe-research.md
-      - Human-AI Collaboration: concepts/human-ai-collaboration.md
-      - Reproducibility: concepts/reproducibility-transparency.md
+      - AI Agents: concepts/ai-agents.md
       - AI Adoption in Academia: concepts/ai-adoption-academia.md
       - AI as Normal Technology: concepts/ai-as-normal-technology.md
+      - AI for Non-Coders: concepts/ai-for-non-coders.md
+      - AI for Science Policy: concepts/ai-for-science-policy.md
+      - AI in Education: concepts/ai-in-education.md
+      - AI Limitations: concepts/ai-limitations.md
+      - AI Peer Review: concepts/ai-peer-review.md
+      - AI Pricing & Access: concepts/ai-pricing-and-access.md
+      - AI Research Tools: concepts/ai-research-tools.md
+      - AI Skills for Researchers: concepts/ai-skills.md
+      - AI Tools Landscape: concepts/ai-tools-landscape.md
+      - AI Workflows: concepts/ai-workflows.md
+      - AI-Assisted Writing: concepts/ai-writing.md
+      - Automated Research: concepts/automated-research.md
+      - Claude Code: concepts/claude-code.md
+      - Claude Code Skills: concepts/claude-code-skills.md
+      - CLAUDE.md Files: concepts/claude-md-files.md
+      - Coding with LLMs: concepts/coding-with-llms.md
+      - Cognitive Load & AI: concepts/cognitive-load-and-ai.md
+      - Context Management: concepts/context-management.md
+      - Cost & Budget: concepts/cost-and-budget.md
+      - Cross-Language Replication: concepts/cross-language-replication.md
+      - Data Access: concepts/data-access.md
+      - Data Analysis with AI: concepts/data-analysis-with-ai.md
+      - Data Analysis Workflows: concepts/data-analysis-workflows.md
+      - Data Pipelines: concepts/data-pipelines.md
+      - Data Privacy: concepts/data-privacy.md
+      - Design Patterns: concepts/design-patterns.md
+      - Document Processing: concepts/document-processing.md
+      - Domain Expertise vs AI Skills: concepts/domain-expertise-vs-ai-skills.md
+      - Empirical Methods & AI: concepts/empirical-methods.md
+      - Feedback Machines: concepts/feedback-machines.md
+      - Future of Academic Publishing: concepts/future-of-academic-publishing.md
+      - Hard vs Easy Tasks: concepts/hard-vs-easy-tasks.md
+      - Human Capital & AI: concepts/human-capital.md
+      - Human-AI Collaboration: concepts/human-ai-collaboration.md
+      - Human-in-the-Loop: concepts/human-in-the-loop.md
+      - IDE & Terminal Setup: concepts/ide-and-terminal.md
+      - Jagged Frontier: concepts/jagged-frontier.md
+      - LangGraph: concepts/langgraph.md
+      - Literature Review with AI: concepts/literature-review-ai.md
+      - LLM Reasoning: concepts/llm-reasoning.md
+      - MCP Protocol: concepts/mcp-protocol.md
+      - Open-Source Models: concepts/open-source-models.md
+      - Plan-Driven Development: concepts/plan-driven-development.md
+      - Pre-Analysis Plans: concepts/pre-analysis-plans.md
+      - Prompt Engineering: concepts/prompt-engineering.md
+      - Qualitative Research with AI: concepts/qualitative-research-ai.md
+      - Research Productivity: concepts/research-productivity.md
+      - Research Quality: concepts/research-quality.md
+      - Reproducibility: concepts/reproducibility-transparency.md
+      - Retrieval-Augmented Generation: concepts/retrieval-augmented-generation.md
+      - Skills vs Agents: concepts/skills-vs-agents.md
+      - Sycophancy & Bias: concepts/sycophancy-and-bias.md
+      - Text as Data: concepts/text-as-data.md
+      - Version Control for Research: concepts/version-control-research.md
+      - Vibe Research: concepts/vibe-research.md
+      - Visualization: concepts/visualization.md
+      - Voice & Transcription: concepts/voice-and-transcription.md
+      - Web Scraping: concepts/web-scraping.md
+      - WRDS Data Access: concepts/wrds-data-access.md
   - Visualizations:
       - Overview: visualizations/index.md
       - Category Map: visualizations/category-map.md

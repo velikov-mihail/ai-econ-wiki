@@ -2,11 +2,11 @@
 title: "Cost and Budget"
 tags: [concept, tools, professional-productivity]
 sources:
-  - "[[wiki/summaries/cost-reality.md]]"
-  - "[[wiki/summaries/ai-agents-econ-research.md]]"
-  - "[[wiki/summaries/llm-collaboration.md]]"
-  - "[[wiki/summaries/train-left-station.md]]"
-  - "[[wiki/summaries/daaf-framework.md]]"
+  - "[[summaries/cost-reality.md]]"
+  - "[[summaries/ai-agents-econ-research.md]]"
+  - "[[summaries/llm-collaboration.md]]"
+  - "[[summaries/train-left-station.md]]"
+  - "[[summaries/daaf-framework.md]]"
 date_updated: 2026-04-03
 ---
 
@@ -24,15 +24,15 @@ For academic researchers, these costs must be evaluated against institutional no
 
 ## Key Perspectives
 
-**Blattman ([[wiki/summaries/cost-reality.md|The Cost Reality]])** provides the most detailed cost breakdown for academic researchers. His full stack costs approximately $140/month: Claude Max ($100), ChatGPT Plus ($20), Wispr Flow ($10), Granola ($10). The minimum viable setup for graduate students is approximately $20/month (Claude Pro plus free built-in dictation and Zoom transcription). His ROI framework is straightforward: if the system saves 5+ hours/month at an effective hourly rate of $40+, the math works. A configured system realistically saves 10-15 hours/month, but reaching that level requires honest upfront time investment. He recommends a four-week ramp-up sequence starting with just the chatbot and adding tools progressively.
+**Blattman ([[summaries/cost-reality.md|The Cost Reality]])** provides the most detailed cost breakdown for academic researchers. His full stack costs approximately $140/month: Claude Max ($100), ChatGPT Plus ($20), Wispr Flow ($10), Granola ($10). The minimum viable setup for graduate students is approximately $20/month (Claude Pro plus free built-in dictation and Zoom transcription). His ROI framework is straightforward: if the system saves 5+ hours/month at an effective hourly rate of $40+, the math works. A configured system realistically saves 10-15 hours/month, but reaching that level requires honest upfront time investment. He recommends a four-week ramp-up sequence starting with just the chatbot and adding tools progressively.
 
-**Panjwani ([[wiki/summaries/ai-agents-econ-research.md|AI Agents for Economic Research]])** offers budget-conscious advice specifically for development economists and researchers at under-resourced institutions. For budget-constrained researchers at $20/month, he recommends Codex (OpenAI) over Claude Code due to more generous usage limits. He argues that pushing toward $200/month is worthwhile if possible, because learning speed is proportional to usage. His advice acknowledges the global dimension: researchers in low-income countries face the same subscription costs as those at well-funded US institutions.
+**Panjwani ([[summaries/ai-agents-econ-research.md|AI Agents for Economic Research]])** offers budget-conscious advice specifically for development economists and researchers at under-resourced institutions. For budget-constrained researchers at $20/month, he recommends Codex (OpenAI) over Claude Code due to more generous usage limits. He argues that pushing toward $200/month is worthwhile if possible, because learning speed is proportional to usage. His advice acknowledges the global dimension: researchers in low-income countries face the same subscription costs as those at well-funded US institutions.
 
-**Korinek ([[wiki/summaries/llm-collaboration.md|LLM Collaboration]])** documents the macro cost trends: LLM operating costs have declined 83-92% since GPT-4's launch while quality has improved substantially. Open-source models (Llama, Qwen) have closed much of the gap with proprietary leaders, offering benefits of transparency, privacy, and reproducibility at lower cost. The shift to inference-heavy reasoning models (o1-style) introduces higher variable costs, changing the cost structure from training-dominated to inference-dominated.
+**Korinek ([[summaries/llm-collaboration.md|LLM Collaboration]])** documents the macro cost trends: LLM operating costs have declined 83-92% since GPT-4's launch while quality has improved substantially. Open-source models (Llama, Qwen) have closed much of the gap with proprietary leaders, offering benefits of transparency, privacy, and reproducibility at lower cost. The shift to inference-heavy reasoning models (o1-style) introduces higher variable costs, changing the cost structure from training-dominated to inference-dominated.
 
-**Messing and Tucker ([[wiki/summaries/train-left-station.md|The Train Has Left the Station]])** add a dimension often omitted: energy consumption. They report that coding sessions consume 25-50 watt-hours and full-day usage exceeds 1 kilowatt-hour. While not a significant cost for individual researchers, this matters at institutional scale and for the broader sustainability discussion.
+**Messing and Tucker ([[summaries/train-left-station.md|The Train Has Left the Station]])** add a dimension often omitted: energy consumption. They report that coding sessions consume 25-50 watt-hours and full-day usage exceeds 1 kilowatt-hour. While not a significant cost for individual researchers, this matters at institutional scale and for the broader sustainability discussion.
 
-**DAAF ([[wiki/summaries/daaf-framework.md|DAAF Framework]])** represents the open-source alternative. As a free, LGPL-3.0-licensed framework built on Claude Code, it provides sophisticated research workflows (pre-analysis plans, reproducibility verification, econometric methods) without additional licensing costs -- though it still requires a Claude Code subscription for the underlying model.
+**DAAF ([[summaries/daaf-framework.md|DAAF Framework]])** represents the open-source alternative. As a free, LGPL-3.0-licensed framework built on Claude Code, it provides sophisticated research workflows (pre-analysis plans, reproducibility verification, econometric methods) without additional licensing costs -- though it still requires a Claude Code subscription for the underlying model.
 
 ## Practical Implications
 
@@ -55,8 +55,8 @@ For economics researchers making budget decisions:
 
 ## Sources
 
-- [[wiki/summaries/cost-reality.md|The Cost Reality]] -- Blattman's detailed cost breakdown and ROI framework
-- [[wiki/summaries/ai-agents-econ-research.md|AI Agents for Economic Research]] -- Panjwani's budget-conscious recommendations
-- [[wiki/summaries/llm-collaboration.md|LLM Collaboration]] -- Korinek's documentation of macro cost trends
-- [[wiki/summaries/train-left-station.md|The Train Has Left the Station]] -- Energy consumption estimates
-- [[wiki/summaries/daaf-framework.md|DAAF Framework]] -- Open-source alternative for cost-conscious researchers
+- [[summaries/cost-reality.md|The Cost Reality]] -- Blattman's detailed cost breakdown and ROI framework
+- [[summaries/ai-agents-econ-research.md|AI Agents for Economic Research]] -- Panjwani's budget-conscious recommendations
+- [[summaries/llm-collaboration.md|LLM Collaboration]] -- Korinek's documentation of macro cost trends
+- [[summaries/train-left-station.md|The Train Has Left the Station]] -- Energy consumption estimates
+- [[summaries/daaf-framework.md|DAAF Framework]] -- Open-source alternative for cost-conscious researchers

@@ -27,7 +27,7 @@ The bitter lesson has direct implications for how economists approach machine le
 **Related Concepts**:
 - [[concepts/ai-adoption-academia]]
 - [[concepts/jagged-frontier]]
-- [[concepts/human-ai-complementarity]]
+- [[concepts/human-ai-collaboration]]
 
 **Related Summaries**:
 - [[summaries/ai-normal-technology]]

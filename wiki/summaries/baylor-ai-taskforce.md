@@ -37,8 +37,8 @@ This presentation is essential reading for anyone involved in institutional AI s
 - [[concepts/ai-agents]]
 - [[concepts/cross-language-replication]]
 - [[concepts/claude-code]]
-- [[concepts/research-directory-organization]]
-- [[concepts/ai-for-teaching]]
+- [[concepts/research-productivity]]
+- [[concepts/ai-in-education]]
 
 ## Related Summaries
 

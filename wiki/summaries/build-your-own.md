@@ -33,8 +33,8 @@ The continuous improvement framework is particularly relevant for economics rese
 
 - [[concepts/claude-code]]
 - [[concepts/skills-vs-agents]]
-- [[concepts/ai-workflow-automation]]
-- [[concepts/continuous-improvement]]
+- [[concepts/ai-workflows]]
+- [[concepts/plan-driven-development]]
 
 ## Related Summaries
 

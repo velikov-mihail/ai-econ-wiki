@@ -33,8 +33,8 @@ Most economists at universities use Windows machines, making this the more relev
 ## Related Concepts
 
 - [[concepts/claude-code]]
-- [[concepts/terminal-basics]]
-- [[concepts/ai-tool-setup]]
+- [[concepts/ide-and-terminal]]
+- [[concepts/ai-tools-landscape]]
 
 ## Related Summaries
 

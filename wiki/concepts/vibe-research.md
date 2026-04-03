@@ -2,11 +2,11 @@
 title: "Vibe Research"
 tags: [concept, academic-research, ai-limitations, research-quality]
 sources:
-  - "[[wiki/summaries/vibe-research.md]]"
-  - "[[wiki/summaries/reflections-vibe-research.md]]"
-  - "[[wiki/summaries/ai-one-shot-papers.md]]"
-  - "[[wiki/summaries/can-ai-replace-researchers.md]]"
-  - "[[wiki/summaries/research-in-time-of-ai.md]]"
+  - "[[summaries/vibe-research.md]]"
+  - "[[summaries/reflections-vibe-research.md]]"
+  - "[[summaries/ai-one-shot-papers.md]]"
+  - "[[summaries/can-ai-replace-researchers.md]]"
+  - "[[summaries/research-in-time-of-ai.md]]"
 date_updated: 2026-04-03
 ---
 
@@ -24,15 +24,15 @@ The vibe research debate sits within a broader discussion about how AI changes t
 
 ## Key Perspectives
 
-**Gregoire** ([[wiki/summaries/vibe-research.md]]) provides the most detailed positive account. He produced a theoretical finance paper in four days using Claude Code in YOLO mode overnight, multi-agent review loops, and systematic reference verification. He emphasizes that human judgment remained critical at every stage: choosing the idea, steering model design, deciding which suggestions to accept, and verifying references. He admits discomfort with not fully understanding every line of math in his own paper, highlighting the intellectual ownership tension. His framing: AI makes you "faster, not smarter."
+**Gregoire** ([[summaries/vibe-research.md]]) provides the most detailed positive account. He produced a theoretical finance paper in four days using Claude Code in YOLO mode overnight, multi-agent review loops, and systematic reference verification. He emphasizes that human judgment remained critical at every stage: choosing the idea, steering model design, deciding which suggestions to accept, and verifying references. He admits discomfort with not fully understanding every line of math in his own paper, highlighting the intellectual ownership tension. His framing: AI makes you "faster, not smarter."
 
-**Gans** ([[wiki/summaries/reflections-vibe-research.md]]) provides the most detailed negative account -- a rare, honest post-mortem from a year-long experiment. He identifies three major pitfalls. First, AI makes **subtle theoretical mistakes** beyond simple math errors -- particularly around equilibrium concepts and information sets in game-theoretic models. Second, the reduced cost of completion leads to **pursuing weaker ideas** that would normally be abandoned at natural decision points. Third, LLMs are **seductive** -- they present formal results with confidence, making it easy to believe you have discovered something when you have not. He produced many working papers, some accepted at lower-tier journals, but none at top-tier outlets. His revised approach: mandatory cooling-off periods, more peer feedback, and explicit go/no-go decision points.
+**Gans** ([[summaries/reflections-vibe-research.md]]) provides the most detailed negative account -- a rare, honest post-mortem from a year-long experiment. He identifies three major pitfalls. First, AI makes **subtle theoretical mistakes** beyond simple math errors -- particularly around equilibrium concepts and information sets in game-theoretic models. Second, the reduced cost of completion leads to **pursuing weaker ideas** that would normally be abandoned at natural decision points. Third, LLMs are **seductive** -- they present formal results with confidence, making it easy to believe you have discovered something when you have not. He produced many working papers, some accepted at lower-tier journals, but none at top-tier outlets. His revised approach: mandatory cooling-off periods, more peer feedback, and explicit go/no-go decision points.
 
-**Goldsmith-Pinkham (One-Shot Papers)** ([[wiki/summaries/ai-one-shot-papers.md]]) examines the methodological composition of AI-generated empirical papers and finds that automated systems overwhelmingly default to difference-in-differences (64% of APE papers vs. 35% of NBER papers). This **methodological monoculture** reflects that DiD is the most formulaic causal inference method, but doing it well requires significant human judgment about parallel trends, treatment timing, and identification assumptions. The methods AI finds easiest to automate are precisely the ones where researcher discretion matters most.
+**Goldsmith-Pinkham (One-Shot Papers)** ([[summaries/ai-one-shot-papers.md]]) examines the methodological composition of AI-generated empirical papers and finds that automated systems overwhelmingly default to difference-in-differences (64% of APE papers vs. 35% of NBER papers). This **methodological monoculture** reflects that DiD is the most formulaic causal inference method, but doing it well requires significant human judgment about parallel trends, treatment timing, and identification assumptions. The methods AI finds easiest to automate are precisely the ones where researcher discretion matters most.
 
-**Karpf** ([[wiki/summaries/can-ai-replace-researchers.md]]) argues that the real issue is not AI capability but the broken incentive structure of academic publishing. If AI can produce "barely publishable" articles at scale, it accelerates the collapse of a publish-or-perish system that was already dysfunctional. Researchers should refocus on "What questions do I actually want to answer?" rather than optimizing for publication metrics.
+**Karpf** ([[summaries/can-ai-replace-researchers.md]]) argues that the real issue is not AI capability but the broken incentive structure of academic publishing. If AI can produce "barely publishable" articles at scale, it accelerates the collapse of a publish-or-perish system that was already dysfunctional. Researchers should refocus on "What questions do I actually want to answer?" rather than optimizing for publication metrics.
 
-**Goldsmith-Pinkham (Research in the Time of AI)** ([[wiki/summaries/research-in-time-of-ai.md]]) provides the most systematic framework. He maps the research pipeline stage by stage (ideation through publication) and argues that AI compresses execution but does not railroad over the process. The skills AI replicates are execution skills (coding, data cleaning, drafting); the skills it does not replicate -- research taste, identification judgment, institutional knowledge -- have become more valuable, not less.
+**Goldsmith-Pinkham (Research in the Time of AI)** ([[summaries/research-in-time-of-ai.md]]) provides the most systematic framework. He maps the research pipeline stage by stage (ideation through publication) and argues that AI compresses execution but does not railroad over the process. The skills AI replicates are execution skills (coding, data cleaning, drafting); the skills it does not replicate -- research taste, identification judgment, institutional knowledge -- have become more valuable, not less.
 
 ## Practical Implications
 
@@ -53,8 +53,8 @@ The vibe research debate sits within a broader discussion about how AI changes t
 
 ## Sources
 
-- [[wiki/summaries/vibe-research.md]] -- Gregoire's four-day paper production workflow
-- [[wiki/summaries/reflections-vibe-research.md]] -- Gans's year-long post-mortem on AI-first research
-- [[wiki/summaries/ai-one-shot-papers.md]] -- Goldsmith-Pinkham on methodological monoculture in AI-generated papers
-- [[wiki/summaries/can-ai-replace-researchers.md]] -- Karpf on broken incentives and the core of social science
-- [[wiki/summaries/research-in-time-of-ai.md]] -- Goldsmith-Pinkham's stage-by-stage analysis of AI in the research pipeline
+- [[summaries/vibe-research.md]] -- Gregoire's four-day paper production workflow
+- [[summaries/reflections-vibe-research.md]] -- Gans's year-long post-mortem on AI-first research
+- [[summaries/ai-one-shot-papers.md]] -- Goldsmith-Pinkham on methodological monoculture in AI-generated papers
+- [[summaries/can-ai-replace-researchers.md]] -- Karpf on broken incentives and the core of social science
+- [[summaries/research-in-time-of-ai.md]] -- Goldsmith-Pinkham's stage-by-stage analysis of AI in the research pipeline

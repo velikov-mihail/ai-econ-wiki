@@ -2,12 +2,12 @@
 title: "AI Adoption in Academia"
 tags: [concept, institutional-societal, higher-education]
 sources:
-  - "[[wiki/summaries/academics-wake-up.md]]"
-  - "[[wiki/summaries/academics-wake-up-2.md]]"
-  - "[[wiki/summaries/train-left-station.md]]"
-  - "[[wiki/summaries/something-big-happening.md]]"
-  - "[[wiki/summaries/can-ai-replace-researchers.md]]"
-  - "[[wiki/summaries/shape-of-ai.md]]"
+  - "[[summaries/academics-wake-up.md]]"
+  - "[[summaries/academics-wake-up-2.md]]"
+  - "[[summaries/train-left-station.md]]"
+  - "[[summaries/something-big-happening.md]]"
+  - "[[summaries/can-ai-replace-researchers.md]]"
+  - "[[summaries/shape-of-ai.md]]"
 date_updated: 2026-04-03
 ---
 
@@ -27,15 +27,15 @@ A key feature of the adoption landscape is **information asymmetry**: researcher
 
 ## Key Perspectives
 
-**Kustov ([[wiki/summaries/academics-wake-up.md|Academics Need to Wake Up]], [[wiki/summaries/academics-wake-up-2.md|Part II]])** represents the urgency pole. He argues that AI can already perform most social science research tasks better than the global average professor, that the traditional 30-page journal article is a "dead format walking," and that much academic opposition is status protection dressed up as principle. His provocation -- revealing that his viral post was entirely AI-generated -- deliberately tested the boundary between human and AI authorship. In his follow-up, he concedes that qualitative research and fieldwork gain relative value, takes skill atrophy seriously as a training risk, and argues that mandatory AI disclosure norms create perverse incentives that select for dishonesty.
+**Kustov ([[summaries/academics-wake-up.md|Academics Need to Wake Up]], [[summaries/academics-wake-up-2.md|Part II]])** represents the urgency pole. He argues that AI can already perform most social science research tasks better than the global average professor, that the traditional 30-page journal article is a "dead format walking," and that much academic opposition is status protection dressed up as principle. His provocation -- revealing that his viral post was entirely AI-generated -- deliberately tested the boundary between human and AI authorship. In his follow-up, he concedes that qualitative research and fieldwork gain relative value, takes skill atrophy seriously as a training risk, and argues that mandatory AI disclosure norms create perverse incentives that select for dishonesty.
 
-**Messing and Tucker ([[wiki/summaries/train-left-station.md|The Train Has Left the Station]])** provide the most institutionally grounded assessment. They document concrete productivity gains (building an R package in one day, producing a 20-page analytical report in under an hour) while carefully cataloging risks: skill atrophy, security vulnerabilities, quality degradation, and energy consumption. They project that journal submissions may increase 50% or more, fundamentally straining peer review. Their key recommendation: research assessment may need to shift toward evaluating deep understanding (through talks) rather than paper output.
+**Messing and Tucker ([[summaries/train-left-station.md|The Train Has Left the Station]])** provide the most institutionally grounded assessment. They document concrete productivity gains (building an R package in one day, producing a 20-page analytical report in under an hour) while carefully cataloging risks: skill atrophy, security vulnerabilities, quality degradation, and energy consumption. They project that journal submissions may increase 50% or more, fundamentally straining peer review. Their key recommendation: research assessment may need to shift toward evaluating deep understanding (through talks) rather than paper output.
 
-**Karpf ([[wiki/summaries/can-ai-replace-researchers.md|Can AI Replace Researchers?]])** represents the skeptical-but-nuanced position. He agrees the journal article as primary unit of production is probably dead, but frames this as the collapse of an already-dysfunctional system. His core argument: if you think Claude Code is a better social scientist than you, the problem is that you stopped trying to answer interesting questions. The bigger crisis facing academia is defunding and political assault, not AI.
+**Karpf ([[summaries/can-ai-replace-researchers.md|Can AI Replace Researchers?]])** represents the skeptical-but-nuanced position. He agrees the journal article as primary unit of production is probably dead, but frames this as the collapse of an already-dysfunctional system. His core argument: if you think Claude Code is a better social scientist than you, the problem is that you stopped trying to answer interesting questions. The bigger crisis facing academia is defunding and political assault, not AI.
 
-**Shumer ([[wiki/summaries/something-big-happening.md|Something Big Is Happening]])** provides the practitioner-shock perspective from outside academia. He reports being personally displaced from technical work and cites METR measurements showing AI task completion duration doubling every 4-7 months. His COVID analogy -- "we are in the equivalent 'this seems overblown' phase" -- captures the urgency felt by those closest to the technology.
+**Shumer ([[summaries/something-big-happening.md|Something Big Is Happening]])** provides the practitioner-shock perspective from outside academia. He reports being personally displaced from technical work and cites METR measurements showing AI task completion duration doubling every 4-7 months. His COVID analogy -- "we are in the equivalent 'this seems overblown' phase" -- captures the urgency felt by those closest to the technology.
 
-**Mollick ([[wiki/summaries/shape-of-ai.md|The Shape of AI]])** offers the analytical framework for understanding why adoption is uneven. The "jagged frontier" concept explains why critics and enthusiasts talk past each other: critics point to AI's troughs (simple failures), enthusiasts point to its peaks (superhuman performance), and both are correct about different tasks. Bottlenecks -- both technical and institutional -- explain why impressive demonstrations do not automatically translate into widespread adoption.
+**Mollick ([[summaries/shape-of-ai.md|The Shape of AI]])** offers the analytical framework for understanding why adoption is uneven. The "jagged frontier" concept explains why critics and enthusiasts talk past each other: critics point to AI's troughs (simple failures), enthusiasts point to its peaks (superhuman performance), and both are correct about different tasks. Bottlenecks -- both technical and institutional -- explain why impressive demonstrations do not automatically translate into widespread adoption.
 
 ## Practical Implications
 
@@ -57,9 +57,9 @@ For economics researchers navigating the adoption landscape:
 
 ## Sources
 
-- [[wiki/summaries/academics-wake-up.md|Academics Need to Wake Up]] -- Kustov's provocative ten theses
-- [[wiki/summaries/academics-wake-up-2.md|Academics Need to Wake Up, Part II]] -- Concessions and deepened analysis
-- [[wiki/summaries/train-left-station.md|The Train Has Left the Station]] -- Messing and Tucker's Brookings assessment
-- [[wiki/summaries/something-big-happening.md|Something Big Is Happening]] -- Shumer's practitioner-shock perspective
-- [[wiki/summaries/can-ai-replace-researchers.md|Can AI Replace Researchers?]] -- Karpf's skeptical counterpoint
-- [[wiki/summaries/shape-of-ai.md|The Shape of AI]] -- Mollick's jagged frontier framework
+- [[summaries/academics-wake-up.md|Academics Need to Wake Up]] -- Kustov's provocative ten theses
+- [[summaries/academics-wake-up-2.md|Academics Need to Wake Up, Part II]] -- Concessions and deepened analysis
+- [[summaries/train-left-station.md|The Train Has Left the Station]] -- Messing and Tucker's Brookings assessment
+- [[summaries/something-big-happening.md|Something Big Is Happening]] -- Shumer's practitioner-shock perspective
+- [[summaries/can-ai-replace-researchers.md|Can AI Replace Researchers?]] -- Karpf's skeptical counterpoint
+- [[summaries/shape-of-ai.md|The Shape of AI]] -- Mollick's jagged frontier framework

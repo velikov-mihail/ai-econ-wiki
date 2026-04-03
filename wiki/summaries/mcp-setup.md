@@ -31,9 +31,9 @@ MCP integrations are directly useful for economics researchers who want to autom
 ## Related Concepts
 
 - [[concepts/claude-code]]
-- [[concepts/mcp-integrations]]
-- [[concepts/ai-workflow-automation]]
-- [[concepts/privacy-and-data-security]]
+- [[concepts/mcp-protocol]]
+- [[concepts/ai-workflows]]
+- [[concepts/data-privacy]]
 
 ## Related Summaries
 

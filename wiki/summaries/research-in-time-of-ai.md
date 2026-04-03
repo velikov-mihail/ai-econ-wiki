@@ -35,7 +35,7 @@ This is one of the most systematic treatments of how AI affects the economics re
 - [[concepts/ai-research-tools]]
 - [[concepts/research-quality]]
 - [[concepts/human-in-the-loop]]
-- [[concepts/p-hacking]]
+- [[concepts/empirical-methods]]
 
 ## Related Summaries
 

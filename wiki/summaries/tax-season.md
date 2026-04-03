@@ -29,12 +29,12 @@ This case study demonstrates how Claude Code skills can be built for document-he
 
 ## Related Concepts
 
-- [[wiki/concepts/claude-code-skills]]
-- [[wiki/concepts/ai-workflow-design]]
-- [[wiki/concepts/document-processing]]
+- [[concepts/claude-code-skills]]
+- [[concepts/ai-workflows]]
+- [[concepts/document-processing]]
 
 ## Related Summaries
 
-- [[wiki/summaries/academic-tax-basics]]
-- [[wiki/summaries/when-to-get-help]]
-- [[wiki/summaries/cost-reality]]
+- [[summaries/academic-tax-basics]]
+- [[summaries/when-to-get-help]]
+- [[summaries/cost-reality]]

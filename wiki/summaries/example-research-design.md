@@ -28,13 +28,13 @@ This example is essentially a template for how an economics research team could 
 
 ## Related Concepts
 
-- [[wiki/concepts/ai-research-workflows]]
-- [[wiki/concepts/ai-workflow-design]]
-- [[wiki/concepts/pre-analysis-plans]]
+- [[concepts/ai-research-tools]]
+- [[concepts/ai-workflows]]
+- [[concepts/pre-analysis-plans]]
 
 ## Related Summaries
 
-- [[wiki/summaries/project-management]]
-- [[wiki/summaries/example-project-dashboard]]
-- [[wiki/summaries/project-manager-claude]]
-- [[wiki/summaries/stress-test-plan]]
+- [[summaries/project-management]]
+- [[summaries/example-project-dashboard]]
+- [[summaries/project-manager-claude]]
+- [[summaries/stress-test-plan]]

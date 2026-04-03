@@ -31,8 +31,8 @@ Maintaining a distinct authorial voice is important for economists who use AI fo
 
 ## Related Concepts
 
-- [[concepts/ai-writing-workflow]]
-- [[concepts/prompting-techniques]]
+- [[concepts/ai-writing]]
+- [[concepts/prompt-engineering]]
 - [[concepts/ai-research-tools]]
 
 ## Related Summaries

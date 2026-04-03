@@ -39,7 +39,7 @@ This is the most comprehensive academic survey of LLM capabilities relevant to e
 - [[concepts/open-source-models]]
 - [[concepts/retrieval-augmented-generation]]
 - [[concepts/ai-agents]]
-- [[concepts/data-confidentiality-ai]]
+- [[concepts/data-privacy]]
 
 ## Related Summaries
 

@@ -34,10 +34,10 @@ This presentation is tailored specifically for empirical finance and economics r
 
 - [[concepts/claude-code]]
 - [[concepts/ai-agents]]
-- [[concepts/context-window-management]]
+- [[concepts/context-management]]
 - [[concepts/cross-language-replication]]
 - [[concepts/ai-adoption-academia]]
-- [[concepts/skills-and-workflows]]
+- [[concepts/skills-vs-agents]]
 
 ## Related Summaries
 

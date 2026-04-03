@@ -30,11 +30,11 @@ For researchers who spend significant time writing -- emails to collaborators, r
 
 ## Related Concepts
 
-- [[wiki/concepts/tools-and-setup]]
-- [[wiki/concepts/professional-productivity]]
+- [[concepts/ai-tools-landscape]]
+- [[concepts/research-productivity]]
 
 ## Related Summaries
 
-- [[wiki/summaries/ai-executive-assistant]]
-- [[wiki/summaries/cost-reality]]
-- [[wiki/summaries/meeting-transcription]]
+- [[summaries/ai-executive-assistant]]
+- [[summaries/cost-reality]]
+- [[summaries/meeting-transcription]]

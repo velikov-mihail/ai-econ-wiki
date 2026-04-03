@@ -27,11 +27,11 @@ The article's most compelling contribution is the agent debate pattern, illustra
 This article is directly relevant to economics researchers using Claude Code for paper writing, study design, and data analysis. The self-bias problem is particularly important: any economist who uses AI to draft analysis and then asks the same session to review it is getting a systematically biased assessment. The agent debate pattern offers a practical method for stress-testing research designs, analogous to presenting at a seminar but available on demand. The skill vs. agent distinction also has implications for how economists structure their coding workflows --- using skills for interactive data analysis and agents for parallel code review.
 
 - **Related Concepts**
-  - [[concepts/skills]]
+  - [[concepts/skills-vs-agents]]
   - [[concepts/agentic-workflows]]
   - [[concepts/claude-code]]
-  - [[concepts/self-bias-in-ai]]
-  - [[concepts/agent-debates]]
+  - [[concepts/sycophancy-and-bias]]
+  - [[concepts/agentic-ai]]
 
 - **Related Summaries**
   - [[summaries/learn-ai-coding-agents]]
