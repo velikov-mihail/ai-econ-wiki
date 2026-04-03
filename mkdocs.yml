@@ -1,0 +1,69 @@
+site_name: AI in Economics & Social Science Research
+site_description: A knowledge base on AI workflows for economics, business, and social science research
+site_url: https://velikov-mihail.github.io/ai-econ-wiki/
+
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - toc.follow
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+docs_dir: wiki
+
+plugins:
+  - search
+  - roamlinks
+  - tags:
+      tags_file: tags.md
+
+markdown_extensions:
+  - admonition
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.details
+  - footnotes
+  - toc:
+      permalink: true
+  - attr_list
+  - md_in_html
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+nav:
+  - Home: index.md
+  - Summaries:
+      - Overview: summaries/index.md
+      - Foundations & Setup: summaries/foundations-setup.md
+      - Prompt Engineering & Workflow: summaries/prompt-engineering-workflow.md
+      - AI Agents & Agentic AI: summaries/ai-agents.md
+      - Claude Code Skills & Advanced: summaries/claude-code-skills.md
+      - Data Analysis & Web Scraping: summaries/data-analysis.md
+      - Academic Research & Publishing: summaries/academic-research.md
+      - Finance & Econometrics: summaries/finance-econometrics.md
+      - AI Tools & Comparisons: summaries/ai-tools.md
+      - Institutional & Societal: summaries/institutional-societal.md
+      - Professional Productivity: summaries/professional-productivity.md
+  - Concepts: concepts/index.md
+  - Visualizations: visualizations/index.md
+  - Tags: tags.md
