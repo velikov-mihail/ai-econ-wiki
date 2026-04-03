@@ -10,4 +10,16 @@ Agent frameworks, agentic workflows, and autonomous AI systems for research.
 
 ## Summaries
 
-*Summaries will be added as articles are processed.*
+### Agentic AI Overview
+- [[agentic-everything|Agentic Everything]] — Teddy Svoronos on the qualitative shift to agentic AI
+- [[ai-agents-generative-ai|AI Agents (Korinek)]] — Three AI paradigms: LLMs, reasoning models, agentic chatbots
+- [[claude-code-what-comes-next|Claude Code and What Comes Next]] — Mollick on Claude Code's capabilities and trajectory
+
+### Agents for Economics
+- [[ai-agents-econ-research|AI Agents for Economic Research]] — Panjwani's VoxDev webinar on practical agent use
+- [[how-scientists-use-claude-code|How Do Scientists Use Claude Code]] — Empirical study of Claude Code adoption among 16K scientists
+
+### Architecture & Design
+- [[agents-vs-skills|Agents vs Skills]] — Decision framework for skills vs agents in Claude Code
+- [[learn-ai-coding-agents|Learn About AI Coding Agents]] — Skills, rules, subagents, and configuration hierarchy
+- [[claude-dispatch|Claude Dispatch and the Power of Interfaces]] — Mollick on interface design and cognitive load

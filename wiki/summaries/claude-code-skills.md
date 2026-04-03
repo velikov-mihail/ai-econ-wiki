@@ -10,4 +10,16 @@ Building skills, the DAAF framework, continuous improvement, and compilation wor
 
 ## Summaries
 
-*Summaries will be added as articles are processed.*
+### Building & Managing Skills
+- [[building-skills|Building Skills]] — Blattman's guide to creating Claude Code skills
+- [[skill-library|Skill Library]] — Curated collection of reusable skills
+- [[build-your-own|Build Your Own]] — Hands-on guide to custom skill creation
+
+### Frameworks & Workflows
+- [[daaf-framework|DAAF Framework]] — Data Analyst Augmentation Framework (5-10x acceleration)
+- [[ai-research-feedback-skills|AI Research Feedback Skills]] — Claes Bäckman's academic research review skills
+- [[compilation-review|Compilation & Review]] — Compilation and review workflows
+
+### Configuration & Improvement
+- [[continuous-improvement|Continuous Improvement]] — Iterative refinement of AI-assisted workflows
+- [[real-claude-md|A Real CLAUDE.md]] — Annotated real-world CLAUDE.md example
