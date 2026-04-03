@@ -3,6 +3,11 @@ title: "Coding with LLMs"
 tags: [concept, tools, coding]
 sources:
   - "[[summaries/applications-generative-ai.md]]"
+  - "[[summaries/using-llms-cursor.md]]"
+  - "[[summaries/thread-arindube.md]]"
+  - "[[summaries/spina-paper.md]]"
+  - "[[summaries/research-in-time-of-ai.md]]"
+  - "[[summaries/openai-automated-researcher.md]]"
 date_updated: 2026-04-03
 ---
 
@@ -26,6 +31,14 @@ For economists and social scientists, many of whom are self-taught programmers, 
 - **Test everything**: AI-generated code can have subtle bugs — write tests
 - **Learn from the code**: Use AI-generated code as a learning opportunity, not a black box
 - **Use version control**: Track AI-generated changes so you can revert if needed
+
+## Key Sources
+
+- [[summaries/using-llms-cursor|Using LLMs with Cursor: Modern AI for Economics Research]]
+- [[summaries/thread-arindube|Arin Dube Thread: LLMs Haven't Raised NBER Working Papers Above Trend]]
+- [[summaries/spina-paper|Claude Code for Academics: An AI Agent for Empirical Research]]
+- [[summaries/research-in-time-of-ai|Research in the Time of AI]]
+- [[summaries/openai-automated-researcher|OpenAI is throwing everything into building a fully automated researcher]]
 
 ## Related Concepts
 

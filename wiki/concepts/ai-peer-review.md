@@ -3,6 +3,11 @@ title: "AI-Assisted Peer Review"
 tags: [concept, academic-research, quality]
 sources:
   - "[[summaries/refine-ink-golub.md]]"
+  - "[[summaries/train-left-station.md]]"
+  - "[[summaries/prompt-plan-review-revise.md]]"
+  - "[[summaries/project-ape.md]]"
+  - "[[summaries/my-claude-code-setup.md]]"
+  - "[[summaries/how-scientists-use-claude-code.md]]"
 date_updated: 2026-04-03
 ---
 
@@ -25,6 +30,14 @@ The peer review system faces growing strain from increasing submission volumes a
 - **Don't submit AI reviews as your own**: If you're a reviewer, AI can assist but the review should reflect your judgment
 - **Be aware of sycophancy**: AI reviewers tend to be too positive — explicitly ask for criticism
 - **Complement with human feedback**: AI review is a supplement to, not substitute for, colleague feedback
+
+## Key Sources
+
+- [[summaries/train-left-station|The Train Has Left the Station: Agentic AI and the Future of Social Science Research]]
+- [[summaries/prompt-plan-review-revise|Prompt, Plan, Review, Revise]]
+- [[summaries/project-ape|Project APE: Can Policy Evaluation Be Automated?]]
+- [[summaries/my-claude-code-setup|My Claude Code Setup - Academic Workflow Template]]
+- [[summaries/how-scientists-use-claude-code|How Do Scientists Use Claude Code?]]
 
 ## Related Concepts
 

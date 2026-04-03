@@ -3,6 +3,9 @@ title: "AI for Non-Coders"
 tags: [concept, tools, accessibility]
 sources:
   - "[[summaries/blattman-x-post.md]]"
+  - "[[summaries/thread-cblatts.md]]"
+  - "[[summaries/guide-which-ai.md]]"
+  - "[[summaries/ai-for-professionals.md]]"
 date_updated: 2026-04-03
 ---
 
@@ -25,6 +28,12 @@ Many powerful AI tools require some comfort with code or command-line interfaces
 - **Use AI to learn coding**: Let AI teach you Python/R incrementally as you work on real tasks
 - **Don't avoid the terminal forever**: Basic command-line skills unlock the most powerful AI tools
 - **Pair with a coder**: Collaborate with someone who can set up the technical infrastructure
+
+## Key Sources
+
+- [[summaries/thread-cblatts|Chris Blattman Thread: From Claude Code Skeptic to Power User]]
+- [[summaries/guide-which-ai|A Guide to Which AI to Use in the Agentic Era]]
+- [[summaries/ai-for-professionals|AI for Professionals Who Don't Code - Site Overview]]
 
 ## Related Concepts
 

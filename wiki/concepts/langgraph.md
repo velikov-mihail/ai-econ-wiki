@@ -3,6 +3,11 @@ title: "LangGraph"
 tags: [concept, tools, technology]
 sources:
   - "[[summaries/ai-agents-generative-ai.md]]"
+  - "[[summaries/thread-arindube.md]]"
+  - "[[summaries/shape-of-ai.md]]"
+  - "[[summaries/professional-productivity.md]]"
+  - "[[summaries/panjwani-slides.md]]"
+  - "[[summaries/llm-collaboration.md]]"
 date_updated: 2026-04-03
 ---
 
@@ -26,6 +31,14 @@ Key features:
 - **Consider your needs**: LangGraph is powerful but has a learning curve — use simpler tools (Claude Code, API calls) when they suffice
 - **Good for custom pipelines**: When standard tools don't fit your specific research workflow
 - **Requires Python skills**: Building with LangGraph requires comfortable Python programming
+
+## Key Sources
+
+- [[summaries/thread-arindube|Arin Dube Thread: LLMs Haven't Raised NBER Working Papers Above Trend]]
+- [[summaries/shape-of-ai|The Shape of AI: Jaggedness, Bottlenecks and Salients]]
+- [[summaries/professional-productivity|Professional Productivity]]
+- [[summaries/panjwani-slides|AI Agents for Economics Research]]
+- [[summaries/llm-collaboration|LLM Collaboration and Reasoning -- Generative AI for Economic Research]]
 
 ## Related Concepts
 

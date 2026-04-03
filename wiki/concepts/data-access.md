@@ -3,6 +3,11 @@ title: "Data Access"
 tags: [concept, data, tools]
 sources:
   - "[[summaries/automated-research-finance.md]]"
+  - "[[summaries/data-analysis.md]]"
+  - "[[summaries/your-claude-md.md]]"
+  - "[[summaries/vibe-research.md]]"
+  - "[[summaries/thread-cblatts.md]]"
+  - "[[summaries/research-in-time-of-ai.md]]"
 date_updated: 2026-04-03
 ---
 
@@ -25,6 +30,14 @@ Effective AI-assisted research requires the AI tool to access the same data sour
 - **Use MCP for database access**: Connect Claude Code to databases via MCP for seamless queries
 - **Respect data agreements**: Ensure AI tool use complies with data provider terms
 - **Cache aggressively**: Store downloaded data locally to reduce API calls and ensure reproducibility
+
+## Key Sources
+
+- [[summaries/data-analysis|Data Analysis & Web Scraping]]
+- [[summaries/your-claude-md|Your CLAUDE.md]]
+- [[summaries/vibe-research|Vibe Research, or How I Wrote an Academic Paper in Four Days]]
+- [[summaries/thread-cblatts|Chris Blattman Thread: From Claude Code Skeptic to Power User]]
+- [[summaries/research-in-time-of-ai|Research in the Time of AI]]
 
 ## Related Concepts
 

@@ -3,6 +3,11 @@ title: "AI-Assisted Literature Review"
 tags: [concept, academic-research, tools]
 sources:
   - "[[summaries/notebooklm.md]]"
+  - "[[summaries/vibe-research.md]]"
+  - "[[summaries/train-left-station.md]]"
+  - "[[summaries/spina-paper.md]]"
+  - "[[summaries/shape-of-ai.md]]"
+  - "[[summaries/setup-vs-code.md]]"
 date_updated: 2026-04-03
 ---
 
@@ -26,6 +31,14 @@ Literature review is one of the most time-consuming aspects of academic research
 - **Use AI for synthesis, not search alone**: The real value is in connecting ideas across papers
 - **Combine tools**: Use Semantic Scholar for search, NotebookLM for deep reading, LLMs for synthesis
 - **Read key papers yourself**: AI summaries are no substitute for deep reading of foundational papers in your area
+
+## Key Sources
+
+- [[summaries/vibe-research|Vibe Research, or How I Wrote an Academic Paper in Four Days]]
+- [[summaries/train-left-station|The Train Has Left the Station: Agentic AI and the Future of Social Science Research]]
+- [[summaries/spina-paper|Claude Code for Academics: An AI Agent for Empirical Research]]
+- [[summaries/shape-of-ai|The Shape of AI: Jaggedness, Bottlenecks and Salients]]
+- [[summaries/setup-vs-code|Set Up VS Code for Claude Code]]
 
 ## Related Concepts
 

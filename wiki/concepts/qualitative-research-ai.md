@@ -3,6 +3,11 @@ title: "Qualitative Research with AI"
 tags: [concept, methodology, research]
 sources:
   - "[[summaries/notebooklm.md]]"
+  - "[[summaries/train-left-station.md]]"
+  - "[[summaries/thread-jesusferna.md]]"
+  - "[[summaries/project-management.md]]"
+  - "[[summaries/ai-agents.md]]"
+  - "[[summaries/agents-vs-skills.md]]"
 date_updated: 2026-04-03
 ---
 
@@ -26,6 +31,14 @@ AI tools offer several capabilities relevant to qualitative research:
 - **Validate AI coding**: Compare AI-generated codes against your own for a subset of data
 - **Leverage speed for iteration**: AI enables more rounds of coding and refinement
 - **Be transparent**: Report AI involvement in qualitative analysis methods sections
+
+## Key Sources
+
+- [[summaries/train-left-station|The Train Has Left the Station: Agentic AI and the Future of Social Science Research]]
+- [[summaries/thread-jesusferna|Jesus Fernandez-Villaverde Thread: Twelve Arguments for Traditional Higher Education]]
+- [[summaries/project-management|Project Management with AI]]
+- [[summaries/ai-agents|AI Agents & Agentic AI]]
+- [[summaries/agents-vs-skills|Agents vs Skills]]
 
 ## Related Concepts
 

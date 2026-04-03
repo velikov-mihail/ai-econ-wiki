@@ -3,6 +3,11 @@ title: "Hard vs. Easy Tasks with AI"
 tags: [concept, theory, productivity]
 sources:
   - "[[summaries/thread-arindube.md]]"
+  - "[[summaries/voice-dictation.md]]"
+  - "[[summaries/using-llms-cursor.md]]"
+  - "[[summaries/my-claude-code-setup.md]]"
+  - "[[summaries/korinek-2023.md]]"
+  - "[[summaries/guide-which-ai.md]]"
 date_updated: 2026-04-03
 ---
 
@@ -25,6 +30,14 @@ Examples of the inversion:
 - **Assign cognitively complex tasks**: AI often excels at synthesis, translation, and generation
 - **Verify simple outputs extra carefully**: Paradoxically, AI's simple outputs need more checking
 - **Use tools for precision**: Give AI access to calculators and code execution for exact computation
+
+## Key Sources
+
+- [[summaries/voice-dictation|Voice Dictation]]
+- [[summaries/using-llms-cursor|Using LLMs with Cursor: Modern AI for Economics Research]]
+- [[summaries/my-claude-code-setup|My Claude Code Setup - Academic Workflow Template]]
+- [[summaries/korinek-2023|Generative AI for Economic Research: Use Cases and Implications for Economists]]
+- [[summaries/guide-which-ai|A Guide to Which AI to Use in the Agentic Era]]
 
 ## Related Concepts
 

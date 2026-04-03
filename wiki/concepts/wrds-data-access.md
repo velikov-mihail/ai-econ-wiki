@@ -3,6 +3,11 @@ title: "WRDS Data Access with AI"
 tags: [concept, data, finance]
 sources:
   - "[[summaries/claude-wrds-tools.md]]"
+  - "[[summaries/automated-research-finance.md]]"
+  - "[[summaries/vibe-research.md]]"
+  - "[[summaries/thread-arindube.md]]"
+  - "[[summaries/getting-started-researchers.md]]"
+  - "[[summaries/data-analysis.md]]"
 date_updated: 2026-04-03
 ---
 
@@ -26,6 +31,14 @@ WRDS hosts critical research databases including CRSP (stock returns), Compustat
 - **Respect data agreements**: Ensure AI tool use complies with your WRDS subscription terms
 - **Cache locally**: Download data once and work with local copies to reduce WRDS load
 - **Verify queries**: Check AI-generated WRDS queries against the data manual before running them on large datasets
+
+## Key Sources
+
+- [[summaries/automated-research-finance|Seeking Collaboration to Test Automated Research in Finance]]
+- [[summaries/vibe-research|Vibe Research, or How I Wrote an Academic Paper in Four Days]]
+- [[summaries/thread-arindube|Arin Dube Thread: LLMs Haven't Raised NBER Working Papers Above Trend]]
+- [[summaries/getting-started-researchers|Getting Started with Claude Code: A Researcher's Setup Guide]]
+- [[summaries/data-analysis|Data Analysis & Web Scraping]]
 
 ## Related Concepts
 

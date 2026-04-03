@@ -3,6 +3,11 @@ title: "Data Analysis Workflows"
 tags: [concept, data, workflows]
 sources:
   - "[[summaries/daaf-framework.md]]"
+  - "[[summaries/your-claude-md.md]]"
+  - "[[summaries/thread-cblatts.md]]"
+  - "[[summaries/shape-of-ai.md]]"
+  - "[[summaries/real-claude-md.md]]"
+  - "[[summaries/project-management.md]]"
 date_updated: 2026-04-03
 ---
 
@@ -25,6 +30,14 @@ Reliable data analysis requires more than running code — it requires a structu
 - **Use CLAUDE.md for analysis conventions**: Document variable naming, file structure, and analysis standards
 - **Automate repetitive analysis**: Build reusable scripts for common analysis patterns
 - **Log everything**: Keep records of all data transformations and analysis decisions
+
+## Key Sources
+
+- [[summaries/your-claude-md|Your CLAUDE.md]]
+- [[summaries/thread-cblatts|Chris Blattman Thread: From Claude Code Skeptic to Power User]]
+- [[summaries/shape-of-ai|The Shape of AI: Jaggedness, Bottlenecks and Salients]]
+- [[summaries/real-claude-md|A Real CLAUDE.md -- Annotated Example]]
+- [[summaries/project-management|Project Management with AI]]
 
 ## Related Concepts
 

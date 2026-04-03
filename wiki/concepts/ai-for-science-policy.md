@@ -3,6 +3,11 @@ title: "AI for Science Policy"
 tags: [concept, applications, policy]
 sources:
   - "[[summaries/how-scientists-use-claude-code.md]]"
+  - "[[summaries/train-left-station.md]]"
+  - "[[summaries/web-scraping-economists.md]]"
+  - "[[summaries/teaching-ai-your-voice.md]]"
+  - "[[summaries/starter-templates.md]]"
+  - "[[summaries/skill-library.md]]"
 date_updated: 2026-04-03
 ---
 
@@ -24,6 +29,14 @@ AI creates new opportunities for policy-relevant research by:
 - **Focus on actionable insights**: Policy audiences need clear, timely results
 - **Be transparent about AI use**: Policy relevance requires credibility, which requires transparency
 - **Validate rigorously**: Policy decisions have real-world consequences — verify AI-assisted findings thoroughly
+
+## Key Sources
+
+- [[summaries/train-left-station|The Train Has Left the Station: Agentic AI and the Future of Social Science Research]]
+- [[summaries/web-scraping-economists|Web Scraping: Claude Code for Economists with Paul Goldsmith-Pinkham (Markus Academy Ep. 162-3)]]
+- [[summaries/teaching-ai-your-voice|Teaching AI Your Voice]]
+- [[summaries/starter-templates|Starter Templates for AI Workflow Skills]]
+- [[summaries/skill-library|Skill Library]]
 
 ## Related Concepts
 

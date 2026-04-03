@@ -3,6 +3,11 @@ title: "AI Skills for Researchers"
 tags: [concept, education, productivity]
 sources:
   - "[[summaries/awesome-econ-ai.md]]"
+  - "[[summaries/your-claude-md.md]]"
+  - "[[summaries/workflows.md]]"
+  - "[[summaries/thread-cblatts.md]]"
+  - "[[summaries/thread-alexolegimas.md]]"
+  - "[[summaries/tax-season.md]]"
 date_updated: 2026-04-03
 ---
 
@@ -27,6 +32,14 @@ The AI skills researchers need are different from those of software engineers or
 - **Start with your current work**: Apply AI to tasks you already understand well
 - **Join communities**: Economics AI user groups share practical knowledge
 - **Teach others**: Teaching AI skills reinforces your own understanding
+
+## Key Sources
+
+- [[summaries/your-claude-md|Your CLAUDE.md]]
+- [[summaries/workflows|Workflows]]
+- [[summaries/thread-cblatts|Chris Blattman Thread: From Claude Code Skeptic to Power User]]
+- [[summaries/thread-alexolegimas|Alex Imas Thread: Man-Computer Symbiosis and the Excitement of AI in Research]]
+- [[summaries/tax-season|Using Claude Code for Tax Season]]
 
 ## Related Concepts
 

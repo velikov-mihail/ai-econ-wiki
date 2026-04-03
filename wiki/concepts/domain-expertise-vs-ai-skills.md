@@ -3,6 +3,11 @@ title: "Domain Expertise vs. AI Skills"
 tags: [concept, theory, productivity]
 sources:
   - "[[summaries/agentic-everything.md]]"
+  - "[[summaries/daaf-framework.md]]"
+  - "[[summaries/your-claude-md.md]]"
+  - "[[summaries/what-ai-got-wrong.md]]"
+  - "[[summaries/starter-templates.md]]"
+  - "[[summaries/patterns.md]]"
 date_updated: 2026-04-03
 ---
 
@@ -26,6 +31,14 @@ This has important implications for how economists should invest their time in l
 - **Don't outsource thinking**: Use AI to execute, not to decide what's worth studying
 - **Your expertise is your moat**: AI makes execution easier for everyone, making the question you ask more important than ever
 - **Teach domain-specific AI use**: Generic AI training is less valuable than training on AI for your specific research area
+
+## Key Sources
+
+- [[summaries/daaf-framework|DAAF: Data Analyst Augmentation Framework]]
+- [[summaries/your-claude-md|Your CLAUDE.md]]
+- [[summaries/what-ai-got-wrong|What AI Got Wrong]]
+- [[summaries/starter-templates|Starter Templates for AI Workflow Skills]]
+- [[summaries/patterns|Patterns]]
 
 ## Related Concepts
 

@@ -3,6 +3,11 @@ title: "Human Capital and AI"
 tags: [concept, theory, society]
 sources:
   - "[[summaries/thread-jesusferna.md]]"
+  - "[[summaries/panjwani-slides.md]]"
+  - "[[summaries/ai-normal-technology.md]]"
+  - "[[summaries/what-ai-got-wrong.md]]"
+  - "[[summaries/train-left-station.md]]"
+  - "[[summaries/stress-test-research-pipeline.md]]"
 date_updated: 2026-04-03
 ---
 
@@ -25,6 +30,14 @@ AI's impact on human capital in academia operates through several channels:
 - **Stay current**: The tools change fast — allocate time for continuous learning
 - **Build complementary skills**: Focus on what AI can't do — building relationships, developing intuition, exercising taste
 - **Adapt your teaching**: Help students develop AI-complementary skills, not AI-replaceable ones
+
+## Key Sources
+
+- [[summaries/panjwani-slides|AI Agents for Economics Research]]
+- [[summaries/ai-normal-technology|AI as Normal Technology]]
+- [[summaries/what-ai-got-wrong|What AI Got Wrong]]
+- [[summaries/train-left-station|The Train Has Left the Station: Agentic AI and the Future of Social Science Research]]
+- [[summaries/stress-test-research-pipeline|AI-Powered Pipeline to Stress-Test Research Ideas Before PhD Students Spend a Year on Them]]
 
 ## Related Concepts
 

@@ -3,6 +3,11 @@ title: "Open-Source Models"
 tags: [concept, tools, technology]
 sources:
   - "[[summaries/llm-collaboration.md]]"
+  - "[[summaries/refine-ink-golub.md]]"
+  - "[[summaries/openai-automated-researcher.md]]"
+  - "[[summaries/guide-which-ai.md]]"
+  - "[[summaries/daaf-framework.md]]"
+  - "[[summaries/awesome-econ-ai.md]]"
 date_updated: 2026-04-03
 ---
 
@@ -25,6 +30,14 @@ The open-source AI ecosystem provides alternatives to commercial services like C
 - **Consider the capability gap**: Open models are improving but generally lag proprietary models
 - **Budget for hardware**: Running large models locally requires significant GPU memory
 - **Experiment freely**: No per-token costs enable unlimited experimentation
+
+## Key Sources
+
+- [[summaries/refine-ink-golub|Refine.ink: AI-Powered Referee Reports for Academic Papers]]
+- [[summaries/openai-automated-researcher|OpenAI is throwing everything into building a fully automated researcher]]
+- [[summaries/guide-which-ai|A Guide to Which AI to Use in the Agentic Era]]
+- [[summaries/daaf-framework|DAAF: Data Analyst Augmentation Framework]]
+- [[summaries/awesome-econ-ai|Awesome Econ AI Stuff: AI Skills for Economists]]
 
 ## Related Concepts
 

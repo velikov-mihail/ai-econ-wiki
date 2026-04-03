@@ -3,6 +3,11 @@ title: "Pre-Analysis Plans and AI"
 tags: [concept, methodology, reproducibility]
 sources:
   - "[[summaries/example-research-design.md]]"
+  - "[[summaries/ai-research-feedback-skills.md]]"
+  - "[[summaries/thread-cblatts.md]]"
+  - "[[summaries/stress-test-plan.md]]"
+  - "[[summaries/prompt-engineering.md]]"
+  - "[[summaries/claude-code-hacks.md]]"
 date_updated: 2026-04-03
 ---
 
@@ -25,6 +30,14 @@ Pre-analysis plans commit researchers to specific hypotheses, data, and methods 
 - **Use AI to strengthen PAPs**: Have AI identify potential confounds and robustness checks during the planning stage
 - **Log all AI-assisted analysis**: Create complete records of what the AI did, not just what you report
 - **Separate exploration from testing**: Use AI for exploratory analysis, but clearly mark it as such
+
+## Key Sources
+
+- [[summaries/ai-research-feedback-skills|AI Research Feedback Skills]]
+- [[summaries/thread-cblatts|Chris Blattman Thread: From Claude Code Skeptic to Power User]]
+- [[summaries/stress-test-plan|Stress-Test Any Plan]]
+- [[summaries/prompt-engineering|Prompt Engineering]]
+- [[summaries/claude-code-hacks|Every Claude Code Hack I Know (March 2026)]]
 
 ## Related Concepts
 

@@ -3,6 +3,11 @@ title: "AI Pricing and Access"
 tags: [concept, tools, budget]
 sources:
   - "[[summaries/ai-agents-generative-ai.md]]"
+  - "[[summaries/stress-test-research-pipeline.md]]"
+  - "[[summaries/llm-collaboration.md]]"
+  - "[[summaries/getting-started-researchers.md]]"
+  - "[[summaries/getting-started-economists.md]]"
+  - "[[summaries/vibe-research.md]]"
 date_updated: 2026-04-03
 ---
 
@@ -26,6 +31,14 @@ AI tools use various pricing models:
 - **Budget for AI tools**: $20-200/month is typical for active research use
 - **Explore institutional access**: Check if your university provides AI tool access
 - **Monitor API costs**: Token-based pricing can add up quickly with agentic workflows
+
+## Key Sources
+
+- [[summaries/stress-test-research-pipeline|AI-Powered Pipeline to Stress-Test Research Ideas Before PhD Students Spend a Year on Them]]
+- [[summaries/llm-collaboration|LLM Collaboration and Reasoning -- Generative AI for Economic Research]]
+- [[summaries/getting-started-researchers|Getting Started with Claude Code: A Researcher's Setup Guide]]
+- [[summaries/getting-started-economists|Getting Started: Claude Code for Economists (Markus Academy Ep. 162-1)]]
+- [[summaries/vibe-research|Vibe Research, or How I Wrote an Academic Paper in Four Days]]
 
 ## Related Concepts
 
