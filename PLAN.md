@@ -10,14 +10,17 @@
 - **Phase 5**: DONE — Validation tools (validate_frontmatter.py, build_index.py, find_duplicates.py), fixed 400 broken wikilinks (backslash escapes, wiki/ prefixes, 109 missing concepts consolidated into 49 new pages + redirects), expanded to 64 total concept pages
 - **Phase 6**: DONE — Cross-link pass (0 orphans, all concepts ≥2 summary links), MkDocs strict build passes, GitHub remote created (private), pushed to main
 
-**All phases complete.** Pending: enable GitHub Pages (Settings → Pages → Source: GitHub Actions), then optionally make repo public.
+**All phases complete.**
 
 ---
 
-## Phase 7: Source URLs & Remaining Polish
+## Phase 7: Source URLs & Remaining Polish — DONE
 
 ### 7.1 — Source URLs: DONE
 All ~96 individual summaries now have an `**Original**:` link to the source article.
+
+### 7.2 — Rebranding: DONE
+Wiki rebranded from "AI in Economics & Social Science Research" to "AI in Business & Economic Research".
 
 ### 7.3 — Enable GitHub Pages
 1. Go to repo Settings → Pages → Source: **GitHub Actions**
@@ -32,7 +35,7 @@ All ~96 individual summaries now have an `**Original**:` link to the source arti
 
 ## Context
 
-You have ~97 markdown web clippings and 6 papers in `raw/` covering AI workflows for economics/social science research. The goal is to compile these into a structured wiki in `wiki/`, publish it online via MkDocs Material + GitHub Pages, and maintain it as a living resource for academic researchers. The wiki follows Karpathy's "LLM knowledge base" pattern: raw sources are compiled by the LLM into interlinked markdown, viewable in Obsidian locally and published online.
+You have ~97 markdown web clippings and 6 papers in `raw/` covering AI workflows for business and economic research. The goal is to compile these into a structured wiki in `wiki/`, publish it online via MkDocs Material + GitHub Pages, and maintain it as a living resource for academic researchers. The wiki follows Karpathy's "LLM knowledge base" pattern: raw sources are compiled by the LLM into interlinked markdown, viewable in Obsidian locally and published online.
 
 ---
 
