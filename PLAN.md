@@ -8,9 +8,9 @@
 - **Phase 3**: DONE — 15 cross-cutting concept pages created
 - **Phase 4**: DONE — Category map (Mermaid), author index, source timeline
 - **Phase 5**: DONE — Validation tools (validate_frontmatter.py, build_index.py, find_duplicates.py), fixed 400 broken wikilinks (backslash escapes, wiki/ prefixes, 109 missing concepts consolidated into 49 new pages + redirects), expanded to 64 total concept pages
-- **Phase 6**: NOT STARTED — Polish, local MkDocs test, GitHub remote + deploy
+- **Phase 6**: DONE — Cross-link pass (0 orphans, all concepts ≥2 summary links), MkDocs strict build passes, GitHub remote created (private), pushed to main
 
-**Next steps**: Phase 6 (deploy).
+**All phases complete.** Pending: enable GitHub Pages (Settings → Pages → Source: GitHub Actions), then optionally make repo public.
 
 ---
 
