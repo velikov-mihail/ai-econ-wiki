@@ -16,8 +16,8 @@ A curated knowledge base on using AI tools and workflows for economics, business
 | [[summaries/prompt-engineering-workflow\|Prompt Engineering & Workflow]] | Prompt design, plan-driven development, workflow architecture | 9 |
 | [[summaries/ai-agents\|AI Agents & Agentic AI]] | Agent frameworks, agentic workflows, autonomous research | 8 |
 | [[summaries/claude-code-skills\|Claude Code Skills & Advanced]] | Skills, DAAF, continuous improvement, compilation workflows | 8 |
-| [[summaries/data-analysis\|Data Analysis & Web Scraping]] | WRDS, EDGAR, scraping, data pipelines | — |
-| [[summaries/academic-research\|Academic Research & Publishing]] | Vibe research, feedback machines, AI-assisted writing | — |
+| [[summaries/data-analysis\|Data Analysis & Web Scraping]] | WRDS, EDGAR, scraping, data pipelines | 6 |
+| [[summaries/academic-research\|Academic Research & Publishing]] | Vibe research, feedback machines, AI-assisted writing | 11 |
 | [[summaries/finance-econometrics\|Finance & Econometrics]] | Project APE, automated research in finance, policy evaluation | — |
 | [[summaries/ai-tools\|AI Tools & Comparisons]] | ChatGPT vs Claude, Cursor, NotebookLM, tool selection | — |
 | [[summaries/institutional-societal\|Institutional & Societal]] | AI adoption, the bitter lesson, AI as normal technology | — |
