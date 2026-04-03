@@ -1,8 +1,8 @@
 # CLAUDE.md
 
 ## What This Is
-A knowledge base about AI usage and workflows in economics, business,
-and social science research. Raw sources live in raw/. You compile
+A knowledge base about AI usage and workflows in business and economic
+research. Raw sources live in raw/. You compile
 and maintain a structured wiki in wiki/.
 
 ## Core Rules

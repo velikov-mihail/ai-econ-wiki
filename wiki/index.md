@@ -1,13 +1,13 @@
 ---
-title: "AI in Economics & Social Science Research"
+title: "AI in Business & Economic Research"
 tags: [home]
 date_updated: 2026-04-03
 ---
 
 
-# AI in Economics & Social Science Research
+# AI in Business & Economic Research
 
-A curated knowledge base on using AI tools and workflows for economics, business, and social science research. Built from ~90 web articles, academic papers, and practitioner guides.
+A curated knowledge base on using AI tools and workflows for business and economic research. Built from ~90 web articles, academic papers, and practitioner guides.
 
 ## Categories
 

@@ -1,4 +1,4 @@
-# Implementation Plan: AI-in-Economics Wiki
+# Implementation Plan: AI in Business & Economic Research Wiki
 
 ## Progress (as of 2026-04-03)
 
