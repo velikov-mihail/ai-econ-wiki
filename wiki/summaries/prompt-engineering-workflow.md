@@ -10,4 +10,19 @@ Designing effective prompts, plan-driven development, and structuring AI-assiste
 
 ## Summaries
 
-*Summaries will be added as articles are processed.*
+### Prompting Fundamentals
+- [[prompt-engineering|Prompt Engineering]] — Blattman's guide to crafting effective prompts
+- [[prompting-insights-golub|Prompting Insights (Golub)]] — Benjamin Golub's prompting philosophy from Markus Academy Ep. 154
+
+### Plan-Driven Development
+- [[prompt-plan-review-revise|Prompt, Plan, Review, Revise]] — Four-phase iterative workflow for AI-assisted projects
+- [[architecture-patterns|Architecture Patterns]] — Structural patterns for organizing AI workflows
+- [[patterns|Patterns]] — Recurring interaction patterns with AI coding tools
+
+### Workflow Design
+- [[workflow-overview|Workflow Overview]] — High-level map of AI-assisted research workflows
+- [[workflows|Workflows]] — Detailed workflow implementations and examples
+
+### Project Configuration
+- [[your-claude-md|Your CLAUDE.md]] — Writing effective CLAUDE.md project instruction files
+- [[ai-project-folders|AI Project Folders]] — Organizing project directories for AI-assisted work
