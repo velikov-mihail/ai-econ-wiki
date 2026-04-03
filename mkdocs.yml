@@ -64,6 +64,22 @@ nav:
       - AI Tools & Comparisons: summaries/ai-tools.md
       - Institutional & Societal: summaries/institutional-societal.md
       - Professional Productivity: summaries/professional-productivity.md
-  - Concepts: concepts/index.md
+  - Concepts:
+      - Overview: concepts/index.md
+      - Agentic Workflows: concepts/agentic-workflows.md
+      - Claude Code: concepts/claude-code.md
+      - CLAUDE.md Files: concepts/claude-md-files.md
+      - MCP Protocol: concepts/mcp-protocol.md
+      - Skills vs Agents: concepts/skills-vs-agents.md
+      - Cost & Budget: concepts/cost-and-budget.md
+      - Prompt Engineering: concepts/prompt-engineering.md
+      - Plan-Driven Development: concepts/plan-driven-development.md
+      - Feedback Machines: concepts/feedback-machines.md
+      - Data Pipelines: concepts/data-pipelines.md
+      - Vibe Research: concepts/vibe-research.md
+      - Human-AI Collaboration: concepts/human-ai-collaboration.md
+      - Reproducibility: concepts/reproducibility-transparency.md
+      - AI Adoption in Academia: concepts/ai-adoption-academia.md
+      - AI as Normal Technology: concepts/ai-as-normal-technology.md
   - Visualizations: visualizations/index.md
   - Tags: tags.md
