@@ -7,6 +7,7 @@ date_updated: 2026-04-03
 ---
 
 - **Author/Source**: Anton Korinek (University of Virginia / Brookings), August 2025 update to the *Journal of Economic Literature* article "Generative AI for Economic Research"
+- **Original**: [https://www.genaiforecon.org/ai-agents.html](https://www.genaiforecon.org/ai-agents.html)
 
 - **Key Ideas**
   - Generative AI has evolved through three paradigms: (1) traditional LLMs (pattern-matching, System 1 thinking), (2) reasoning models (step-by-step System 2 thinking via reinforcement learning), and (3) agentic chatbots (autonomous tool use, planning, and execution).

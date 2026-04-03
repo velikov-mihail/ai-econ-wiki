@@ -6,6 +6,9 @@ sources:
 date_updated: 2026-04-03
 ---
 
+- **Original**: [http://www.incompleteideas.net/IncIdeas/BitterLesson.html](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
+
+
 **Author/Source**: Rich Sutton (University of Alberta), published March 2019
 
 **Key Ideas**:

@@ -7,6 +7,7 @@ date_updated: 2026-04-03
 ---
 
 - **Author/Source**: Chris Blattman (claudeblattman.com)
+- **Original**: [https://claudeblattman.com/tax-workflow/case-study/document-collection/](https://claudeblattman.com/tax-workflow/case-study/document-collection/)
 
 ## Key Ideas
 

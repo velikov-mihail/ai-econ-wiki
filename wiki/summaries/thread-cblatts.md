@@ -7,6 +7,7 @@ date_updated: 2026-04-03
 ---
 
 - **Author/Source**: Chris Blattman (@cblatts, X/Twitter thread, 2026-02-26)
+- **Original**: [https://x.com/cblatts/status/2027018464670491065](https://x.com/cblatts/status/2027018464670491065)
 
 ## Key Ideas
 

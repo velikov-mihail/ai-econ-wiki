@@ -6,6 +6,9 @@ sources:
 date_updated: 2026-04-03
 ---
 
+- **Original**: [https://www.popularbydesign.org/p/academics-need-to-wake-up-on-ai](https://www.popularbydesign.org/p/academics-need-to-wake-up-on-ai)
+
+
 **Author/Source**: Alexander Kustov, University of Notre Dame, Popular by Design (Substack), March 2026
 
 **Key Ideas**:

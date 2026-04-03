@@ -7,6 +7,7 @@ date_updated: 2026-04-03
 ---
 
 - **Author/Source**: Ethan Mollick (Wharton School, University of Pennsylvania), via One Useful Thing Substack (2026-03-31)
+- **Original**: [https://www.oneusefulthing.org/p/claude-dispatch-and-the-power-of](https://www.oneusefulthing.org/p/claude-dispatch-and-the-power-of)
 
 - **Key Ideas**
   - The chatbot interface itself creates **cognitive costs** that offset AI productivity gains --- research shows financial professionals were overwhelmed by walls of text, sprawling discussions, and AI mirroring disorganized user structure.

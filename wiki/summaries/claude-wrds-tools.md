@@ -6,6 +6,9 @@ sources:
 date_updated: 2026-04-03
 ---
 
+- **Original**: [https://github.com/piotrek-orlowski/claude-wrds-public](https://github.com/piotrek-orlowski/claude-wrds-public)
+
+
 **Author/Source**: Piotrek Orlowski (GitHub: piotrek-orlowski). Repository: claude-wrds-public.
 
 ## Key Ideas

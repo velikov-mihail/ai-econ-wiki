@@ -6,6 +6,9 @@ sources:
 date_updated: 2026-04-03
 ---
 
+- **Original**: [https://claudeblattman.com/tax-workflow/case-study/what-ai-got-wrong/](https://claudeblattman.com/tax-workflow/case-study/what-ai-got-wrong/)
+
+
 **Author/Source**: Chris Blattman (economist, University of Chicago), claudeblattman.com, 2026
 
 **Key Ideas**:

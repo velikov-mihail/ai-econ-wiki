@@ -6,6 +6,9 @@ sources:
 date_updated: 2026-04-03
 ---
 
+- **Original**: [https://github.com/meleantonio/ChernyCode](https://github.com/meleantonio/ChernyCode)
+
+
 **Author/Source**: Antonio Mele (GitHub: meleantonio), synthesizing recommendations from Boris Cherny (creator of Claude Code). Repository: meleantonio/ChernyCode.
 
 ## Key Ideas

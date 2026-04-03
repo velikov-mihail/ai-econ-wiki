@@ -7,6 +7,7 @@ date_updated: 2026-04-03
 ---
 
 - **Author/Source**: Tyler Cowen (Marginal Revolution, 2026-03-23)
+- **Original**: [https://marginalrevolution.com/marginalrevolution/2026/03/when-will-the-research-paper-disappear-in-economics.html](https://marginalrevolution.com/marginalrevolution/2026/03/when-will-the-research-paper-disappear-in-economics.html)
 
 ## Key Ideas
 

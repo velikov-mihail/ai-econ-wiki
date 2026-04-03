@@ -7,6 +7,7 @@ date_updated: 2026-04-03
 ---
 
 - **Author/Source**: Aniket Panjwani (economist, PhD Northwestern; Director of AI/ML at PaySlice), presented via VoxDev webinar (2026-03-12)
+- **Original**: [https://www.youtube.com/watch?v=YPv9BqweQIo](https://www.youtube.com/watch?v=YPv9BqweQIo)
 
 - **Key Ideas**
   - Agentic coding is not just for software engineers --- development economists, theorists, and applied researchers can all benefit immediately.

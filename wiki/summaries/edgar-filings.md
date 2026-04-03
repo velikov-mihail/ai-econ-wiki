@@ -6,6 +6,9 @@ sources:
 date_updated: 2026-04-03
 ---
 
+- **Original**: [https://paulgp.substack.com/p/from-edgar-filings-to-a-structured](https://paulgp.substack.com/p/from-edgar-filings-to-a-structured)
+
+
 **Author/Source**: Paul Goldsmith-Pinkham, published on Substack (paulgp.substack.com). Published 2026-03-29.
 
 ## Key Ideas

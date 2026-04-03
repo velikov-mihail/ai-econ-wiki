@@ -7,6 +7,7 @@ date_updated: 2026-04-03
 ---
 
 - **Author/Source**: Chris Blattman (claudeblattman.com)
+- **Original**: [https://claudeblattman.com/essentials/voice/](https://claudeblattman.com/essentials/voice/)
 
 ## Key Ideas
 

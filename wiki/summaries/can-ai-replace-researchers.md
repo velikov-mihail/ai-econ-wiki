@@ -7,6 +7,7 @@ date_updated: 2026-04-03
 ---
 
 - **Author/Source**: David Karpf (Beehiiv newsletter, 2026-03-05)
+- **Original**: [https://davekarpf.beehiiv.com/p/can-ai-replace-social-science-researchers](https://davekarpf.beehiiv.com/p/can-ai-replace-social-science-researchers)
 
 ## Key Ideas
 

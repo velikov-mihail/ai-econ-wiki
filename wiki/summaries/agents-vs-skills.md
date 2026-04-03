@@ -7,6 +7,7 @@ date_updated: 2026-04-03
 ---
 
 - **Author/Source**: Chris Blattman (University of Chicago, Harris School of Public Policy), via claudeblattman.com
+- **Original**: [https://claudeblattman.com/system/agents-vs-skills/](https://claudeblattman.com/system/agents-vs-skills/)
 
 - **Key Ideas**
   - Claude Code has two building blocks: **skills** (slash commands running in the main conversation with full history) and **agents** (subprocesses running in a fresh, isolated context).

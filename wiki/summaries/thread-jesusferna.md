@@ -7,6 +7,7 @@ date_updated: 2026-04-03
 ---
 
 - **Author/Source**: Jesus Fernandez-Villaverde (@JesusFerna7026, X/Twitter thread, 2026-03-24)
+- **Original**: [https://x.com/JesusFerna7026/status/2036450050251833515](https://x.com/JesusFerna7026/status/2036450050251833515)
 
 ## Key Ideas
 

@@ -7,6 +7,7 @@ date_updated: 2026-04-03
 ---
 
 - **Author/Source**: Alejandro Lopez-Lira (Substack, 2026-03-22)
+- **Original**: [https://alejandrolopezlira.substack.com/p/seeking-collaboration-to-test-automated](https://alejandrolopezlira.substack.com/p/seeking-collaboration-to-test-automated)
 
 ## Key Ideas
 

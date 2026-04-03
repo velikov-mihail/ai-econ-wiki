@@ -7,6 +7,7 @@ date_updated: 2026-04-03
 ---
 
 - **Author/Source**: Chris Blattman, *Claude Blattman: AI for Professionals Who Don't Code*
+- **Original**: [https://claudeblattman.com/essentials/notebooklm/](https://claudeblattman.com/essentials/notebooklm/)
 
 ## Key Ideas
 

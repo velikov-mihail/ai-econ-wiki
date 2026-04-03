@@ -7,6 +7,7 @@ date_updated: 2026-04-03
 ---
 
 - **Author/Source**: Benjamin Golub (Northwestern University, co-founder of Refine.ink) and Markus Brunnermeier (Princeton University), *Markus' Academy*, Episode 154, December 23, 2025
+- **Original**: [https://www.youtube.com/watch?v=SAXElKwksM8](https://www.youtube.com/watch?v=SAXElKwksM8)
 
 ## Key Ideas
 

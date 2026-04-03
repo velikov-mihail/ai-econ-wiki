@@ -7,6 +7,7 @@ date_updated: 2026-04-03
 ---
 
 - **Author/Source**: Ethan Mollick (Wharton School, University of Pennsylvania), via One Useful Thing Substack (2026-01-07)
+- **Original**: [https://www.oneusefulthing.org/p/claude-code-and-what-comes-next](https://www.oneusefulthing.org/p/claude-code-and-what-comes-next)
 
 - **Key Ideas**
   - Claude Code, powered by Opus 4.5, represents a sudden capability leap driven by two advances: models that are far better at autonomous self-correcting work, and an "agentic harness" of tools and approaches.

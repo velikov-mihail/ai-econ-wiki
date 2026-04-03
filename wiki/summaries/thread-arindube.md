@@ -7,6 +7,7 @@ date_updated: 2026-04-03
 ---
 
 - **Author/Source**: Arin Dube (@arindube, X/Twitter thread, 2026-03-22)
+- **Original**: [https://x.com/arindube/status/2035833779764248727](https://x.com/arindube/status/2035833779764248727)
 
 ## Key Ideas
 

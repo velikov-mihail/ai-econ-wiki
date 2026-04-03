@@ -7,6 +7,7 @@ date_updated: 2026-04-03
 ---
 
 - **Author/Source**: Antonio Mele (and contributors), hosted at meleantonio.github.io/awesome-econ-ai-stuff/
+- **Original**: [https://meleantonio.github.io/awesome-econ-ai-stuff/](https://meleantonio.github.io/awesome-econ-ai-stuff/)
 
 ## Key Ideas
 

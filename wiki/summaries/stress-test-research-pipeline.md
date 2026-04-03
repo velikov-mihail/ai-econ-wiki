@@ -7,6 +7,7 @@ date_updated: 2026-04-03
 ---
 
 - **Author/Source**: Alejandro Lopez-Lira (Substack, 2026-03-12)
+- **Original**: [https://alejandrolopezlira.substack.com/p/ai-powered-pipeline-to-stress-test](https://alejandrolopezlira.substack.com/p/ai-powered-pipeline-to-stress-test)
 
 ## Key Ideas
 

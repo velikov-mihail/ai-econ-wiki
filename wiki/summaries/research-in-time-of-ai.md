@@ -7,6 +7,7 @@ date_updated: 2026-04-03
 ---
 
 - **Author/Source**: Paul Goldsmith-Pinkham (Substack / paulgp.com, 2026-03-16)
+- **Original**: [https://paulgp.substack.com/p/research-in-the-time-of-ai](https://paulgp.substack.com/p/research-in-the-time-of-ai)
 
 ## Key Ideas
 

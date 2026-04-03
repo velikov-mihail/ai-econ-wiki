@@ -7,6 +7,7 @@ date_updated: 2026-04-03
 ---
 
 - **Author/Source**: Social Catalyst Lab (ape.socialcatalystlab.org)
+- **Original**: [https://ape.socialcatalystlab.org/methodology](https://ape.socialcatalystlab.org/methodology)
 
 ## Key Ideas
 

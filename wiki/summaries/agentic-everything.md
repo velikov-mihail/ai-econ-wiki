@@ -7,6 +7,7 @@ date_updated: 2026-04-03
 ---
 
 - **Author/Source**: Teddy Svoronos (Harvard Kennedy School), via Substack
+- **Original**: [https://tedsvo.substack.com/p/agentic-everything](https://tedsvo.substack.com/p/agentic-everything)
 
 - **Key Ideas**
   - An agent is an LLM that runs **tools** in a **loop** to achieve a **goal** (Simon Willison's definition). Deep Research runs web searches in a loop to write a report; Claude Code executes code in a loop to build software; Claude Cowork runs local commands in a loop for any task.

@@ -7,6 +7,7 @@ date_updated: 2026-04-03
 ---
 
 - **Author/Source**: Ethan Mollick, *One Useful Thing* (Substack), February 17, 2026
+- **Original**: [https://www.oneusefulthing.org/p/a-guide-to-which-ai-to-use-in-the](https://www.oneusefulthing.org/p/a-guide-to-which-ai-to-use-in-the)
 
 ## Key Ideas
 

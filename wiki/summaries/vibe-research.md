@@ -7,6 +7,7 @@ date_updated: 2026-04-03
 ---
 
 - **Author/Source**: Vincent Gregoire (personal blog, 2026)
+- **Original**: [https://vincent.codes.finance/posts/vibe-research-paper/](https://vincent.codes.finance/posts/vibe-research-paper/)
 
 ## Key Ideas
 

@@ -7,6 +7,7 @@ date_updated: 2026-04-03
 ---
 
 - **Author/Source**: Paul Goldsmith-Pinkham (Substack, 2026-03-21)
+- **Original**: [https://paulgp.substack.com/p/ai-one-shot-papers](https://paulgp.substack.com/p/ai-one-shot-papers)
 
 ## Key Ideas
 

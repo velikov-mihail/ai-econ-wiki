@@ -7,6 +7,7 @@ date_updated: 2026-04-03
 ---
 
 - **Author/Source**: Anton Korinek (genaiforecon.org; companion to JEL 2025 paper)
+- **Original**: [https://www.genaiforecon.org/applications-main.html](https://www.genaiforecon.org/applications-main.html)
 
 ## Key Ideas
 

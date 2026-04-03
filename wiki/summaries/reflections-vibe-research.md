@@ -7,6 +7,7 @@ date_updated: 2026-04-03
 ---
 
 - **Author/Source**: Joshua Gans (Substack, 2026-01-03)
+- **Original**: [https://joshuagans.substack.com/p/reflections-on-vibe-researching](https://joshuagans.substack.com/p/reflections-on-vibe-researching)
 
 ## Key Ideas
 

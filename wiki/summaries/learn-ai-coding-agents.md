@@ -7,6 +7,7 @@ date_updated: 2026-04-03
 ---
 
 - **Author/Source**: Antonio Mele (London School of Economics), via Awesome Econ AI Stuff (meleantonio.github.io)
+- **Original**: [https://meleantonio.github.io/awesome-econ-ai-stuff/pages/learn.html](https://meleantonio.github.io/awesome-econ-ai-stuff/pages/learn.html)
 
 - **Key Ideas**
   - **Skills** are reusable instruction sets ("expert knowledge packages") stored as `SKILL.md` files that teach agents how to perform domain-specific tasks; they follow a progressive disclosure pattern (discovery, activation, execution).

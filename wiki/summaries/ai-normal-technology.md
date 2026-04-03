@@ -6,6 +6,9 @@ sources:
 date_updated: 2026-04-03
 ---
 
+- **Original**: [https://knightcolumbia.org/content/ai-as-normal-technology](https://knightcolumbia.org/content/ai-as-normal-technology)
+
+
 **Author/Source**: Arvind Narayanan & Sayash Kapoor, Knight First Amendment Institute at Columbia University
 
 **Key Ideas**:

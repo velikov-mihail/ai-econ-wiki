@@ -6,6 +6,9 @@ sources:
 date_updated: 2026-04-03
 ---
 
+- **Original**: [https://www.youtube.com/watch?v=wqLZrKdevHs](https://www.youtube.com/watch?v=wqLZrKdevHs)
+
+
 **Author/Source**: Paul Goldsmith-Pinkham, presented via Markus Academy video series (Ep. 162, Part 3). Published 2026-03-28.
 
 ## Key Ideas

@@ -6,6 +6,9 @@ sources:
 date_updated: 2026-04-03
 ---
 
+- **Original**: [https://shumer.dev/something-big-is-happening](https://shumer.dev/something-big-is-happening)
+
+
 **Author/Source**: Matt Shumer, AI startup founder and investor, February 2026
 
 **Key Ideas**:

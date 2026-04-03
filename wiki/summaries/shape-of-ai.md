@@ -6,6 +6,9 @@ sources:
 date_updated: 2026-04-03
 ---
 
+- **Original**: [https://www.oneusefulthing.org/p/the-shape-of-ai-jaggedness-bottlenecks](https://www.oneusefulthing.org/p/the-shape-of-ai-jaggedness-bottlenecks)
+
+
 **Author/Source**: Ethan Mollick, One Useful Thing (Substack), December 2025
 
 **Key Ideas**:

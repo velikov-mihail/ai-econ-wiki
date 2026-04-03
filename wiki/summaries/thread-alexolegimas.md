@@ -7,6 +7,7 @@ date_updated: 2026-04-03
 ---
 
 - **Author/Source**: Alex Imas (@alexolegimas, X/Twitter thread, 2026-02-26)
+- **Original**: [https://x.com/alexolegimas/status/2026862726581010493](https://x.com/alexolegimas/status/2026862726581010493)
 
 ## Key Ideas
 

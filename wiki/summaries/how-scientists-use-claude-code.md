@@ -7,6 +7,7 @@ date_updated: 2026-04-03
 ---
 
 - **Author/Source**: Charles Yang (Renaissance Philanthropy), via Republic of Science Substack (2026-03-05)
+- **Original**: [https://republicofscience.substack.com/p/how-do-scientists-use-claude-code](https://republicofscience.substack.com/p/how-do-scientists-use-claude-code)
 
 - **Key Ideas**
   - As of February 2026, approximately **2.1% of scientists** with ORCID-linked GitHub profiles use Claude Code; extrapolating current growth rates suggests ~10% by end of 2026.

@@ -7,6 +7,7 @@ date_updated: 2026-04-03
 ---
 
 - **Author/Source**: Anton Korinek, December 2024 update to "Generative AI for Economic Research: Use Cases and Implications for Economists," published in the *Journal of Economic Literature* 61(4).
+- **Original**: [https://www.genaiforecon.org/llm-collaboration.html](https://www.genaiforecon.org/llm-collaboration.html)
 
 ## Key Ideas
 

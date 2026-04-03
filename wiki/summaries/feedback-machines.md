@@ -7,6 +7,7 @@ date_updated: 2026-04-03
 ---
 
 - **Author/Source**: Claes Backman (Substack, 2026-01-22)
+- **Original**: [https://claesbackman.substack.com/p/feedback-machines-writing-and-editing](https://claesbackman.substack.com/p/feedback-machines-writing-and-editing)
 
 ## Key Ideas
 
