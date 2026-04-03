@@ -6,7 +6,7 @@ date_updated: 2026-04-03
 
 # About
 
-This wiki is maintained by **Mihail Velikov**, Associate Professor of Finance at the Smeal College of Business, Penn State University. His research focuses on asset pricing, wealth and asset management, machine learning, and AI in finance, with publications in the *Journal of Finance*, *Journal of Financial Economics*, *Review of Financial Studies*, *Management Science*, and the *Journal of Financial and Quantitative Analysis*.
+This wiki is maintained by **Mihail Velikov**, Associate Professor of Finance at the Smeal College of Business, Penn State University. His research focuses on asset pricing, machine learning, and AI in finance, with publications in the *Journal of Finance*, *Journal of Financial Economics*, *Review of Financial Studies*, *Management Science*, and the *Journal of Financial and Quantitative Analysis*.
 
 ## Links
 
