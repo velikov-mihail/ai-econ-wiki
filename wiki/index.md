@@ -33,4 +33,4 @@ A curated knowledge base on using AI tools and workflows for business and econom
 
 ## About
 
-This wiki is maintained by [[about|Mihail Velikov]] (Penn State, Smeal College of Business) using an LLM (Claude) to compile raw source materials into interlinked markdown. It is viewable in [Obsidian](https://obsidian.md) locally and published online via MkDocs Material.
+For researchers and practitioners looking to integrate AI into their workflow. Maintained by [[about|Mihail Velikov]] (Penn State, Smeal College of Business).
