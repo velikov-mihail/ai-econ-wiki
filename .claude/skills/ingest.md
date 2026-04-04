@@ -1,0 +1,55 @@
+# /ingest — Process new raw sources into wiki summaries
+
+Detect and process raw sources that don't yet have wiki summaries.
+
+## Trigger
+
+User runs `/ingest` or asks to process new sources.
+
+## Steps
+
+1. **Detect pending sources**: Run `python tools/find_new_sources.py` to list raw files without summaries. If nothing pending, report that and stop.
+
+2. **Process one source at a time**. For each pending source:
+
+   a. Read the raw file (from `raw/articles/` or `raw/papers/`).
+
+   b. Create a summary in `wiki/summaries/` following the existing template. Use `wiki/summaries/agentic-everything.md` as the reference template. Every summary must have:
+      - YAML frontmatter: `title`, `tags` (first tag is `summary`, second is the category slug), `sources` (wikilink to raw file), `date_updated`, `date_published`
+      - Author/Source line with link to original
+      - Key Ideas (bullet points)
+      - Summary (1–3 paragraphs)
+      - Relevance to Economics Research
+      - Related Concepts (wikilinks to `concepts/`)
+      - Related Summaries (wikilinks to `summaries/`)
+
+   c. Assign to one of the existing categories by tag:
+      `foundations-setup`, `prompt-engineering-workflow`, `ai-agents`, `claude-code-skills`, `data-analysis`, `academic-research`, `finance-econometrics`, `ai-tools`, `institutional-societal`, `professional-productivity`
+
+   d. Add the new summary to the appropriate category landing page in `wiki/summaries/`.
+
+   e. Update or create relevant concept pages in `wiki/concepts/` if the source introduces new cross-cutting themes.
+
+   f. Rebuild indexes: `python tools/build_index.py --write`
+
+   g. Append an entry to `wiki/log.md` (newest first, below the header):
+      ```
+      ## [YYYY-MM-DD] ingest | Title
+      - Source: raw/articles/Filename.md
+      - Summary: wiki/summaries/slug.md
+      - Concepts updated: list or "none"
+      ```
+
+   h. **Show the diff and wait for user approval** before moving to the next source.
+
+   i. Commit with message: `Add summary: <title>`
+
+3. After all sources processed (or user stops), report summary of what was added.
+
+## Key Rules
+
+- Process **one source at a time** — never batch.
+- Always match the style and depth of existing summaries.
+- Use short slug filenames (e.g., `ai-normal-technology.md`, not the full article title).
+- Cross-reference: link new summaries from related existing summaries where natural.
+- For PDFs/papers: extract key findings, methodology, and relevance to econ research.
