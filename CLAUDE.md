@@ -19,6 +19,7 @@ and maintain a structured wiki in wiki/.
 - raw/images/ — local images
 - wiki/summaries/ — one summary per source
 - wiki/concepts/ — concept pages synthesizing across sources
+- wiki/log.md — chronological operations log (internal use)
 - output/ — query results, slides, charts
 
 ## Workflow
@@ -27,3 +28,10 @@ and maintain a structured wiki in wiki/.
 3. Identify cross-cutting concepts, create pages in wiki/concepts/
 4. Link everything, maintain indexes
 5. File query outputs back into the wiki when valuable
+
+## Operations
+- `/ingest` — detect and process new raw sources (one at a time, with review)
+- `/lint` — health-check the wiki; use --fix for auto-repair of mechanical issues
+- `/file-back` — save conversation analysis back into wiki
+- `/maintain` — full maintenance pass (weekly or after adding sources)
+- All operations logged to wiki/log.md
