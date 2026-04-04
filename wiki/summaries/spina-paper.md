@@ -3,6 +3,7 @@ title: "Claude Code for Academics: An AI Agent for Empirical Research"
 tags: [summary, academic-paper, claude-code, ai-agents, research-workflow, beamer]
 sources:
   - "[[raw/papers/main.tex]]"
+  - "[[raw/papers/main.pdf]]"
 date_updated: 2026-04-03
 date_published: 2026-03
 ---
