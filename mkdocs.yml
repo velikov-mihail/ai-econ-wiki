@@ -49,6 +49,11 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
 
+extra:
+  analytics:
+    provider: google
+    property: G-LLR1CD6NKP
+
 nav:
   - Home: index.md
   - Summaries:
