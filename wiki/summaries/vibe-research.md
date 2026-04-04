@@ -4,6 +4,7 @@ tags: [summary, academic-research, vibe-research, ai-tools, workflow]
 sources:
   - "[[raw/articles/Vibe Research, or How I Wrote an Academic Paper in Four Days.md]]"
 date_updated: 2026-04-03
+date_published: 2026-03
 ---
 
 - **Author/Source**: Vincent Gregoire (personal blog, 2026)

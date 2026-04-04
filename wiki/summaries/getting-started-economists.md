@@ -4,6 +4,7 @@ tags: [summary, foundations-setup]
 sources:
   - "[[raw/articles/Getting Started Claude Code for Economists with Paul Goldsmith-Pinkham  Markus Academy  Ep. 162-1.md]]"
 date_updated: 2026-04-03
+date_published: 2026-03
 ---
 - **Original**: [https://www.youtube.com/watch?v=HzgByl5ZsWE](https://www.youtube.com/watch?v=HzgByl5ZsWE)
 

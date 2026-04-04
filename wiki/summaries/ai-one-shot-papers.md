@@ -4,6 +4,7 @@ tags: [summary, academic-research, empirical-methods, diff-in-diff, ai-limitatio
 sources:
   - "[[raw/articles/AI one-shot papers.md]]"
 date_updated: 2026-04-03
+date_published: 2026-03
 ---
 
 - **Author/Source**: Paul Goldsmith-Pinkham (Substack, 2026-03-21)

@@ -4,6 +4,7 @@ tags: [summary, ai-agents, skills, agents-md, claude-md, configuration]
 sources:
   - "[[raw/articles/Learn About AI Coding Agents - Awesome Econ AI Stuff.md]]"
 date_updated: 2026-04-03
+date_published: 2026-03
 ---
 
 - **Author/Source**: Antonio Mele (London School of Economics), via Awesome Econ AI Stuff (meleantonio.github.io)

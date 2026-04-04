@@ -4,6 +4,7 @@ tags: [summary, institutional-societal]
 sources:
   - "[[raw/articles/The train has left the station Agentic AI and the future of social science research.md]]"
 date_updated: 2026-04-03
+date_published: 2026-03
 ---
 
 - **Original**: [https://www.brookings.edu/articles/the-train-has-left-the-station-agentic-ai-and-the-future-of-social-science-research/](https://www.brookings.edu/articles/the-train-has-left-the-station-agentic-ai-and-the-future-of-social-science-research/)

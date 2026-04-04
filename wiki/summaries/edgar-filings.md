@@ -4,6 +4,7 @@ tags: [summary, web-scraping, EDGAR, SEC, data-pipelines, claude-code, text-as-d
 sources:
   - "[[raw/articles/From EDGAR Filings to a Structured Database using Claude Code.md]]"
 date_updated: 2026-04-03
+date_published: 2026-03
 ---
 
 - **Original**: [https://paulgp.substack.com/p/from-edgar-filings-to-a-structured](https://paulgp.substack.com/p/from-edgar-filings-to-a-structured)

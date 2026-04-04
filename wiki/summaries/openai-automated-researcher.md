@@ -4,6 +4,7 @@ tags: [summary, academic-research, ai-industry, automation, openai]
 sources:
   - "[[raw/articles/OpenAI is throwing everything into building a fully automated researcher.md]]"
 date_updated: 2026-04-03
+date_published: 2026-03
 ---
 
 - **Author/Source**: Will Douglas Heaven (MIT Technology Review, 2026-03-20)

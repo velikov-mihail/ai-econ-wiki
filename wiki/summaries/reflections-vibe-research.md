@@ -4,6 +4,7 @@ tags: [summary, academic-research, vibe-research, ai-limitations]
 sources:
   - "[[raw/articles/Reflections on Vibe Researching.md]]"
 date_updated: 2026-04-03
+date_published: 2026-01
 ---
 
 - **Author/Source**: Joshua Gans (Substack, 2026-01-03)

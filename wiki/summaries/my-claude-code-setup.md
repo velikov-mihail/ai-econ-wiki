@@ -4,6 +4,7 @@ tags: [summary, foundations-setup]
 sources:
   - "[[raw/articles/My Claude Code Setup.md]]"
 date_updated: 2026-04-03
+date_published: 2026-03
 ---
 - **Original**: [https://psantanna.com/claude-code-my-workflow/](https://psantanna.com/claude-code-my-workflow/)
 

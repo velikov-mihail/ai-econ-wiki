@@ -4,6 +4,7 @@ tags: [summary, ai-workflows, design-patterns, validation]
 sources:
   - "[[raw/articles/Architecture Patterns - Claude Blattman · AI for Professionals Who Don't Code.md]]"
 date_updated: 2026-04-03
+date_published: 2026-03
 ---
 - **Original**: [https://claudeblattman.com/tax-workflow/build-your-own/architecture-patterns/](https://claudeblattman.com/tax-workflow/build-your-own/architecture-patterns/)
 

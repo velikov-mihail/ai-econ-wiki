@@ -4,6 +4,7 @@ tags: [summary, professional-productivity, cost-analysis, tools]
 sources:
   - "[[raw/articles/The Cost Reality - Claude Blattman · AI for Professionals Who Don't Code.md]]"
 date_updated: 2026-04-03
+date_published: 2026-03
 ---
 - **Original**: [https://claudeblattman.com/essentials/cost/](https://claudeblattman.com/essentials/cost/)
 

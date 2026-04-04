@@ -2,8 +2,9 @@
 title: "Chris Blattman X Post on Claude Code Adoption"
 tags: [summary, social-media, claude-code, ai-adoption, non-coder]
 sources:
-  - "[[raw/papers/Post by Chris Blattman on X - velikov.mihail@gmail.com - Gmail.pdf]]"
+  - "[[raw/papers/Post by Chris Blattman on X.pdf]]"
 date_updated: 2026-04-03
+date_published: 2026-02
 ---
 - **Original**: [https://x.com/cblatts/status/2027018464670491065](https://x.com/cblatts/status/2027018464670491065)
 

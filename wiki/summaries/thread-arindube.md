@@ -4,6 +4,7 @@ tags: [summary, research-productivity, LLM-impact, economics-profession]
 sources:
   - "[[raw/articles/Thread by @arindube.md]]"
 date_updated: 2026-04-03
+date_published: 2026-03
 ---
 
 - **Author/Source**: Arin Dube (@arindube, X/Twitter thread, 2026-03-22)

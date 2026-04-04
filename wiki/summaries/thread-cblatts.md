@@ -4,6 +4,7 @@ tags: [summary, Claude-Code, productivity-tools, project-management, research-wo
 sources:
   - "[[raw/articles/Thread by @cblatts.md]]"
 date_updated: 2026-04-03
+date_published: 2026-02
 ---
 
 - **Author/Source**: Chris Blattman (@cblatts, X/Twitter thread, 2026-02-26)

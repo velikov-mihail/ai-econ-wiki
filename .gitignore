@@ -8,6 +8,9 @@ raw/
 # MkDocs build output
 site/
 
+# Presentation build
+presentation/
+
 # Other
 output/
 __pycache__/

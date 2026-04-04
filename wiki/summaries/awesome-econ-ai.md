@@ -4,6 +4,7 @@ tags: [summary, ai-tools, skills, economists, open-source, cursor, claude-code]
 sources:
   - "[[raw/articles/Awesome Econ AI Stuff - AI Skills for Economists.md]]"
 date_updated: 2026-04-03
+date_published: 2026-03
 ---
 
 - **Author/Source**: Antonio Mele (and contributors), hosted at meleantonio.github.io/awesome-econ-ai-stuff/

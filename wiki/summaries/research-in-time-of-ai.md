@@ -4,6 +4,7 @@ tags: [summary, academic-research, ai-tools, research-pipeline, workflow]
 sources:
   - "[[raw/articles/Research in the Time of AI.md]]"
 date_updated: 2026-04-03
+date_published: 2026-03
 ---
 
 - **Author/Source**: Paul Goldsmith-Pinkham (Substack / paulgp.com, 2026-03-16)

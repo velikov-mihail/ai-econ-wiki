@@ -4,6 +4,7 @@ tags: [summary, institutional-societal]
 sources:
   - "[[raw/articles/The Shape of AI Jaggedness, Bottlenecks and Salients.md]]"
 date_updated: 2026-04-03
+date_published: 2025-12
 ---
 
 - **Original**: [https://www.oneusefulthing.org/p/the-shape-of-ai-jaggedness-bottlenecks](https://www.oneusefulthing.org/p/the-shape-of-ai-jaggedness-bottlenecks)

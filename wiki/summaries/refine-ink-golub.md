@@ -4,6 +4,7 @@ tags: [summary, ai-tools, refine-ink, peer-review, quality-control, academic-res
 sources:
   - "[[raw/articles/Refine.ink Modern AI for Economics Research with Benjamin Golub  Markus Academy  Ep. 154.md]]"
 date_updated: 2026-04-03
+date_published: 2025-12
 ---
 
 - **Author/Source**: Benjamin Golub (Northwestern University, co-founder of Refine.ink) and Markus Brunnermeier (Princeton University), *Markus' Academy*, Episode 154, December 23, 2025

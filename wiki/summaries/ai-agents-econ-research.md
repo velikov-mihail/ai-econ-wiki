@@ -4,6 +4,7 @@ tags: [summary, ai-agents, agentic-coding, economists, skills]
 sources:
   - "[[raw/articles/AI Agents for Economic Research.md]]"
 date_updated: 2026-04-03
+date_published: 2026-03
 ---
 
 - **Author/Source**: Aniket Panjwani (economist, PhD Northwestern; Director of AI/ML at PaySlice), presented via VoxDev webinar (2026-03-12)

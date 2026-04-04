@@ -4,6 +4,7 @@ tags: [summary, ai-tools, cursor, coding, economics-research, prompting]
 sources:
   - "[[raw/articles/Using LLMs with Cursor Modern AI for Economics Research w Benjamin Golub  Markus Academy  Ep. 154.md]]"
 date_updated: 2026-04-03
+date_published: 2025-12
 ---
 
 - **Author/Source**: Benjamin Golub (Northwestern University) and Markus Brunnermeier (Princeton University), *Markus' Academy*, Episode 154, December 23, 2025

@@ -4,6 +4,7 @@ tags: [summary, claude-code, cursor, productivity, skills, agents, best-practice
 sources:
   - "[[raw/articles/meleantonioChernyCode.md]]"
 date_updated: 2026-04-03
+date_published: 2026-03
 ---
 
 - **Original**: [https://github.com/meleantonio/ChernyCode](https://github.com/meleantonio/ChernyCode)

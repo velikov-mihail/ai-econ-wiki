@@ -4,6 +4,7 @@ tags: [summary, ai-tools, llm-reasoning, economic-research, access-modes, open-s
 sources:
   - "[[raw/articles/LLM Collaboration – Generative AI for Economic Research.md]]"
 date_updated: 2026-04-03
+date_published: 2024-12
 ---
 
 - **Author/Source**: Anton Korinek, December 2024 update to "Generative AI for Economic Research: Use Cases and Implications for Economists," published in the *Journal of Economic Literature* 61(4).

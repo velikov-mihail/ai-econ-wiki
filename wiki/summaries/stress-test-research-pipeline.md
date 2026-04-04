@@ -4,6 +4,7 @@ tags: [summary, academic-research, ai-tools, teaching, workflow]
 sources:
   - "[[raw/articles/AI-powered pipeline to stress-test research ideas before PhD students spend a year on them.md]]"
 date_updated: 2026-04-03
+date_published: 2026-03
 ---
 
 - **Author/Source**: Alejandro Lopez-Lira (Substack, 2026-03-12)

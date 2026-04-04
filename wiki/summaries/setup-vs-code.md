@@ -4,6 +4,7 @@ tags: [summary, foundations-setup]
 sources:
   - "[[raw/articles/Set Up VS Code - Claude Blattman · AI for Professionals Who Don't Code.md]]"
 date_updated: 2026-04-03
+date_published: 2026-03
 ---
 - **Original**: [https://claudeblattman.com/setup/vscode-setup/](https://claudeblattman.com/setup/vscode-setup/)
 

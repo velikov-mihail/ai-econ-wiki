@@ -4,6 +4,7 @@ tags: [summary, professional-productivity, tax, ai-workflow, document-processing
 sources:
   - "[[raw/articles/Using Claude Code for Tax Season - Claude Blattman · AI for Professionals Who Don't Code.md]]"
 date_updated: 2026-04-03
+date_published: 2026-03
 ---
 - **Original**: [https://claudeblattman.com/tax-workflow/](https://claudeblattman.com/tax-workflow/)
 

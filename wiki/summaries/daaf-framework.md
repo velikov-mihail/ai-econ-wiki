@@ -4,6 +4,7 @@ tags: [summary, claude-code-skills]
 sources:
   - "[[raw/articles/DAAF-Contribution-Communitydaaf DAAF, the Data Analyst Augmentation Framework An open-source, extensible workflow for Claude Code that allows skilled researchers to rapidly scale their expertise and accelerate data analysis by as much as 5-10x -.md]]"
 date_updated: 2026-04-03
+date_published: 2026-03
 ---
 - **Original**: [https://github.com/DAAF-Contribution-Community/daaf](https://github.com/DAAF-Contribution-Community/daaf)
 

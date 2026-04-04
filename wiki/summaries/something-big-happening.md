@@ -4,6 +4,7 @@ tags: [summary, institutional-societal]
 sources:
   - "[[raw/articles/Something Big Is Happening.md]]"
 date_updated: 2026-04-03
+date_published: 2026-02
 ---
 
 - **Original**: [https://shumer.dev/something-big-is-happening](https://shumer.dev/something-big-is-happening)

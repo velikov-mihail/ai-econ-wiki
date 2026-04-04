@@ -4,6 +4,7 @@ tags: [summary, data-analysis, claude-code, visualization, workflow]
 sources:
   - "[[raw/articles/From an Empty Folder to a Figure using Claude Code.md]]"
 date_updated: 2026-04-03
+date_published: 2026-03
 ---
 
 - **Original**: [https://paulgp.substack.com/p/from-an-empty-folder-to-a-figure](https://paulgp.substack.com/p/from-an-empty-folder-to-a-figure)

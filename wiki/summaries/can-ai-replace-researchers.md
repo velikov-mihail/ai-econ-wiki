@@ -4,6 +4,7 @@ tags: [summary, academic-research, ai-limitations, institutional-critique, highe
 sources:
   - "[[raw/articles/Can AI Replace Social Science Researchers.md]]"
 date_updated: 2026-04-03
+date_published: 2026-03
 ---
 
 - **Author/Source**: David Karpf (Beehiiv newsletter, 2026-03-05)

@@ -4,6 +4,7 @@ tags: [summary, higher-education, AI-and-education, signaling]
 sources:
   - "[[raw/articles/Thread by @JesusFerna7026.md]]"
 date_updated: 2026-04-03
+date_published: 2026-03
 ---
 
 - **Author/Source**: Jesus Fernandez-Villaverde (@JesusFerna7026, X/Twitter thread, 2026-03-24)

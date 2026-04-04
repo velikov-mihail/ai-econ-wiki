@@ -4,6 +4,7 @@ tags: [summary, web-scraping, claude-code, economists, SEC, EDGAR]
 sources:
   - "[[raw/articles/Web scraping Claude Code for Economists with Paul Goldsmith-Pinkham  Markus Academy  Ep. 162-3.md]]"
 date_updated: 2026-04-03
+date_published: 2026-03
 ---
 
 - **Original**: [https://www.youtube.com/watch?v=wqLZrKdevHs](https://www.youtube.com/watch?v=wqLZrKdevHs)

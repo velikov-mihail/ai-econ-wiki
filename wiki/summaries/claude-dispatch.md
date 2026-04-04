@@ -4,6 +4,7 @@ tags: [summary, claude-code, interfaces, cowork, dispatch, ai-agents]
 sources:
   - "[[raw/articles/Claude Dispatch and the Power of Interfaces.md]]"
 date_updated: 2026-04-03
+date_published: 2026-03
 ---
 
 - **Author/Source**: Ethan Mollick (Wharton School, University of Pennsylvania), via One Useful Thing Substack (2026-03-31)

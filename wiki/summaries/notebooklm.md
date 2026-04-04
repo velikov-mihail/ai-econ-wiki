@@ -4,6 +4,7 @@ tags: [summary, ai-tools, notebooklm, literature-review, qualitative-research]
 sources:
   - "[[raw/articles/NotebookLM - Claude Blattman · AI for Professionals Who Don't Code.md]]"
 date_updated: 2026-04-03
+date_published: 2026-03
 ---
 
 - **Author/Source**: Chris Blattman, *Claude Blattman: AI for Professionals Who Don't Code*

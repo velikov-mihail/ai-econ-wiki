@@ -4,6 +4,7 @@ tags: [summary, professional-productivity, email-triage, workflow-example]
 sources:
   - "[[raw/articles/Example Noise Canceling - Claude Blattman · AI for Professionals Who Don't Code.md]]"
 date_updated: 2026-04-03
+date_published: 2026-03
 ---
 - **Original**: [https://claudeblattman.com/workflows/school-digest/](https://claudeblattman.com/workflows/school-digest/)
 

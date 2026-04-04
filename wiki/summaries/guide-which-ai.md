@@ -4,6 +4,7 @@ tags: [summary, ai-tools, models, agents, harnesses]
 sources:
   - "[[raw/articles/A Guide to Which AI to Use in the Agentic Era.md]]"
 date_updated: 2026-04-03
+date_published: 2026-02
 ---
 
 - **Author/Source**: Ethan Mollick, *One Useful Thing* (Substack), February 17, 2026

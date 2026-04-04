@@ -4,6 +4,7 @@ tags: [summary, academic-paper, ai-adoption, faculty, institutional-strategy, ai
 sources:
   - "[[raw/papers/baylor_ai_taskforce.pdf]]"
 date_updated: 2026-04-03
+date_published: 2026-02
 ---
 - **Original**: [https://causalinf.substack.com/p/claude-code-21-faculty-adoption-of](https://causalinf.substack.com/p/claude-code-21-faculty-adoption-of)
 

@@ -4,6 +4,7 @@ tags: [summary, data-analysis, claude-code, economists, workflow]
 sources:
   - "[[raw/articles/Data Analysis Claude Code for Economists with Paul Goldsmith-Pinkham  Markus Academy  Ep. 162-2.md]]"
 date_updated: 2026-04-03
+date_published: 2026-03
 ---
 
 - **Original**: [https://www.youtube.com/watch?v=Rp17XUPxa4I](https://www.youtube.com/watch?v=Rp17XUPxa4I)

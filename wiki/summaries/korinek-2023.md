@@ -4,6 +4,7 @@ tags: [summary, academic-paper, generative-ai, llm, research-workflow]
 sources:
   - "[[raw/papers/korinek-2023-generative-ai-for-economic-research-use-cases-and-implications-for-economists.pdf]]"
 date_updated: 2026-04-03
+date_published: 2023-09
 ---
 - **Original**: [https://www.aeaweb.org/articles?id=10.1257/jel.20231721](https://www.aeaweb.org/articles?id=10.1257/jel.20231721)
 

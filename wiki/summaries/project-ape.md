@@ -4,6 +4,7 @@ tags: [summary, automated-research, policy-evaluation, AI-agents]
 sources:
   - "[[raw/articles/Project APE Can policy evaluation be automated Or is hallucinated slop unavoidable Let's find out.md]]"
 date_updated: 2026-04-03
+date_published: 2026-03
 ---
 
 - **Author/Source**: Social Catalyst Lab (ape.socialcatalystlab.org)

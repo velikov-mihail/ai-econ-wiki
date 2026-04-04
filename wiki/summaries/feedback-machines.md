@@ -4,6 +4,7 @@ tags: [summary, academic-research, writing, ai-tools, workflow]
 sources:
   - "[[raw/articles/Feedback Machines Writing and editing research papers with generative AI.md]]"
 date_updated: 2026-04-03
+date_published: 2026-01
 ---
 
 - **Author/Source**: Claes Backman (Substack, 2026-01-22)

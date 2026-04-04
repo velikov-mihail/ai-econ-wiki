@@ -4,6 +4,7 @@ tags: [summary, institutional-societal]
 sources:
   - "[[raw/articles/The Bitter Lesson.md]]"
 date_updated: 2026-04-03
+date_published: 2019-03
 ---
 
 - **Original**: [http://www.incompleteideas.net/IncIdeas/BitterLesson.html](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)

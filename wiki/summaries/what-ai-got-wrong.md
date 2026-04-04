@@ -4,6 +4,7 @@ tags: [summary, institutional-societal]
 sources:
   - "[[raw/articles/What AI Got Wrong - Claude Blattman · AI for Professionals Who Don't Code.md]]"
 date_updated: 2026-04-03
+date_published: 2026-03
 ---
 
 - **Original**: [https://claudeblattman.com/tax-workflow/case-study/what-ai-got-wrong/](https://claudeblattman.com/tax-workflow/case-study/what-ai-got-wrong/)

@@ -4,6 +4,7 @@ tags: [summary, ai-agents, teaching, agentic-workflows]
 sources:
   - "[[raw/articles/Agentic Everything.md]]"
 date_updated: 2026-04-03
+date_published: 2025-11
 ---
 
 - **Author/Source**: Teddy Svoronos (Harvard Kennedy School), via Substack

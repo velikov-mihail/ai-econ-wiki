@@ -4,6 +4,7 @@ tags: [summary, foundations-setup]
 sources:
   - "[[raw/articles/Getting Started with Claude Code A Researcher's Setup Guide.md]]"
 date_updated: 2026-04-03
+date_published: 2026-03
 ---
 - **Original**: [https://paulgp.substack.com/p/getting-started-with-claude-code](https://paulgp.substack.com/p/getting-started-with-claude-code)
 

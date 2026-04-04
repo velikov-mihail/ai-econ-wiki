@@ -4,6 +4,7 @@ tags: [summary, ai-agents, llms, reasoning-models, deep-research, coding-agents]
 sources:
   - "[[raw/articles/AI Agents – Generative AI for Economic Research.md]]"
 date_updated: 2026-04-03
+date_published: 2025-08
 ---
 
 - **Author/Source**: Anton Korinek (University of Virginia / Brookings), August 2025 update to the *Journal of Economic Literature* article "Generative AI for Economic Research"

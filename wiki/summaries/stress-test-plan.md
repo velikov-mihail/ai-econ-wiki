@@ -4,6 +4,7 @@ tags: [summary, professional-productivity, plan-review, prompt-engineering, syco
 sources:
   - "[[raw/articles/Stress-Test Any Plan - Claude Blattman · AI for Professionals Who Don't Code.md]]"
 date_updated: 2026-04-03
+date_published: 2026-03
 ---
 - **Original**: [https://claudeblattman.com/workflows/plan-review-browser/](https://claudeblattman.com/workflows/plan-review-browser/)
 

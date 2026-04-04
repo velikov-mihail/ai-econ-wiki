@@ -4,6 +4,7 @@ tags: [summary, ai-agents, skills, claude-code, self-bias]
 sources:
   - "[[raw/articles/Agents vs Skills - Claude Blattman · AI for Professionals Who Don't Code.md]]"
 date_updated: 2026-04-03
+date_published: 2026-03
 ---
 
 - **Author/Source**: Chris Blattman (University of Chicago, Harris School of Public Policy), via claudeblattman.com

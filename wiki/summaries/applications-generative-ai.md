@@ -4,6 +4,7 @@ tags: [summary, generative-AI, research-tools, productivity, coding, writing]
 sources:
   - "[[raw/articles/Applications – Generative AI for Economic Research.md]]"
 date_updated: 2026-04-03
+date_published: 2024-11
 ---
 
 - **Author/Source**: Anton Korinek (genaiforecon.org; companion to JEL 2025 paper)

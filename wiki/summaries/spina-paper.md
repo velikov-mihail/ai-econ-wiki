@@ -4,6 +4,7 @@ tags: [summary, academic-paper, claude-code, ai-agents, research-workflow, beame
 sources:
   - "[[raw/papers/main.tex]]"
 date_updated: 2026-04-03
+date_published: 2026-03
 ---
 - **Original**: [https://github.com/aspi6246/Claude-Code-Presentation](https://github.com/aspi6246/Claude-Code-Presentation)
 

@@ -4,6 +4,7 @@ tags: [summary, claude-code, ai-agents, skills, subagents, agentic-workflows]
 sources:
   - "[[raw/articles/Claude Code and What Comes Next.md]]"
 date_updated: 2026-04-03
+date_published: 2026-01
 ---
 
 - **Author/Source**: Ethan Mollick (Wharton School, University of Pennsylvania), via One Useful Thing Substack (2026-01-07)

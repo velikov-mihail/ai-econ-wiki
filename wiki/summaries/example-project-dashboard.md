@@ -4,6 +4,7 @@ tags: [summary, professional-productivity, project-management, workflow-example]
 sources:
   - "[[raw/articles/Example Project Dashboard - Claude Blattman · AI for Professionals Who Don't Code.md]]"
 date_updated: 2026-04-03
+date_published: 2026-03
 ---
 - **Original**: [https://claudeblattman.com/workflows/examples/project-overview-example/](https://claudeblattman.com/workflows/examples/project-overview-example/)
 

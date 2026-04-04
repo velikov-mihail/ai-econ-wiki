@@ -4,6 +4,7 @@ tags: [summary, human-ai-collaboration, research-productivity, historical-perspe
 sources:
   - "[[raw/articles/Thread by @alexolegimas.md]]"
 date_updated: 2026-04-03
+date_published: 2026-02
 ---
 
 - **Author/Source**: Alex Imas (@alexolegimas, X/Twitter thread, 2026-02-26)
