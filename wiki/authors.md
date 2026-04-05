@@ -31,6 +31,7 @@ All authors referenced in the knowledge base, with links to their summaries.
 *UTS Finance*
 
 - [[summaries/spina-paper|Claude Code for Academics: An AI Agent for Empirical Research]]
+- [[summaries/brownbag-claude-skills|Claude Code Skills for Academic Researchers: A Practical Introduction]]
 
 ## Aniket Panjwani
 
@@ -208,6 +209,31 @@ All authors referenced in the knowledge base, with links to their summaries.
 *Baylor University*
 
 - [[summaries/baylor-ai-taskforce|How to Encourage Adoption of AI Among Faculty]]
+- [[summaries/cc-changed-how-i-work-1|Claude Code Changed How I Work (Part 1)]]
+- [[summaries/cc-changed-how-i-work-2|Claude Code Changed How I Work (Part 2)]]
+- [[summaries/cc-changed-how-i-work-3|Claude Code Changed How I Work (Part 3)]]
+- [[summaries/cc-changed-how-i-work-4|Claude Code Changed How I Work (Part 4)]]
+- [[summaries/cc-changed-how-i-work-5|Claude Code Changed How I Work (Part 5)]]
+- [[summaries/cc-series-6-video-explainer|Part 6: Video Explainer of Claude Code in Action]]
+- [[summaries/cc-series-7-beautiful-decks|Part 7: Making Beautiful Decks For My Future Self]]
+- [[summaries/cc-series-9-bib-files|Part 9: .bib Files and Automating Article Retrieval]]
+- [[summaries/cc-series-10-lecture-decks|Part 10: Producing Highly Effective Decks]]
+- [[summaries/cc-series-11-deck-prompt|Part 11: Use This Prompt to Make a Deck]]
+- [[summaries/cc-series-12-empirical-research|Part 12: How I Use Claude Code for Empirical Research]]
+- [[summaries/cc-series-13-skills-split-pdf|Part 13: Skills and the Split-PDF Workflow]]
+- [[summaries/cc-series-14-pnas-replication-1|Part 14: PNAS Replication with Batch API (Part 1)]]
+- [[summaries/cc-series-15-pnas-replication-2|Part 15: PNAS Replication Results (Part 2)]]
+- [[summaries/cc-series-16-memory-foam|Part 16: The Memory Foam Mattress Theory]]
+- [[summaries/cc-series-17-zero-profit|Part 17: The Zero Profit Condition Is Coming]]
+- [[summaries/cc-series-21-attention-congestion|Part 21: Attention, Verification and Congestion]]
+- [[summaries/cc-series-21-faculty-adoption|Part 21: Faculty Adoption of AI]]
+- [[summaries/cc-series-24-agents-auditing-did|Part 24: Multiple Agents Auditing Your DiD Code]]
+- [[summaries/cc-series-25-autonomous-agents|Part 25: More Autonomous Agents Are Coming]]
+- [[summaries/cc-series-27-research-vs-publishing|Part 27: Research and Publishing Are Now Two Different Things]]
+- [[summaries/cc-series-29-finding-facts|Part 29: Can Claude Code Find Facts?]]
+- [[summaries/cc-series-31-satisfaction-discovering|Part 31: The Satisfaction in Discovering]]
+- [[summaries/cc-series-32-modest-proposal-editors|Part 32: A Modest Proposal for Editors]]
+- [[summaries/cc-series-33-continue-learning|Part 33: Help Claude Help Us By Continue Learning]]
 
 ## Social Catalyst Lab
 

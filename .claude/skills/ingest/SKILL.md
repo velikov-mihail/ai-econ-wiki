@@ -38,9 +38,11 @@ User runs `/ingest` or asks to process new sources.
 
    e. Update or create relevant concept pages in `wiki/concepts/` if the source introduces new cross-cutting themes.
 
-   f. Rebuild indexes: `python tools/build_index.py --write`
+   f. **Update `wiki/authors.md`**: Add the new summary under the author's existing heading (alphabetical by first name). If the author doesn't have a heading yet, create one in the correct alphabetical position with their affiliation if known.
 
-   g. Append an entry to `wiki/log.md` (newest first, below the header):
+   g. Rebuild indexes: `python tools/build_index.py --write`
+
+   h. Append an entry to `wiki/log.md` (newest first, below the header):
       ```
       ## [YYYY-MM-DD] ingest | Title
       - Source: raw/articles/Filename.md
@@ -48,9 +50,9 @@ User runs `/ingest` or asks to process new sources.
       - Concepts updated: list or "none"
       ```
 
-   h. **Show the diff and wait for user approval** before moving to the next source. (Skip this step if `--all` was passed.)
+   i. **Show the diff and wait for user approval** before moving to the next source. (Skip this step if `--all` was passed.)
 
-   i. Commit with message: `Add summary: <title>`
+   j. Commit with message: `Add summary: <title>`
 
 3. After all sources processed (or user stops), report summary of what was added.
 
