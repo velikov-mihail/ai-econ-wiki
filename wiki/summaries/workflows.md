@@ -1,8 +1,12 @@
 ---
-title: "Workflows"
-tags: [summary, ai-workflows, productivity]
+title: Workflows
+tags:
+- summary
+- prompt-engineering-workflow
+- ai-workflows
+- productivity
 sources:
-  - "[[raw/articles/Workflows - Claude Blattman · AI for Professionals Who Don't Code.md]]"
+- '[[raw/articles/Workflows - Claude Blattman · AI for Professionals Who Don''t Code.md]]'
 date_updated: 2026-04-03
 date_published: 2026-03
 ---

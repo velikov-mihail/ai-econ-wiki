@@ -18,19 +18,21 @@ import yaml
 
 WIKI_DIR = Path(__file__).resolve().parent.parent / "wiki"
 
-# Category landing pages (not individual summaries)
-CATEGORY_SLUGS = {
+# Category landing pages in canonical display order (also used to skip them
+# as individual summaries).  Must be a list so iteration order is stable.
+CATEGORY_ORDER = [
+    "professional-productivity",
+    "institutional-societal",
     "foundations-setup",
-    "prompt-engineering-workflow",
-    "ai-agents",
+    "ai-tools",
     "claude-code-skills",
+    "ai-agents",
     "data-analysis",
     "academic-research",
     "finance-econometrics",
-    "ai-tools",
-    "institutional-societal",
-    "professional-productivity",
-}
+    "prompt-engineering-workflow",
+]
+CATEGORY_SLUGS = set(CATEGORY_ORDER)
 
 
 def read_meta(path: Path):
@@ -54,8 +56,7 @@ def classify_category(tags):
     for t in tags:
         if t in CATEGORY_SLUGS:
             return t
-    # Fallback: use second tag (first is usually 'summary')
-    return tags[1] if len(tags) > 1 else "uncategorized"
+    return "uncategorized"
 
 
 # ── Category display names ──────────────────────────────────────────────
@@ -106,7 +107,7 @@ def build_summaries_index():
     ]
 
     # Emit in canonical category order
-    order = list(CATEGORY_SLUGS) + ["uncategorized"]
+    order = list(CATEGORY_ORDER) + ["uncategorized"]
     for cat in order:
         if cat not in pages:
             continue

@@ -1,8 +1,14 @@
 ---
-title: "Prompting Insights: Modern AI for Economics Research with Benjamin Golub"
-tags: [summary, prompt-engineering, economics-research, llm-limitations]
+title: 'Prompting Insights: Modern AI for Economics Research with Benjamin Golub'
+tags:
+- summary
+- prompt-engineering-workflow
+- prompt-engineering
+- economics-research
+- llm-limitations
 sources:
-  - "[[raw/articles/Prompting Insights Modern AI for Economics Research with Benjamin Golub  Markus Academy  Ep. 154.md]]"
+- '[[raw/articles/Prompting Insights Modern AI for Economics Research with Benjamin
+  Golub  Markus Academy  Ep. 154.md]]'
 date_updated: 2026-04-03
 date_published: 2025-12
 ---

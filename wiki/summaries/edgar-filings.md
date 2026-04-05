@@ -1,8 +1,16 @@
 ---
-title: "From EDGAR Filings to a Structured Database using Claude Code"
-tags: [summary, web-scraping, EDGAR, SEC, data-pipelines, claude-code, text-as-data]
+title: From EDGAR Filings to a Structured Database using Claude Code
+tags:
+- summary
+- data-analysis
+- web-scraping
+- EDGAR
+- SEC
+- data-pipelines
+- claude-code
+- text-as-data
 sources:
-  - "[[raw/articles/From EDGAR Filings to a Structured Database using Claude Code.md]]"
+- '[[raw/articles/From EDGAR Filings to a Structured Database using Claude Code.md]]'
 date_updated: 2026-04-03
 date_published: 2026-03
 ---

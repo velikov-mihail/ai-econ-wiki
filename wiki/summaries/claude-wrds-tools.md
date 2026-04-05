@@ -1,8 +1,18 @@
 ---
-title: "Claude Code WRDS Toolkit (piotrek-orlowski/claude-wrds-public)"
-tags: [summary, WRDS, CRSP, Compustat, OptionMetrics, TAQ, claude-code, agents, skills]
+title: Claude Code WRDS Toolkit (piotrek-orlowski/claude-wrds-public)
+tags:
+- summary
+- finance-econometrics
+- WRDS
+- CRSP
+- Compustat
+- OptionMetrics
+- TAQ
+- claude-code
+- agents
+- skills
 sources:
-  - "[[raw/articles/piotrek-orlowskiclaude-wrds-public.md]]"
+- '[[raw/articles/piotrek-orlowskiclaude-wrds-public.md]]'
 date_updated: 2026-04-03
 date_published: 2026-03
 ---

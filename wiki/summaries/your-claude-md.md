@@ -1,8 +1,14 @@
 ---
-title: "Your CLAUDE.md"
-tags: [summary, context-management, claude-code, configuration]
+title: Your CLAUDE.md
+tags:
+- summary
+- claude-code-skills
+- context-management
+- claude-code
+- configuration
 sources:
-  - "[[raw/articles/Your CLAUDE.md - Claude Blattman · AI for Professionals Who Don't Code.md]]"
+- '[[raw/articles/Your CLAUDE.md - Claude Blattman · AI for Professionals Who Don''t
+  Code.md]]'
 date_updated: 2026-04-03
 date_published: 2026-03
 ---

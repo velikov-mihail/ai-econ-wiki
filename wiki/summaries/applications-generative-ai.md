@@ -1,8 +1,15 @@
 ---
-title: "Applications of Generative AI for Economic Research"
-tags: [summary, generative-AI, research-tools, productivity, coding, writing]
+title: Applications of Generative AI for Economic Research
+tags:
+- summary
+- academic-research
+- generative-AI
+- research-tools
+- productivity
+- coding
+- writing
 sources:
-  - "[[raw/articles/Applications – Generative AI for Economic Research.md]]"
+- '[[raw/articles/Applications – Generative AI for Economic Research.md]]'
 date_updated: 2026-04-03
 date_published: 2024-11
 ---

@@ -1,8 +1,14 @@
 ---
-title: "Architecture Patterns"
-tags: [summary, ai-workflows, design-patterns, validation]
+title: Architecture Patterns
+tags:
+- summary
+- prompt-engineering-workflow
+- ai-workflows
+- design-patterns
+- validation
 sources:
-  - "[[raw/articles/Architecture Patterns - Claude Blattman · AI for Professionals Who Don't Code.md]]"
+- '[[raw/articles/Architecture Patterns - Claude Blattman · AI for Professionals Who
+  Don''t Code.md]]'
 date_updated: 2026-04-03
 date_published: 2026-03
 ---

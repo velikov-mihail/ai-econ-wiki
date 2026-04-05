@@ -1,8 +1,14 @@
 ---
-title: "Generative AI for Economic Research: Use Cases and Implications for Economists"
-tags: [summary, academic-paper, generative-ai, llm, research-workflow]
+title: 'Generative AI for Economic Research: Use Cases and Implications for Economists'
+tags:
+- summary
+- academic-research
+- academic-paper
+- generative-ai
+- llm
+- research-workflow
 sources:
-  - "[[raw/papers/korinek-2023-generative-ai-for-economic-research-use-cases-and-implications-for-economists.pdf]]"
+- '[[raw/papers/korinek-2023-generative-ai-for-economic-research-use-cases-and-implications-for-economists.pdf]]'
 date_updated: 2026-04-03
 date_published: 2023-09
 ---

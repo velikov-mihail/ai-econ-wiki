@@ -1,8 +1,14 @@
 ---
-title: "How Do Scientists Use Claude Code?"
-tags: [summary, claude-code, adoption, scientists, empirical]
+title: How Do Scientists Use Claude Code?
+tags:
+- summary
+- institutional-societal
+- claude-code
+- adoption
+- scientists
+- empirical
 sources:
-  - "[[raw/articles/How Do Scientists Use Claude Code.md]]"
+- '[[raw/articles/How Do Scientists Use Claude Code.md]]'
 date_updated: 2026-04-03
 date_published: 2026-03
 ---

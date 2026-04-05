@@ -14,6 +14,7 @@ See also: [[summaries/professional-productivity|Professional Productivity overvi
 
 - [[summaries/academic-tax-basics|Academic Tax Basics]]
 - [[summaries/ai-executive-assistant|Building an AI Executive Assistant]]
+- [[summaries/thread-cblatts|Chris Blattman Thread: From Claude Code Skeptic to Power User]]
 - [[summaries/example-noise-canceling|Example: Organizational Noise Canceling]]
 - [[summaries/example-project-dashboard|Example: Project Dashboard]]
 - [[summaries/example-research-design|Example: Research Design & Progress Document]]
@@ -25,6 +26,7 @@ See also: [[summaries/professional-productivity|Professional Productivity overvi
 - [[summaries/tax-season|Using Claude Code for Tax Season]]
 - [[summaries/voice-dictation|Voice Dictation]]
 - [[summaries/when-to-get-help|When to Get Help (Tax Professional Escalation)]]
+- [[summaries/workflow-overview|Workflow Overview: From Inbox to Organized Return]]
 
 ## Institutional & Societal Implications
 
@@ -33,6 +35,11 @@ See also: [[summaries/institutional-societal|Institutional & Societal Implicatio
 - [[summaries/ai-normal-technology|AI as Normal Technology]]
 - [[summaries/academics-wake-up|Academics Need to Wake Up on AI]]
 - [[summaries/academics-wake-up-2|Academics Need to Wake Up on AI, Part II]]
+- [[summaries/thread-alexolegimas|Alex Imas Thread: Man-Computer Symbiosis and the Excitement of AI in Research]]
+- [[summaries/thread-arindube|Arin Dube Thread: LLMs Haven't Raised NBER Working Papers Above Trend]]
+- [[summaries/blattman-x-post|Chris Blattman X Post on Claude Code Adoption]]
+- [[summaries/how-scientists-use-claude-code|How Do Scientists Use Claude Code?]]
+- [[summaries/thread-jesusferna|Jesus Fernandez-Villaverde Thread: Twelve Arguments for Traditional Higher Education]]
 - [[summaries/something-big-happening|Something Big Is Happening]]
 - [[summaries/bitter-lesson|The Bitter Lesson]]
 - [[summaries/shape-of-ai|The Shape of AI: Jaggedness, Bottlenecks and Salients]]
@@ -43,6 +50,7 @@ See also: [[summaries/institutional-societal|Institutional & Societal Implicatio
 
 See also: [[summaries/foundations-setup|Foundations & Setup overview]]
 
+- [[summaries/ai-project-folders|AI Project Folders]]
 - [[summaries/ai-for-professionals|AI for Professionals Who Don't Code - Site Overview]]
 - [[summaries/chatbot-essentials|Chatbot Essentials - The AI Toolkit Stack]]
 - [[summaries/chatbots-done-right|Chatbots Done Right - From Casual Use to Genuine Productivity]]
@@ -80,10 +88,12 @@ See also: [[summaries/claude-code-skills|Claude Code Skills & Advanced Workflows
 - [[summaries/ai-research-feedback-skills|AI Research Feedback Skills]]
 - [[summaries/build-your-own|Build Your Own]]
 - [[summaries/building-skills|Building Skills]]
+- [[summaries/cherny-code|ChernyCode: Boris Cherny's Productivity Tips for AI-Assisted Coding]]
 - [[summaries/compilation-review|Compilation, Categorization, and Multi-Year Review]]
 - [[summaries/continuous-improvement|Continuous Improvement]]
 - [[summaries/daaf-framework|DAAF: Data Analyst Augmentation Framework]]
 - [[summaries/skill-library|Skill Library]]
+- [[summaries/your-claude-md|Your CLAUDE.md]]
 
 ## AI Agents & Agentic AI
 
@@ -105,7 +115,9 @@ See also: [[summaries/ai-agents|AI Agents & Agentic AI overview]]
 See also: [[summaries/data-analysis|Data Analysis & Web Scraping overview]]
 
 - [[summaries/data-analysis-economists|Data Analysis: Claude Code for Economists with Paul Goldsmith-Pinkham (Markus Academy Ep. 162-2)]]
+- [[summaries/edgar-filings|From EDGAR Filings to a Structured Database using Claude Code]]
 - [[summaries/empty-folder-to-figure|From an Empty Folder to a Figure using Claude Code]]
+- [[summaries/web-scraping-economists|Web Scraping: Claude Code for Economists with Paul Goldsmith-Pinkham (Markus Academy Ep. 162-3)]]
 
 ## AI for Academic Research & Publishing
 
@@ -113,10 +125,31 @@ See also: [[summaries/academic-research|AI for Academic Research & Publishing ov
 
 - [[summaries/ai-one-shot-papers|AI One-Shot Papers]]
 - [[summaries/stress-test-research-pipeline|AI-Powered Pipeline to Stress-Test Research Ideas Before PhD Students Spend a Year on Them]]
+- [[summaries/applications-generative-ai|Applications of Generative AI for Economic Research]]
 - [[summaries/can-ai-replace-researchers|Can AI Replace Social Science Researchers?]]
 - [[summaries/feedback-machines|Feedback Machines: Writing and editing research papers with generative AI]]
+- [[summaries/korinek-2023|Generative AI for Economic Research: Use Cases and Implications for Economists]]
 - [[summaries/openai-automated-researcher|OpenAI is throwing everything into building a fully automated researcher]]
+- [[summaries/project-ape|Project APE: Can Policy Evaluation Be Automated?]]
 - [[summaries/reflections-vibe-research|Reflections on Vibe Researching]]
 - [[summaries/research-in-time-of-ai|Research in the Time of AI]]
 - [[summaries/vibe-research|Vibe Research, or How I Wrote an Academic Paper in Four Days]]
 - [[summaries/research-paper-disappear|When will the research paper disappear in economics?]]
+
+## Finance & Econometrics Applications
+
+See also: [[summaries/finance-econometrics|Finance & Econometrics Applications overview]]
+
+- [[summaries/claude-wrds-tools|Claude Code WRDS Toolkit (piotrek-orlowski/claude-wrds-public)]]
+- [[summaries/automated-research-finance|Seeking Collaboration to Test Automated Research in Finance]]
+
+## Prompt Engineering & Workflow Architecture
+
+See also: [[summaries/prompt-engineering-workflow|Prompt Engineering & Workflow Architecture overview]]
+
+- [[summaries/architecture-patterns|Architecture Patterns]]
+- [[summaries/patterns|Patterns]]
+- [[summaries/prompt-engineering|Prompt Engineering]]
+- [[summaries/prompt-plan-review-revise|Prompt, Plan, Review, Revise]]
+- [[summaries/prompting-insights-golub|Prompting Insights: Modern AI for Economics Research with Benjamin Golub]]
+- [[summaries/workflows|Workflows]]

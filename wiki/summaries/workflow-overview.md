@@ -1,8 +1,14 @@
 ---
-title: "Workflow Overview: From Inbox to Organized Return"
-tags: [summary, ai-workflows, case-study, validation]
+title: 'Workflow Overview: From Inbox to Organized Return'
+tags:
+- summary
+- professional-productivity
+- ai-workflows
+- case-study
+- validation
 sources:
-  - "[[raw/articles/Workflow Overview - Claude Blattman · AI for Professionals Who Don't Code.md]]"
+- '[[raw/articles/Workflow Overview - Claude Blattman · AI for Professionals Who Don''t
+  Code.md]]'
 date_updated: 2026-04-03
 date_published: 2026-03
 ---

@@ -1,8 +1,16 @@
 ---
-title: "ChernyCode: Boris Cherny's Productivity Tips for AI-Assisted Coding"
-tags: [summary, claude-code, cursor, productivity, skills, agents, best-practices]
+title: 'ChernyCode: Boris Cherny''s Productivity Tips for AI-Assisted Coding'
+tags:
+- summary
+- claude-code-skills
+- claude-code
+- cursor
+- productivity
+- skills
+- agents
+- best-practices
 sources:
-  - "[[raw/articles/meleantonioChernyCode.md]]"
+- '[[raw/articles/meleantonioChernyCode.md]]'
 date_updated: 2026-04-03
 date_published: 2026-03
 ---

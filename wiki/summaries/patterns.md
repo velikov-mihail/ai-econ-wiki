@@ -1,8 +1,13 @@
 ---
-title: "Patterns"
-tags: [summary, design-patterns, ai-workflows, claude-code]
+title: Patterns
+tags:
+- summary
+- prompt-engineering-workflow
+- design-patterns
+- ai-workflows
+- claude-code
 sources:
-  - "[[raw/articles/Patterns - Claude Blattman · AI for Professionals Who Don't Code.md]]"
+- '[[raw/articles/Patterns - Claude Blattman · AI for Professionals Who Don''t Code.md]]'
 date_updated: 2026-04-03
 date_published: 2026-03
 ---

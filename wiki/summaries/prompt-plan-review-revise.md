@@ -1,8 +1,14 @@
 ---
-title: "Prompt, Plan, Review, Revise"
-tags: [summary, ai-workflows, prompt-engineering, plan-review]
+title: Prompt, Plan, Review, Revise
+tags:
+- summary
+- prompt-engineering-workflow
+- ai-workflows
+- prompt-engineering
+- plan-review
 sources:
-  - "[[raw/articles/Prompt, Plan, Review, Revise - Claude Blattman · AI for Professionals Who Don't Code.md]]"
+- '[[raw/articles/Prompt, Plan, Review, Revise - Claude Blattman · AI for Professionals
+  Who Don''t Code.md]]'
 date_updated: 2026-04-03
 date_published: 2026-03
 ---

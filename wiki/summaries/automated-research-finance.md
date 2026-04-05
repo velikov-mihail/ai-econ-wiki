@@ -1,8 +1,13 @@
 ---
-title: "Seeking Collaboration to Test Automated Research in Finance"
-tags: [summary, automated-research, finance-research, AI-pipeline]
+title: Seeking Collaboration to Test Automated Research in Finance
+tags:
+- summary
+- finance-econometrics
+- automated-research
+- finance-research
+- AI-pipeline
 sources:
-  - "[[raw/articles/Seeking Collaboration to Test Automated Research in Finance.md]]"
+- '[[raw/articles/Seeking Collaboration to Test Automated Research in Finance.md]]'
 date_updated: 2026-04-03
 date_published: 2026-03
 ---

@@ -1,8 +1,14 @@
 ---
-title: "Jesus Fernandez-Villaverde Thread: Twelve Arguments for Traditional Higher Education"
-tags: [summary, higher-education, AI-and-education, signaling]
+title: 'Jesus Fernandez-Villaverde Thread: Twelve Arguments for Traditional Higher
+  Education'
+tags:
+- summary
+- institutional-societal
+- higher-education
+- AI-and-education
+- signaling
 sources:
-  - "[[raw/articles/Thread by @JesusFerna7026.md]]"
+- '[[raw/articles/Thread by @JesusFerna7026.md]]'
 date_updated: 2026-04-03
 date_published: 2026-03
 ---

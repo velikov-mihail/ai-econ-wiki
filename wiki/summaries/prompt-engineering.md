@@ -1,8 +1,13 @@
 ---
-title: "Prompt Engineering"
-tags: [summary, prompt-engineering, ai-workflows]
+title: Prompt Engineering
+tags:
+- summary
+- prompt-engineering-workflow
+- prompt-engineering
+- ai-workflows
 sources:
-  - "[[raw/articles/Prompt Engineering - Claude Blattman · AI for Professionals Who Don't Code.md]]"
+- '[[raw/articles/Prompt Engineering - Claude Blattman · AI for Professionals Who
+  Don''t Code.md]]'
 date_updated: 2026-04-03
 date_published: 2026-03
 ---

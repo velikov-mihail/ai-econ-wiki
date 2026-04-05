@@ -1,8 +1,14 @@
 ---
-title: "Project APE: Can Policy Evaluation Be Automated?"
-tags: [summary, automated-research, policy-evaluation, AI-agents]
+title: 'Project APE: Can Policy Evaluation Be Automated?'
+tags:
+- summary
+- academic-research
+- automated-research
+- policy-evaluation
+- AI-agents
 sources:
-  - "[[raw/articles/Project APE Can policy evaluation be automated Or is hallucinated slop unavoidable Let's find out.md]]"
+- '[[raw/articles/Project APE Can policy evaluation be automated Or is hallucinated
+  slop unavoidable Let''s find out.md]]'
 date_updated: 2026-04-03
 date_published: 2026-03
 ---

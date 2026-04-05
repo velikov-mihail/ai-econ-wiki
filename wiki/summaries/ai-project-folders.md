@@ -1,8 +1,14 @@
 ---
-title: "AI Project Folders"
-tags: [summary, context-management, prompt-engineering, productivity]
+title: AI Project Folders
+tags:
+- summary
+- foundations-setup
+- context-management
+- prompt-engineering
+- productivity
 sources:
-  - "[[raw/articles/AI Project Folders - Claude Blattman · AI for Professionals Who Don't Code.md]]"
+- '[[raw/articles/AI Project Folders - Claude Blattman · AI for Professionals Who
+  Don''t Code.md]]'
 date_updated: 2026-04-03
 date_published: 2026-03
 ---
