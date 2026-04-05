@@ -53,3 +53,4 @@ User runs `/ingest` or asks to process new sources.
 - Use short slug filenames (e.g., `ai-normal-technology.md`, not the full article title).
 - Cross-reference: link new summaries from related existing summaries where natural.
 - For PDFs/papers: extract key findings, methodology, and relevance to econ research.
+- **Missing URLs**: If a raw source (e.g., a local PDF or presentation) has no discoverable URL, ask the user for one before finalizing the summary. Don't guess or fabricate links. If the user confirms there is no URL, cite it as a local file only.
