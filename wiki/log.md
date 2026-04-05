@@ -8,6 +8,11 @@ date_updated: 2026-04-05
 
 Chronological record of wiki maintenance operations (newest first).
 
+## [2026-04-05] ingest | Claude Code Changed How I Work (Part 1)
+- Source: raw/articles/Claude Code Changed How I Work (Part 1).md
+- Summary: wiki/summaries/cc-changed-how-i-work-1.md
+- Concepts updated: none
+
 ## [2026-04-05] maintain --fix | Maintenance pass with auto-fix
 - Pending sources: 26
 - Errors: 5 → 0 (fixed 5 orphan summaries: added to category pages)
