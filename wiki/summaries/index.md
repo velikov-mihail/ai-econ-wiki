@@ -97,7 +97,7 @@ See also: [[summaries/claude-code-skills|Claude Code Skills & Advanced Workflows
 - [[summaries/cc-series-33-continue-learning|Claude Code 33: Help Claude Help Us By Continue Learning]]
 - [[summaries/cc-changed-how-i-work-1|Claude Code Changed How I Work (Part 1)]]
 - [[summaries/cc-changed-how-i-work-2|Claude Code Changed How I Work (Part 2)]]
-- [[summaries/cc-changed-how-i-work-3|Claude Code Changed How I Work (Part 3): Creating Devil's Advocate Agents]]
+- [[summaries/cc-changed-how-i-work-3|Claude Code Changed How I Work (Part 3): Creating Devil’s Advocate Agents]]
 - [[summaries/cc-changed-how-i-work-4|Claude Code Changed How I Work (Part 4): Boris Cherny, Claude Code's Origin, and Latent Knowledge]]
 - [[summaries/cc-changed-how-i-work-5|Claude Code Changed How I Work (Part 5): Challenges of Adopting Software Not Designed For Us]]
 - [[summaries/cc-series-13-skills-split-pdf|Claude Code Part 13: Skills and the Split-PDF Workflow]]

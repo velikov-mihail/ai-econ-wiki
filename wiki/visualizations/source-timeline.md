@@ -1,7 +1,7 @@
 ---
 title: "Source Timeline"
 tags: [visualization, navigation, timeline]
-date_updated: 2026-04-03
+date_updated: 2026-04-05
 ---
 
 # Source Timeline
@@ -26,6 +26,7 @@ All dated sources in the knowledge base, ordered chronologically. Undated source
 ## 2025
 
 - **December 19** — [[summaries/cc-changed-how-i-work-2|Claude Code Changed How I Work (Part 2)]] — Scott Cunningham
+- **August 2025** — [[summaries/ai-agents-generative-ai|AI Agents — Generative AI for Economic Research]] — Anton Korinek
 - **December 2025** — [[summaries/shape-of-ai|The Shape of AI: Jaggedness, Bottlenecks and Salients]] — Ethan Mollick
 - **December 23** — [[summaries/prompting-insights-golub|Prompting Insights: Modern AI for Economics Research]] — Benjamin Golub
 - **December 23** — [[summaries/using-llms-cursor|Using LLMs with Cursor]] — Benjamin Golub & Markus Brunnermeier
@@ -94,6 +95,8 @@ All dated sources in the knowledge base, ordered chronologically. Undated source
 - **March 2026** — [[summaries/academics-wake-up-2|Academics Need to Wake Up on AI, Part II]] — Alexander Kustov
 - **March 2026** — [[summaries/panjwani-slides|AI Agents for Economics Research (Slides)]] — Aniket Panjwani
 - **March 2026** — [[summaries/spina-paper|Claude Code for Academics]] — Alessandro Spina
+- **March 2026** — [[summaries/academic-tax-basics|Academic Tax Basics]] — Chris Blattman
+- **March 2026** — [[summaries/ai-normal-technology|AI as Normal Technology]] — Arvind Narayanan & Sayash Kapoor
 - **March 2026** — [[summaries/train-left-station|The Train Has Left the Station]] — Solomon Messing & Joshua Tucker
 
 ### April
@@ -166,8 +169,8 @@ These sources (primarily from Chris Blattman's AI guide site) do not have explic
 
 ## Summary Statistics
 
-- **Total dated sources:** 73
+- **Total dated sources:** 72
 - **Total undated sources:** 50
 - **Date range:** March 2019 – April 2026
-- **Peak activity:** March 2026 (31 sources)
-- **Most prolific authors:** Chris Blattman (43), Scott Cunningham (27), Paul Goldsmith-Pinkham (8), Ethan Mollick (4), Anton Korinek (4)
+- **Peak activity:** March 2026 (32 sources)
+- **Most prolific authors:** Chris Blattman (44), Scott Cunningham (27), Paul Goldsmith-Pinkham (8), Anton Korinek (5), Ethan Mollick (4)
