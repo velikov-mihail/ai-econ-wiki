@@ -6,7 +6,7 @@ date_updated: 2026-04-03
 
 # All Summaries
 
-This wiki contains **97** source summaries across the following categories.
+This wiki contains **98** source summaries across the following categories.
 
 ## Professional Productivity
 
@@ -90,6 +90,7 @@ See also: [[summaries/claude-code-skills|Claude Code Skills & Advanced Workflows
 - [[summaries/building-skills|Building Skills]]
 - [[summaries/cherny-code|ChernyCode: Boris Cherny's Productivity Tips for AI-Assisted Coding]]
 - [[summaries/cc-changed-how-i-work-1|Claude Code Changed How I Work (Part 1)]]
+- [[summaries/cc-changed-how-i-work-2|Claude Code Changed How I Work (Part 2)]]
 - [[summaries/compilation-review|Compilation, Categorization, and Multi-Year Review]]
 - [[summaries/continuous-improvement|Continuous Improvement]]
 - [[summaries/daaf-framework|DAAF: Data Analyst Augmentation Framework]]

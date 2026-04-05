@@ -26,6 +26,7 @@ Building skills, the DAAF framework, continuous improvement, and compilation wor
 
 ### Adoption & Experience
 - [[cc-changed-how-i-work-1|Claude Code Changed How I Work (Part 1)]] — Cunningham on the shift from vibe coding to agentic coding
+- [[cc-changed-how-i-work-2|Claude Code Changed How I Work (Part 2)]] — The theory of attention, danger zones, and linear isoquants
 
 ### Presentations
 - [[spina-paper|Claude Code for Academics]] — Spina's AI agent for empirical research (paper + slides)
