@@ -1,3 +1,8 @@
+---
+description: "Health-check the wiki and report issues. Args: --fix (auto-repair mechanical issues)"
+user_invocable: true
+---
+
 # /lint — Health-check the wiki
 
 Run diagnostics on the wiki and report issues. Optionally auto-fix mechanical problems.

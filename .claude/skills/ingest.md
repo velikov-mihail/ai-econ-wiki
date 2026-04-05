@@ -1,3 +1,8 @@
+---
+description: "Detect and process new raw sources into wiki summaries. Args: --all (skip per-source approval)"
+user_invocable: true
+---
+
 # /ingest — Process new raw sources into wiki summaries
 
 Detect and process raw sources that don't yet have wiki summaries.
@@ -5,6 +10,10 @@ Detect and process raw sources that don't yet have wiki summaries.
 ## Trigger
 
 User runs `/ingest` or asks to process new sources.
+
+## Arguments
+
+- `--all` — Process all pending sources without pausing for approval between each one. Still commits each individually. Default (no flag) pauses after each source for user review.
 
 ## Steps
 
@@ -23,8 +32,7 @@ User runs `/ingest` or asks to process new sources.
       - Related Concepts (wikilinks to `concepts/`)
       - Related Summaries (wikilinks to `summaries/`)
 
-   c. Assign to one of the existing categories by tag:
-      `foundations-setup`, `prompt-engineering-workflow`, `ai-agents`, `claude-code-skills`, `data-analysis`, `academic-research`, `finance-econometrics`, `ai-tools`, `institutional-societal`, `professional-productivity`
+   c. Assign to one of the existing categories by tag. Read the canonical list from `tools/categories.json`.
 
    d. Add the new summary to the appropriate category landing page in `wiki/summaries/`.
 
@@ -40,7 +48,7 @@ User runs `/ingest` or asks to process new sources.
       - Concepts updated: list or "none"
       ```
 
-   h. **Show the diff and wait for user approval** before moving to the next source.
+   h. **Show the diff and wait for user approval** before moving to the next source. (Skip this step if `--all` was passed.)
 
    i. Commit with message: `Add summary: <title>`
 

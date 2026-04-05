@@ -1,3 +1,8 @@
+---
+description: "Save conversation analysis back into the wiki. Args: concept | summary | output (optional target type)"
+user_invocable: true
+---
+
 # /file-back — Save conversation analysis back into the wiki
 
 After a conversation that produced useful analysis, file the results back into the wiki as a permanent page.
@@ -6,11 +11,18 @@ After a conversation that produced useful analysis, file the results back into t
 
 User runs `/file-back` or asks to save analysis/output back into the wiki.
 
+## Arguments
+
+- `concept` — File as a new or updated concept page in `wiki/concepts/`
+- `summary` — File as a new summary in `wiki/summaries/`
+- `output` — File as an output artifact in `output/`
+- *(no argument)* — Ask the user or infer from context
+
 ## Steps
 
 1. **Identify the content** to file back. Ask the user what from this conversation should be saved, or use context if obvious.
 
-2. **Determine destination** — one of:
+2. **Determine destination** — if a target type was passed as an argument, use it. Otherwise pick one of:
    - **New concept page** in `wiki/concepts/` — if the analysis synthesizes across multiple sources into a new theme
    - **Update existing concept page** — if it extends an existing concept
    - **New summary** in `wiki/summaries/` — if it's a summary of a specific source

@@ -1,3 +1,8 @@
+---
+description: "Full wiki maintenance pass (ingest detection, lint, index rebuild). Args: --fix (auto-repair lint issues too)"
+user_invocable: true
+---
+
 # /maintain — Full wiki maintenance pass
 
 Orchestrates ingest detection, lint, and index rebuild in one command.
@@ -5,6 +10,10 @@ Orchestrates ingest detection, lint, and index rebuild in one command.
 ## Trigger
 
 User runs `/maintain` or asks for a maintenance pass.
+
+## Arguments
+
+- `--fix` — After reporting, automatically run lint's `--fix` mode to repair mechanical issues (rebuild indexes, fix orphans). Without this flag, maintain is read-only and just reports.
 
 ## Steps
 
@@ -24,12 +33,14 @@ User runs `/maintain` or asks for a maintenance pass.
    Indexes:          rebuilt
    ```
 
-5. **Offer next steps**:
+5. **Auto-fix (if `--fix` passed)**: Run lint's `--fix` mode — rebuild indexes, fix orphan summaries and concepts. Commit fixes with message: `Maintain --fix: <brief description>`.
+
+6. **Offer next steps**:
    - If pending sources exist: "Run `/ingest` to process them one-by-one."
-   - If errors found: list the top issues and suggest fixes.
+   - If errors found (and `--fix` was not passed): list the top issues and suggest `/maintain --fix` or manual fixes.
    - If everything clean: "Wiki is healthy."
 
-6. **Log the operation** in `wiki/log.md`:
+7. **Log the operation** in `wiki/log.md`:
    ```
    ## [YYYY-MM-DD] maintain | Maintenance pass
    - Pending sources: N
@@ -38,7 +49,7 @@ User runs `/maintain` or asks for a maintenance pass.
    - Indexes rebuilt: yes
    ```
 
-7. **Commit** index changes if any were made, with message: `Maintain: rebuild indexes`
+8. **Commit** index changes if any were made, with message: `Maintain: rebuild indexes`
 
 ## Key Rules
 
