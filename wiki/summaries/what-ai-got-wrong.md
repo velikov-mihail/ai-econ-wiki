@@ -10,7 +10,7 @@ date_published: 2026-03
 - **Original**: [https://claudeblattman.com/tax-workflow/case-study/what-ai-got-wrong/](https://claudeblattman.com/tax-workflow/case-study/what-ai-got-wrong/)
 
 
-**Author/Source**: Chris Blattman (economist, University of Chicago), claudeblattman.com, 2026
+**Author/Source**: Chris Blattman (economist, University of Chicago), claudeblattman.com, March 2026
 
 **Key Ideas**:
 - AI is good at structured data extraction, pattern matching, and organizing information; it is bad at context-dependent judgment, ambiguous categorization, and knowing what it does not know

@@ -12,7 +12,7 @@ tags:
 sources:
 - '[[raw/articles/meleantonioChernyCode.md]]'
 date_updated: 2026-04-03
-date_published: 2026-03
+date_published: 2026-02-11
 ---
 
 - **Original**: [https://github.com/meleantonio/ChernyCode](https://github.com/meleantonio/ChernyCode)

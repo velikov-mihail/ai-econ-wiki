@@ -9,7 +9,7 @@ tags:
 sources:
 - '[[raw/articles/Seeking Collaboration to Test Automated Research in Finance.md]]'
 date_updated: 2026-04-03
-date_published: 2026-03
+date_published: 2026-03-22
 ---
 
 - **Author/Source**: Alejandro Lopez-Lira (Substack, 2026-03-22)

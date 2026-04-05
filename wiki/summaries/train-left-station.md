@@ -4,13 +4,13 @@ tags: [summary, institutional-societal]
 sources:
   - "[[raw/articles/The train has left the station Agentic AI and the future of social science research.md]]"
 date_updated: 2026-04-03
-date_published: 2026-03
+date_published: 2026-03-03
 ---
 
 - **Original**: [https://www.brookings.edu/articles/the-train-has-left-the-station-agentic-ai-and-the-future-of-social-science-research/](https://www.brookings.edu/articles/the-train-has-left-the-station-agentic-ai-and-the-future-of-social-science-research/)
 
 
-**Author/Source**: Solomon Messing and Joshua Tucker, Brookings Institution, March 2026
+**Author/Source**: Solomon Messing and Joshua Tucker, Brookings Institution, March 3, 2026
 
 **Key Ideas**:
 - AI coding agents (Claude Code, Codex, Jules) represent a qualitative shift from chatbot-based AI assistance -- they can create files, execute code, search the web, and iterate autonomously within a researcher's file system

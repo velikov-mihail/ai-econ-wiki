@@ -4,7 +4,7 @@ tags: [summary, claude-code-skills, claude-code, agentic-coding, workflow, atten
 sources:
   - "[[raw/articles/Claude Code Changed How I Work (Part 1).md]]"
 date_updated: 2026-04-05
-date_published: 2026-03-02
+date_published: 2025-12-13
 ---
 
 - **Author/Source**: Scott Cunningham (Baylor), via Substack ("Causal Inference")

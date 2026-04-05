@@ -4,7 +4,7 @@ tags: [summary, institutional-societal]
 sources:
   - "[[raw/articles/AI as Normal Technology.md]]"
 date_updated: 2026-04-03
-date_published: 2026-03
+date_published: 2025-04-15
 ---
 
 - **Original**: [https://knightcolumbia.org/content/ai-as-normal-technology](https://knightcolumbia.org/content/ai-as-normal-technology)

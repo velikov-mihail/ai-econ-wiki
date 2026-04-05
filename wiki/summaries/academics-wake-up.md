@@ -4,7 +4,7 @@ tags: [summary, institutional-societal]
 sources:
   - "[[raw/articles/Academics Need to Wake Up on AI.md]]"
 date_updated: 2026-04-03
-date_published: 2026-03
+date_published: 2026-03-02
 ---
 
 - **Original**: [https://www.popularbydesign.org/p/academics-need-to-wake-up-on-ai](https://www.popularbydesign.org/p/academics-need-to-wake-up-on-ai)

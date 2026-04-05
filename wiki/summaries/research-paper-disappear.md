@@ -4,7 +4,7 @@ tags: [summary, academic-research, future-of-academic-publishing, economics]
 sources:
   - "[[raw/articles/When will the research paper disappear in economics.md]]"
 date_updated: 2026-04-03
-date_published: 2026-03
+date_published: 2026-03-23
 ---
 
 - **Author/Source**: Tyler Cowen (Marginal Revolution, 2026-03-23)

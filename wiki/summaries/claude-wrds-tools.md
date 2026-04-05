@@ -14,7 +14,7 @@ tags:
 sources:
 - '[[raw/articles/piotrek-orlowskiclaude-wrds-public.md]]'
 date_updated: 2026-04-03
-date_published: 2026-03
+date_published: 2026-02-27
 ---
 
 - **Original**: [https://github.com/piotrek-orlowski/claude-wrds-public](https://github.com/piotrek-orlowski/claude-wrds-public)
