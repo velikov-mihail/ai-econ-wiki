@@ -8,7 +8,13 @@ sources:
   - "[[summaries/claude-code-what-comes-next.md]]"
   - "[[summaries/claude-code-hacks.md]]"
   - "[[summaries/ai-agents-econ-research.md]]"
-date_updated: 2026-04-03
+  - "[[summaries/cc-changed-how-i-work-3.md]]"
+  - "[[summaries/cc-changed-how-i-work-4.md]]"
+  - "[[summaries/cc-changed-how-i-work-5.md]]"
+  - "[[summaries/cc-series-6-video-explainer.md]]"
+  - "[[summaries/cc-series-7-beautiful-decks.md]]"
+  - "[[summaries/cc-series-9-bib-files.md]]"
+date_updated: 2026-04-05
 ---
 
 ## Definition

@@ -22,6 +22,7 @@ Designing effective prompts, plan-driven development, and structuring AI-assiste
 ### Workflow Design
 - [[workflow-overview|Workflow Overview]] — High-level map of AI-assisted research workflows
 - [[workflows|Workflows]] — Detailed workflow implementations and examples
+- [[cc-series-11-deck-prompt|Use This Prompt to Make a Deck]] — Cunningham's single prompt for Beamer deck generation with multi-agent review
 
 ### Project Configuration
 - [[your-claude-md|Your CLAUDE.md]] — Writing effective CLAUDE.md project instruction files

@@ -24,6 +24,15 @@ Vibe research, feedback machines, AI-assisted academic writing, and the future o
 - [[research-paper-disappear|When Will the Research Paper Disappear?]] — Cowen on the obsolescence of static papers
 - [[korinek-2023|Generative AI for Economic Research]] — Korinek on use cases and implications for economists
 
+### Empirical Workflows & Verification
+- [[cc-series-12-empirical-research|How I Use Claude Code for Empirical Research]] — Cunningham's MixtapeTools, Referee 2, cross-language replication
+- [[cc-series-24-agents-auditing-did|Multiple Agents Auditing Your DiD Code]] — Hallucination as measurement error, cross-language verification
+- [[cc-series-29-finding-facts|Can Claude Code Find Facts?]] — Automated DiD paper in 3.5 hours, epistemological questions
+
+### Publishing & Peer Review
+- [[cc-series-27-research-vs-publishing|Research and Publishing Are Now Two Different Things]] — Supply-demand analysis of manuscript production costs
+- [[cc-series-32-modest-proposal-editors|A Modest Proposal for Editors]] — Little's Law applied to journals, LLM desk screening
+
 ### Writing & Voice
 - [[teaching-ai-your-voice|Teaching AI Your Voice]] — Blattman's method for preserving authorial style
 - [[document-collection|Document Collection]] — Blattman's "email as database" pattern for document retrieval

@@ -37,6 +37,9 @@ This is an economist's theory of AI impact written in the language of economics 
 
 - **Related Summaries**
   - [[summaries/cc-changed-how-i-work-1]]
+  - [[summaries/cc-changed-how-i-work-3]]
+  - [[summaries/cc-changed-how-i-work-4]]
+  - [[summaries/cc-changed-how-i-work-5]]
   - [[summaries/agentic-everything]]
   - [[summaries/shape-of-ai]]
   - [[summaries/ai-normal-technology]]

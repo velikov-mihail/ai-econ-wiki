@@ -10,7 +10,10 @@ sources:
   - "[[summaries/getting-started-economists.md]]"
   - "[[summaries/getting-started-researchers.md]]"
   - "[[summaries/prompt-engineering.md]]"
-date_updated: 2026-04-03
+  - "[[summaries/cc-series-6-video-explainer.md]]"
+  - "[[summaries/cc-series-7-beautiful-decks.md]]"
+  - "[[summaries/cc-series-9-bib-files.md]]"
+date_updated: 2026-04-05
 ---
 
 # Context Management

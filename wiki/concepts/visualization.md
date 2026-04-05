@@ -8,7 +8,9 @@ sources:
   - "[[summaries/research-in-time-of-ai.md]]"
   - "[[summaries/guide-which-ai.md]]"
   - "[[summaries/data-analysis-economists.md]]"
-date_updated: 2026-04-03
+  - "[[summaries/cc-series-7-beautiful-decks.md]]"
+  - "[[summaries/cc-series-9-bib-files.md]]"
+date_updated: 2026-04-05
 ---
 
 # AI-Assisted Visualization

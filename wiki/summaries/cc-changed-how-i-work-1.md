@@ -37,6 +37,9 @@ Directly relevant as a first-person account from an economics professor adopting
 
 - **Related Summaries**
   - [[summaries/cc-changed-how-i-work-2]]
+  - [[summaries/cc-changed-how-i-work-3]]
+  - [[summaries/cc-changed-how-i-work-4]]
+  - [[summaries/cc-changed-how-i-work-5]]
   - [[summaries/claude-code-what-comes-next]]
   - [[summaries/learn-ai-coding-agents]]
   - [[summaries/agentic-everything]]

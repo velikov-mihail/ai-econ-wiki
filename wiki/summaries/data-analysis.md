@@ -18,6 +18,10 @@ Using AI for data pipelines, WRDS access, EDGAR filings, web scraping, and analy
 - [[web-scraping-economists|Web Scraping for Economists]] — SEC EDGAR scraping with plan mode (Markus Academy Ep. 162-3)
 - [[edgar-filings|EDGAR Filings to Structured Database]] — Seven lessons from building an EDGAR pipeline
 
+### Text Classification & NLP
+- [[cc-series-14-pnas-replication-1|PNAS Replication Part 1]] — Cunningham replicating Card et al. immigration rhetoric with OpenAI Batch API
+- [[cc-series-15-pnas-replication-2|PNAS Replication Part 2]] — Results: 69% agreement, $11 cost, polarization finding robust
+
 ### Research Tools & Templates
 - [[claude-wrds-tools|Claude WRDS Tools]] — Orlowski's toolkit for querying CRSP, Compustat, TAQ via Claude Code
 - [[cherny-code|ChernyCode Template]] — Boris Cherny's productivity template: memory, skills, subagents

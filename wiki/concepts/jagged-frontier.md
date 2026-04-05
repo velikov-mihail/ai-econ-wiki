@@ -9,7 +9,9 @@ sources:
   - "[[summaries/shape-of-ai.md]]"
   - "[[summaries/train-left-station.md]]"
   - "[[summaries/what-ai-got-wrong.md]]"
-date_updated: 2026-04-03
+  - "[[summaries/cc-changed-how-i-work-4.md]]"
+  - "[[summaries/cc-series-7-beautiful-decks.md]]"
+date_updated: 2026-04-05
 ---
 
 # The Jagged Frontier

@@ -8,6 +8,12 @@ date_updated: 2026-04-05
 
 Chronological record of wiki maintenance operations (newest first).
 
+## [2026-04-05] ingest --all | Batch ingest 24 Cunningham Claude Code series articles + 1 PDF
+- Sources: 24 articles from raw/articles/ (Parts 3-33) + raw/papers/Brownbag_Claude_Skills.pdf
+- Summaries created: cc-changed-how-i-work-{3,4,5}, cc-series-{6,7,9,10,11,12,13,14,15,16,17,21-attention,21-faculty,24,25,27,29,31,32,33}-*.md, brownbag-claude-skills.md
+- Categories updated: claude-code-skills, institutional-societal, academic-research, prompt-engineering-workflow, data-analysis, ai-agents
+- Indexes rebuilt: yes
+
 ## [2026-04-05] ingest | Claude Code Changed How I Work (Part 2)
 - Source: raw/articles/Claude Code Changed How I Work (Part 2).md
 - Summary: wiki/summaries/cc-changed-how-i-work-2.md

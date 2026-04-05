@@ -8,7 +8,8 @@ sources:
   - "[[summaries/spina-paper.md]]"
   - "[[summaries/shape-of-ai.md]]"
   - "[[summaries/setup-vs-code.md]]"
-date_updated: 2026-04-03
+  - "[[summaries/cc-series-9-bib-files.md]]"
+date_updated: 2026-04-05
 ---
 
 # AI-Assisted Literature Review

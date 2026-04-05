@@ -8,7 +8,10 @@ sources:
   - "[[summaries/agents-vs-skills.md]]"
   - "[[summaries/how-scientists-use-claude-code.md]]"
   - "[[summaries/learn-ai-coding-agents.md]]"
-date_updated: 2026-04-03
+  - "[[summaries/cc-changed-how-i-work-3.md]]"
+  - "[[summaries/cc-changed-how-i-work-4.md]]"
+  - "[[summaries/cc-series-6-video-explainer.md]]"
+date_updated: 2026-04-05
 ---
 
 ## Definition

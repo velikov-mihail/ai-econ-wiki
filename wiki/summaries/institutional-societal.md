@@ -21,6 +21,12 @@ The broader impact of AI on academia, research institutions, and society.
 - [[train-left-station|The Train Has Left the Station]] — Messing & Tucker (Brookings) on agentic AI and social science
 - [[blattman-x-post|Chris Blattman X Post on Claude Code Adoption]] — Blattman's social media post on adopting Claude Code
 
+### AI Adoption & Labor Markets
+- [[cc-series-17-zero-profit|Zero Profit Condition Is Coming]] — Cunningham on competitive equilibrium, gains for least experienced
+- [[cc-series-21-attention-congestion|Attention, Verification and Congestion]] — Productivity externalities, convex costs of faster work
+- [[cc-series-21-faculty-adoption|Faculty Adoption of AI]] — AI agents as experience goods, security risks, subsidies needed
+- [[cc-series-31-satisfaction-discovering|Hadn't the Satisfaction Always Been in the Discovering]] — Intrinsic joy of research vs AI automation
+
 ### Outlook
 - [[something-big-happening|Something Big Is Happening]] — Shumer on imminent AI disruption
 - [[what-ai-got-wrong|What AI Got Wrong]] — Blattman on plausible-but-wrong AI errors requiring domain expertise

@@ -7,7 +7,9 @@ sources:
   - "[[summaries/learn-ai-coding-agents.md]]"
   - "[[summaries/claude-code-newbies.md]]"
   - "[[summaries/my-claude-code-setup.md]]"
-date_updated: 2026-04-03
+  - "[[summaries/cc-changed-how-i-work-5.md]]"
+  - "[[summaries/cc-series-6-video-explainer.md]]"
+date_updated: 2026-04-05
 ---
 
 ## Definition

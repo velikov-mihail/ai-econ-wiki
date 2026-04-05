@@ -21,6 +21,9 @@ Agent frameworks, agentic workflows, and autonomous AI systems for research.
 - [[baylor-ai-taskforce|How to Encourage Adoption of AI Among Faculty]] — Experience, cost, and the killer use case
 - [[panjwani-slides|AI Agents for Economics Research (Slides)]] — Panjwani's slide deck on AI agents for economic research
 
+### Autonomous Agents & Safety
+- [[cc-series-25-autonomous-agents|More Autonomous Agents Are Coming]] — Cunningham on OpenClaw, prompt injection, Anthropic safety architecture
+
 ### Architecture & Design
 - [[agents-vs-skills|Agents vs Skills]] — Decision framework for skills vs agents in Claude Code
 - [[learn-ai-coding-agents|Learn About AI Coding Agents]] — Skills, rules, subagents, and configuration hierarchy

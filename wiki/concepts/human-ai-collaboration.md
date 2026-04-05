@@ -8,7 +8,11 @@ sources:
   - "[[summaries/research-in-time-of-ai.md]]"
   - "[[summaries/feedback-machines.md]]"
   - "[[summaries/agentic-everything.md]]"
-date_updated: 2026-04-03
+  - "[[summaries/cc-changed-how-i-work-3.md]]"
+  - "[[summaries/cc-changed-how-i-work-4.md]]"
+  - "[[summaries/cc-changed-how-i-work-5.md]]"
+  - "[[summaries/cc-series-7-beautiful-decks.md]]"
+date_updated: 2026-04-05
 ---
 
 # Human-AI Collaboration

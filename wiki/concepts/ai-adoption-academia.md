@@ -8,7 +8,9 @@ sources:
   - "[[summaries/something-big-happening.md]]"
   - "[[summaries/can-ai-replace-researchers.md]]"
   - "[[summaries/shape-of-ai.md]]"
-date_updated: 2026-04-03
+  - "[[summaries/cc-changed-how-i-work-4.md]]"
+  - "[[summaries/cc-changed-how-i-work-5.md]]"
+date_updated: 2026-04-05
 ---
 
 # AI Adoption in Academia

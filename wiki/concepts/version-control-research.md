@@ -4,7 +4,9 @@ tags: [concept, tools, reproducibility]
 sources:
   - "[[summaries/ai-agents-econ-research.md]]"
   - "[[summaries/project-manager-claude.md]]"
-date_updated: 2026-04-03
+  - "[[summaries/cc-changed-how-i-work-5.md]]"
+  - "[[summaries/cc-series-6-video-explainer.md]]"
+date_updated: 2026-04-05
 ---
 
 # Version Control for Research
