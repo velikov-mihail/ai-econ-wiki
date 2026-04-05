@@ -13,6 +13,13 @@ Chronological record of wiki maintenance operations (newest first).
 - Errors: 0
 - Warnings: 64 (all mkdocs nav drift)
 - Indexes rebuilt: yes
+- All derived pages up to date (no changes needed)
+
+## [2026-04-05] maintain | Maintenance pass
+- Pending sources: 0
+- Errors: 0
+- Warnings: 64 (all mkdocs nav drift)
+- Indexes rebuilt: yes
 - Derived pages updated: index.md counts, category-map.md counts, source-timeline.md (added 3 missing entries)
 
 ## [2026-04-05] ingest --all | Batch ingest 24 Cunningham Claude Code series articles + 1 PDF
