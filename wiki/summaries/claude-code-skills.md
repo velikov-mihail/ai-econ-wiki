@@ -23,3 +23,6 @@ Building skills, the DAAF framework, continuous improvement, and compilation wor
 ### Configuration & Improvement
 - [[continuous-improvement|Continuous Improvement]] — Iterative refinement of AI-assisted workflows
 - [[real-claude-md|A Real CLAUDE.md]] — Annotated real-world CLAUDE.md example
+
+### Presentations
+- [[spina-paper|Claude Code for Academics]] — Spina's AI agent for empirical research (paper + slides)

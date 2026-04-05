@@ -22,6 +22,7 @@ Vibe research, feedback machines, AI-assisted academic writing, and the future o
 - [[research-in-time-of-ai|Research in the Time of AI]] — Goldsmith-Pinkham's research pipeline ontology
 - [[openai-automated-researcher|OpenAI Automated Researcher]] — OpenAI's plan for fully automated research by 2028
 - [[research-paper-disappear|When Will the Research Paper Disappear?]] — Cowen on the obsolescence of static papers
+- [[korinek-2023|Generative AI for Economic Research]] — Korinek on use cases and implications for economists
 
 ### Writing & Voice
 - [[teaching-ai-your-voice|Teaching AI Your Voice]] — Blattman's method for preserving authorial style

@@ -18,6 +18,8 @@ Agent frameworks, agentic workflows, and autonomous AI systems for research.
 ### Agents for Economics
 - [[ai-agents-econ-research|AI Agents for Economic Research]] — Panjwani's VoxDev webinar on practical agent use
 - [[how-scientists-use-claude-code|How Do Scientists Use Claude Code]] — Empirical study of Claude Code adoption among 16K scientists
+- [[baylor-ai-taskforce|How to Encourage Adoption of AI Among Faculty]] — Experience, cost, and the killer use case
+- [[panjwani-slides|AI Agents for Economics Research (Slides)]] — Panjwani's slide deck on AI agents for economic research
 
 ### Architecture & Design
 - [[agents-vs-skills|Agents vs Skills]] — Decision framework for skills vs agents in Claude Code

@@ -19,6 +19,7 @@ The broader impact of AI on academia, research institutions, and society.
 - [[academics-wake-up|Academics Need to Wake Up on AI]] — Kustov on urgency of AI adoption in academia
 - [[academics-wake-up-2|Academics Need to Wake Up, Part II]] — Kustov's follow-up with concrete recommendations
 - [[train-left-station|The Train Has Left the Station]] — Messing & Tucker (Brookings) on agentic AI and social science
+- [[blattman-x-post|Chris Blattman X Post on Claude Code Adoption]] — Blattman's social media post on adopting Claude Code
 
 ### Outlook
 - [[something-big-happening|Something Big Is Happening]] — Shumer on imminent AI disruption
