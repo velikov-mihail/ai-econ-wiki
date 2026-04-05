@@ -54,7 +54,14 @@ User runs `/ingest` or asks to process new sources.
 
    j. Commit with message: `Add summary: <title>`
 
-3. After all sources processed (or user stops), report summary of what was added.
+3. **After all sources processed** (or user stops):
+
+   a. **Refresh derived pages** — update hardcoded counts and content to match current wiki state:
+      - `wiki/index.md` — category summary counts in the Categories section
+      - `wiki/visualizations/category-map.md` — summary counts in the mermaid diagram nodes
+      - `wiki/visualizations/source-timeline.md` — add any new dated summaries in chronological order, update summary statistics at bottom
+
+   b. Report summary of what was added.
 
 ## Key Rules
 

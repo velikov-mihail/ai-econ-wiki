@@ -23,7 +23,12 @@ User runs `/maintain` or asks for a maintenance pass.
 
 3. **Rebuild indexes**: Run `python tools/build_index.py --write` to ensure indexes match current files.
 
-4. **Summarize findings**: Print a concise dashboard:
+4. **Refresh derived pages**: Update hardcoded counts and content in these pages to match current wiki state:
+   - `wiki/index.md` — category summary counts in the Categories section
+   - `wiki/visualizations/category-map.md` — summary counts in the mermaid diagram nodes
+   - `wiki/visualizations/source-timeline.md` — add any new dated summaries in chronological order, update summary statistics at bottom
+
+5. **Summarize findings**: Print a concise dashboard:
    ```
    === Maintenance Summary ===
    Pending sources:  N
@@ -33,14 +38,14 @@ User runs `/maintain` or asks for a maintenance pass.
    Indexes:          rebuilt
    ```
 
-5. **Auto-fix (if `--fix` passed)**: Run lint's `--fix` mode — rebuild indexes, fix orphan summaries and concepts. Commit fixes with message: `Maintain --fix: <brief description>`.
+6. **Auto-fix (if `--fix` passed)**: Run lint's `--fix` mode — rebuild indexes, fix orphan summaries and concepts. Commit fixes with message: `Maintain --fix: <brief description>`.
 
-6. **Offer next steps**:
+7. **Offer next steps**:
    - If pending sources exist: "Run `/ingest` to process them one-by-one."
    - If errors found (and `--fix` was not passed): list the top issues and suggest `/maintain --fix` or manual fixes.
    - If everything clean: "Wiki is healthy."
 
-7. **Log the operation** in `wiki/log.md`:
+8. **Log the operation** in `wiki/log.md`:
    ```
    ## [YYYY-MM-DD] maintain | Maintenance pass
    - Pending sources: N
@@ -49,7 +54,7 @@ User runs `/maintain` or asks for a maintenance pass.
    - Indexes rebuilt: yes
    ```
 
-8. **Commit** index changes if any were made, with message: `Maintain: rebuild indexes`
+9. **Commit** index changes if any were made, with message: `Maintain: rebuild indexes`
 
 ## Key Rules
 
