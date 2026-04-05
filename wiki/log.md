@@ -8,6 +8,23 @@ date_updated: 2026-04-05
 
 Chronological record of wiki maintenance operations (newest first).
 
+## [2026-04-05] ingest | Part 38: A Plug for Goldsmith-Pinkham's Markus Academy Series
+- Source: raw/articles/Claude Code 38 A Plug for Paul Goldsmith-Pinkham's Markus Academy Series.md
+- Summary: wiki/summaries/cc-series-38-plug-paulgp.md
+- Concepts updated: none
+
+## [2026-04-05] maintain | Maintenance pass (2)
+- Pending sources: 4
+- Errors: 0
+- Warnings: 64 (all mkdocs nav drift)
+- Indexes rebuilt: yes (no changes needed)
+
+## [2026-04-05] maintain | Maintenance pass
+- Pending sources: 0
+- Errors: 0
+- Warnings: 64 (all mkdocs nav drift)
+- Indexes rebuilt: yes (no changes needed)
+
 ## [2026-04-05] maintain | Maintenance pass
 - Pending sources: 0
 - Errors: 0

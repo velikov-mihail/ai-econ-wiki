@@ -38,6 +38,7 @@ Building skills, the DAAF framework, continuous improvement, and compilation wor
 - [[cc-series-9-bib-files|Part 9: .bib Files and Article Retrieval]] — Automated bibliography and literature workflow
 - [[cc-series-10-lecture-decks|Part 10: Lecture Decks]] — Dictation approach to deck creation, optimal MB/MC
 - [[cc-series-33-continue-learning|Part 33: Help Claude Help Us]] — Cautionary tale on domain expertise and verification
+- [[cc-series-38-plug-paulgp|Part 38: A Plug for Goldsmith-Pinkham's Series]] — Endorsement of Markus Academy Claude Code series
 
 ### Skills & Tools
 - [[cc-series-13-skills-split-pdf|Part 13: Skills and Split-PDF]] — Skills vs personas, /split-pdf for chunked PDF extraction
