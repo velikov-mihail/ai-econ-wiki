@@ -36,31 +36,41 @@ def parse_frontmatter(path: Path):
     return meta, txt[end + 3 :]
 
 
+def _curly_variants(s: str) -> list[str]:
+    """Return original string plus version with curly quotes restored."""
+    variants = [s]
+    if "'" in s:
+        variants.append(s.replace("'", "\u2019"))
+    return variants
+
+
 def resolve_wikilink(link: str, src: Path) -> bool:
     """Return True if a wikilink target exists as a file."""
     link = link.strip()
 
-    # Full path from repo root (e.g. wiki/summaries/foo.md)
-    candidate = WIKI_DIR.parent / link
-    if candidate.exists():
-        return True
+    # Try original and curly-quote variants (YAML safe_load flattens quotes)
+    for variant in _curly_variants(link):
+        # Full path from repo root (e.g. wiki/summaries/foo.md)
+        candidate = WIKI_DIR.parent / variant
+        if candidate.exists():
+            return True
 
-    # Path relative to wiki/ (e.g. summaries/foo.md)
-    candidate = WIKI_DIR / link
-    if candidate.exists():
-        return True
+        # Path relative to wiki/ (e.g. summaries/foo.md)
+        candidate = WIKI_DIR / variant
+        if candidate.exists():
+            return True
 
-    # Bare name — search wiki/ recursively
-    bare = link if link.endswith(".md") else link + ".md"
-    matches = list(WIKI_DIR.rglob(bare))
-    if matches:
-        return True
-
-    # Also try bare name without .md extension (roamlinks resolves both)
-    if not link.endswith(".md"):
-        matches = list(WIKI_DIR.rglob(link + ".md"))
+        # Bare name — search wiki/ recursively
+        bare = variant if variant.endswith(".md") else variant + ".md"
+        matches = list(WIKI_DIR.rglob(bare))
         if matches:
             return True
+
+        # Also try bare name without .md extension (roamlinks resolves both)
+        if not variant.endswith(".md"):
+            matches = list(WIKI_DIR.rglob(variant + ".md"))
+            if matches:
+                return True
 
     return False
 

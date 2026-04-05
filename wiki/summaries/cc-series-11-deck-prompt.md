@@ -29,8 +29,8 @@ The prompt template is directly usable by any economist teaching a quantitative 
 
 - **Related Concepts**
   - [[concepts/prompt-engineering]]
-  - [[concepts/ai-agent-workflows]]
-  - [[concepts/multi-agent-patterns]]
+  - [[concepts/agentic-workflows]]
+  - [[concepts/ai-agents]]
 
 - **Related Summaries**
   - [[summaries/cc-series-10-lecture-decks]]

@@ -32,10 +32,10 @@ Cunningham emphasizes that research is not product development: "almost right" r
 This post is a direct workflow guide for applied economists. The Referee 2 protocol addresses a fundamental problem in computational research -- that self-review is unreliable -- by mimicking the journal review process. Cross-language replication is particularly relevant for economists who routinely work across Stata, R, and Python. The external-memory pattern solves the practical challenge of maintaining continuity across long research projects with AI assistants.
 
 - **Related Concepts**
-  - [[concepts/ai-agent-workflows]]
-  - [[concepts/verification-validation]]
+  - [[concepts/agentic-workflows]]
+  - [[concepts/reproducibility-transparency]]
   - [[concepts/prompt-engineering]]
-  - [[concepts/multi-agent-patterns]]
+  - [[concepts/ai-agents]]
 
 - **Related Summaries**
   - [[summaries/cc-series-10-lecture-decks]]

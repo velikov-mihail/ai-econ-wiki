@@ -33,10 +33,10 @@ The post concludes that LLM-based zero-shot classification is now a viable path 
 This post provides direct evidence that off-the-shelf LLMs can replicate trained NLP classifier results well enough to preserve substantive conclusions in economics research. The $11 / 4.6-hour benchmark makes computational text analysis accessible to solo researchers without ML expertise or GPU infrastructure. The finding that qualitative conclusions are robust even when point-level agreement is imperfect is important for economists considering LLM-based measurement of sentiment, framing, or rhetoric in large text corpora. The candid admission about accidentally violating the Referee 2 protocol is also instructive about the discipline required to maintain rigorous AI-assisted workflows.
 
 - **Related Concepts**
-  - [[concepts/llm-text-classification]]
-  - [[concepts/verification-validation]]
-  - [[concepts/ai-agent-workflows]]
-  - [[concepts/replication]]
+  - [[concepts/text-as-data]]
+  - [[concepts/reproducibility-transparency]]
+  - [[concepts/agentic-workflows]]
+  - [[concepts/cross-language-replication]]
 
 - **Related Summaries**
   - [[summaries/cc-series-14-pnas-replication-1]]

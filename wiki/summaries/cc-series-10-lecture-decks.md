@@ -29,9 +29,9 @@ A highlight is Claude Code spontaneously creating a custom .sty style file when 
 The post provides a concrete workflow for economists who rely on Beamer presentations for seminars, job talks, and lectures. The economic framing of the productivity shift (MB/MC analysis of deck creation) is itself a useful pedagogical device. The demonstration that an AI agent can handle TikZ, custom styling, and narrative structure lowers the barrier for researchers who want higher-quality visual communication but lack design skills or patience.
 
 - **Related Concepts**
-  - [[concepts/ai-agent-workflows]]
+  - [[concepts/agentic-workflows]]
   - [[concepts/prompt-engineering]]
-  - [[concepts/productivity-gains]]
+  - [[concepts/research-productivity]]
 
 - **Related Summaries**
   - [[summaries/cc-series-7-beautiful-decks]]

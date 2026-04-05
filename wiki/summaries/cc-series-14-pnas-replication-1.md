@@ -31,10 +31,10 @@ The post ends with the batch job submitted and results pending, setting up Part 
 This is a direct demonstration of how economists can use AI agents to conduct large-scale computational text analysis without machine learning expertise. The $11 cost and one-hour setup time dramatically lower the barrier to NLP-based research. The Referee 2 audit before running an expensive job illustrates a practical quality-control workflow. The methodological concerns raised (prompt bias, temporal heterogeneity, chance agreement correction) are exactly the issues a careful empirical researcher would need to address.
 
 - **Related Concepts**
-  - [[concepts/llm-text-classification]]
-  - [[concepts/ai-agent-workflows]]
-  - [[concepts/verification-validation]]
-  - [[concepts/multi-agent-patterns]]
+  - [[concepts/text-as-data]]
+  - [[concepts/agentic-workflows]]
+  - [[concepts/reproducibility-transparency]]
+  - [[concepts/ai-agents]]
 
 - **Related Summaries**
   - [[summaries/cc-series-15-pnas-replication-2]]

@@ -30,8 +30,8 @@ The main contribution is the /split-pdf skill, which addresses two practical pro
 The /split-pdf skill directly addresses the economist's need to extract precise details from dense empirical papers -- data sources, variable definitions, sample restrictions, coefficient estimates, and replication feasibility. The structured 8-dimension extraction template is tailored to how applied researchers actually consume papers. The skill also demonstrates how to build reusable tooling around Claude Code, lowering the per-paper cost of literature review and replication assessment.
 
 - **Related Concepts**
-  - [[concepts/ai-agent-workflows]]
-  - [[concepts/hallucination-mitigation]]
+  - [[concepts/agentic-workflows]]
+  - [[concepts/ai-limitations]]
   - [[concepts/prompt-engineering]]
 
 - **Related Summaries**
