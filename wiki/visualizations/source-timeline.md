@@ -25,38 +25,58 @@ All dated sources in the knowledge base, ordered chronologically. Undated source
 
 ## 2025
 
+- **December 19** — [[summaries/cc-changed-how-i-work-2|Claude Code Changed How I Work (Part 2)]] — Scott Cunningham
 - **December 2025** — [[summaries/shape-of-ai|The Shape of AI: Jaggedness, Bottlenecks and Salients]] — Ethan Mollick
-- **December 23, 2025** — [[summaries/prompting-insights-golub|Prompting Insights: Modern AI for Economics Research]] — Benjamin Golub
-- **December 23, 2025** — [[summaries/using-llms-cursor|Using LLMs with Cursor]] — Benjamin Golub & Markus Brunnermeier
-- **December 25, 2025** — [[summaries/refine-ink-golub|Refine.ink: AI-Powered Referee Reports]] — Benjamin Golub & Markus Brunnermeier
+- **December 23** — [[summaries/prompting-insights-golub|Prompting Insights: Modern AI for Economics Research]] — Benjamin Golub
+- **December 23** — [[summaries/using-llms-cursor|Using LLMs with Cursor]] — Benjamin Golub & Markus Brunnermeier
+- **December 25** — [[summaries/refine-ink-golub|Refine.ink: AI-Powered Referee Reports]] — Benjamin Golub & Markus Brunnermeier
 
 ## 2026
 
 ### January
+- **January 1** — [[summaries/cc-changed-how-i-work-3|Claude Code Changed How I Work (Part 3)]] — Scott Cunningham
 - **January 3** — [[summaries/reflections-vibe-research|Reflections on Vibe Researching]] — Joshua Gans
 - **January 7** — [[summaries/claude-code-what-comes-next|Claude Code and What Comes Next]] — Ethan Mollick
+- **January 11** — [[summaries/cc-changed-how-i-work-4|Claude Code Changed How I Work (Part 4)]] — Scott Cunningham
+- **January 12** — [[summaries/cc-changed-how-i-work-5|Claude Code Changed How I Work (Part 5)]] — Scott Cunningham
+- **January 14** — [[summaries/cc-series-6-video-explainer|Part 6: Video Explainer]] — Scott Cunningham
+- **January 17** — [[summaries/cc-series-7-beautiful-decks|Part 7: Making Beautiful Decks]] — Scott Cunningham
 - **January 22** — [[summaries/feedback-machines|Feedback Machines]] — Claes Backman
+- **January 24** — [[summaries/cc-series-9-bib-files|Part 9: .bib Files and Article Retrieval]] — Scott Cunningham
+- **January 29** — [[summaries/cc-series-10-lecture-decks|Part 10: Lecture Decks]] — Scott Cunningham
+- **January 30** — [[summaries/cc-series-11-deck-prompt|Part 11: Deck Prompt]] — Scott Cunningham
 
 ### February
-- **February 2026** — [[summaries/baylor-ai-taskforce|How to Encourage Adoption of AI Among Faculty]] — Scott Cunningham
-- **February 2026** — [[summaries/something-big-happening|Something Big Is Happening]] — Matt Shumer
+- **February 2** — [[summaries/cc-series-12-empirical-research|Part 12: Empirical Research Workflow]] — Scott Cunningham
+- **February 3** — [[summaries/cc-series-13-skills-split-pdf|Part 13: Skills and Split-PDF]] — Scott Cunningham
+- **February 5** — [[summaries/cc-series-14-pnas-replication-1|Part 14: PNAS Replication (Part 1)]] — Scott Cunningham
+- **February 6** — [[summaries/cc-series-15-pnas-replication-2|Part 15: PNAS Replication Results]] — Scott Cunningham
+- **February 8** — [[summaries/cc-series-16-memory-foam|Part 16: Memory Foam Mattress Theory]] — Scott Cunningham
+- **February 10** — [[summaries/cc-series-17-zero-profit|Part 17: Zero Profit Condition]] — Scott Cunningham
+- **February 17** — [[summaries/cc-series-21-faculty-adoption|Part 21: Faculty Adoption]] — Scott Cunningham
 - **February 17** — [[summaries/guide-which-ai|A Guide to Which AI to Use in the Agentic Era]] — Ethan Mollick
+- **February 19** — [[summaries/cc-series-21-attention-congestion|Part 21: Attention and Congestion]] — Scott Cunningham
+- **February 25** — [[summaries/cc-series-24-agents-auditing-did|Part 24: Agents Auditing DiD Code]] — Scott Cunningham
+- **February 26** — [[summaries/cc-series-25-autonomous-agents|Part 25: Autonomous Agents]] — Scott Cunningham
 - **February 26** — [[summaries/blattman-x-post|Claude Code Adoption (X Post)]] — Chris Blattman
 - **February 26** — [[summaries/thread-alexolegimas|Man-Computer Symbiosis and AI in Research]] — Alex Imas
 - **February 26** — [[summaries/thread-cblatts|From Claude Code Skeptic to Power User]] — Chris Blattman
+- **February 2026** — [[summaries/baylor-ai-taskforce|How to Encourage Adoption of AI Among Faculty]] — Scott Cunningham
+- **February 2026** — [[summaries/something-big-happening|Something Big Is Happening]] — Matt Shumer
 
 ### March
-- **March 2026** — [[summaries/academics-wake-up|Academics Need to Wake Up on AI]] — Alexander Kustov
-- **March 2026** — [[summaries/academics-wake-up-2|Academics Need to Wake Up on AI, Part II]] — Alexander Kustov
-- **March 2026** — [[summaries/panjwani-slides|AI Agents for Economics Research (Slides)]] — Aniket Panjwani
-- **March 2026** — [[summaries/spina-paper|Claude Code for Academics]] — Alessandro Spina
-- **March 2026** — [[summaries/train-left-station|The Train Has Left the Station]] — Solomon Messing & Joshua Tucker
+- **March 2** — [[summaries/cc-changed-how-i-work-1|Claude Code Changed How I Work (Part 1)]] — Scott Cunningham
+- **March 2** — [[summaries/cc-series-27-research-vs-publishing|Part 27: Research and Publishing]] — Scott Cunningham
 - **March 4** — [[summaries/project-manager-claude|Claude Code as Project Manager]] — Panos Ipeirotis
 - **March 5** — [[summaries/can-ai-replace-researchers|Can AI Replace Social Science Researchers?]] — David Karpf
+- **March 5** — [[summaries/cc-series-29-finding-facts|Part 29: Can Claude Code Find Facts?]] — Scott Cunningham
 - **March 5** — [[summaries/how-scientists-use-claude-code|How Do Scientists Use Claude Code?]] — Charles Yang
+- **March 11** — [[summaries/cc-series-31-satisfaction-discovering|Part 31: The Satisfaction in Discovering]] — Scott Cunningham
 - **March 12** — [[summaries/ai-agents-econ-research|AI Agents for Economic Research (VoxDev)]] — Aniket Panjwani
 - **March 12** — [[summaries/stress-test-research-pipeline|AI-Powered Pipeline to Stress-Test Research Ideas]] — Alejandro Lopez-Lira
+- **March 13** — [[summaries/cc-series-32-modest-proposal-editors|Part 32: A Modest Proposal for Editors]] — Scott Cunningham
 - **March 16** — [[summaries/research-in-time-of-ai|Research in the Time of AI]] — Paul Goldsmith-Pinkham
+- **March 19** — [[summaries/cc-series-33-continue-learning|Part 33: Help Claude Help Us]] — Scott Cunningham
 - **March 20** — [[summaries/openai-automated-researcher|OpenAI and the Fully Automated Researcher]] — Will Douglas Heaven
 - **March 21** — [[summaries/ai-one-shot-papers|AI One-Shot Papers]] — Paul Goldsmith-Pinkham
 - **March 22** — [[summaries/automated-research-finance|Automated Research in Finance]] — Alejandro Lopez-Lira
@@ -70,6 +90,14 @@ All dated sources in the knowledge base, ordered chronologically. Undated source
 - **March 29** — [[summaries/edgar-filings|From EDGAR Filings to a Structured Database]] — Paul Goldsmith-Pinkham
 - **March 29** — [[summaries/empty-folder-to-figure|From an Empty Folder to a Figure]] — Paul Goldsmith-Pinkham
 - **March 31** — [[summaries/claude-dispatch|Claude Dispatch and the Power of Interfaces]] — Ethan Mollick
+- **March 2026** — [[summaries/academics-wake-up|Academics Need to Wake Up on AI]] — Alexander Kustov
+- **March 2026** — [[summaries/academics-wake-up-2|Academics Need to Wake Up on AI, Part II]] — Alexander Kustov
+- **March 2026** — [[summaries/panjwani-slides|AI Agents for Economics Research (Slides)]] — Aniket Panjwani
+- **March 2026** — [[summaries/spina-paper|Claude Code for Academics]] — Alessandro Spina
+- **March 2026** — [[summaries/train-left-station|The Train Has Left the Station]] — Solomon Messing & Joshua Tucker
+
+### April
+- **April 1** — [[summaries/brownbag-claude-skills|Claude Code Skills for Academic Researchers]] — Alessandro Spina
 
 ### Undated (2026)
 - [[summaries/vibe-research|Vibe Research]] — Vincent Gregoire
@@ -138,8 +166,8 @@ These sources (primarily from Chris Blattman's AI guide site) do not have explic
 
 ## Summary Statistics
 
-- **Total dated sources:** 46
+- **Total dated sources:** 73
 - **Total undated sources:** 50
-- **Date range:** March 2019 – March 2026
+- **Date range:** March 2019 – April 2026
 - **Peak activity:** March 2026 (31 sources)
-- **Most prolific authors:** Chris Blattman (43), Paul Goldsmith-Pinkham (8), Anton Korinek (4), Ethan Mollick (4)
+- **Most prolific authors:** Chris Blattman (43), Scott Cunningham (27), Paul Goldsmith-Pinkham (8), Ethan Mollick (4), Anton Korinek (4)
