@@ -11,6 +11,7 @@ Usage:
 
 import re
 import sys
+import unicodedata
 from pathlib import Path
 
 import yaml
@@ -20,6 +21,15 @@ WIKI_DIR = ROOT / "wiki"
 RAW_DIR = ROOT / "raw"
 
 WIKILINK_RE = re.compile(r"\[\[([^\]|]+)(?:\|[^\]]+)?\]\]")
+
+
+def normalize_str(s: str) -> str:
+    """Normalize unicode (curly quotes, etc.) for reliable comparison."""
+    s = unicodedata.normalize("NFKC", s)
+    # Map curly quotes to straight equivalents
+    s = s.replace("\u2018", "'").replace("\u2019", "'")
+    s = s.replace("\u201c", '"').replace("\u201d", '"')
+    return s
 
 
 def read_meta(path: Path):
@@ -52,7 +62,7 @@ def collect_referenced_sources():
             target = m.group(1) if m else src
             # Normalize to forward slashes and strip leading wiki/ if present
             target = target.replace("\\", "/").strip()
-            refs.add(target)
+            refs.add(normalize_str(target))
     return refs
 
 
@@ -65,7 +75,7 @@ def collect_raw_files():
             continue
         for fp in sorted(d.iterdir()):
             if fp.is_file():
-                rel = f"raw/{subdir}/{fp.name}"
+                rel = normalize_str(f"raw/{subdir}/{fp.name}")
                 files.append(rel)
     return files
 

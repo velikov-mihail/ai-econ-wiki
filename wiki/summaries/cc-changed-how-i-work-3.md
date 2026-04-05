@@ -1,5 +1,5 @@
 ---
-title: "Claude Code Changed How I Work (Part 3): Creating Devil's Advocate Agents"
+title: "Claude Code Changed How I Work (Part 3): Creating Devil’s Advocate Agents"
 tags: [summary, claude-code-skills, ai-agents, adversarial-review, debugging, sub-agents]
 sources:
   - "[[raw/articles/Claude Code Changes How I work (Part 3) Creating Devil's Advocate Agents for Tough Problems.md]]"
