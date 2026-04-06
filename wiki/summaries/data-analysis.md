@@ -12,6 +12,8 @@ Using AI for data pipelines, WRDS access, EDGAR filings, web scraping, and analy
 
 ### Data Analysis Workflows
 - [[data-analysis-economists|Data Analysis for Economists]] — Goldsmith-Pinkham's Census data analysis demo (Markus Academy Ep. 162-2)
+- [[large-datasets-economists|Large Datasets and Structured Databases]] — 70 GB HMDA → DuckDB + Parquet; metadata as context engineering
+- [[large-datasets-video|Large Datasets (Video)]] — Live Markus Academy walkthrough of HMDA pipeline (Ep. 162-4)
 - [[empty-folder-to-figure|From Empty Folder to Figure]] — Sub-agents, Kieran Healy styling, Claude Code vs Cowork
 
 ### Web Scraping & EDGAR
