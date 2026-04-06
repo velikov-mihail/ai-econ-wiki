@@ -14,6 +14,7 @@ Vibe research, feedback machines, AI-assisted academic writing, and the future o
 - [[vibe-research|Vibe Research]] — Gregoire wrote a finance paper in 4 days with AI
 - [[reflections-vibe-research|Reflections on Vibe Researching]] — Gans's year-long AI-first experiment and its failures
 - [[feedback-machines|Feedback Machines]] — Bäckman on structured paper feedback with Claude/Cursor
+- [[prompts-to-paper|Prompts-to-Paper]] — Chen uses AI co-authors (o1, Sonnet, Deep Research) to write a theory paper on hedging AI risk
 - [[stress-test-research-pipeline|Stress-Test Research Pipeline]] — Lopez-Lira's pipeline for evaluating PhD research ideas
 
 ### AI and the Future of Research
