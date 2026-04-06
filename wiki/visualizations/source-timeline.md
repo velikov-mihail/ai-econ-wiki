@@ -21,10 +21,12 @@ All sources in the knowledge base, ordered chronologically by publication date.
 ## 2024
 
 - **November 2024** — [[summaries/applications-generative-ai|Applications of Generative AI for Economic Research]] — Anton Korinek
+- **December 2024** — [[summaries/ai-powered-scholarship|AI-Powered (Finance) Scholarship]] — Robert Novy-Marx & Mihail Velikov
 - **December 2024** — [[summaries/llm-collaboration|LLM Collaboration and Reasoning]] — Anton Korinek
 
 ## 2025
 
+- **April 2025** — [[summaries/prompts-to-paper|Prompts-to-Paper: Hedging the AI Singularity]] — Andrew Y. Chen
 - **April 15** — [[summaries/ai-normal-technology|AI as Normal Technology]] — Arvind Narayanan & Sayash Kapoor
 - **August 2025** — [[summaries/ai-agents-generative-ai|AI Agents — Generative AI for Economic Research]] — Anton Korinek
 - **November 2025** — [[summaries/agentic-everything|Agentic Everything]] — Teddy Svoronos
@@ -154,13 +156,16 @@ All sources in the knowledge base, ordered chronologically by publication date.
 
 ### April
 - **April 1** — [[summaries/brownbag-claude-skills|Claude Code Skills for Academic Researchers]] — Alessandro Spina
+- **April 3** — [[summaries/andrews-ai-research|Some Thoughts on AI and Research]] — Isaiah Andrews
+- **April 5** — [[summaries/large-datasets-economists|Large Datasets and Structured Databases]] — Paul Goldsmith-Pinkham
+- **April 5** — [[summaries/large-datasets-video|Large Datasets: Claude Code for Economists (Video)]] — Paul Goldsmith-Pinkham
 - **April 5** — [[summaries/cc-series-38-plug-paulgp|Part 38: A Plug for Paul Goldsmith-Pinkham's Markus Academy Series]] — Scott Cunningham
 
 ---
 
 ## Summary Statistics
 
-- **Total sources:** 124
+- **Total sources:** 129
 - **Date range:** March 2019 – April 2026
 - **Peak activity:** March 2026 (84 sources)
-- **Most prolific authors:** Chris Blattman (44), Scott Cunningham (27), Paul Goldsmith-Pinkham (9), Anton Korinek (4), Ethan Mollick (4)
+- **Most prolific authors:** Chris Blattman (44), Scott Cunningham (27), Paul Goldsmith-Pinkham (11), Anton Korinek (4), Ethan Mollick (4)
