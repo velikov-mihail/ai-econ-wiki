@@ -8,6 +8,7 @@ date_published: 2026-04-03
 ---
 
 - **Author/Source**: Isaiah Andrews (MIT Economics)
+- **Original**: [https://economics.mit.edu/sites/default/files/2026-04/IA%20AI%20note_1.pdf](https://economics.mit.edu/sites/default/files/2026-04/IA%20AI%20note_1.pdf)
 
 - **Key Ideas**
   - Structures thinking about AI's impact on research around three cases: (1) models do all intellectual tasks better than humans (human capital investments irrelevant), (2) models excel at current strengths but remain below humans in other areas (invest in scarce skills models are bad at), (3) capabilities level off modestly above current levels (still a major disadvantage not to adopt).
