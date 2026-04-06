@@ -149,16 +149,18 @@ All sources in the knowledge base, ordered chronologically by publication date.
 - **March 2026** — [[summaries/when-to-get-help|When to Get Help]] — Chris Blattman
 - **March 2026** — [[summaries/workflow-overview|Workflow Overview]] — Chris Blattman
 - **March 2026** — [[summaries/workflows|Workflows]] — Chris Blattman
+- **March 2026** — [[summaries/claude-container|Claude Container: A Complete Beginner's Guide]] — Paul Goldsmith-Pinkham
 - **March 2026** — [[summaries/your-claude-md|Your CLAUDE.md]] — Chris Blattman
 
 ### April
 - **April 1** — [[summaries/brownbag-claude-skills|Claude Code Skills for Academic Researchers]] — Alessandro Spina
+- **April 5** — [[summaries/cc-series-38-plug-paulgp|Part 38: A Plug for Paul Goldsmith-Pinkham's Markus Academy Series]] — Scott Cunningham
 
 ---
 
 ## Summary Statistics
 
-- **Total sources:** 122
+- **Total sources:** 124
 - **Date range:** March 2019 – April 2026
-- **Peak activity:** March 2026 (83 sources)
-- **Most prolific authors:** Chris Blattman (44), Scott Cunningham (26), Paul Goldsmith-Pinkham (8), Anton Korinek (4), Ethan Mollick (4)
+- **Peak activity:** March 2026 (84 sources)
+- **Most prolific authors:** Chris Blattman (44), Scott Cunningham (27), Paul Goldsmith-Pinkham (9), Anton Korinek (4), Ethan Mollick (4)

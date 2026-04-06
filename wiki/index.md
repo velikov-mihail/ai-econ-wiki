@@ -7,14 +7,14 @@ date_updated: 2026-04-05
 
 # AI in Business & Economic Research
 
-A curated knowledge base on using AI tools and workflows for business and economic research. Built from 122 web articles, academic papers, and practitioner guides.
+A curated knowledge base on using AI tools and workflows for business and economic research. Built from 124 web articles, academic papers, and practitioner guides.
 
 ## Categories
 
-- **[[summaries/foundations-setup|Foundations & Setup]]** (14) — Installation, privacy, getting started with AI coding tools
+- **[[summaries/foundations-setup|Foundations & Setup]]** (15) — Installation, privacy, getting started with AI coding tools
 - **[[summaries/prompt-engineering-workflow|Prompt Engineering & Workflow]]** (10) — Prompt design, plan-driven development, workflow architecture
 - **[[summaries/ai-agents|AI Agents & Agentic AI]]** (11) — Agent frameworks, agentic workflows, autonomous research
-- **[[summaries/claude-code-skills|Claude Code Skills & Advanced]]** (22) — Skills, DAAF, continuous improvement, compilation workflows
+- **[[summaries/claude-code-skills|Claude Code Skills & Advanced]]** (23) — Skills, DAAF, continuous improvement, compilation workflows
 - **[[summaries/data-analysis|Data Analysis & Web Scraping]]** (8) — WRDS, EDGAR, scraping, data pipelines
 - **[[summaries/academic-research|Academic Research & Publishing]]** (17) — Vibe research, feedback machines, AI-assisted writing
 - **[[summaries/finance-econometrics|Finance & Econometrics]]** (7) — Project APE, automated research in finance, policy evaluation

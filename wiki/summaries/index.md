@@ -6,7 +6,7 @@ date_updated: 2026-04-03
 
 # All Summaries
 
-This wiki contains **123** source summaries across the following categories.
+This wiki contains **124** source summaries across the following categories.
 
 ## Professional Productivity
 
@@ -59,6 +59,7 @@ See also: [[summaries/foundations-setup|Foundations & Setup overview]]
 - [[summaries/chatbot-essentials|Chatbot Essentials - The AI Toolkit Stack]]
 - [[summaries/chatbots-done-right|Chatbots Done Right - From Casual Use to Genuine Productivity]]
 - [[summaries/claude-code-newbies|Claude Code for Newbies - Setup Guide]]
+- [[summaries/claude-container|Claude Container: A Complete Beginner's Guide]]
 - [[summaries/claude-code-hacks|Every Claude Code Hack I Know (March 2026)]]
 - [[summaries/getting-started-researchers|Getting Started with Claude Code: A Researcher's Setup Guide]]
 - [[summaries/getting-started-economists|Getting Started: Claude Code for Economists (Markus Academy Ep. 162-1)]]
