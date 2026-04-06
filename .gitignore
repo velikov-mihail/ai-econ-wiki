@@ -1,15 +1,20 @@
 # Raw source data (kept local/Dropbox only)
 raw/
 
-# Obsidian workspace/cache
-.obsidian/workspace.json
-.obsidian/cache/
+# Obsidian vault config (local editor prefs)
+.obsidian/
 
 # MkDocs build output
 site/
 
-# Presentation build
-presentation/
+# Presentations: track only .tex and .pdf, ignore build artifacts
+presentations/**/*
+!presentations/**/
+!presentations/**/*.tex
+!presentations/**/*.pdf
+
+# Internal planning docs
+PLAN*.md
 
 # Other
 output/
@@ -17,3 +22,6 @@ __pycache__/
 .DS_Store
 Thumbs.db
 *.pyc
+
+# Claude Code local settings
+.claude/settings.local.json
