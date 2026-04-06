@@ -27,6 +27,9 @@ Getting started with AI coding tools: installation, privacy, environment configu
 - [[mcp-setup|MCP Setup]] — Model Context Protocol server configuration
 - [[starter-templates|Starter Templates]] — CLAUDE.md templates and project scaffolding
 
+### Safety & Sandboxing
+- [[claude-container|Claude Container Guide]] — Docker-based sandbox for safe YOLO-mode Claude Code usage
+
 ### Chatbot & Interaction Patterns
 - [[chatbot-essentials|Chatbot Essentials]] — Core chatbot interaction patterns and best practices
 - [[chatbots-done-right|Chatbots Done Right]] — Advanced chatbot usage patterns
