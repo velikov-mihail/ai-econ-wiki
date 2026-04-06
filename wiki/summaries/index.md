@@ -6,7 +6,7 @@ date_updated: 2026-04-03
 
 # All Summaries
 
-This wiki contains **124** source summaries across the following categories.
+This wiki contains **129** source summaries across the following categories.
 
 ## Professional Productivity
 
@@ -44,6 +44,7 @@ See also: [[summaries/institutional-societal|Institutional & Societal Implicatio
 - [[summaries/cc-series-31-satisfaction-discovering|Claude Code 31: Hadn't the Satisfaction Always Been in the Discovering, Not the Discoveries?]]
 - [[summaries/how-scientists-use-claude-code|How Do Scientists Use Claude Code?]]
 - [[summaries/thread-jesusferna|Jesus Fernandez-Villaverde Thread: Twelve Arguments for Traditional Higher Education]]
+- [[summaries/andrews-ai-research|Some Thoughts on AI and Research]]
 - [[summaries/something-big-happening|Something Big Is Happening]]
 - [[summaries/bitter-lesson|The Bitter Lesson]]
 - [[summaries/shape-of-ai|The Shape of AI: Jaggedness, Bottlenecks and Salients]]
@@ -139,6 +140,8 @@ See also: [[summaries/data-analysis|Data Analysis & Web Scraping overview]]
 - [[summaries/data-analysis-economists|Data Analysis: Claude Code for Economists with Paul Goldsmith-Pinkham (Markus Academy Ep. 162-2)]]
 - [[summaries/edgar-filings|From EDGAR Filings to a Structured Database using Claude Code]]
 - [[summaries/empty-folder-to-figure|From an Empty Folder to a Figure using Claude Code]]
+- [[summaries/large-datasets-economists|Large Datasets and Structured Databases: Claude Code for Economists]]
+- [[summaries/large-datasets-video|Large Datasets: Claude Code for Economists (Video)]]
 - [[summaries/web-scraping-economists|Web Scraping: Claude Code for Economists with Paul Goldsmith-Pinkham (Markus Academy Ep. 162-3)]]
 
 ## AI for Academic Research & Publishing
@@ -158,6 +161,7 @@ See also: [[summaries/academic-research|AI for Academic Research & Publishing ov
 - [[summaries/korinek-2023|Generative AI for Economic Research: Use Cases and Implications for Economists]]
 - [[summaries/openai-automated-researcher|OpenAI is throwing everything into building a fully automated researcher]]
 - [[summaries/project-ape|Project APE: Can Policy Evaluation Be Automated?]]
+- [[summaries/prompts-to-paper|Prompts-to-Paper: Hedging the AI Singularity]]
 - [[summaries/reflections-vibe-research|Reflections on Vibe Researching]]
 - [[summaries/research-in-time-of-ai|Research in the Time of AI]]
 - [[summaries/vibe-research|Vibe Research, or How I Wrote an Academic Paper in Four Days]]
@@ -167,6 +171,7 @@ See also: [[summaries/academic-research|AI for Academic Research & Publishing ov
 
 See also: [[summaries/finance-econometrics|Finance & Econometrics Applications overview]]
 
+- [[summaries/ai-powered-scholarship|AI-Powered (Finance) Scholarship]]
 - [[summaries/claude-wrds-tools|Claude Code WRDS Toolkit (piotrek-orlowski/claude-wrds-public)]]
 - [[summaries/automated-research-finance|Seeking Collaboration to Test Automated Research in Finance]]
 

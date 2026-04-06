@@ -8,6 +8,31 @@ date_updated: 2026-04-05
 
 Chronological record of wiki maintenance operations (newest first).
 
+## [2026-04-05] ingest | Some Thoughts on AI and Research
+- Source: raw/papers/IA AI note_1.pdf
+- Summary: wiki/summaries/andrews-ai-research.md
+- Concepts updated: none
+
+## [2026-04-05] ingest | Prompts-to-Paper: Hedging the AI Singularity
+- Source: raw/articles/Prompts-to-Paper Code used in Chen (2025), Hedging the AI Singularity.md
+- Summary: wiki/summaries/prompts-to-paper.md
+- Concepts updated: none
+
+## [2026-04-05] ingest | Large Datasets: Claude Code for Economists (Video)
+- Source: raw/articles/Large Datasets Claude Code for Economists with Paul Goldsmith-Pinkham Markus Academy Ep. 162-4.md
+- Summary: wiki/summaries/large-datasets-video.md
+- Concepts updated: none
+
+## [2026-04-05] ingest | Large Datasets and Structured Databases
+- Source: raw/articles/Large Datasets and Structured Databases Claude Code for Economists.md
+- Summary: wiki/summaries/large-datasets-economists.md
+- Concepts updated: none
+
+## [2026-04-05] ingest | AI-Powered (Finance) Scholarship
+- Source: raw/articles/AI-Powered-Scholarship Code used in Novy-Marx and Velikov (2024), AI-Powered (Finance) Scholarship.md
+- Summary: wiki/summaries/ai-powered-scholarship.md
+- Concepts updated: none
+
 ## [2026-04-05] maintain | Maintenance pass
 - Pending sources: 5
 - Errors: 1 (broken wikilink in cc-series-38-plug-paulgp.md)

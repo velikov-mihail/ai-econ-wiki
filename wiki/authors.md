@@ -33,6 +33,12 @@ All authors referenced in the knowledge base, with links to their summaries.
 - [[summaries/spina-paper|Claude Code for Academics: An AI Agent for Empirical Research]]
 - [[summaries/brownbag-claude-skills|Claude Code Skills for Academic Researchers: A Practical Introduction]]
 
+## Andrew Y. Chen
+
+*Federal Reserve Board*
+
+- [[summaries/prompts-to-paper|Prompts-to-Paper: Hedging the AI Singularity]]
+
 ## Aniket Panjwani
 
 *PhD Northwestern, Director AI/ML PaySlice*
@@ -152,6 +158,12 @@ All authors referenced in the knowledge base, with links to their summaries.
 - [[summaries/guide-which-ai|A Guide to Which AI to Use in the Agentic Era]]
 - [[summaries/shape-of-ai|The Shape of AI: Jaggedness, Bottlenecks and Salients]]
 
+## Isaiah Andrews
+
+*MIT Economics*
+
+- [[summaries/andrews-ai-research|Some Thoughts on AI and Research]]
+
 ## Jesus Fernandez-Villaverde
 
 - [[summaries/thread-jesusferna|Twelve Arguments for Traditional Higher Education]]
@@ -182,12 +194,15 @@ All authors referenced in the knowledge base, with links to their summaries.
 ## Paul Goldsmith-Pinkham
 
 - [[summaries/ai-one-shot-papers|AI One-Shot Papers]]
+- [[summaries/claude-container|Claude Container: A Complete Beginner's Guide]]
 - [[summaries/data-analysis-economists|Data Analysis: Claude Code for Economists]]
 - [[summaries/edgar-filings|From EDGAR Filings to a Structured Database]]
 - [[summaries/empty-folder-to-figure|From an Empty Folder to a Figure]]
 - [[summaries/getting-started-economists|Getting Started: Claude Code for Economists]]
 - [[summaries/getting-started-researchers|Getting Started with Claude Code: A Researcher's Setup Guide]]
 - [[summaries/research-in-time-of-ai|Research in the Time of AI]]
+- [[summaries/large-datasets-economists|Large Datasets and Structured Databases: Claude Code for Economists]]
+- [[summaries/large-datasets-video|Large Datasets: Claude Code for Economists (Video)]]
 - [[summaries/web-scraping-economists|Web Scraping: Claude Code for Economists]]
 
 ## Pedro Sant'Anna
@@ -203,6 +218,12 @@ All authors referenced in the knowledge base, with links to their summaries.
 *University of Alberta*
 
 - [[summaries/bitter-lesson|The Bitter Lesson]]
+
+## Robert Novy-Marx & Mihail Velikov
+
+*University of Rochester / Penn State*
+
+- [[summaries/ai-powered-scholarship|AI-Powered (Finance) Scholarship]]
 
 ## Scott Cunningham
 
