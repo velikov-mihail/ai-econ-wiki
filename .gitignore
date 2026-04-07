@@ -16,6 +16,9 @@ presentations/**/*
 # Internal planning docs
 PLAN*.md
 
+# Internal operations log
+wiki/log.md
+
 # Other
 output/
 __pycache__/
