@@ -34,6 +34,10 @@ All authors referenced in the knowledge base, with links to their summaries.
 - [[summaries/spina-paper|Claude Code for Academics: An AI Agent for Empirical Research]]
 - [[summaries/brownbag-claude-skills|Claude Code Skills for Academic Researchers: A Practical Introduction]]
 
+## Alexander M. Dickerson
+
+- [[summaries/dickerson-ai-asset-pricing|ai-asset-pricing: Empirical Asset Pricing Tools]]
+
 ## Andrew Y. Chen
 
 *Federal Reserve Board*
