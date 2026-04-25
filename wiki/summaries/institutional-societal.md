@@ -19,6 +19,7 @@ The broader impact of AI on academia, research institutions, and society.
 - [[academics-wake-up|Academics Need to Wake Up on AI]] — Kustov on urgency of AI adoption in academia
 - [[academics-wake-up-2|Academics Need to Wake Up, Part II]] — Kustov's follow-up with concrete recommendations
 - [[academics-wake-up-3|Academics Need to Wake Up, Part III]] — Kustov: human slop predates AI; not using AI is malpractice
+- [[ai-10x-research|AI is Already 10x-ing Academic Research]] — Hall (Stanford): vote-by-mail auto-replication, 100x institution proposal
 - [[andrews-ai-research|Some Thoughts on AI and Research]] — Andrews (MIT): case-based framework for PhD skill investment under AI uncertainty
 - [[train-left-station|The Train Has Left the Station]] — Messing & Tucker (Brookings) on agentic AI and social science
 - [[blattman-x-post|Chris Blattman X Post on Claude Code Adoption]] — Blattman's social media post on adopting Claude Code

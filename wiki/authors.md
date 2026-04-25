@@ -40,6 +40,12 @@ All authors referenced in the knowledge base, with links to their summaries.
 
 - [[summaries/prompts-to-paper|Prompts-to-Paper: Hedging the AI Singularity]]
 
+## Andy Hall
+
+*Stanford GSB / Hoover Institution*
+
+- [[summaries/ai-10x-research|AI is Already 10x-ing Academic Research. How Do We Get to 100x?]]
+
 ## Aniket Panjwani
 
 *PhD Northwestern, Director AI/ML PaySlice*
