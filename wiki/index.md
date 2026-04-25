@@ -24,6 +24,7 @@ A curated knowledge base on using AI tools and workflows for business and econom
 
 ## Navigation
 
+- **[[recent|Recently Added]]** — Last 15 pages added to the wiki
 - **[[summaries/index|Summaries]]** — One page per source article or paper
 - **[[concepts/index|Concepts]]** — Cross-cutting themes synthesized across sources
 - **[[visualizations/index|Visualizations]]** — Diagrams, maps, and timelines

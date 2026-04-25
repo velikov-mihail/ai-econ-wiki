@@ -37,7 +37,7 @@ Print a structured report grouped by severity (errors first, then warnings, then
 ## `--fix` mode
 
 If the user passes `--fix`, automatically repair these mechanical issues:
-- Rebuild indexes via `python tools/build_index.py --write`
+- Rebuild indexes via `python tools/build_index.py --write` (regenerates `summaries/index.md`, `concepts/index.md`, and `wiki/recent.md`)
 - Add orphan summaries to the appropriate category landing page (based on their tags)
 - Add orphan concepts to `wiki/concepts/index.md`
 - Commit fixes with message: `Lint --fix: <brief description of repairs>`

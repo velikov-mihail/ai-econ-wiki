@@ -54,6 +54,7 @@ extra:
 
 nav:
   - Home: index.md
+  - Recently Added: recent.md
   - Summaries: summaries/index.md
   - Concepts: concepts/index.md
   - Visualizations:

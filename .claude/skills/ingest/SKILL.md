@@ -40,7 +40,7 @@ User runs `/ingest` or asks to process new sources.
 
    f. **Update `wiki/authors.md`**: Add the new summary under the author's existing heading (alphabetical by first name). If the author doesn't have a heading yet, create one in the correct alphabetical position with their affiliation if known.
 
-   g. Rebuild indexes: `python tools/build_index.py --write`
+   g. Rebuild indexes: `python tools/build_index.py --write` (regenerates `summaries/index.md`, `concepts/index.md`, and `wiki/recent.md`).
 
    h. Append an entry to `wiki/log.md` (newest first, below the header):
       ```
@@ -60,6 +60,7 @@ User runs `/ingest` or asks to process new sources.
       - `wiki/index.md` — category summary counts in the Categories section
       - `wiki/visualizations/category-map.md` — summary counts in the mermaid diagram nodes
       - `wiki/visualizations/source-timeline.md` — add any new dated summaries in chronological order, update summary statistics at bottom
+      - (`wiki/recent.md` is auto-regenerated in step 2g — no manual update needed.)
 
    b. Report summary of what was added.
 
