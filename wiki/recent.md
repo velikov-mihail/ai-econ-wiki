@@ -1,10 +1,10 @@
 ---
-title: "Recently Added"
+title: "Recent"
 tags: [index, recent]
 date_updated: 2026-04-25
 ---
 
-# Recently Added
+# Recent
 
 The last 15 pages added to the wiki, newest first. Generated from git history — see [[visualizations/source-timeline|Source Timeline]] for sources ordered by publication date.
 
