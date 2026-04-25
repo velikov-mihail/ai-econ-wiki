@@ -3,20 +3,25 @@
 Reads all summary and concept pages, then regenerates:
   - wiki/summaries/index.md  (all summaries grouped by category)
   - wiki/concepts/index.md   (all concept pages alphabetically)
+  - wiki/recent.md           (last N pages added to the wiki, newest first)
 
 Usage:
-    python tools/build_index.py           # preview to stdout
-    python tools/build_index.py --write   # overwrite the index files
+    python tools/build_index.py                       # preview to stdout
+    python tools/build_index.py --write               # overwrite the index files
+    python tools/build_index.py --recent-count 20     # change recent.md length
 """
 
 import argparse
 import re
+import subprocess
 import sys
+from datetime import date
 from pathlib import Path
 
 import yaml
 
 WIKI_DIR = Path(__file__).resolve().parent.parent / "wiki"
+REPO_ROOT = WIKI_DIR.parent
 
 # Category landing pages in canonical display order (also used to skip them
 # as individual summaries).  Must be a list so iteration order is stable.
@@ -157,24 +162,99 @@ def build_concepts_index():
     return "\n".join(lines)
 
 
+def git_first_added_dates():
+    """Return {repo_relpath: ISO date} for each tracked file's first-add commit.
+
+    One git invocation. Files renamed after their initial add only appear under
+    their original path; pages with no A entry are skipped by build_recent_index.
+    """
+    out = subprocess.check_output(
+        ["git", "log", "--diff-filter=A", "--reverse", "--name-only",
+         "--format=COMMIT %aI"],
+        cwd=str(REPO_ROOT), text=True, encoding="utf-8",
+    )
+    dates = {}
+    cur = None
+    for line in out.splitlines():
+        if line.startswith("COMMIT "):
+            cur = line[len("COMMIT "):]
+        elif line.strip() and cur:
+            # First time we see a path is its first-add commit (git log --reverse).
+            dates.setdefault(line.strip(), cur)
+    return dates
+
+
+def build_recent_index(n=15):
+    """Return markdown string for wiki/recent.md.
+
+    Sorts summaries+concepts by git first-add date, newest first, slices to n.
+    """
+    git_dates = git_first_added_dates()
+
+    entries = []  # (iso, kind, title, stem)
+    for kind, sub in [("summary", "summaries"), ("concept", "concepts")]:
+        for fp in (WIKI_DIR / sub).glob("*.md"):
+            stem = fp.stem
+            if stem == "index":
+                continue
+            if kind == "summary" and stem in CATEGORY_SLUGS:
+                continue
+            meta = read_meta(fp)
+            if not meta:
+                continue
+            iso = git_dates.get(f"wiki/{sub}/{fp.name}")
+            if iso is None:
+                continue
+            entries.append((iso, kind, meta.get("title", stem), stem))
+
+    entries.sort(key=lambda e: (e[0], e[3]), reverse=True)
+
+    lines = [
+        "---",
+        'title: "Recently Added"',
+        "tags: [index, recent]",
+        f"date_updated: {date.today().isoformat()}",
+        "---",
+        "",
+        "# Recently Added",
+        "",
+        f"The last {n} pages added to the wiki, newest first. "
+        "Generated from git history — see [[visualizations/source-timeline|"
+        "Source Timeline]] for sources ordered by publication date.",
+        "",
+    ]
+    for iso, kind, title, stem in entries[:n]:
+        sub = "summaries" if kind == "summary" else "concepts"
+        lines.append(f"- **{iso.split('T')[0]}** — [[{sub}/{stem}|{title}]] ({kind})")
+    lines.append("")
+
+    return "\n".join(lines)
+
+
 def main():
     parser = argparse.ArgumentParser(description="Rebuild wiki index files")
     parser.add_argument("--write", action="store_true",
                         help="Overwrite index files (default: preview only)")
+    parser.add_argument("--recent-count", type=int, default=15,
+                        help="Number of entries on wiki/recent.md (default: 15)")
     args = parser.parse_args()
 
     summaries_md = build_summaries_index()
     concepts_md = build_concepts_index()
+    recent_md = build_recent_index(n=args.recent_count)
 
     if args.write:
         (WIKI_DIR / "summaries" / "index.md").write_text(summaries_md, encoding="utf-8")
         (WIKI_DIR / "concepts" / "index.md").write_text(concepts_md, encoding="utf-8")
-        print("Wrote wiki/summaries/index.md and wiki/concepts/index.md")
+        (WIKI_DIR / "recent.md").write_text(recent_md, encoding="utf-8")
+        print("Wrote wiki/summaries/index.md, wiki/concepts/index.md, wiki/recent.md")
     else:
         print("=== wiki/summaries/index.md ===")
         print(summaries_md)
         print("\n=== wiki/concepts/index.md ===")
         print(concepts_md)
+        print("\n=== wiki/recent.md ===")
+        print(recent_md)
         print("\nRun with --write to overwrite the files.")
 
     return 0
