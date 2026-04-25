@@ -25,6 +25,7 @@ All authors referenced in the knowledge base, with links to their summaries.
 
 - [[summaries/academics-wake-up|Academics Need to Wake Up on AI]]
 - [[summaries/academics-wake-up-2|Academics Need to Wake Up on AI, Part II]]
+- [[summaries/academics-wake-up-3|Academics Need to Wake Up on AI, Part III]]
 
 ## Alessandro Spina
 

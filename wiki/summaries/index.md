@@ -6,7 +6,7 @@ date_updated: 2026-04-03
 
 # All Summaries
 
-This wiki contains **129** source summaries across the following categories.
+This wiki contains **130** source summaries across the following categories.
 
 ## Professional Productivity
 
@@ -35,6 +35,7 @@ See also: [[summaries/institutional-societal|Institutional & Societal Implicatio
 - [[summaries/ai-normal-technology|AI as Normal Technology]]
 - [[summaries/academics-wake-up|Academics Need to Wake Up on AI]]
 - [[summaries/academics-wake-up-2|Academics Need to Wake Up on AI, Part II]]
+- [[summaries/academics-wake-up-3|Academics Need to Wake Up on AI, Part III]]
 - [[summaries/thread-alexolegimas|Alex Imas Thread: Man-Computer Symbiosis and the Excitement of AI in Research]]
 - [[summaries/thread-arindube|Arin Dube Thread: LLMs Haven't Raised NBER Working Papers Above Trend]]
 - [[summaries/blattman-x-post|Chris Blattman X Post on Claude Code Adoption]]
