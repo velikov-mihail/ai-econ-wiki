@@ -161,6 +161,10 @@ All authors referenced in the knowledge base, with links to their summaries.
 
 - [[summaries/can-ai-replace-researchers|Can AI Replace Social Science Researchers?]]
 
+## David Van Dijcke
+
+- [[summaries/coarse-ink|coarse.ink: Open-Source AI Academic Paper Reviewer]]
+
 ## Ethan Mollick
 
 *Wharton School, University of Pennsylvania*

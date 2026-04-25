@@ -17,6 +17,7 @@ Comparing AI tools (ChatGPT, Claude, Cursor, NotebookLM) and choosing the right 
 ### Specific Tools
 - [[using-llms-cursor|Using LLMs with Cursor]] — Golub on Cursor for economics research (Markus Academy Ep. 154)
 - [[refine-ink-golub|Refine.ink]] — Golub on Refine.ink for academic writing (Markus Academy Ep. 154)
+- [[coarse-ink|coarse.ink]] — Open-source AI paper reviewer (~$2/review) by Van Dijcke
 - [[notebooklm|NotebookLM]] — Blattman on Google's NotebookLM for research
 
 ### Collaboration & Resources

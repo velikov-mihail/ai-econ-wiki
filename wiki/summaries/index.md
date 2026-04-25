@@ -6,7 +6,7 @@ date_updated: 2026-04-03
 
 # All Summaries
 
-This wiki contains **136** source summaries across the following categories.
+This wiki contains **137** source summaries across the following categories.
 
 ## Professional Productivity
 
@@ -88,6 +88,7 @@ See also: [[summaries/ai-tools|AI Tools & Comparisons overview]]
 - [[summaries/refine-ink-golub|Refine.ink: AI-Powered Referee Reports for Academic Papers]]
 - [[summaries/teaching-ai-your-voice|Teaching AI Your Voice]]
 - [[summaries/using-llms-cursor|Using LLMs with Cursor: Modern AI for Economics Research]]
+- [[summaries/coarse-ink|coarse.ink: Open-Source AI Academic Paper Reviewer]]
 
 ## Claude Code Skills & Advanced Workflows
 
