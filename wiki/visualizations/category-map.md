@@ -1,7 +1,7 @@
 ---
 title: "Category Map"
 tags: [visualization, navigation]
-date_updated: 2026-04-05
+date_updated: 2026-04-25
 ---
 
 # Category Map
@@ -15,10 +15,10 @@ graph TD
     AG["<b>AI Agents &<br/>Agentic AI</b><br/>11 summaries"]
     CS["<b>Claude Code Skills<br/>& Advanced</b><br/>23 summaries"]
     DA["<b>Data Analysis &<br/>Web Scraping</b><br/>10 summaries"]
-    AR["<b>Academic Research<br/>& Publishing</b><br/>18 summaries"]
-    FE["<b>Finance &<br/>Econometrics</b><br/>8 summaries"]
-    AT["<b>AI Tools &<br/>Comparisons</b><br/>7 summaries"]
-    IS["<b>Institutional &<br/>Societal</b><br/>14 summaries"]
+    AR["<b>Academic Research<br/>& Publishing</b><br/>22 summaries"]
+    FE["<b>Finance &<br/>Econometrics</b><br/>12 summaries"]
+    AT["<b>AI Tools &<br/>Comparisons</b><br/>9 summaries"]
+    IS["<b>Institutional &<br/>Societal</b><br/>19 summaries"]
     PP["<b>Professional<br/>Productivity</b><br/>13 summaries"]
 
     %% Foundational layer

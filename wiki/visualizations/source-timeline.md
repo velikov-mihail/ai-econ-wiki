@@ -1,7 +1,7 @@
 ---
 title: "Source Timeline"
 tags: [visualization, navigation, timeline]
-date_updated: 2026-04-05
+date_updated: 2026-04-25
 ---
 
 # Source Timeline
@@ -160,12 +160,29 @@ All sources in the knowledge base, ordered chronologically by publication date.
 - **April 5** — [[summaries/large-datasets-economists|Large Datasets and Structured Databases]] — Paul Goldsmith-Pinkham
 - **April 5** — [[summaries/large-datasets-video|Large Datasets: Claude Code for Economists (Video)]] — Paul Goldsmith-Pinkham
 - **April 5** — [[summaries/cc-series-38-plug-paulgp|Part 38: A Plug for Paul Goldsmith-Pinkham's Markus Academy Series]] — Scott Cunningham
+- **April 11** — [[summaries/writing-thinking-ai-assistance|Writing & Thinking with AI Assistance]] — Paul Goldsmith-Pinkham
+- **April 12** — [[summaries/writing-thinking-markus-162-5|Writing & Thinking: Claude Code for Economists (Markus Academy 162-5)]] — Paul Goldsmith-Pinkham
+- **April 13** — [[summaries/what-will-be-scarce|What Will Be Scarce?]] — Alex Imas
+- **April 14** — [[summaries/ai-people-right-a-lot|The AI People Have Been Right a Lot]] — Dylan Matthews
+- **April 15** — [[summaries/academics-wake-up-3|Academics Need to Wake Up on AI, Part III]] — Alexander Kustov
+- **April 16** — [[summaries/ai-10x-research|AI is Already 10x-ing Academic Research]] — Andy Hall
+- **April 16** — [[summaries/coarse-ink|coarse.ink: Open-Source AI Academic Paper Reviewer]] — David Van Dijcke
+- **April 17** — [[summaries/kansoy-ai-future-research|AI, Ideas, and the Future of Research (Slides)]] — Fatih Kansoy
+- **April 18** — [[summaries/dickerson-ai-asset-pricing|ai-asset-pricing: Empirical Asset Pricing Tools]] — Alexander M. Dickerson
+- **April 23** — [[summaries/cc-series-44-four-criteria-referee|Part 44: My Four Criteria for Using Agents (Referee Reports)]] — Scott Cunningham
+- **April 23** — [[summaries/sign-of-future-gpt55|Sign of the Future: GPT-5.5]] — Ethan Mollick
+- **April 2026** — [[summaries/ralph-wiggum-asset-pricing|ralph-wiggum-asset-pricing: Open-Source Loop for Generating Asset Pricing Papers]] — Andrew Y. Chen
+- **April 2026** — [[summaries/claude-wrds-public|Claude Code WRDS Toolkit (Liu fork)]] — Siyang Liu
+
+### March (papers)
+- **March 21, 2026** — [[summaries/agentic-intelligence-explosion|Agentic AI and the Next Intelligence Explosion]] — James Evans, Benjamin Bratton & Blaise Agüera y Arcas
+- **April 2026 (working paper)** — [[summaries/kohler-agentic-reproduction|Read the Paper, Write the Code: Agentic Reproduction of Social-Science Results]] — Kohler, Zollikofer, Einsiedler, Hoyle & Ash (ETH)
 
 ---
 
 ## Summary Statistics
 
-- **Total sources:** 129
+- **Total sources:** 144
 - **Date range:** March 2019 – April 2026
 - **Peak activity:** March 2026 (84 sources)
-- **Most prolific authors:** Chris Blattman (44), Scott Cunningham (27), Paul Goldsmith-Pinkham (11), Anton Korinek (4), Ethan Mollick (4)
+- **Most prolific authors:** Chris Blattman (44), Scott Cunningham (28), Paul Goldsmith-Pinkham (13), Anton Korinek (4), Ethan Mollick (5)
