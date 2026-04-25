@@ -173,6 +173,7 @@ All authors referenced in the knowledge base, with links to their summaries.
 - [[summaries/claude-dispatch|Claude Dispatch and the Power of Interfaces]]
 - [[summaries/guide-which-ai|A Guide to Which AI to Use in the Agentic Era]]
 - [[summaries/shape-of-ai|The Shape of AI: Jaggedness, Bottlenecks and Salients]]
+- [[summaries/sign-of-future-gpt55|Sign of the Future: GPT-5.5]]
 
 ## Fatih Kansoy
 
