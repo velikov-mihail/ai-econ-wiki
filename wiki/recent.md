@@ -10,8 +10,8 @@ The last 15 pages added to the wiki, newest first. Generated from git history �
 
 - **2026-04-25** — [[summaries/velikov-smeal-cop|AI for Business & Economic Research: From Chatbots to Agents]] — Mihail Velikov
 - **2026-04-25** — [[summaries/backman-vscode-guide|Claude Code in VS Code — For Academic Economists]] — Claes Bäckman
-- **2026-04-25** — [[summaries/kohler-agentic-reproduction|Read the Paper, Write the Code: Agentic Reproduction of Social-Science Results]] — Kohler, Zollikofer, Einsiedler, Hoyle & Ash
-- **2026-04-25** — [[summaries/agentic-intelligence-explosion|Agentic AI and the Next Intelligence Explosion]] — James Evans, Benjamin Bratton & Blaise Agüera y Arcas
+- **2026-04-25** — [[summaries/kohler-agentic-reproduction|Read the Paper, Write the Code: Agentic Reproduction of Social-Science Results]] — Alexander Hoyle
+- **2026-04-25** — [[summaries/agentic-intelligence-explosion|Agentic AI and the Next Intelligence Explosion]] — Benjamin Bratton
 - **2026-04-25** — [[summaries/writing-thinking-ai-assistance|Writing & Thinking with AI Assistance (Goldsmith-Pinkham Substack)]] — Paul Goldsmith-Pinkham
 - **2026-04-25** — [[summaries/writing-thinking-markus-162-5|Writing & Thinking: Claude Code for Economists (Markus Academy 162-5)]] — Paul Goldsmith-Pinkham
 - **2026-04-25** — [[summaries/what-will-be-scarce|What Will Be Scarce?]] — Alex Imas

@@ -22,6 +22,12 @@ All authors referenced in the knowledge base, with links to their summaries.
 - [[summaries/thread-alexolegimas|Man-Computer Symbiosis and AI in Research]]
 - [[summaries/what-will-be-scarce|What Will Be Scarce?]]
 
+## Alexander Hoyle
+
+*ETH Zurich*
+
+- [[summaries/kohler-agentic-reproduction|Read the Paper, Write the Code]] (with Kohler, Zollikofer, Einsiedler & Ash)
+
 ## Alexander Kustov
 
 *University of Notre Dame*
@@ -82,11 +88,17 @@ All authors referenced in the knowledge base, with links to their summaries.
 
 - [[summaries/thread-arindube|LLMs Haven't Raised NBER Papers Above Trend]]
 
-## Arvind Narayanan & Sayash Kapoor
+## Arvind Narayanan
 
 *Knight First Amendment Institute, Columbia*
 
-- [[summaries/ai-normal-technology|AI as Normal Technology]]
+- [[summaries/ai-normal-technology|AI as Normal Technology]] (with Sayash Kapoor)
+
+## Benjamin Bratton
+
+*Google Paradigms of Intelligence Team / Antikythera Berggruen Institute / UCSD*
+
+- [[summaries/agentic-intelligence-explosion|Agentic AI and the Next Intelligence Explosion]] (with James Evans & Blaise Agüera y Arcas)
 
 ## Benjamin Golub
 
@@ -95,6 +107,18 @@ All authors referenced in the knowledge base, with links to their summaries.
 - [[summaries/prompting-insights-golub|Prompting Insights: Modern AI for Economics Research]]
 - [[summaries/refine-ink-golub|Refine.ink: AI-Powered Referee Reports for Academic Papers]]
 - [[summaries/using-llms-cursor|Using LLMs with Cursor]]
+
+## Benjamin Kohler
+
+*ETH Zurich*
+
+- [[summaries/kohler-agentic-reproduction|Read the Paper, Write the Code]] (with Zollikofer, Einsiedler, Hoyle & Ash)
+
+## Blaise Agüera y Arcas
+
+*Google Paradigms of Intelligence Team / Antikythera*
+
+- [[summaries/agentic-intelligence-explosion|Agentic AI and the Next Intelligence Explosion]] (with James Evans & Benjamin Bratton)
 
 ## Brian Heseung Kim
 
@@ -171,11 +195,23 @@ All authors referenced in the knowledge base, with links to their summaries.
 
 - [[summaries/coarse-ink|coarse.ink: Open-Source AI Academic Paper Reviewer]]
 
+## David Zollikofer
+
+*ETH Zurich*
+
+- [[summaries/kohler-agentic-reproduction|Read the Paper, Write the Code]] (with Kohler, Einsiedler, Hoyle & Ash)
+
 ## Dylan Matthews
 
 *Vox / Future Perfect*
 
 - [[summaries/ai-people-right-a-lot|The AI People Have Been Right a Lot]]
+
+## Elliott Ash
+
+*ETH Zurich*
+
+- [[summaries/kohler-agentic-reproduction|Read the Paper, Write the Code]] (with Kohler, Zollikofer, Einsiedler & Hoyle)
 
 ## Ethan Mollick
 
@@ -191,31 +227,37 @@ All authors referenced in the knowledge base, with links to their summaries.
 
 - [[summaries/kansoy-ai-future-research|AI, Ideas, and the Future of Research (Slides)]]
 
-## James Evans, Benjamin Bratton & Blaise Agüera y Arcas
-
-*Google Paradigms of Intelligence Team / U Chicago / Santa Fe Institute / Antikythera / UCSD*
-
-- [[summaries/agentic-intelligence-explosion|Agentic AI and the Next Intelligence Explosion]]
-
-## Kohler, Zollikofer, Einsiedler, Hoyle & Ash
-
-*ETH Zurich / University of Basel*
-
-- [[summaries/kohler-agentic-reproduction|Read the Paper, Write the Code: Agentic Reproduction of Social-Science Results]]
-
 ## Isaiah Andrews
 
 *MIT Economics*
 
 - [[summaries/andrews-ai-research|Some Thoughts on AI and Research]]
 
+## James Evans
+
+*Google Paradigms of Intelligence Team / U Chicago / Santa Fe Institute*
+
+- [[summaries/agentic-intelligence-explosion|Agentic AI and the Next Intelligence Explosion]] (with Benjamin Bratton & Blaise Agüera y Arcas)
+
 ## Jesus Fernandez-Villaverde
 
 - [[summaries/thread-jesusferna|Twelve Arguments for Traditional Higher Education]]
 
+## Johanna Einsiedler
+
+*University of Basel*
+
+- [[summaries/kohler-agentic-reproduction|Read the Paper, Write the Code]] (with Kohler, Zollikofer, Hoyle & Ash)
+
 ## Joshua Gans
 
 - [[summaries/reflections-vibe-research|Reflections on Vibe Researching]]
+
+## Joshua Tucker
+
+*Brookings Institution*
+
+- [[summaries/train-left-station|The Train Has Left the Station]] (with Solomon Messing)
 
 ## Markus Brunnermeier
 
@@ -279,6 +321,12 @@ All authors referenced in the knowledge base, with links to their summaries.
 
 - [[summaries/ai-powered-scholarship|AI-Powered (Finance) Scholarship]] (with Mihail Velikov)
 
+## Sayash Kapoor
+
+*Knight First Amendment Institute, Columbia*
+
+- [[summaries/ai-normal-technology|AI as Normal Technology]] (with Arvind Narayanan)
+
 ## Siyang Liu
 
 - [[summaries/claude-wrds-public|Claude Code WRDS Toolkit (Liu fork)]]
@@ -320,11 +368,11 @@ All authors referenced in the knowledge base, with links to their summaries.
 
 - [[summaries/project-ape|Project APE: Can Policy Evaluation Be Automated?]]
 
-## Solomon Messing & Joshua Tucker
+## Solomon Messing
 
 *Brookings Institution*
 
-- [[summaries/train-left-station|The Train Has Left the Station]]
+- [[summaries/train-left-station|The Train Has Left the Station]] (with Joshua Tucker)
 
 ## Tyler Cowen
 
