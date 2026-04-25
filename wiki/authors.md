@@ -165,6 +165,10 @@ All authors referenced in the knowledge base, with links to their summaries.
 - [[summaries/guide-which-ai|A Guide to Which AI to Use in the Agentic Era]]
 - [[summaries/shape-of-ai|The Shape of AI: Jaggedness, Bottlenecks and Salients]]
 
+## Fatih Kansoy
+
+- [[summaries/kansoy-ai-future-research|AI, Ideas, and the Future of Research (Slides)]]
+
 ## Isaiah Andrews
 
 *MIT Economics*

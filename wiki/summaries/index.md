@@ -6,7 +6,7 @@ date_updated: 2026-04-03
 
 # All Summaries
 
-This wiki contains **131** source summaries across the following categories.
+This wiki contains **132** source summaries across the following categories.
 
 ## Professional Productivity
 
@@ -34,6 +34,7 @@ See also: [[summaries/institutional-societal|Institutional & Societal Implicatio
 
 - [[summaries/ai-10x-research|AI Is Already 10x-ing Academic Research. How Do We Get to 100x?]]
 - [[summaries/ai-normal-technology|AI as Normal Technology]]
+- [[summaries/kansoy-ai-future-research|AI, Ideas, and the Future of Research (Kansoy Slides)]]
 - [[summaries/academics-wake-up|Academics Need to Wake Up on AI]]
 - [[summaries/academics-wake-up-2|Academics Need to Wake Up on AI, Part II]]
 - [[summaries/academics-wake-up-3|Academics Need to Wake Up on AI, Part III]]
