@@ -33,6 +33,7 @@ Vibe research, feedback machines, AI-assisted academic writing, and the future o
 ### Publishing & Peer Review
 - [[cc-series-27-research-vs-publishing|Research and Publishing Are Now Two Different Things]] — Supply-demand analysis of manuscript production costs
 - [[cc-series-32-modest-proposal-editors|A Modest Proposal for Editors]] — Little's Law applied to journals, LLM desk screening
+- [[cc-series-44-four-criteria-referee|Four Criteria for Using Agents (Referee Reports)]] — Cunningham's split-pdf → deck → referee2 → blindspot → tikz pipeline
 
 ### Writing & Voice
 - [[teaching-ai-your-voice|Teaching AI Your Voice]] — Blattman's method for preserving authorial style
