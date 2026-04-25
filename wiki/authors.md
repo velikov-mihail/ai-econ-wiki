@@ -165,6 +165,12 @@ All authors referenced in the knowledge base, with links to their summaries.
 
 - [[summaries/coarse-ink|coarse.ink: Open-Source AI Academic Paper Reviewer]]
 
+## Dylan Matthews
+
+*Vox / Future Perfect*
+
+- [[summaries/ai-people-right-a-lot|The AI People Have Been Right a Lot]]
+
 ## Ethan Mollick
 
 *Wharton School, University of Pennsylvania*

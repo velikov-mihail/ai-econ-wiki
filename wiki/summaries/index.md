@@ -6,7 +6,7 @@ date_updated: 2026-04-03
 
 # All Summaries
 
-This wiki contains **138** source summaries across the following categories.
+This wiki contains **139** source summaries across the following categories.
 
 ## Professional Productivity
 
@@ -49,6 +49,7 @@ See also: [[summaries/institutional-societal|Institutional & Societal Implicatio
 - [[summaries/thread-jesusferna|Jesus Fernandez-Villaverde Thread: Twelve Arguments for Traditional Higher Education]]
 - [[summaries/andrews-ai-research|Some Thoughts on AI and Research]]
 - [[summaries/something-big-happening|Something Big Is Happening]]
+- [[summaries/ai-people-right-a-lot|The AI People Have Been Right a Lot]]
 - [[summaries/bitter-lesson|The Bitter Lesson]]
 - [[summaries/shape-of-ai|The Shape of AI: Jaggedness, Bottlenecks and Salients]]
 - [[summaries/train-left-station|The Train Has Left the Station: Agentic AI and the Future of Social Science Research]]

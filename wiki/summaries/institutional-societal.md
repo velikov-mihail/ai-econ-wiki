@@ -34,3 +34,4 @@ The broader impact of AI on academia, research institutions, and society.
 ### Outlook
 - [[something-big-happening|Something Big Is Happening]] — Shumer on imminent AI disruption
 - [[what-ai-got-wrong|What AI Got Wrong]] — Blattman on plausible-but-wrong AI errors requiring domain expertise
+- [[ai-people-right-a-lot|The AI People Have Been Right a Lot]] — Matthews's public 2015 update; track record of AGI-pilled predictors
