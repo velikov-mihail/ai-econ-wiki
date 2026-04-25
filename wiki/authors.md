@@ -314,6 +314,7 @@ All authors referenced in the knowledge base, with links to their summaries.
 - [[summaries/cc-series-32-modest-proposal-editors|Part 32: A Modest Proposal for Editors]]
 - [[summaries/cc-series-33-continue-learning|Part 33: Help Claude Help Us By Continue Learning]]
 - [[summaries/cc-series-38-plug-paulgp|Part 38: A Plug for Goldsmith-Pinkham's Markus Academy Series]]
+- [[summaries/cc-series-44-four-criteria-referee|Part 44: Four Criteria for Using Agents (Referee Reports)]]
 
 ## Social Catalyst Lab
 

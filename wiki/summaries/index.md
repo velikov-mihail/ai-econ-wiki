@@ -157,7 +157,7 @@ See also: [[summaries/data-analysis|Data Analysis & Web Scraping overview]]
 See also: [[summaries/academic-research|AI for Academic Research & Publishing overview]]
 
 - [[summaries/ai-one-shot-papers|AI One-Shot Papers]]
-- [[summaries/velikov-smeal-master-class|AI for Business & Economic Research: From Chatbots to Agents (Velikov Master Class)]]
+- [[summaries/velikov-smeal-cop|AI for Business & Economic Research: From Chatbots to Agents]]
 - [[summaries/stress-test-research-pipeline|AI-Powered Pipeline to Stress-Test Research Ideas Before PhD Students Spend a Year on Them]]
 - [[summaries/applications-generative-ai|Applications of Generative AI for Economic Research]]
 - [[summaries/can-ai-replace-researchers|Can AI Replace Social Science Researchers?]]

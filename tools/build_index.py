@@ -167,12 +167,13 @@ def build_concepts_index():
 def git_first_added_dates():
     """Return {repo_relpath: ISO date} for each tracked file's first-add commit.
 
-    One git invocation. Files renamed after their initial add only appear under
-    their original path; pages with no A entry are skipped by build_recent_index.
+    One git invocation. Renames (R entries) propagate the original add date
+    forward to the new path, so renamed files keep their first-add date.
     """
+    # -M enables rename detection; --name-status emits A/R lines we can parse.
     out = subprocess.check_output(
-        ["git", "log", "--diff-filter=A", "--reverse", "--name-only",
-         "--format=COMMIT %aI"],
+        ["git", "log", "-M", "--diff-filter=AR", "--reverse",
+         "--name-status", "--format=COMMIT %aI"],
         cwd=str(REPO_ROOT), text=True, encoding="utf-8",
     )
     dates = {}
@@ -180,17 +181,54 @@ def git_first_added_dates():
     for line in out.splitlines():
         if line.startswith("COMMIT "):
             cur = line[len("COMMIT "):]
-        elif line.strip() and cur:
+            continue
+        if not line.strip() or cur is None:
+            continue
+        parts = line.split("\t")
+        status = parts[0]
+        if status.startswith("A") and len(parts) >= 2:
             # First time we see a path is its first-add commit (git log --reverse).
-            dates.setdefault(line.strip(), cur)
+            dates.setdefault(parts[1], cur)
+        elif status.startswith("R") and len(parts) >= 3:
+            # Rename: new path inherits the original path's first-add date.
+            old_path, new_path = parts[1], parts[2]
+            dates.setdefault(new_path, dates.get(old_path, cur))
     return dates
 
 
+def _parse_authors_md():
+    """Return {summary_slug: "Author Name(s)"} parsed from wiki/authors.md.
+
+    authors.md is hand-maintained as the canonical author index. Each
+    `## Heading` is treated as the author label for the wikilinks that
+    follow until the next heading. A "with X" parenthetical at the end
+    of a line is stripped so each summary keeps the section's heading.
+    """
+    path = WIKI_DIR / "authors.md"
+    mapping = {}
+    if not path.exists():
+        return mapping
+    current = None
+    link_re = re.compile(r"\[\[summaries/([^|\]]+)(?:\|[^\]]+)?\]\]")
+    for raw in path.read_text(encoding="utf-8").splitlines():
+        line = raw.strip()
+        if line.startswith("## "):
+            current = line[3:].strip()
+            continue
+        if current is None:
+            continue
+        for slug in link_re.findall(line):
+            mapping.setdefault(slug, current)
+    return mapping
+
+
 def _collect_recent_entries():
-    """Return list of (iso, kind, title, stem) for all summaries+concepts,
-    sorted newest-first by git first-add date.
+    """Return list of (iso, kind, title, stem, author) for all summaries+
+    concepts, sorted newest-first by git first-add date. `author` is None
+    for concepts and for any summary not listed in authors.md.
     """
     git_dates = git_first_added_dates()
+    authors = _parse_authors_md()
     entries = []
     for kind, sub in [("summary", "summaries"), ("concept", "concepts")]:
         for fp in (WIKI_DIR / sub).glob("*.md"):
@@ -205,15 +243,17 @@ def _collect_recent_entries():
             iso = git_dates.get(f"wiki/{sub}/{fp.name}")
             if iso is None:
                 continue
-            entries.append((iso, kind, meta.get("title", stem), stem))
+            author = authors.get(stem) if kind == "summary" else None
+            entries.append((iso, kind, meta.get("title", stem), stem, author))
     entries.sort(key=lambda e: (e[0], e[3]), reverse=True)
     return entries
 
 
 def _format_entry_line(entry):
-    iso, kind, title, stem = entry
+    iso, kind, title, stem, author = entry
     sub = "summaries" if kind == "summary" else "concepts"
-    return f"- **{iso.split('T')[0]}** — [[{sub}/{stem}|{title}]] ({kind})"
+    suffix = f" — {author}" if author else f" ({kind})"
+    return f"- **{iso.split('T')[0]}** — [[{sub}/{stem}|{title}]]{suffix}"
 
 
 def build_recent_index(n=15):
