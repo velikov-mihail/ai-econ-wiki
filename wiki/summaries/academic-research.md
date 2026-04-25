@@ -39,3 +39,4 @@ Vibe research, feedback machines, AI-assisted academic writing, and the future o
 - [[teaching-ai-your-voice|Teaching AI Your Voice]] — Blattman's method for preserving authorial style
 - [[document-collection|Document Collection]] — Blattman's "email as database" pattern for document retrieval
 - [[writing-thinking-markus-162-5|Writing & Thinking (Markus Academy 162-5)]] — Goldsmith-Pinkham: style-guide skill, strategic-revision skill, editor-not-rewriter pattern
+- [[writing-thinking-ai-assistance|Writing & Thinking with AI Assistance (Substack)]] — Goldsmith-Pinkham companion post: writing-is-thinking / homogenization / banal-writing framing

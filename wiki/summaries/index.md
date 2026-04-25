@@ -6,7 +6,7 @@ date_updated: 2026-04-03
 
 # All Summaries
 
-This wiki contains **141** source summaries across the following categories.
+This wiki contains **142** source summaries across the following categories.
 
 ## Professional Productivity
 
@@ -173,6 +173,7 @@ See also: [[summaries/academic-research|AI for Academic Research & Publishing ov
 - [[summaries/research-in-time-of-ai|Research in the Time of AI]]
 - [[summaries/vibe-research|Vibe Research, or How I Wrote an Academic Paper in Four Days]]
 - [[summaries/research-paper-disappear|When will the research paper disappear in economics?]]
+- [[summaries/writing-thinking-ai-assistance|Writing & Thinking with AI Assistance (Goldsmith-Pinkham Substack)]]
 - [[summaries/writing-thinking-markus-162-5|Writing & Thinking: Claude Code for Economists (Markus Academy 162-5)]]
 
 ## Finance & Econometrics Applications

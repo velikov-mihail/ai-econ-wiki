@@ -235,6 +235,7 @@ All authors referenced in the knowledge base, with links to their summaries.
 - [[summaries/large-datasets-video|Large Datasets: Claude Code for Economists (Video)]]
 - [[summaries/web-scraping-economists|Web Scraping: Claude Code for Economists]]
 - [[summaries/writing-thinking-markus-162-5|Writing & Thinking: Claude Code for Economists (Markus Academy 162-5)]]
+- [[summaries/writing-thinking-ai-assistance|Writing & Thinking with AI Assistance (companion Substack post)]]
 
 ## Pedro Sant'Anna
 
