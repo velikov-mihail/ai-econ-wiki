@@ -6,7 +6,7 @@ date_updated: 2026-04-03
 
 # All Summaries
 
-This wiki contains **135** source summaries across the following categories.
+This wiki contains **136** source summaries across the following categories.
 
 ## Professional Productivity
 
@@ -176,6 +176,7 @@ See also: [[summaries/academic-research|AI for Academic Research & Publishing ov
 See also: [[summaries/finance-econometrics|Finance & Econometrics Applications overview]]
 
 - [[summaries/ai-powered-scholarship|AI-Powered (Finance) Scholarship]]
+- [[summaries/claude-wrds-public|Claude Code WRDS Toolkit (Liu fork of Orłowski's claude-wrds-public)]]
 - [[summaries/claude-wrds-tools|Claude Code WRDS Toolkit (piotrek-orlowski/claude-wrds-public)]]
 - [[summaries/automated-research-finance|Seeking Collaboration to Test Automated Research in Finance]]
 - [[summaries/dickerson-ai-asset-pricing|ai-asset-pricing: Empirical Asset Pricing Tools (Dickerson)]]

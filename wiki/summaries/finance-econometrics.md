@@ -17,6 +17,7 @@ AI applied to finance research, policy evaluation, and econometric analysis.
 - [[applications-generative-ai|Applications (Korinek)]] — Comprehensive guide to 7 LLM application domains for economists
 - [[dickerson-ai-asset-pricing|ai-asset-pricing (Dickerson)]] — Multi-agent empirical asset pricing repo with WRDS, PyBondLab, LaTeX
 - [[ralph-wiggum-asset-pricing|ralph-wiggum-asset-pricing (Chen)]] — Open-source Ralph loop framework for generating asset pricing papers
+- [[claude-wrds-public|Claude WRDS Toolkit (Liu/Orłowski)]] — Subagents + skills for autonomous CRSP/Compustat/IBES/OptionMetrics/TAQ queries
 
 ### Commentary & Threads
 - [[thread-arindube|Thread: Arin Dube]] — LLMs haven't raised NBER output; ideas, not RA labor, are the constraint

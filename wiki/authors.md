@@ -241,6 +241,10 @@ All authors referenced in the knowledge base, with links to their summaries.
 
 - [[summaries/ai-powered-scholarship|AI-Powered (Finance) Scholarship]]
 
+## Siyang Liu
+
+- [[summaries/claude-wrds-public|Claude Code WRDS Toolkit (Liu fork)]]
+
 ## Scott Cunningham
 
 *Baylor University*
