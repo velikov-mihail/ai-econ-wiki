@@ -17,7 +17,10 @@ All authors referenced in the knowledge base, with links to their summaries.
 
 ## Alex Imas
 
+*University of Chicago Booth*
+
 - [[summaries/thread-alexolegimas|Man-Computer Symbiosis and AI in Research]]
+- [[summaries/what-will-be-scarce|What Will Be Scarce?]]
 
 ## Alexander Kustov
 

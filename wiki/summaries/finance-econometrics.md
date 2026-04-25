@@ -24,3 +24,6 @@ AI applied to finance research, policy evaluation, and econometric analysis.
 - [[thread-jesusferna|Thread: Jesús Fernández-Villaverde]] — 12 arguments for traditional higher ed survival in AI era
 - [[thread-alexolegimas|Thread: Alex Olegi]] — Licklider's "Man-Computer Symbiosis" as frame for AI-research moment
 - [[thread-cblatts|Thread: Chris Blattman]] — Conversion from Claude Code skeptic to power user
+
+### Theory of AI in the Economy
+- [[what-will-be-scarce|What Will Be Scarce?]] — Imas: structural change toward relational sector with mimetic preferences
