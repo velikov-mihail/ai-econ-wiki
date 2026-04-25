@@ -10,12 +10,12 @@ A visual map of how the ten knowledge-base categories relate to one another. Arr
 
 ```mermaid
 graph TD
-    FS["<b>Foundations & Setup</b><br/>15 summaries"]
+    FS["<b>Foundations & Setup</b><br/>16 summaries"]
     PE["<b>Prompt Engineering<br/>& Workflow</b><br/>10 summaries"]
     AG["<b>AI Agents &<br/>Agentic AI</b><br/>11 summaries"]
     CS["<b>Claude Code Skills<br/>& Advanced</b><br/>23 summaries"]
     DA["<b>Data Analysis &<br/>Web Scraping</b><br/>10 summaries"]
-    AR["<b>Academic Research<br/>& Publishing</b><br/>22 summaries"]
+    AR["<b>Academic Research<br/>& Publishing</b><br/>23 summaries"]
     FE["<b>Finance &<br/>Econometrics</b><br/>12 summaries"]
     AT["<b>AI Tools &<br/>Comparisons</b><br/>9 summaries"]
     IS["<b>Institutional &<br/>Societal</b><br/>19 summaries"]
