@@ -14,6 +14,7 @@ Getting started with AI coding tools: installation, privacy, environment configu
 - [[install-mac|Install (Mac)]] — Mac terminal setup, Node.js, npm install for Claude Code
 - [[install-windows|Install (Windows)]] — Windows PowerShell setup, Node.js, execution policy fixes
 - [[setup-vs-code|Set Up VS Code]] — Three-panel layout, Claude Code extension, research project example
+- [[backman-vscode-guide|Claude Code in VS Code — For Academic Economists]] — Bäckman's economist-focused VS Code starter: Stata/Python/LaTeX extensions, file-format triage, PDF handling
 - [[my-claude-code-setup|My Claude Code Setup]] — Pedro Sant'Anna's opinionated Claude Code configuration
 
 ### Getting Started

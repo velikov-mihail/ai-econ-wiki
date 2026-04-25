@@ -155,9 +155,12 @@ All authors referenced in the knowledge base, with links to their summaries.
 - [[summaries/workflows|Workflows]]
 - [[summaries/your-claude-md|Your CLAUDE.md]]
 
-## Claes Backman
+## Claes Bäckman
+
+*Aarhus University*
 
 - [[summaries/ai-research-feedback-skills|AI Research Feedback Skills]]
+- [[summaries/backman-vscode-guide|Claude Code in VS Code — For Academic Economists]]
 - [[summaries/feedback-machines|Feedback Machines]]
 
 ## David Karpf
