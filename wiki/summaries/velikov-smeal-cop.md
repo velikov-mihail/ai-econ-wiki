@@ -1,5 +1,5 @@
 ---
-title: "AI for Business & Economic Research: From Chatbots to Agents (Velikov Master Class)"
+title: "AI for Business & Economic Research: From Chatbots to Agents"
 tags: [summary, academic-research]
 sources:
   - "[[raw/papers/main_velikov_smeal_cop.tex]]"
@@ -8,7 +8,7 @@ date_published: 2026-04-06
 ---
 
 - **Author/Source**: Mihail Velikov (Penn State, Smeal College of Business)
-- **Original**: Local Beamer source (`raw/papers/main_velikov_smeal_cop.tex`); presented at Penn State Smeal AI Community of Practice in Research, April 6, 2026. Companion wiki: [velikov-mihail.github.io/ai-econ-wiki](https://velikov-mihail.github.io/ai-econ-wiki/)
+- **Original**: [github.com/velikov-mihail/ai-econ-wiki/tree/main/presentations/smeal-cop](https://github.com/velikov-mihail/ai-econ-wiki/tree/main/presentations/smeal-cop) — Beamer source for the talk presented at the Penn State Smeal AI Community of Practice in Research, April 6, 2026. Companion wiki: [velikov-mihail.github.io/ai-econ-wiki](https://velikov-mihail.github.io/ai-econ-wiki/)
 
 ## Key Ideas
 
@@ -29,7 +29,7 @@ date_published: 2026-04-06
 
 ## Summary
 
-This is the Beamer source for Mihail Velikov's master class talk delivered at the Penn State Smeal AI Community of Practice in Research (April 6, 2026). Across roughly 46 slides, the deck synthesizes the major threads of the wiki it ships alongside into a single overview tailored for a faculty audience deciding whether and how to start using agentic AI for empirical research.
+This is the Beamer source for Mihail Velikov's talk delivered at the Penn State Smeal AI Community of Practice in Research (April 6, 2026). Across roughly 46 slides, the deck synthesizes the major threads of the wiki it ships alongside into a single overview tailored for a faculty audience deciding whether and how to start using agentic AI for empirical research.
 
 The deck opens with six "voices from the field" quotes that compress the 2024–2026 acceleration into a single arc, then steps through three sections that build conceptually: (1) the evolution from traditional LLMs to reasoning models to agents, (2) how an agent actually works (the think–act–observe loop, illustrated by Korinek's ~100-line FRED Agent), and (3) the tooling landscape (CLI agents vs. agent-native IDEs, with a side-by-side architectural contrast between Claude Code's on-demand search and Cursor's RAG-indexed codebase).
 
@@ -39,7 +39,7 @@ The closing section is calibrated to encourage adoption without overselling: ful
 
 ## Relevance to Economics Research
 
-This deck is itself a piece of the wiki it documents — Velikov's master class is the synthesizing artifact that pulls the wiki's individual summaries (Korinek, Mollick, Sant'Anna, Goldsmith-Pinkham, Cunningham, Blattman, Gans, Gregoire, Lopez-Lira, Orlowski, Project APE, refine.ink) into a single 50-minute narrative aimed at faculty colleagues. For an economics audience, it functions as a curated reading-list-with-commentary: every cited claim has a corresponding wiki summary, and the structure (paradigms → architecture → tools → workflows → quality control → starter projects) is a defensible template for any econ department's "AI for research" onboarding session.
+This deck is itself a piece of the wiki it documents — the Smeal Community-of-Practice talk is the synthesizing artifact that pulls the wiki's individual summaries (Korinek, Mollick, Sant'Anna, Goldsmith-Pinkham, Cunningham, Blattman, Gans, Gregoire, Lopez-Lira, Orlowski, Project APE, refine.ink) into a single 50-minute narrative aimed at faculty colleagues. For an economics audience, it functions as a curated reading-list-with-commentary: every cited claim has a corresponding wiki summary, and the structure (paradigms → architecture → tools → workflows → quality control → starter projects) is a defensible template for any econ department's "AI for research" onboarding session.
 
 ## Related Concepts
 

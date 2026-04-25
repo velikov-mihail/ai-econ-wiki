@@ -236,7 +236,8 @@ All authors referenced in the knowledge base, with links to their summaries.
 
 *Penn State, Smeal College of Business*
 
-- [[summaries/velikov-smeal-master-class|AI for Business & Economic Research: From Chatbots to Agents (Master Class)]]
+- [[summaries/ai-powered-scholarship|AI-Powered (Finance) Scholarship]] (with Robert Novy-Marx)
+- [[summaries/velikov-smeal-cop|AI for Business & Economic Research: From Chatbots to Agents]]
 
 ## Panos Ipeirotis
 
@@ -272,11 +273,11 @@ All authors referenced in the knowledge base, with links to their summaries.
 
 - [[summaries/bitter-lesson|The Bitter Lesson]]
 
-## Robert Novy-Marx & Mihail Velikov
+## Robert Novy-Marx
 
-*University of Rochester / Penn State*
+*University of Rochester*
 
-- [[summaries/ai-powered-scholarship|AI-Powered (Finance) Scholarship]]
+- [[summaries/ai-powered-scholarship|AI-Powered (Finance) Scholarship]] (with Mihail Velikov)
 
 ## Siyang Liu
 

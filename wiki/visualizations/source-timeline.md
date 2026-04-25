@@ -160,7 +160,7 @@ All sources in the knowledge base, ordered chronologically by publication date.
 - **April 5** — [[summaries/large-datasets-economists|Large Datasets and Structured Databases]] — Paul Goldsmith-Pinkham
 - **April 5** — [[summaries/large-datasets-video|Large Datasets: Claude Code for Economists (Video)]] — Paul Goldsmith-Pinkham
 - **April 5** — [[summaries/cc-series-38-plug-paulgp|Part 38: A Plug for Paul Goldsmith-Pinkham's Markus Academy Series]] — Scott Cunningham
-- **April 6** — [[summaries/velikov-smeal-master-class|AI for Business & Economic Research: From Chatbots to Agents (Master Class)]] — Mihail Velikov
+- **April 6** — [[summaries/velikov-smeal-cop|AI for Business & Economic Research: From Chatbots to Agents]] — Mihail Velikov
 - **April 11** — [[summaries/writing-thinking-ai-assistance|Writing & Thinking with AI Assistance]] — Paul Goldsmith-Pinkham
 - **April 12** — [[summaries/writing-thinking-markus-162-5|Writing & Thinking: Claude Code for Economists (Markus Academy 162-5)]] — Paul Goldsmith-Pinkham
 - **April 13** — [[summaries/what-will-be-scarce|What Will Be Scarce?]] — Alex Imas
