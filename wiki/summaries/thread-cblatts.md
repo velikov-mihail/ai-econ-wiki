@@ -1,14 +1,14 @@
 ---
-title: 'Chris Blattman Thread: From Claude Code Skeptic to Power User'
+title: "Chris Blattman Thread: From Claude Code Skeptic to Power User"
 tags:
-- summary
-- professional-productivity
-- Claude-Code
-- productivity-tools
-- project-management
-- research-workflow
+  - summary
+  - professional-productivity
+  - Claude-Code
+  - productivity-tools
+  - project-management
+  - research-workflow
 sources:
-- '[[raw/articles/Thread by @cblatts.md]]'
+  - "[[raw/articles/4w ago I was a Claude Code skeptic.md]]"
 date_updated: 2026-04-03
 date_published: 2026-02
 ---

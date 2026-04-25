@@ -1,13 +1,13 @@
 ---
-title: 'Arin Dube Thread: LLMs Haven''t Raised NBER Working Papers Above Trend'
+title: "Arin Dube Thread: LLMs Haven't Raised NBER Working Papers Above Trend"
 tags:
-- summary
-- institutional-societal
-- research-productivity
-- LLM-impact
-- economics-profession
+  - summary
+  - institutional-societal
+  - research-productivity
+  - LLM-impact
+  - economics-profession
 sources:
-- '[[raw/articles/Thread by @arindube.md]]'
+  - "[[raw/articles/Advent of LLMs hasn't raised the number of NBER working papers above trend.md]]"
 date_updated: 2026-04-03
 date_published: 2026-03
 ---

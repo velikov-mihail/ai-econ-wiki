@@ -1,13 +1,13 @@
 ---
-title: 'Alex Imas Thread: Man-Computer Symbiosis and the Excitement of AI in Research'
+title: "Alex Imas Thread: Man-Computer Symbiosis and the Excitement of AI in Research"
 tags:
-- summary
-- institutional-societal
-- human-ai-collaboration
-- research-productivity
-- historical-perspective
+  - summary
+  - institutional-societal
+  - human-ai-collaboration
+  - research-productivity
+  - historical-perspective
 sources:
-- '[[raw/articles/Thread by @alexolegimas.md]]'
+  - "[[raw/articles/AI tools have made research incredibly exciting..md]]"
 date_updated: 2026-04-03
 date_published: 2026-02
 ---
