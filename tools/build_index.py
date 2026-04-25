@@ -201,13 +201,15 @@ def _parse_authors_md():
 
     authors.md is hand-maintained as the canonical author index. Each
     `## Heading` is treated as the author label for the wikilinks that
-    follow until the next heading. A "with X" parenthetical at the end
-    of a line is stripped so each summary keeps the section's heading.
+    follow until the next heading. When a summary appears under several
+    author headings (multi-author papers), all headings are joined in
+    Oxford-style: "A", "A & B", "A, B & C", "A, B, C & D", ...
     """
     path = WIKI_DIR / "authors.md"
     mapping = {}
     if not path.exists():
         return mapping
+    collected = {}  # slug -> list of headings, insertion order
     current = None
     link_re = re.compile(r"\[\[summaries/([^|\]]+)(?:\|[^\]]+)?\]\]")
     for raw in path.read_text(encoding="utf-8").splitlines():
@@ -218,7 +220,16 @@ def _parse_authors_md():
         if current is None:
             continue
         for slug in link_re.findall(line):
-            mapping.setdefault(slug, current)
+            authors_for_slug = collected.setdefault(slug, [])
+            if current not in authors_for_slug:
+                authors_for_slug.append(current)
+    for slug, names in collected.items():
+        if len(names) == 1:
+            mapping[slug] = names[0]
+        elif len(names) == 2:
+            mapping[slug] = f"{names[0]} & {names[1]}"
+        else:
+            mapping[slug] = ", ".join(names[:-1]) + f" & {names[-1]}"
     return mapping
 
 
