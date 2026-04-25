@@ -35,3 +35,4 @@ The broader impact of AI on academia, research institutions, and society.
 - [[something-big-happening|Something Big Is Happening]] — Shumer on imminent AI disruption
 - [[what-ai-got-wrong|What AI Got Wrong]] — Blattman on plausible-but-wrong AI errors requiring domain expertise
 - [[ai-people-right-a-lot|The AI People Have Been Right a Lot]] — Matthews's public 2015 update; track record of AGI-pilled predictors
+- [[agentic-intelligence-explosion|Agentic AI and the Next Intelligence Explosion]] — Evans/Bratton/Agüera y Arcas: plural intelligence; society of thought inside reasoning models; institutional alignment vs. RLHF

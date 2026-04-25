@@ -188,6 +188,12 @@ All authors referenced in the knowledge base, with links to their summaries.
 
 - [[summaries/kansoy-ai-future-research|AI, Ideas, and the Future of Research (Slides)]]
 
+## James Evans, Benjamin Bratton & Blaise Agüera y Arcas
+
+*Google Paradigms of Intelligence Team / U Chicago / Santa Fe Institute / Antikythera / UCSD*
+
+- [[summaries/agentic-intelligence-explosion|Agentic AI and the Next Intelligence Explosion]]
+
 ## Isaiah Andrews
 
 *MIT Economics*
