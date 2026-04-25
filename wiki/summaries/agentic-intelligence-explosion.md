@@ -38,7 +38,7 @@ Indirect but conceptually load-bearing. Several reasons it matters for the wiki 
 
 2. **Explicit critique of the SEC's regulatory capacity** in the AI era. The "Excel spreadsheets vs. AI-augmented trading platforms" line is a direct prod at financial-regulatory practice. For asset-pricing and microstructure researchers, this is a real problem statement: market-monitoring infrastructure built for human traders and Excel-driven analysts may not survive contact with multi-agent trading ecologies.
 
-3. **Validates the centaur frame** that runs through this wiki (Imas's [[summaries/thread-alexolegimas|Licklider thread]], Hall's [[summaries/ai-10x-research|10x research]], Cunningham's pipeline, Kustov's posture). The Evans/Bratton/Agüera y Arcas piece is the conceptual high-altitude version of what the practitioner posts have been showing in the trenches.
+3. **Validates the centaur frame** that runs through this wiki (Imas's [[summaries/thread-alexolegimas|Licklider thread]], Hall's [[summaries/ai-10x-research|"10x research" piece]], Cunningham's pipeline, Kustov's posture). The Evans/Bratton/Agüera y Arcas piece is the conceptual high-altitude version of what the practitioner posts have been showing in the trenches.
 
 4. **The "institutional alignment" thesis** is testable. If the authors are right that role protocols matter more than agent identity, then the empirical question for finance/governance is: which institutional templates port to digital agents and which don't? That's a research agenda, not just a manifesto.
 
