@@ -29,6 +29,7 @@ Vibe research, feedback machines, AI-assisted academic writing, and the future o
 - [[cc-series-12-empirical-research|How I Use Claude Code for Empirical Research]] — Cunningham's MixtapeTools, Referee 2, cross-language replication
 - [[cc-series-24-agents-auditing-did|Multiple Agents Auditing Your DiD Code]] — Hallucination as measurement error, cross-language verification
 - [[cc-series-29-finding-facts|Can Claude Code Find Facts?]] — Automated DiD paper in 3.5 hours, epistemological questions
+- [[kohler-agentic-reproduction|Read the Paper, Write the Code]] — Kohler et al. (ETH): 48-paper benchmark; OpenCode GPT-5.4 hits 91% sign, >80% within 95% CI without access to original code
 
 ### Publishing & Peer Review
 - [[cc-series-27-research-vs-publishing|Research and Publishing Are Now Two Different Things]] — Supply-demand analysis of manuscript production costs

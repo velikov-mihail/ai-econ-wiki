@@ -194,6 +194,12 @@ All authors referenced in the knowledge base, with links to their summaries.
 
 - [[summaries/agentic-intelligence-explosion|Agentic AI and the Next Intelligence Explosion]]
 
+## Kohler, Zollikofer, Einsiedler, Hoyle & Ash
+
+*ETH Zurich / University of Basel*
+
+- [[summaries/kohler-agentic-reproduction|Read the Paper, Write the Code: Agentic Reproduction of Social-Science Results]]
+
 ## Isaiah Andrews
 
 *MIT Economics*
