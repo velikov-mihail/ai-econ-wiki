@@ -232,6 +232,12 @@ All authors referenced in the knowledge base, with links to their summaries.
 
 - [[summaries/claude-code-hacks|Every Claude Code Hack I Know]]
 
+## Mihail Velikov
+
+*Penn State, Smeal College of Business*
+
+- [[summaries/velikov-smeal-master-class|AI for Business & Economic Research: From Chatbots to Agents (Master Class)]]
+
 ## Panos Ipeirotis
 
 - [[summaries/project-manager-claude|Claude Code as Project Manager]]

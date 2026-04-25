@@ -11,6 +11,7 @@ Vibe research, feedback machines, AI-assisted academic writing, and the future o
 ## Summaries
 
 ### AI-Assisted Research Workflows
+- [[velikov-smeal-master-class|AI for Business & Economic Research: From Chatbots to Agents (Velikov Master Class)]] — Penn State Smeal master class deck synthesizing the wiki for a faculty audience
 - [[vibe-research|Vibe Research]] — Gregoire wrote a finance paper in 4 days with AI
 - [[reflections-vibe-research|Reflections on Vibe Researching]] — Gans's year-long AI-first experiment and its failures
 - [[feedback-machines|Feedback Machines]] — Bäckman on structured paper feedback with Claude/Cursor

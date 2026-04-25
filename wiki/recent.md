@@ -8,6 +8,7 @@ date_updated: 2026-04-25
 
 The last 15 pages added to the wiki, newest first. Generated from git history — see [[visualizations/source-timeline|Source Timeline]] for sources ordered by publication date.
 
+- **2026-04-25** — [[summaries/backman-vscode-guide|Claude Code in VS Code — For Academic Economists]] (summary)
 - **2026-04-25** — [[summaries/kohler-agentic-reproduction|Read the Paper, Write the Code: Agentic Reproduction of Social-Science Results]] (summary)
 - **2026-04-25** — [[summaries/agentic-intelligence-explosion|Agentic AI and the Next Intelligence Explosion]] (summary)
 - **2026-04-25** — [[summaries/writing-thinking-ai-assistance|Writing & Thinking with AI Assistance (Goldsmith-Pinkham Substack)]] (summary)
@@ -22,4 +23,3 @@ The last 15 pages added to the wiki, newest first. Generated from git history �
 - **2026-04-25** — [[summaries/dickerson-ai-asset-pricing|ai-asset-pricing: Empirical Asset Pricing Tools (Dickerson)]] (summary)
 - **2026-04-25** — [[summaries/kansoy-ai-future-research|AI, Ideas, and the Future of Research (Kansoy Slides)]] (summary)
 - **2026-04-25** — [[summaries/ai-10x-research|AI Is Already 10x-ing Academic Research. How Do We Get to 100x?]] (summary)
-- **2026-04-25** — [[summaries/academics-wake-up-3|Academics Need to Wake Up on AI, Part III]] (summary)
