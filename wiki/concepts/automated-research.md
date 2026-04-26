@@ -3,10 +3,11 @@ title: "Automated Research"
 tags: [concept, automation, research]
 sources:
   - "[[summaries/automated-research-finance.md]]"
+  - "[[summaries/zeropaper-gallery.md]]"
   - "[[summaries/project-ape.md]]"
   - "[[summaries/thread-alexolegimas.md]]"
   - "[[summaries/thread-arindube.md]]"
-date_updated: 2026-04-03
+date_updated: 2026-04-26
 ---
 
 # Automated Research

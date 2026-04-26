@@ -1,7 +1,7 @@
 ---
 title: "Finance & Econometrics Applications"
 tags: [category, finance-econometrics]
-date_updated: 2026-04-03
+date_updated: 2026-04-26
 ---
 
 # Finance & Econometrics Applications
@@ -13,6 +13,7 @@ AI applied to finance research, policy evaluation, and econometric analysis.
 ### Automated Research
 - [[project-ape|Project APE]] — Fully automated economics research pipeline with multi-model tournament
 - [[automated-research-finance|Automated Research in Finance]] — Lopez-Lira's pipeline seeking collaborators for journal submissions
+- [[zeropaper-gallery|ZeroPaper Gallery]] — Public catalog of 22 finance papers produced end-to-end by Lopez-Lira's ZeroPaper pipeline
 - [[ai-powered-scholarship|AI-Powered (Finance) Scholarship]] — Novy-Marx & Velikov: 30K signals → 95 survivors → 380 LLM-generated papers
 - [[applications-generative-ai|Applications (Korinek)]] — Comprehensive guide to 7 LLM application domains for economists
 - [[dickerson-ai-asset-pricing|ai-asset-pricing (Dickerson)]] — Multi-agent empirical asset pricing repo with WRDS, PyBondLab, LaTeX

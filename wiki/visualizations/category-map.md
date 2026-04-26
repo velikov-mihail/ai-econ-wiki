@@ -1,7 +1,7 @@
 ---
 title: "Category Map"
 tags: [visualization, navigation]
-date_updated: 2026-04-25
+date_updated: 2026-04-26
 ---
 
 # Category Map
@@ -16,7 +16,7 @@ graph TD
     CS["<b>Claude Code Skills<br/>& Advanced</b><br/>23 summaries"]
     DA["<b>Data Analysis &<br/>Web Scraping</b><br/>10 summaries"]
     AR["<b>Academic Research<br/>& Publishing</b><br/>23 summaries"]
-    FE["<b>Finance &<br/>Econometrics</b><br/>12 summaries"]
+    FE["<b>Finance &<br/>Econometrics</b><br/>13 summaries"]
     AT["<b>AI Tools &<br/>Comparisons</b><br/>9 summaries"]
     IS["<b>Institutional &<br/>Societal</b><br/>19 summaries"]
     PP["<b>Professional<br/>Productivity</b><br/>13 summaries"]

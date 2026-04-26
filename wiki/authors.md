@@ -1,7 +1,7 @@
 ---
 title: "Author Index"
 tags: [index, authors, navigation]
-date_updated: 2026-04-03
+date_updated: 2026-04-26
 ---
 
 # Author Index
@@ -14,6 +14,7 @@ All authors referenced in the knowledge base, with links to their summaries.
 
 - [[summaries/automated-research-finance|Seeking Collaboration to Test Automated Research in Finance]]
 - [[summaries/stress-test-research-pipeline|AI-Powered Pipeline to Stress-Test Research Ideas]]
+- [[summaries/zeropaper-gallery|ZeroPaper Gallery: Papers Produced by an Autonomous Research Pipeline]]
 
 ## Alex Imas
 

@@ -8,7 +8,7 @@ tags:
 - AI-pipeline
 sources:
 - '[[raw/articles/Seeking Collaboration to Test Automated Research in Finance.md]]'
-date_updated: 2026-04-03
+date_updated: 2026-04-26
 date_published: 2026-03-22
 ---
 
@@ -42,6 +42,8 @@ This represents a concrete, production-ready implementation of AI-automated rese
 
 ## Related Summaries
 
+- [[summaries/zeropaper-gallery]] — the public catalog of 22 papers actually produced by this pipeline (as of 2026-04-25)
+- [[summaries/stress-test-research-pipeline]] — Lopez-Lira's upstream idea-evaluation pipeline
 - [[summaries/project-ape]]
 - [[summaries/applications-generative-ai]]
 - [[summaries/thread-arindube]]

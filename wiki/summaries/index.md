@@ -6,7 +6,7 @@ date_updated: 2026-04-03
 
 # All Summaries
 
-This wiki contains **146** source summaries across the following categories.
+This wiki contains **147** source summaries across the following categories.
 
 ## Professional Productivity
 
@@ -189,6 +189,7 @@ See also: [[summaries/finance-econometrics|Finance & Econometrics Applications o
 - [[summaries/claude-wrds-tools|Claude Code WRDS Toolkit (piotrek-orlowski/claude-wrds-public)]]
 - [[summaries/automated-research-finance|Seeking Collaboration to Test Automated Research in Finance]]
 - [[summaries/what-will-be-scarce|What Will Be Scarce?]]
+- [[summaries/zeropaper-gallery|ZeroPaper Gallery: Papers Produced by an Autonomous Research Pipeline]]
 - [[summaries/dickerson-ai-asset-pricing|ai-asset-pricing: Empirical Asset Pricing Tools (Dickerson)]]
 - [[summaries/ralph-wiggum-asset-pricing|ralph-wiggum-asset-pricing: Open-Source Loop for Generating Asset Pricing Papers]]
 

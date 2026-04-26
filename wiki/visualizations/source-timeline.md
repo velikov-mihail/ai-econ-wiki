@@ -1,7 +1,7 @@
 ---
 title: "Source Timeline"
 tags: [visualization, navigation, timeline]
-date_updated: 2026-04-25
+date_updated: 2026-04-26
 ---
 
 # Source Timeline
@@ -175,6 +175,7 @@ All sources in the knowledge base, ordered chronologically by publication date.
 - **April 2026** — [[summaries/ralph-wiggum-asset-pricing|ralph-wiggum-asset-pricing: Open-Source Loop for Generating Asset Pricing Papers]] — Andrew Y. Chen
 - **April 2026** — [[summaries/claude-wrds-public|Claude Code WRDS Toolkit (Liu fork)]] — Siyang Liu
 - **April 2026** — [[summaries/backman-vscode-guide|Claude Code in VS Code — For Academic Economists]] — Claes Bäckman
+- **April 25** — [[summaries/zeropaper-gallery|ZeroPaper Gallery: Papers Produced by an Autonomous Research Pipeline]] — Alejandro Lopez-Lira
 
 ### March (papers)
 - **March 21, 2026** — [[summaries/agentic-intelligence-explosion|Agentic AI and the Next Intelligence Explosion]] — James Evans, Benjamin Bratton & Blaise Agüera y Arcas
@@ -184,7 +185,7 @@ All sources in the knowledge base, ordered chronologically by publication date.
 
 ## Summary Statistics
 
-- **Total sources:** 146
+- **Total sources:** 147
 - **Date range:** March 2019 – April 2026
 - **Peak activity:** March 2026 (84 sources)
 - **Most prolific authors:** Chris Blattman (44), Scott Cunningham (28), Paul Goldsmith-Pinkham (13), Anton Korinek (4), Ethan Mollick (5)

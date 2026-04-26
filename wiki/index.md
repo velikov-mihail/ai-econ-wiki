@@ -1,13 +1,13 @@
 ---
 title: "AI in Business & Economic Research"
 tags: [home]
-date_updated: 2026-04-25
+date_updated: 2026-04-26
 ---
 
 
 # AI in Business & Economic Research
 
-A curated knowledge base on using AI tools and workflows for business and economic research. Built from 146 web articles, academic papers, and practitioner guides.
+A curated knowledge base on using AI tools and workflows for business and economic research. Built from 147 web articles, academic papers, and practitioner guides.
 
 ## Recent
 
@@ -30,7 +30,7 @@ See [[recent|more recent summaries →]]
 - **[[summaries/claude-code-skills|Claude Code Skills & Advanced]]** (23) — Skills, DAAF, continuous improvement, compilation workflows
 - **[[summaries/data-analysis|Data Analysis & Web Scraping]]** (10) — WRDS, EDGAR, scraping, data pipelines
 - **[[summaries/academic-research|Academic Research & Publishing]]** (23) — Vibe research, feedback machines, AI-assisted writing, agentic reproducibility
-- **[[summaries/finance-econometrics|Finance & Econometrics]]** (12) — Project APE, automated research in finance, asset-pricing repos, structural change theory
+- **[[summaries/finance-econometrics|Finance & Econometrics]]** (13) — Project APE, automated research in finance, asset-pricing repos, structural change theory
 - **[[summaries/ai-tools|AI Tools & Comparisons]]** (9) — ChatGPT vs Claude, Cursor, NotebookLM, paper-review tools
 - **[[summaries/institutional-societal|Institutional & Societal]]** (19) — AI adoption, the bitter lesson, AI as normal technology, plural intelligence
 - **[[summaries/professional-productivity|Professional Productivity]]** (13) — Executive assistant, project management, tax, meetings
