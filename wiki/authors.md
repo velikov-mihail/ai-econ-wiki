@@ -226,7 +226,9 @@ All authors referenced in the knowledge base, with links to their summaries.
 
 ## Fatih Kansoy
 
-- [[summaries/kansoy-ai-future-research|AI, Ideas, and the Future of Research (Slides)]]
+*University of Oxford*
+
+- [[summaries/kansoy-ai-future-research|AI, Ideas, and the Future of Research (Deck)]]
 
 ## Isaiah Andrews
 

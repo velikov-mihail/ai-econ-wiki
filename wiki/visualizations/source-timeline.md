@@ -168,7 +168,7 @@ All sources in the knowledge base, ordered chronologically by publication date.
 - **April 15** — [[summaries/academics-wake-up-3|Academics Need to Wake Up on AI, Part III]] — Alexander Kustov
 - **April 16** — [[summaries/ai-10x-research|AI is Already 10x-ing Academic Research]] — Andy Hall
 - **April 16** — [[summaries/coarse-ink|coarse.ink: Open-Source AI Academic Paper Reviewer]] — David Van Dijcke
-- **April 17** — [[summaries/kansoy-ai-future-research|AI, Ideas, and the Future of Research (Slides)]] — Fatih Kansoy
+- **April 17** — [[summaries/kansoy-ai-future-research|AI, Ideas, and the Future of Research (Deck)]] — Fatih Kansoy
 - **April 18** — [[summaries/dickerson-ai-asset-pricing|ai-asset-pricing: Empirical Asset Pricing Tools]] — Alexander M. Dickerson
 - **April 23** — [[summaries/cc-series-44-four-criteria-referee|Part 44: My Four Criteria for Using Agents (Referee Reports)]] — Scott Cunningham
 - **April 23** — [[summaries/sign-of-future-gpt55|Sign of the Future: GPT-5.5]] — Ethan Mollick

@@ -1,7 +1,7 @@
 ---
 title: "Institutional & Societal Implications"
 tags: [category, institutional-societal]
-date_updated: 2026-04-03
+date_updated: 2026-04-26
 ---
 
 # Institutional & Societal Implications
@@ -20,7 +20,7 @@ The broader impact of AI on academia, research institutions, and society.
 - [[academics-wake-up-2|Academics Need to Wake Up, Part II]] — Kustov's follow-up with concrete recommendations
 - [[academics-wake-up-3|Academics Need to Wake Up, Part III]] — Kustov: human slop predates AI; not using AI is malpractice
 - [[ai-10x-research|AI is Already 10x-ing Academic Research]] — Hall (Stanford): vote-by-mail auto-replication, 100x institution proposal
-- [[kansoy-ai-future-research|AI, Ideas, and the Future of Research]] — Kansoy slide deck on orchestration systems and research practice
+- [[kansoy-ai-future-research|AI, Ideas, and the Future of Research]] — Kansoy (Oxford): six-section deck arguing judgment is the new scarce input; LLM + SKILL.md = Agent; full wealth-composition demo
 - [[andrews-ai-research|Some Thoughts on AI and Research]] — Andrews (MIT): case-based framework for PhD skill investment under AI uncertainty
 - [[train-left-station|The Train Has Left the Station]] — Messing & Tucker (Brookings) on agentic AI and social science
 - [[blattman-x-post|Chris Blattman X Post on Claude Code Adoption]] — Blattman's social media post on adopting Claude Code
