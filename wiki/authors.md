@@ -22,6 +22,7 @@ All authors referenced in the knowledge base, with links to their summaries.
 - [[summaries/stress-test-research-pipeline|AI-Powered Pipeline to Stress-Test Research Ideas]]
 - [[summaries/zeropaper-gallery|ZeroPaper Gallery: Papers Produced by an Autonomous Research Pipeline]]
 - [[summaries/zeropaper-template|ZeroPaper: Enhanced AI-Assisted Research Template with Agentic Capabilities]]
+- [[summaries/zeropaper-paper|ZeroPaper: An Autonomous Research System (paper)]]
 
 ## Alex Imas
 

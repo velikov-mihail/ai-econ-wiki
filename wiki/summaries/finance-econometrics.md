@@ -15,6 +15,7 @@ AI applied to finance research, policy evaluation, and econometric analysis.
 - [[automated-research-finance|Automated Research in Finance]] — Lopez-Lira's pipeline seeking collaborators for journal submissions
 - [[zeropaper-gallery|ZeroPaper Gallery]] — Public catalog of 22 finance papers produced end-to-end by Lopez-Lira's ZeroPaper pipeline
 - [[zeropaper-template|ZeroPaper Template]] — Public release of Lopez-Lira's autonomous pipeline as a clonable template (Claude Code / Codex / Gemini)
+- [[zeropaper-paper|ZeroPaper Paper]] — Lopez-Lira's design discipline: 10 premises + 6 principles behind a long-running autonomous research pipeline
 - [[ai-powered-scholarship|AI-Powered (Finance) Scholarship]] — Novy-Marx & Velikov: 30K signals → 95 survivors → 380 LLM-generated papers
 - [[applications-generative-ai|Applications (Korinek)]] — Comprehensive guide to 7 LLM application domains for economists
 - [[dickerson-ai-asset-pricing|ai-asset-pricing (Dickerson)]] — Multi-agent empirical asset pricing repo with WRDS, PyBondLab, LaTeX

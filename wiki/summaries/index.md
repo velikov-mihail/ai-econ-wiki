@@ -6,7 +6,7 @@ date_updated: 2026-04-03
 
 # All Summaries
 
-This wiki contains **164** source summaries across the following categories.
+This wiki contains **165** source summaries across the following categories.
 
 ## Professional Productivity
 
@@ -206,6 +206,7 @@ See also: [[summaries/finance-econometrics|Finance & Econometrics Applications o
 - [[summaries/automated-research-finance|Seeking Collaboration to Test Automated Research in Finance]]
 - [[summaries/what-will-be-scarce|What Will Be Scarce?]]
 - [[summaries/zeropaper-gallery|ZeroPaper Gallery: Papers Produced by an Autonomous Research Pipeline]]
+- [[summaries/zeropaper-paper|ZeroPaper: An Autonomous Research System]]
 - [[summaries/zeropaper-template|ZeroPaper: Enhanced AI-Assisted Research Template with Agentic Capabilities]]
 - [[summaries/dickerson-ai-asset-pricing|ai-asset-pricing: Empirical Asset Pricing Tools (Dickerson)]]
 - [[summaries/ralph-wiggum-asset-pricing|ralph-wiggum-asset-pricing: Open-Source Loop for Generating Asset Pricing Papers]]
