@@ -180,15 +180,31 @@ All sources in the knowledge base, ordered chronologically by publication date.
 - **April 25** — [[summaries/zeropaper-gallery|ZeroPaper Gallery: Papers Produced by an Autonomous Research Pipeline]] — Alejandro Lopez-Lira
 - **April 27** — [[summaries/agentic-bootcamp-2-aslim-beam|Agentic AI Bootcamp — Session 2: Research Workflows, Teaching & Applications]] — Erkmen G. Aslim & Emily Beam
 
+### May
+- **May 2** — [[summaries/panjwani-codex-course|OpenAI Codex Full Course (4 Hours): Build & Ship]] — Aniket Panjwani
+- **May 5** — [[summaries/ars-claude-code|Academic Research Skills for Claude Code (ARS)]] — Edward Cheng-I Wu
+- **May 7** — [[summaries/claude-code-101-bilal|Claude Code 101 for Academic Researchers]] — Mushtaq Bilal
+- **May 7** — [[summaries/claude-code-102-bilal|Claude Code 102 for Academic Researchers]] — Mushtaq Bilal
+- **May 13** — [[summaries/codex-101-bilal|Codex 101 for Academic Researchers]] — Mushtaq Bilal
+- **May 15** — [[summaries/codex-102-bilal|Codex 102 for Academic Researchers]] — Mushtaq Bilal
+- **May 2026** — [[summaries/ars-codex|Academic Research Skills for Codex (ARS-Codex)]] — Edward Cheng-I Wu
+- **May 2026** — [[summaries/katmer-code|KatmerCode: Claude Code inside Obsidian]] — Halil Kaan Canan
+
 ### March (papers)
+- **March 3** — [[summaries/ai-progress-mental-model|Why No One Can Agree About AI Progress Right Now]] — Brian Heseung Kim
 - **March 21, 2026** — [[summaries/agentic-intelligence-explosion|Agentic AI and the Next Intelligence Explosion]] — James Evans, Benjamin Bratton & Blaise Agüera y Arcas
 - **April 2026 (working paper)** — [[summaries/kohler-agentic-reproduction|Read the Paper, Write the Code: Agentic Reproduction of Social-Science Results]] — Kohler, Zollikofer, Einsiedler, Hoyle & Ash (ETH)
+
+### 2026 (date not specified)
+- [[summaries/point-by-point|Point by Point: Guided R&R Response Letters]] — Abhishek Nagaraj
+- [[summaries/haaland-reviewer|Reviewer: A Reproducible Multi-Agent Reviewer for Economics Papers]] — Ingar Haaland
+- [[summaries/worldseed|WorldSeed: A Multi-Agent World Engine for Emergent Outcomes]] — Jie Ding
 
 ---
 
 ## Summary Statistics
 
-- **Total sources:** 150
-- **Date range:** March 2019 – April 2026
+- **Total sources:** 173
+- **Date range:** March 2019 – May 2026
 - **Peak activity:** March 2026 (84 sources)
-- **Most prolific authors:** Chris Blattman (44), Scott Cunningham (28), Paul Goldsmith-Pinkham (13), Anton Korinek (4), Ethan Mollick (5)
+- **Most prolific authors:** Chris Blattman (44), Scott Cunningham (28), Paul Goldsmith-Pinkham (13), Mushtaq Bilal (4), Ethan Mollick (5)

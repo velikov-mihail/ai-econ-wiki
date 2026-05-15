@@ -6,7 +6,7 @@ date_updated: 2026-04-03
 
 # Concept Pages
 
-**64** cross-cutting concept pages synthesizing ideas across multiple sources.
+**68** cross-cutting concept pages synthesizing ideas across multiple sources.
 
 - [[concepts/ai-adoption-academia|AI Adoption in Academia]]
 - [[concepts/ai-agents|AI Agents]]
@@ -28,6 +28,7 @@ date_updated: 2026-04-03
 - [[concepts/agentic-workflows|Agentic Workflows]]
 - [[concepts/automated-research|Automated Research]]
 - [[concepts/claude-md-files|CLAUDE.md Files]]
+- [[concepts/citation-hallucination|Citation Hallucination]]
 - [[concepts/claude-code|Claude Code]]
 - [[concepts/claude-code-skills|Claude Code Skills]]
 - [[concepts/coding-with-llms|Coding with LLMs]]
@@ -43,6 +44,7 @@ date_updated: 2026-04-03
 - [[concepts/design-patterns|Design Patterns for AI Workflows]]
 - [[concepts/document-processing|Document Processing with AI]]
 - [[concepts/domain-expertise-vs-ai-skills|Domain Expertise vs. AI Skills]]
+- [[concepts/emergent-behavior|Emergent Behavior in Multi-Agent Systems]]
 - [[concepts/empirical-methods|Empirical Methods and AI]]
 - [[concepts/feedback-machines|Feedback Machines]]
 - [[concepts/future-of-academic-publishing|Future of Academic Publishing]]
@@ -54,6 +56,7 @@ date_updated: 2026-04-03
 - [[concepts/llm-reasoning|LLM Reasoning]]
 - [[concepts/langgraph|LangGraph]]
 - [[concepts/mcp-protocol|Model Context Protocol (MCP)]]
+- [[concepts/multi-agent-systems|Multi-Agent Systems]]
 - [[concepts/open-source-models|Open-Source Models]]
 - [[concepts/plan-driven-development|Plan-Driven Development]]
 - [[concepts/pre-analysis-plans|Pre-Analysis Plans and AI]]
@@ -63,6 +66,7 @@ date_updated: 2026-04-03
 - [[concepts/research-productivity|Research Productivity]]
 - [[concepts/research-quality|Research Quality with AI]]
 - [[concepts/retrieval-augmented-generation|Retrieval-Augmented Generation (RAG)]]
+- [[concepts/revise-and-resubmit|Revise-and-Resubmit Workflows]]
 - [[concepts/skills-vs-agents|Skills vs Agents]]
 - [[concepts/sycophancy-and-bias|Sycophancy and Bias in AI]]
 - [[concepts/text-as-data|Text as Data]]
