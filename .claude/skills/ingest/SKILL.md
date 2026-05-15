@@ -40,7 +40,7 @@ User runs `/ingest` or asks to process new sources.
 
    f. **Update `wiki/authors.md`**: Add the new summary under the author's existing heading (alphabetical by first name). If the author doesn't have a heading yet, create one in the correct alphabetical position with their affiliation if known.
 
-   g. Rebuild indexes: `python tools/build_index.py --write` (regenerates `summaries/index.md`, `concepts/index.md`, `wiki/recent.md`, and the Recent section on `wiki/index.md`).
+   g. Rebuild indexes: `python tools/build_index.py --write --stage` (regenerates `summaries/index.md`, `concepts/index.md`, `wiki/recent.md`, and the Recent section on `wiki/index.md`; the `--stage` flag git-adds those four files so they ride along with the per-source commit in step 2j).
 
    h. Append an entry to `wiki/log.md` (newest first, below the header):
       ```

@@ -21,7 +21,7 @@ User runs `/maintain` or asks for a maintenance pass.
 
 2. **Run full lint**: Execute all checks from the `/lint` skill (frontmatter validation, orphan detection, index drift, mkdocs nav drift, duplicate detection). Print the structured report.
 
-3. **Rebuild indexes**: Run `python tools/build_index.py --write`. This regenerates `wiki/summaries/index.md`, `wiki/concepts/index.md`, `wiki/recent.md`, and refreshes the Recent section on `wiki/index.md` between its `<!-- RECENT-START -->` / `<!-- RECENT-END -->` markers (top 5 newest entries, sourced from git history).
+3. **Rebuild indexes**: Run `python tools/build_index.py --write --stage`. This regenerates `wiki/summaries/index.md`, `wiki/concepts/index.md`, `wiki/recent.md`, and refreshes the Recent section on `wiki/index.md` between its `<!-- RECENT-START -->` / `<!-- RECENT-END -->` markers (top 5 newest entries, sourced from git history). The `--stage` flag git-adds the four regenerated files for step 9.
 
 4. **Refresh derived pages**: Update hardcoded counts and content in these pages to match current wiki state:
    - `wiki/index.md` — category summary counts in the Categories section. (The Recent section below it is auto-refreshed in step 3 — leave it alone.)
@@ -54,7 +54,7 @@ User runs `/maintain` or asks for a maintenance pass.
    - Indexes rebuilt: yes
    ```
 
-9. **Commit** index changes if any were made, with message: `Maintain: rebuild indexes`
+9. **Commit**: `git commit -m "Maintain: rebuild indexes"`. The four index files are already staged by step 3's `--stage` flag; explicitly `git add` any derived-page edits from step 4 (`wiki/index.md` category counts, `wiki/visualizations/category-map.md`, `wiki/visualizations/source-timeline.md`) before committing.
 
 ## Key Rules
 

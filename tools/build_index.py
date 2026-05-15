@@ -25,6 +25,15 @@ import yaml
 WIKI_DIR = Path(__file__).resolve().parent.parent / "wiki"
 REPO_ROOT = WIKI_DIR.parent
 
+# Repo-relative paths of the four files this script regenerates. Single source
+# of truth so `--stage` can git-add exactly what `--write` wrote.
+GENERATED_FILES = (
+    "wiki/summaries/index.md",
+    "wiki/concepts/index.md",
+    "wiki/recent.md",
+    "wiki/index.md",
+)
+
 # Category landing pages in canonical display order (also used to skip them
 # as individual summaries).  Must be a list so iteration order is stable.
 CATEGORY_ORDER = [
@@ -320,11 +329,16 @@ def main():
     parser = argparse.ArgumentParser(description="Rebuild wiki index files")
     parser.add_argument("--write", action="store_true",
                         help="Overwrite index files (default: preview only)")
+    parser.add_argument("--stage", action="store_true",
+                        help="git-add the regenerated files (requires --write)")
     parser.add_argument("--recent-count", type=int, default=15,
                         help="Number of entries on wiki/recent.md (default: 15)")
     parser.add_argument("--home-recent-count", type=int, default=5,
                         help="Number of entries embedded on wiki/index.md (default: 5)")
     args = parser.parse_args()
+
+    if args.stage and not args.write:
+        parser.error("--stage requires --write (nothing to stage in preview mode)")
 
     summaries_md = build_summaries_index()
     concepts_md = build_concepts_index()
@@ -342,8 +356,13 @@ def main():
         (WIKI_DIR / "concepts" / "index.md").write_text(concepts_md, encoding="utf-8")
         (WIKI_DIR / "recent.md").write_text(recent_md, encoding="utf-8")
         home_path.write_text(home_md, encoding="utf-8")
-        print("Wrote wiki/summaries/index.md, wiki/concepts/index.md, "
-              "wiki/recent.md, wiki/index.md")
+        print("Wrote " + ", ".join(GENERATED_FILES))
+        if args.stage:
+            subprocess.run(
+                ["git", "add", "--", *GENERATED_FILES],
+                cwd=str(REPO_ROOT), check=True,
+            )
+            print("Staged: " + ", ".join(GENERATED_FILES))
     else:
         print("=== wiki/summaries/index.md ===")
         print(summaries_md)
