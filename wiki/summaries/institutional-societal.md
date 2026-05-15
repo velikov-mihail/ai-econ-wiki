@@ -14,6 +14,7 @@ The broader impact of AI on academia, research institutions, and society.
 - [[ai-normal-technology|AI as Normal Technology]] — Narayanan & Kapoor: AI as slow-diffusing technology, not revolution
 - [[bitter-lesson|The Bitter Lesson]] — Sutton: general computation-scaling methods always win
 - [[shape-of-ai|The Shape of AI]] — Mollick: jagged frontier, bottlenecks, and salients
+- [[ai-progress-mental-model|Why No One Can Agree About AI Progress]] — Kim's Mind/Body/Instructions model explaining why expert opinion splits
 
 ### Academic Disruption
 - [[academics-wake-up|Academics Need to Wake Up on AI]] — Kustov on urgency of AI adoption in academia

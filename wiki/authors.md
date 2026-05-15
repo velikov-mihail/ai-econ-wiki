@@ -10,6 +10,12 @@ All authors referenced in the knowledge base, with links to their summaries.
 
 ---
 
+## Abhishek Nagaraj
+
+*UC Berkeley Haas*
+
+- [[summaries/point-by-point|Point by Point: Guided R&R Response Letters]]
+
 ## Alejandro Lopez-Lira
 
 - [[summaries/automated-research-finance|Seeking Collaboration to Test Automated Research in Finance]]
@@ -67,6 +73,7 @@ All authors referenced in the knowledge base, with links to their summaries.
 
 - [[summaries/ai-agents-econ-research|AI Agents for Economic Research (VoxDev Webinar)]]
 - [[summaries/panjwani-slides|AI Agents for Economics Research (Slides)]]
+- [[summaries/panjwani-codex-course|OpenAI Codex Full Course (4 Hours): Build & Ship]]
 
 ## Anton Korinek
 
@@ -124,6 +131,7 @@ All authors referenced in the knowledge base, with links to their summaries.
 ## Brian Heseung Kim
 
 - [[summaries/daaf-framework|DAAF: Data Analyst Augmentation Framework]]
+- [[summaries/ai-progress-mental-model|Why No One Can Agree About AI Progress Right Now]]
 
 ## Charles Yang
 
@@ -208,6 +216,11 @@ All authors referenced in the knowledge base, with links to their summaries.
 
 - [[summaries/ai-people-right-a-lot|The AI People Have Been Right a Lot]]
 
+## Edward Cheng-I Wu
+
+- [[summaries/ars-claude-code|Academic Research Skills for Claude Code (ARS)]]
+- [[summaries/ars-codex|Academic Research Skills for Codex (ARS-Codex)]]
+
 ## Elliott Ash
 
 *ETH Zurich*
@@ -246,6 +259,16 @@ All authors referenced in the knowledge base, with links to their summaries.
 
 - [[summaries/kansoy-ai-future-research|AI, Ideas, and the Future of Research (Deck)]]
 
+## Halil Kaan Canan
+
+- [[summaries/katmer-code|KatmerCode: Claude Code inside Obsidian]]
+
+## Ingar Haaland
+
+*NHH / CESifo*
+
+- [[summaries/haaland-reviewer|Reviewer: A Reproducible Multi-Agent Reviewer for Economics Papers]]
+
 ## Isaiah Andrews
 
 *MIT Economics*
@@ -261,6 +284,12 @@ All authors referenced in the knowledge base, with links to their summaries.
 ## Jesus Fernandez-Villaverde
 
 - [[summaries/thread-jesusferna|Twelve Arguments for Traditional Higher Education]]
+
+## Jie Ding
+
+*AIScientists-Dev*
+
+- [[summaries/worldseed|WorldSeed: A Multi-Agent World Engine for Emergent Outcomes]]
 
 ## Johanna Einsiedler
 
@@ -299,6 +328,13 @@ All authors referenced in the knowledge base, with links to their summaries.
 
 - [[summaries/ai-powered-scholarship|AI-Powered (Finance) Scholarship]] (with Robert Novy-Marx)
 - [[summaries/velikov-smeal-cop|AI for Business & Economic Research: From Chatbots to Agents]]
+
+## Mushtaq Bilal
+
+- [[summaries/claude-code-101-bilal|Claude Code 101 for Academic Researchers]]
+- [[summaries/claude-code-102-bilal|Claude Code 102 for Academic Researchers]]
+- [[summaries/codex-101-bilal|Codex 101 for Academic Researchers]]
+- [[summaries/codex-102-bilal|Codex 102 for Academic Researchers]]
 
 ## Panos Ipeirotis
 

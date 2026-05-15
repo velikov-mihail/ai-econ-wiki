@@ -24,6 +24,11 @@ Getting started with AI coding tools: installation, privacy, environment configu
 - [[ai-for-professionals|AI for Professionals Who Don't Code]] — Blattman's site overview and philosophy
 - [[thinking-with-agents|Thinking with Agents (UVM Bootcamp landing page)]] — Aslim & Beam's two-session course-in-a-box, with installable skill bundle
 - [[agentic-bootcamp-1-aslim-beam|Agentic AI Bootcamp — Session 1]] — Concepts: chat vs. agentic AI, the AI ladder, context window, planning, permissions, voice files
+- [[claude-code-101-bilal|Claude Code 101 for Academic Researchers]] — Bilal's 4M-view non-technical onramp: "bring AI into the folder"
+- [[claude-code-102-bilal|Claude Code 102 for Academic Researchers]] — Bilal on scaling to multi-year projects with nested CLAUDE.md files
+- [[codex-101-bilal|Codex 101 for Academic Researchers]] — Bilal's Codex onramp; AGENTS.md as the project instruction file
+- [[codex-102-bilal|Codex 102 for Academic Researchers]] — Bilal on long projects in Codex: subfolders, Plan Mode, custom agents, hooks
+- [[panjwani-codex-course|OpenAI Codex Full Course (4 Hours)]] — Panjwani's full-stack Codex course; five primitives of agentic coding; Codex-first recommendation
 
 ### Configuration & Privacy
 - [[privacy-setup|Privacy & Setup]] — Data handling, display vs. transmission prevention, pre-flight checklists

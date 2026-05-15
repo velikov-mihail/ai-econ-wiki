@@ -7,7 +7,7 @@ date_updated: 2026-04-26
 
 # AI in Business & Economic Research
 
-A curated knowledge base on using AI tools and workflows for business and economic research. Built from 150 web articles, academic papers, and practitioner guides.
+A curated knowledge base on using AI tools and workflows for business and economic research. Built from 160+ web articles, academic papers, and practitioner guides.
 
 ## Recent
 
@@ -24,15 +24,15 @@ See [[recent|more recent summaries →]]
 
 ## Categories
 
-- **[[summaries/foundations-setup|Foundations & Setup]]** (18) — Installation, privacy, getting started with AI coding tools
+- **[[summaries/foundations-setup|Foundations & Setup]]** (23) — Installation, privacy, getting started with AI coding tools
 - **[[summaries/prompt-engineering-workflow|Prompt Engineering & Workflow]]** (10) — Prompt design, plan-driven development, workflow architecture
-- **[[summaries/ai-agents|AI Agents & Agentic AI]]** (11) — Agent frameworks, agentic workflows, autonomous research
-- **[[summaries/claude-code-skills|Claude Code Skills & Advanced]]** (24) — Skills, DAAF, continuous improvement, compilation workflows
+- **[[summaries/ai-agents|AI Agents & Agentic AI]]** (12) — Agent frameworks, agentic workflows, autonomous research
+- **[[summaries/claude-code-skills|Claude Code Skills & Advanced]]** (26) — Skills, DAAF, continuous improvement, compilation workflows
 - **[[summaries/data-analysis|Data Analysis & Web Scraping]]** (10) — WRDS, EDGAR, scraping, data pipelines
-- **[[summaries/academic-research|Academic Research & Publishing]]** (23) — Vibe research, feedback machines, AI-assisted writing, agentic reproducibility
+- **[[summaries/academic-research|Academic Research & Publishing]]** (25) — Vibe research, feedback machines, AI-assisted writing, agentic reproducibility
 - **[[summaries/finance-econometrics|Finance & Econometrics]]** (13) — Project APE, automated research in finance, asset-pricing repos, structural change theory
-- **[[summaries/ai-tools|AI Tools & Comparisons]]** (9) — ChatGPT vs Claude, Cursor, NotebookLM, paper-review tools
-- **[[summaries/institutional-societal|Institutional & Societal]]** (19) — AI adoption, the bitter lesson, AI as normal technology, plural intelligence
+- **[[summaries/ai-tools|AI Tools & Comparisons]]** (10) — ChatGPT vs Claude, Cursor, NotebookLM, paper-review tools
+- **[[summaries/institutional-societal|Institutional & Societal]]** (20) — AI adoption, the bitter lesson, AI as normal technology, plural intelligence
 - **[[summaries/professional-productivity|Professional Productivity]]** (13) — Executive assistant, project management, tax, meetings
 
 ## Navigation

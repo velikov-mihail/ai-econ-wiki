@@ -6,7 +6,7 @@ date_updated: 2026-04-03
 
 # All Summaries
 
-This wiki contains **150** source summaries across the following categories.
+This wiki contains **162** source summaries across the following categories.
 
 ## Professional Productivity
 
@@ -55,6 +55,7 @@ See also: [[summaries/institutional-societal|Institutional & Societal Implicatio
 - [[summaries/shape-of-ai|The Shape of AI: Jaggedness, Bottlenecks and Salients]]
 - [[summaries/train-left-station|The Train Has Left the Station: Agentic AI and the Future of Social Science Research]]
 - [[summaries/what-ai-got-wrong|What AI Got Wrong]]
+- [[summaries/ai-progress-mental-model|Why No One Can Agree About AI Progress Right Now]]
 
 ## Foundations & Setup
 
@@ -65,9 +66,13 @@ See also: [[summaries/foundations-setup|Foundations & Setup overview]]
 - [[summaries/agentic-bootcamp-1-aslim-beam|Agentic AI Bootcamp — Session 1: From Chat to Autonomous Agents]]
 - [[summaries/chatbot-essentials|Chatbot Essentials - The AI Toolkit Stack]]
 - [[summaries/chatbots-done-right|Chatbots Done Right - From Casual Use to Genuine Productivity]]
+- [[summaries/claude-code-101-bilal|Claude Code 101 for Academic Researchers (Bilal)]]
+- [[summaries/claude-code-102-bilal|Claude Code 102 for Academic Researchers (Bilal)]]
 - [[summaries/claude-code-newbies|Claude Code for Newbies - Setup Guide]]
 - [[summaries/backman-vscode-guide|Claude Code in VS Code — For Academic Economists]]
 - [[summaries/claude-container|Claude Container: A Complete Beginner's Guide]]
+- [[summaries/codex-101-bilal|Codex 101 for Academic Researchers (Bilal)]]
+- [[summaries/codex-102-bilal|Codex 102 for Academic Researchers (Bilal)]]
 - [[summaries/claude-code-hacks|Every Claude Code Hack I Know (March 2026)]]
 - [[summaries/getting-started-researchers|Getting Started with Claude Code: A Researcher's Setup Guide]]
 - [[summaries/getting-started-economists|Getting Started: Claude Code for Economists (Markus Academy Ep. 162-1)]]
@@ -75,6 +80,7 @@ See also: [[summaries/foundations-setup|Foundations & Setup overview]]
 - [[summaries/install-windows|Install Claude Code (Windows)]]
 - [[summaries/mcp-setup|MCP Setup - Connecting Claude Code to External Services]]
 - [[summaries/my-claude-code-setup|My Claude Code Setup - Academic Workflow Template]]
+- [[summaries/panjwani-codex-course|OpenAI Codex Full Course (4 Hours): Build & Ship]]
 - [[summaries/privacy-setup|Privacy, Data, and Setup Decisions for AI Workflows]]
 - [[summaries/setup-vs-code|Set Up VS Code for Claude Code]]
 - [[summaries/starter-templates|Starter Templates for AI Workflow Skills]]
@@ -85,6 +91,7 @@ See also: [[summaries/foundations-setup|Foundations & Setup overview]]
 See also: [[summaries/ai-tools|AI Tools & Comparisons overview]]
 
 - [[summaries/guide-which-ai|A Guide to Which AI to Use in the Agentic Era]]
+- [[summaries/ars-codex|Academic Research Skills for Codex (ARS-Codex)]]
 - [[summaries/awesome-econ-ai|Awesome Econ AI Stuff: AI Skills for Economists]]
 - [[summaries/chatgpt-vs-claude|ChatGPT vs Claude: Chatbot Comparison]]
 - [[summaries/document-collection|Document Collection: The 'Email as Database' Pattern]]
@@ -102,6 +109,7 @@ See also: [[summaries/claude-code-skills|Claude Code Skills & Advanced Workflows
 
 - [[summaries/real-claude-md|A Real CLAUDE.md -- Annotated Example]]
 - [[summaries/ai-research-feedback-skills|AI Research Feedback Skills]]
+- [[summaries/ars-claude-code|Academic Research Skills for Claude Code (ARS)]]
 - [[summaries/agentic-bootcamp-2-aslim-beam|Agentic AI Bootcamp — Session 2: Research Workflows, Teaching & Applications]]
 - [[summaries/build-your-own|Build Your Own]]
 - [[summaries/building-skills|Building Skills]]
@@ -122,6 +130,7 @@ See also: [[summaries/claude-code-skills|Claude Code Skills & Advanced Workflows
 - [[summaries/compilation-review|Compilation, Categorization, and Multi-Year Review]]
 - [[summaries/continuous-improvement|Continuous Improvement]]
 - [[summaries/daaf-framework|DAAF: Data Analyst Augmentation Framework]]
+- [[summaries/katmer-code|KatmerCode: Claude Code inside Obsidian]]
 - [[summaries/cc-series-38-plug-paulgp|Part 38: A Plug for Paul Goldsmith-Pinkham's Markus Academy Series]]
 - [[summaries/skill-library|Skill Library]]
 - [[summaries/your-claude-md|Your CLAUDE.md]]
@@ -141,6 +150,7 @@ See also: [[summaries/ai-agents|AI Agents & Agentic AI overview]]
 - [[summaries/claude-dispatch|Claude Dispatch and the Power of Interfaces]]
 - [[summaries/baylor-ai-taskforce|How to Encourage Adoption of AI Among Faculty: Experience, Cost, and the Killer Use Case]]
 - [[summaries/learn-ai-coding-agents|Learn About AI Coding Agents]]
+- [[summaries/worldseed|WorldSeed: A Multi-Agent World Engine for Emergent Outcomes]]
 
 ## Data Analysis & Web Scraping
 
@@ -173,11 +183,13 @@ See also: [[summaries/academic-research|AI for Academic Research & Publishing ov
 - [[summaries/feedback-machines|Feedback Machines: Writing and editing research papers with generative AI]]
 - [[summaries/korinek-2023|Generative AI for Economic Research: Use Cases and Implications for Economists]]
 - [[summaries/openai-automated-researcher|OpenAI is throwing everything into building a fully automated researcher]]
+- [[summaries/point-by-point|Point by Point: Guided R&R Response Letters]]
 - [[summaries/project-ape|Project APE: Can Policy Evaluation Be Automated?]]
 - [[summaries/prompts-to-paper|Prompts-to-Paper: Hedging the AI Singularity]]
 - [[summaries/kohler-agentic-reproduction|Read the Paper, Write the Code: Agentic Reproduction of Social-Science Results]]
 - [[summaries/reflections-vibe-research|Reflections on Vibe Researching]]
 - [[summaries/research-in-time-of-ai|Research in the Time of AI]]
+- [[summaries/haaland-reviewer|Reviewer: A Reproducible Multi-Agent Reviewer for Economics Papers]]
 - [[summaries/vibe-research|Vibe Research, or How I Wrote an Academic Paper in Four Days]]
 - [[summaries/research-paper-disappear|When will the research paper disappear in economics?]]
 - [[summaries/writing-thinking-ai-assistance|Writing & Thinking with AI Assistance (Goldsmith-Pinkham Substack)]]

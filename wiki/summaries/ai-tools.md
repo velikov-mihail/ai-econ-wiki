@@ -21,6 +21,9 @@ Comparing AI tools (ChatGPT, Claude, Cursor, NotebookLM) and choosing the right 
 - [[notebooklm|NotebookLM]] — Blattman on Google's NotebookLM for research
 - [[sign-of-future-gpt55|Sign of the Future: GPT-5.5]] — Mollick: PhD paper from 4 prompts, models/apps/harnesses frame
 
+### Codex Ecosystem
+- [[ars-codex|Academic Research Skills for Codex (ARS-Codex)]] — Codex-native port of ARS as a single suite skill
+
 ### Collaboration & Resources
 - [[llm-collaboration|LLM Collaboration]] — Korinek's guide to effective human-LLM collaboration
 - [[awesome-econ-ai|Awesome Econ AI Stuff]] — Curated resource list for economists using AI

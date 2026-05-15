@@ -28,3 +28,6 @@ Agent frameworks, agentic workflows, and autonomous AI systems for research.
 - [[agents-vs-skills|Agents vs Skills]] — Decision framework for skills vs agents in Claude Code
 - [[learn-ai-coding-agents|Learn About AI Coding Agents]] — Skills, rules, subagents, and configuration hierarchy
 - [[claude-dispatch|Claude Dispatch and the Power of Interfaces]] — Mollick on interface design and cognitive load
+
+### Multi-Agent Simulations
+- [[worldseed|WorldSeed: World Engine for Emergent Outcomes]] — Ding's scene-agnostic multi-agent engine: Autoresearch (72 peer-reviewed papers, val_loss -24.7%), role drift, emergence over workflow
