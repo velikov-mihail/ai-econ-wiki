@@ -43,6 +43,7 @@ Building skills, the DAAF framework, continuous improvement, and compilation wor
 ### Skills & Tools
 - [[cc-series-13-skills-split-pdf|Part 13: Skills and Split-PDF]] — Skills vs personas, /split-pdf for chunked PDF extraction
 - [[brownbag-claude-skills|Brownbag: Claude Code Skills]] — Spina's practical guide to building Claude Code skills
+- [[agentic-bootcamp-2-aslim-beam|Agentic AI Bootcamp — Session 2]] — Aslim & Beam's applied demos: /code-review, /econ-audit (vs. 11 real referees), Lee bounds live, /skill-creator + lecture-builder
 
 ### Presentations
 - [[spina-paper|Claude Code for Academics]] — Spina's AI agent for empirical research (paper + slides)

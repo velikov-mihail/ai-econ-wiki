@@ -6,7 +6,7 @@ date_updated: 2026-04-03
 
 # All Summaries
 
-This wiki contains **147** source summaries across the following categories.
+This wiki contains **150** source summaries across the following categories.
 
 ## Professional Productivity
 
@@ -62,6 +62,7 @@ See also: [[summaries/foundations-setup|Foundations & Setup overview]]
 
 - [[summaries/ai-project-folders|AI Project Folders]]
 - [[summaries/ai-for-professionals|AI for Professionals Who Don't Code - Site Overview]]
+- [[summaries/agentic-bootcamp-1-aslim-beam|Agentic AI Bootcamp — Session 1: From Chat to Autonomous Agents]]
 - [[summaries/chatbot-essentials|Chatbot Essentials - The AI Toolkit Stack]]
 - [[summaries/chatbots-done-right|Chatbots Done Right - From Casual Use to Genuine Productivity]]
 - [[summaries/claude-code-newbies|Claude Code for Newbies - Setup Guide]]
@@ -77,6 +78,7 @@ See also: [[summaries/foundations-setup|Foundations & Setup overview]]
 - [[summaries/privacy-setup|Privacy, Data, and Setup Decisions for AI Workflows]]
 - [[summaries/setup-vs-code|Set Up VS Code for Claude Code]]
 - [[summaries/starter-templates|Starter Templates for AI Workflow Skills]]
+- [[summaries/thinking-with-agents|Thinking with Agents (UVM Agentic AI Bootcamp)]]
 
 ## AI Tools & Comparisons
 
@@ -100,6 +102,7 @@ See also: [[summaries/claude-code-skills|Claude Code Skills & Advanced Workflows
 
 - [[summaries/real-claude-md|A Real CLAUDE.md -- Annotated Example]]
 - [[summaries/ai-research-feedback-skills|AI Research Feedback Skills]]
+- [[summaries/agentic-bootcamp-2-aslim-beam|Agentic AI Bootcamp — Session 2: Research Workflows, Teaching & Applications]]
 - [[summaries/build-your-own|Build Your Own]]
 - [[summaries/building-skills|Building Skills]]
 - [[summaries/cherny-code|ChernyCode: Boris Cherny's Productivity Tips for AI-Assisted Coding]]

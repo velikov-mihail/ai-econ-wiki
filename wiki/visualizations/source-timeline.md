@@ -170,12 +170,15 @@ All sources in the knowledge base, ordered chronologically by publication date.
 - **April 16** — [[summaries/coarse-ink|coarse.ink: Open-Source AI Academic Paper Reviewer]] — David Van Dijcke
 - **April 17** — [[summaries/kansoy-ai-future-research|AI, Ideas, and the Future of Research (Deck)]] — Fatih Kansoy
 - **April 18** — [[summaries/dickerson-ai-asset-pricing|ai-asset-pricing: Empirical Asset Pricing Tools]] — Alexander M. Dickerson
+- **April 22** — [[summaries/thinking-with-agents|Thinking with Agents (UVM Agentic AI Bootcamp)]] — Erkmen G. Aslim & Emily Beam
+- **April 22** — [[summaries/agentic-bootcamp-1-aslim-beam|Agentic AI Bootcamp — Session 1: From Chat to Autonomous Agents]] — Erkmen G. Aslim & Emily Beam
 - **April 23** — [[summaries/cc-series-44-four-criteria-referee|Part 44: My Four Criteria for Using Agents (Referee Reports)]] — Scott Cunningham
 - **April 23** — [[summaries/sign-of-future-gpt55|Sign of the Future: GPT-5.5]] — Ethan Mollick
 - **April 2026** — [[summaries/ralph-wiggum-asset-pricing|ralph-wiggum-asset-pricing: Open-Source Loop for Generating Asset Pricing Papers]] — Andrew Y. Chen
 - **April 2026** — [[summaries/claude-wrds-public|Claude Code WRDS Toolkit (Liu fork)]] — Siyang Liu
 - **April 2026** — [[summaries/backman-vscode-guide|Claude Code in VS Code — For Academic Economists]] — Claes Bäckman
 - **April 25** — [[summaries/zeropaper-gallery|ZeroPaper Gallery: Papers Produced by an Autonomous Research Pipeline]] — Alejandro Lopez-Lira
+- **April 27** — [[summaries/agentic-bootcamp-2-aslim-beam|Agentic AI Bootcamp — Session 2: Research Workflows, Teaching & Applications]] — Erkmen G. Aslim & Emily Beam
 
 ### March (papers)
 - **March 21, 2026** — [[summaries/agentic-intelligence-explosion|Agentic AI and the Next Intelligence Explosion]] — James Evans, Benjamin Bratton & Blaise Agüera y Arcas
@@ -185,7 +188,7 @@ All sources in the knowledge base, ordered chronologically by publication date.
 
 ## Summary Statistics
 
-- **Total sources:** 147
+- **Total sources:** 150
 - **Date range:** March 2019 – April 2026
 - **Peak activity:** March 2026 (84 sources)
 - **Most prolific authors:** Chris Blattman (44), Scott Cunningham (28), Paul Goldsmith-Pinkham (13), Anton Korinek (4), Ethan Mollick (5)

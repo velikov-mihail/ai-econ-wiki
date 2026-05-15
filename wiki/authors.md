@@ -214,6 +214,22 @@ All authors referenced in the knowledge base, with links to their summaries.
 
 - [[summaries/kohler-agentic-reproduction|Read the Paper, Write the Code]] (with Kohler, Zollikofer, Einsiedler & Hoyle)
 
+## Emily Beam
+
+*Department of Economics, University of Vermont*
+
+- [[summaries/thinking-with-agents|Thinking with Agents (UVM Agentic AI Bootcamp)]] (with Erkmen G. Aslim)
+- [[summaries/agentic-bootcamp-1-aslim-beam|Agentic AI Bootcamp — Session 1: From Chat to Autonomous Agents]] (with Erkmen G. Aslim)
+- [[summaries/agentic-bootcamp-2-aslim-beam|Agentic AI Bootcamp — Session 2: Research Workflows, Teaching & Applications]] (with Erkmen G. Aslim)
+
+## Erkmen G. Aslim
+
+*Department of Economics, University of Vermont*
+
+- [[summaries/thinking-with-agents|Thinking with Agents (UVM Agentic AI Bootcamp)]] (with Emily Beam)
+- [[summaries/agentic-bootcamp-1-aslim-beam|Agentic AI Bootcamp — Session 1: From Chat to Autonomous Agents]] (with Emily Beam)
+- [[summaries/agentic-bootcamp-2-aslim-beam|Agentic AI Bootcamp — Session 2: Research Workflows, Teaching & Applications]] (with Emily Beam)
+
 ## Ethan Mollick
 
 *Wharton School, University of Pennsylvania*
