@@ -8,6 +8,7 @@ date_updated: 2026-05-15
 
 The last 15 pages added to the wiki, newest first. Generated from git history — see [[visualizations/source-timeline|Source Timeline]] for sources ordered by publication date.
 
+- **2026-05-15** — [[summaries/my580-agentic-ai|MY580: Agentic AI for Social Science and Data Science Research]] — Daniel de Kadt
 - **2026-05-15** — [[concepts/revise-and-resubmit|Revise-and-Resubmit Workflows]] (concept)
 - **2026-05-15** — [[concepts/multi-agent-systems|Multi-Agent Systems]] (concept)
 - **2026-05-15** — [[concepts/emergent-behavior|Emergent Behavior in Multi-Agent Systems]] (concept)
@@ -22,4 +23,3 @@ The last 15 pages added to the wiki, newest first. Generated from git history �
 - **2026-05-15** — [[summaries/katmer-code|KatmerCode: Claude Code inside Obsidian]] — Halil Kaan Canan
 - **2026-05-15** — [[summaries/claude-code-102-bilal|Claude Code 102 for Academic Researchers (Bilal)]] — Mushtaq Bilal
 - **2026-05-15** — [[summaries/claude-code-101-bilal|Claude Code 101 for Academic Researchers (Bilal)]] — Mushtaq Bilal
-- **2026-05-15** — [[summaries/ars-codex|Academic Research Skills for Codex (ARS-Codex)]] — Edward Cheng-I Wu
