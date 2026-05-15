@@ -15,7 +15,7 @@ graph TD
     AG["<b>AI Agents &<br/>Agentic AI</b><br/>13 summaries"]
     CS["<b>Claude Code Skills<br/>& Advanced</b><br/>26 summaries"]
     DA["<b>Data Analysis &<br/>Web Scraping</b><br/>10 summaries"]
-    AR["<b>Academic Research<br/>& Publishing</b><br/>25 summaries"]
+    AR["<b>Academic Research<br/>& Publishing</b><br/>26 summaries"]
     FE["<b>Finance &<br/>Econometrics</b><br/>15 summaries"]
     AT["<b>AI Tools &<br/>Comparisons</b><br/>10 summaries"]
     IS["<b>Institutional &<br/>Societal</b><br/>20 summaries"]

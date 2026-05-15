@@ -192,6 +192,7 @@ All sources in the knowledge base, ordered chronologically by publication date.
 - **May 2026** — [[summaries/my580-agentic-ai|MY580: Agentic AI for Social Science and Data Science Research]] — Daniel de Kadt
 - **May 1** — [[summaries/zeropaper-template|ZeroPaper: Enhanced AI-Assisted Research Template with Agentic Capabilities]] — Alejandro Lopez-Lira
 - **May 1** — [[summaries/zeropaper-paper|ZeroPaper: An Autonomous Research System (paper)]] — Alejandro Lopez-Lira
+- **May 2026** — [[summaries/velikov-edhec|EDHEC Master Class: Using AI for Research]] — Mihail Velikov
 
 ### March (papers)
 - **March 3** — [[summaries/ai-progress-mental-model|Why No One Can Agree About AI Progress Right Now]] — Brian Heseung Kim
@@ -207,7 +208,7 @@ All sources in the knowledge base, ordered chronologically by publication date.
 
 ## Summary Statistics
 
-- **Total sources:** 176
+- **Total sources:** 177
 - **Date range:** March 2019 – May 2026
 - **Peak activity:** March 2026 (84 sources)
 - **Most prolific authors:** Chris Blattman (44), Scott Cunningham (28), Paul Goldsmith-Pinkham (13), Mushtaq Bilal (4), Ethan Mollick (5)
