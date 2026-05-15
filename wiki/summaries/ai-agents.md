@@ -1,7 +1,7 @@
 ---
 title: "AI Agents & Agentic AI"
 tags: [category, ai-agents]
-date_updated: 2026-04-03
+date_updated: 2026-05-15
 ---
 
 # AI Agents & Agentic AI
@@ -17,6 +17,7 @@ Agent frameworks, agentic workflows, and autonomous AI systems for research.
 
 ### Agents for Economics
 - [[ai-agents-econ-research|AI Agents for Economic Research]] — Panjwani's VoxDev webinar on practical agent use
+- [[my580-agentic-ai|MY580: Agentic AI for Social Science and Data Science Research]] — de Kadt's LSE workshop using Gemini CLI
 - [[how-scientists-use-claude-code|How Do Scientists Use Claude Code]] — Empirical study of Claude Code adoption among 16K scientists
 - [[baylor-ai-taskforce|How to Encourage Adoption of AI Among Faculty]] — Experience, cost, and the killer use case
 - [[panjwani-slides|AI Agents for Economics Research (Slides)]] — Panjwani's slide deck on AI agents for economic research

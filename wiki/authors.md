@@ -1,7 +1,7 @@
 ---
 title: "Author Index"
 tags: [index, authors, navigation]
-date_updated: 2026-04-26
+date_updated: 2026-05-15
 ---
 
 # Author Index
@@ -195,6 +195,12 @@ All authors referenced in the knowledge base, with links to their summaries.
 - [[summaries/ai-research-feedback-skills|AI Research Feedback Skills]]
 - [[summaries/backman-vscode-guide|Claude Code in VS Code — For Academic Economists]]
 - [[summaries/feedback-machines|Feedback Machines]]
+
+## Daniel de Kadt
+
+*London School of Economics*
+
+- [[summaries/my580-agentic-ai|MY580: Agentic AI for Social Science and Data Science Research]]
 
 ## David Karpf
 
