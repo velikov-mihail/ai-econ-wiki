@@ -1,7 +1,7 @@
 ---
 title: "Source Timeline"
 tags: [visualization, navigation, timeline]
-date_updated: 2026-04-26
+date_updated: 2026-05-15
 ---
 
 # Source Timeline
@@ -189,6 +189,7 @@ All sources in the knowledge base, ordered chronologically by publication date.
 - **May 15** — [[summaries/codex-102-bilal|Codex 102 for Academic Researchers]] — Mushtaq Bilal
 - **May 2026** — [[summaries/ars-codex|Academic Research Skills for Codex (ARS-Codex)]] — Edward Cheng-I Wu
 - **May 2026** — [[summaries/katmer-code|KatmerCode: Claude Code inside Obsidian]] — Halil Kaan Canan
+- **May 2026** — [[summaries/my580-agentic-ai|MY580: Agentic AI for Social Science and Data Science Research]] — Daniel de Kadt
 
 ### March (papers)
 - **March 3** — [[summaries/ai-progress-mental-model|Why No One Can Agree About AI Progress Right Now]] — Brian Heseung Kim
@@ -204,7 +205,7 @@ All sources in the knowledge base, ordered chronologically by publication date.
 
 ## Summary Statistics
 
-- **Total sources:** 173
+- **Total sources:** 174
 - **Date range:** March 2019 – May 2026
 - **Peak activity:** March 2026 (84 sources)
 - **Most prolific authors:** Chris Blattman (44), Scott Cunningham (28), Paul Goldsmith-Pinkham (13), Mushtaq Bilal (4), Ethan Mollick (5)

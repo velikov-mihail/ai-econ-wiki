@@ -1,7 +1,7 @@
 ---
 title: "Category Map"
 tags: [visualization, navigation]
-date_updated: 2026-04-26
+date_updated: 2026-05-15
 ---
 
 # Category Map
@@ -12,7 +12,7 @@ A visual map of how the ten knowledge-base categories relate to one another. Arr
 graph TD
     FS["<b>Foundations & Setup</b><br/>23 summaries"]
     PE["<b>Prompt Engineering<br/>& Workflow</b><br/>10 summaries"]
-    AG["<b>AI Agents &<br/>Agentic AI</b><br/>12 summaries"]
+    AG["<b>AI Agents &<br/>Agentic AI</b><br/>13 summaries"]
     CS["<b>Claude Code Skills<br/>& Advanced</b><br/>26 summaries"]
     DA["<b>Data Analysis &<br/>Web Scraping</b><br/>10 summaries"]
     AR["<b>Academic Research<br/>& Publishing</b><br/>25 summaries"]

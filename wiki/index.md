@@ -1,7 +1,7 @@
 ---
 title: "AI in Business & Economic Research"
 tags: [home]
-date_updated: 2026-04-26
+date_updated: 2026-05-15
 ---
 
 
@@ -26,7 +26,7 @@ See [[recent|more recent summaries →]]
 
 - **[[summaries/foundations-setup|Foundations & Setup]]** (23) — Installation, privacy, getting started with AI coding tools
 - **[[summaries/prompt-engineering-workflow|Prompt Engineering & Workflow]]** (10) — Prompt design, plan-driven development, workflow architecture
-- **[[summaries/ai-agents|AI Agents & Agentic AI]]** (12) — Agent frameworks, agentic workflows, autonomous research
+- **[[summaries/ai-agents|AI Agents & Agentic AI]]** (13) — Agent frameworks, agentic workflows, autonomous research
 - **[[summaries/claude-code-skills|Claude Code Skills & Advanced]]** (26) — Skills, DAAF, continuous improvement, compilation workflows
 - **[[summaries/data-analysis|Data Analysis & Web Scraping]]** (10) — WRDS, EDGAR, scraping, data pipelines
 - **[[summaries/academic-research|Academic Research & Publishing]]** (25) — Vibe research, feedback machines, AI-assisted writing, agentic reproducibility
