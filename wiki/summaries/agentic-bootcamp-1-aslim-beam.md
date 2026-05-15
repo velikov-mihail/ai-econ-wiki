@@ -54,7 +54,7 @@ This is a near-complete starter curriculum for any econ department running an in
 - [[concepts/ai-tools-landscape]]
 - [[concepts/cost-and-budget]]
 - [[concepts/ai-limitations]]
-- [[concepts/teaching-ai-your-voice]]
+- [[concepts/voice-and-transcription]]
 - [[concepts/ai-adoption-academia]]
 - [[concepts/human-in-the-loop]]
 
