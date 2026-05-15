@@ -8,18 +8,18 @@ date_updated: 2026-05-15
 
 The last 15 pages added to the wiki, newest first. Generated from git history — see [[visualizations/source-timeline|Source Timeline]] for sources ordered by publication date.
 
-- **2026-05-15** — [[summaries/agentic-bootcamp-2-aslim-beam|Agentic AI Bootcamp — Session 2: Research Workflows, Teaching & Applications]] — Emily Beam & Erkmen G. Aslim
-- **2026-05-15** — [[summaries/agentic-bootcamp-1-aslim-beam|Agentic AI Bootcamp — Session 1: From Chat to Autonomous Agents]] — Emily Beam & Erkmen G. Aslim
-- **2026-05-15** — [[summaries/thinking-with-agents|Thinking with Agents (UVM Agentic AI Bootcamp)]] — Emily Beam & Erkmen G. Aslim
-- **2026-04-26** — [[summaries/zeropaper-gallery|ZeroPaper Gallery: Papers Produced by an Autonomous Research Pipeline]] — Alejandro Lopez-Lira
-- **2026-04-25** — [[summaries/velikov-smeal-cop|AI for Business & Economic Research: From Chatbots to Agents]] — Mihail Velikov
-- **2026-04-25** — [[summaries/backman-vscode-guide|Claude Code in VS Code — For Academic Economists]] — Claes Bäckman
-- **2026-04-25** — [[summaries/kohler-agentic-reproduction|Read the Paper, Write the Code: Agentic Reproduction of Social-Science Results]] — Alexander Hoyle, Benjamin Kohler, David Zollikofer, Elliott Ash & Johanna Einsiedler
-- **2026-04-25** — [[summaries/agentic-intelligence-explosion|Agentic AI and the Next Intelligence Explosion]] — Benjamin Bratton, Blaise Agüera y Arcas & James Evans
-- **2026-04-25** — [[summaries/writing-thinking-ai-assistance|Writing & Thinking with AI Assistance (Goldsmith-Pinkham Substack)]] — Paul Goldsmith-Pinkham
-- **2026-04-25** — [[summaries/writing-thinking-markus-162-5|Writing & Thinking: Claude Code for Economists (Markus Academy 162-5)]] — Paul Goldsmith-Pinkham
-- **2026-04-25** — [[summaries/what-will-be-scarce|What Will Be Scarce?]] — Alex Imas
-- **2026-04-25** — [[summaries/ai-people-right-a-lot|The AI People Have Been Right a Lot]] — Dylan Matthews
-- **2026-04-25** — [[summaries/sign-of-future-gpt55|Sign of the Future: GPT-5.5]] — Ethan Mollick
-- **2026-04-25** — [[summaries/coarse-ink|coarse.ink: Open-Source AI Academic Paper Reviewer]] — David Van Dijcke
-- **2026-04-25** — [[summaries/claude-wrds-public|Claude Code WRDS Toolkit (Liu fork of Orłowski's claude-wrds-public)]] — Siyang Liu
+- **2026-05-15** — [[concepts/revise-and-resubmit|Revise-and-Resubmit Workflows]] (concept)
+- **2026-05-15** — [[concepts/multi-agent-systems|Multi-Agent Systems]] (concept)
+- **2026-05-15** — [[concepts/emergent-behavior|Emergent Behavior in Multi-Agent Systems]] (concept)
+- **2026-05-15** — [[concepts/citation-hallucination|Citation Hallucination]] (concept)
+- **2026-05-15** — [[summaries/worldseed|WorldSeed: A Multi-Agent World Engine for Emergent Outcomes]] — Jie Ding
+- **2026-05-15** — [[summaries/haaland-reviewer|Reviewer: A Reproducible Multi-Agent Reviewer for Economics Papers]] — Ingar Haaland
+- **2026-05-15** — [[summaries/ai-progress-mental-model|Why No One Can Agree About AI Progress Right Now]] — Brian Heseung Kim
+- **2026-05-15** — [[summaries/point-by-point|Point by Point: Guided R&R Response Letters]] — Abhishek Nagaraj
+- **2026-05-15** — [[summaries/panjwani-codex-course|OpenAI Codex Full Course (4 Hours): Build & Ship]] — Aniket Panjwani
+- **2026-05-15** — [[summaries/codex-102-bilal|Codex 102 for Academic Researchers (Bilal)]] — Mushtaq Bilal
+- **2026-05-15** — [[summaries/codex-101-bilal|Codex 101 for Academic Researchers (Bilal)]] — Mushtaq Bilal
+- **2026-05-15** — [[summaries/katmer-code|KatmerCode: Claude Code inside Obsidian]] — Halil Kaan Canan
+- **2026-05-15** — [[summaries/claude-code-102-bilal|Claude Code 102 for Academic Researchers (Bilal)]] — Mushtaq Bilal
+- **2026-05-15** — [[summaries/claude-code-101-bilal|Claude Code 101 for Academic Researchers (Bilal)]] — Mushtaq Bilal
+- **2026-05-15** — [[summaries/ars-codex|Academic Research Skills for Codex (ARS-Codex)]] — Edward Cheng-I Wu
