@@ -336,6 +336,7 @@ All authors referenced in the knowledge base, with links to their summaries.
 
 - [[summaries/ai-powered-scholarship|AI-Powered (Finance) Scholarship]] (with Robert Novy-Marx)
 - [[summaries/velikov-smeal-cop|AI for Business & Economic Research: From Chatbots to Agents]]
+- [[summaries/velikov-edhec|EDHEC Master Class: Using AI for Research]]
 
 ## Mushtaq Bilal
 
