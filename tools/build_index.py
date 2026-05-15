@@ -17,7 +17,7 @@ import argparse
 import re
 import subprocess
 import sys
-from datetime import date
+from datetime import date, datetime, timezone
 from pathlib import Path
 
 import yaml
@@ -262,7 +262,10 @@ def _collect_recent_entries():
                 continue
             iso = git_dates.get(f"wiki/{sub}/{fp.name}")
             if iso is None:
-                continue
+                # File on disk but not yet committed — treat as just-added so
+                # build_index runs before the commit (e.g. /ingest step 2g)
+                # still surface the new page in Recent.
+                iso = datetime.now(timezone.utc).isoformat(timespec="seconds")
             author = authors.get(stem) if kind == "summary" else None
             entries.append((iso, kind, meta.get("title", stem), stem, author))
     entries.sort(key=lambda e: (e[0], e[3]), reverse=True)
