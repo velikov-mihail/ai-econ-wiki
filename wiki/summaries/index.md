@@ -6,7 +6,7 @@ date_updated: 2026-04-03
 
 # All Summaries
 
-This wiki contains **170** source summaries across the following categories.
+This wiki contains **171** source summaries across the following categories.
 
 ## Professional Productivity
 
@@ -137,6 +137,7 @@ See also: [[summaries/claude-code-skills|Claude Code Skills & Advanced Workflows
 - [[summaries/katmer-code|KatmerCode: Claude Code inside Obsidian]]
 - [[summaries/cc-series-38-plug-paulgp|Part 38: A Plug for Paul Goldsmith-Pinkham's Markus Academy Series]]
 - [[summaries/skill-library|Skill Library]]
+- [[summaries/skills-markus-162-6|Skills: Claude Code for Economists (Markus Academy 162-6)]]
 - [[summaries/your-claude-md|Your CLAUDE.md]]
 
 ## AI Agents & Agentic AI

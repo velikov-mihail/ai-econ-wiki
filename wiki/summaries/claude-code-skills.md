@@ -14,6 +14,8 @@ Building skills, the DAAF framework, continuous improvement, and compilation wor
 - [[building-skills|Building Skills]] — Blattman's guide to creating Claude Code skills
 - [[skill-library|Skill Library]] — Curated collection of reusable skills
 - [[build-your-own|Build Your Own]] — Hands-on guide to custom skill creation
+- [[skills-markus-162-6|Skills: Claude Code for Economists (Markus Academy 162-6)]] — Goldsmith-Pinkham on what a skill *is*: a long prompt as markdown, plus the live `paper-summary` demo and the Superpowers pack
+- [[skills-specifying-thinking|Skills: Specifying How an Agent Should Think]] — Companion Substack: skills as agent-thinking specifications, with the global-vs-project tradeoff and supply-chain caveat
 
 ### Frameworks & Workflows
 - [[daaf-framework|DAAF Framework]] — Data Analyst Augmentation Framework (5-10x acceleration)

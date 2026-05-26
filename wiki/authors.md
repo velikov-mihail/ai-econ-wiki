@@ -368,6 +368,8 @@ All authors referenced in the knowledge base, with links to their summaries.
 - [[summaries/writing-thinking-ai-assistance|Writing & Thinking with AI Assistance (companion Substack post)]]
 - [[summaries/permissions-openclaw-markus-162-7|Permissions & OpenClaw: Claude Code for Economists (Markus Academy 162-7)]]
 - [[summaries/permissions-sandboxes-substack|Permissions, Sandboxes, and Autonomous Agents (Substack companion)]]
+- [[summaries/skills-markus-162-6|Skills: Claude Code for Economists (Markus Academy 162-6)]]
+- [[summaries/skills-specifying-thinking|Skills: Specifying How an Agent Should Think (Substack companion)]]
 
 ## Pedro Sant'Anna
 
