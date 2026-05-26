@@ -8,6 +8,7 @@ date_updated: 2026-05-26
 
 The last 15 pages added to the wiki, newest first. Generated from git history — see [[visualizations/source-timeline|Source Timeline]] for sources ordered by publication date.
 
+- **2026-05-26** — [[summaries/permissions-openclaw-markus-162-7|Permissions & OpenClaw: Claude Code for Economists (Markus Academy 162-7)]] — Paul Goldsmith-Pinkham
 - **2026-05-26** — [[summaries/claude-code-104-bilal|Claude Code 104: Building Your AI-Powered Research Management System (Bilal)]] — Mushtaq Bilal
 - **2026-05-26** — [[summaries/bilal-beginners-guide|A Beginner's Guide to Claude Code for (Non-Technical) Academics]] — Mushtaq Bilal
 - **2026-05-15** — [[summaries/velikov-edhec|EDHEC Master Class: Using AI for Research]] — Mihail Velikov
@@ -22,4 +23,3 @@ The last 15 pages added to the wiki, newest first. Generated from git history �
 - **2026-05-15** — [[summaries/haaland-reviewer|Reviewer: A Reproducible Multi-Agent Reviewer for Economics Papers]] — Ingar Haaland
 - **2026-05-15** — [[summaries/ai-progress-mental-model|Why No One Can Agree About AI Progress Right Now]] — Brian Heseung Kim
 - **2026-05-15** — [[summaries/point-by-point|Point by Point: Guided R&R Response Letters]] — Abhishek Nagaraj
-- **2026-05-15** — [[summaries/panjwani-codex-course|OpenAI Codex Full Course (4 Hours): Build & Ship]] — Aniket Panjwani
