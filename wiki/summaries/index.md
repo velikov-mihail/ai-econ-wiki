@@ -6,7 +6,7 @@ date_updated: 2026-04-03
 
 # All Summaries
 
-This wiki contains **166** source summaries across the following categories.
+This wiki contains **167** source summaries across the following categories.
 
 ## Professional Productivity
 
@@ -61,6 +61,7 @@ See also: [[summaries/institutional-societal|Institutional & Societal Implicatio
 
 See also: [[summaries/foundations-setup|Foundations & Setup overview]]
 
+- [[summaries/bilal-beginners-guide|A Beginner's Guide to Claude Code for (Non-Technical) Academics]]
 - [[summaries/ai-project-folders|AI Project Folders]]
 - [[summaries/ai-for-professionals|AI for Professionals Who Don't Code - Site Overview]]
 - [[summaries/agentic-bootcamp-1-aslim-beam|Agentic AI Bootcamp — Session 1: From Chat to Autonomous Agents]]

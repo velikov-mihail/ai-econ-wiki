@@ -8,6 +8,7 @@ date_updated: 2026-05-26
 
 The last 15 pages added to the wiki, newest first. Generated from git history — see [[visualizations/source-timeline|Source Timeline]] for sources ordered by publication date.
 
+- **2026-05-26** — [[summaries/bilal-beginners-guide|A Beginner's Guide to Claude Code for (Non-Technical) Academics]] — Mushtaq Bilal
 - **2026-05-15** — [[summaries/velikov-edhec|EDHEC Master Class: Using AI for Research]] — Mihail Velikov
 - **2026-05-15** — [[summaries/zeropaper-paper|ZeroPaper: An Autonomous Research System]] — Alejandro Lopez-Lira
 - **2026-05-15** — [[summaries/zeropaper-template|ZeroPaper: Enhanced AI-Assisted Research Template with Agentic Capabilities]] — Alejandro Lopez-Lira
@@ -22,4 +23,3 @@ The last 15 pages added to the wiki, newest first. Generated from git history �
 - **2026-05-15** — [[summaries/point-by-point|Point by Point: Guided R&R Response Letters]] — Abhishek Nagaraj
 - **2026-05-15** — [[summaries/panjwani-codex-course|OpenAI Codex Full Course (4 Hours): Build & Ship]] — Aniket Panjwani
 - **2026-05-15** — [[summaries/codex-102-bilal|Codex 102 for Academic Researchers (Bilal)]] — Mushtaq Bilal
-- **2026-05-15** — [[summaries/codex-101-bilal|Codex 101 for Academic Researchers (Bilal)]] — Mushtaq Bilal

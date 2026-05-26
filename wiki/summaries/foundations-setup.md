@@ -26,6 +26,7 @@ Getting started with AI coding tools: installation, privacy, environment configu
 - [[agentic-bootcamp-1-aslim-beam|Agentic AI Bootcamp — Session 1]] — Concepts: chat vs. agentic AI, the AI ladder, context window, planning, permissions, voice files
 - [[claude-code-101-bilal|Claude Code 101 for Academic Researchers]] — Bilal's 4M-view non-technical onramp: "bring AI into the folder"
 - [[claude-code-102-bilal|Claude Code 102 for Academic Researchers]] — Bilal on scaling to multi-year projects with nested CLAUDE.md files
+- [[bilal-beginners-guide|A Beginner's Guide to Claude Code for (Non-Technical) Academics]] — Bilal's 8,000-word omnibus: install → nested CLAUDE.md → subagent pipelines → hooks → Git
 - [[codex-101-bilal|Codex 101 for Academic Researchers]] — Bilal's Codex onramp; AGENTS.md as the project instruction file
 - [[codex-102-bilal|Codex 102 for Academic Researchers]] — Bilal on long projects in Codex: subfolders, Plan Mode, custom agents, hooks
 - [[panjwani-codex-course|OpenAI Codex Full Course (4 Hours)]] — Panjwani's full-stack Codex course; five primitives of agentic coding; Codex-first recommendation
