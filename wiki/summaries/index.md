@@ -6,7 +6,7 @@ date_updated: 2026-04-03
 
 # All Summaries
 
-This wiki contains **169** source summaries across the following categories.
+This wiki contains **170** source summaries across the following categories.
 
 ## Professional Productivity
 
@@ -84,6 +84,7 @@ See also: [[summaries/foundations-setup|Foundations & Setup overview]]
 - [[summaries/my-claude-code-setup|My Claude Code Setup - Academic Workflow Template]]
 - [[summaries/panjwani-codex-course|OpenAI Codex Full Course (4 Hours): Build & Ship]]
 - [[summaries/permissions-openclaw-markus-162-7|Permissions & OpenClaw: Claude Code for Economists (Markus Academy 162-7)]]
+- [[summaries/permissions-sandboxes-substack|Permissions, Sandboxes, and Autonomous Agents (companion Substack post)]]
 - [[summaries/privacy-setup|Privacy, Data, and Setup Decisions for AI Workflows]]
 - [[summaries/setup-vs-code|Set Up VS Code for Claude Code]]
 - [[summaries/starter-templates|Starter Templates for AI Workflow Skills]]

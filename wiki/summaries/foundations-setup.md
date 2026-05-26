@@ -40,6 +40,7 @@ Getting started with AI coding tools: installation, privacy, environment configu
 ### Safety & Sandboxing
 - [[claude-container|Claude Container Guide]] — Docker-based sandbox for safe YOLO-mode Claude Code usage
 - [[permissions-openclaw-markus-162-7|Permissions & OpenClaw (Markus Academy 162-7)]] — Goldsmith-Pinkham on permission modes, Docker sandboxes, Safe House, and the Duncan Idaho autonomous-RA pattern
+- [[permissions-sandboxes-substack|Permissions, Sandboxes, and Autonomous Agents (Substack companion)]] — Written companion with copy-pasteable Docker/safehouse commands and a privacy hierarchy (API vs. subscription, Bedrock, local models)
 
 ### Chatbot & Interaction Patterns
 - [[chatbot-essentials|Chatbot Essentials]] — Core chatbot interaction patterns and best practices
