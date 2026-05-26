@@ -344,8 +344,9 @@ All authors referenced in the knowledge base, with links to their summaries.
 - [[summaries/claude-code-102-bilal|Claude Code 102 for Academic Researchers]]
 - [[summaries/codex-101-bilal|Codex 101 for Academic Researchers]]
 - [[summaries/codex-102-bilal|Codex 102 for Academic Researchers]]
-- [[summaries/bilal-beginners-guide|A Beginner's Guide to Claude Code for (Non-Technical) Academics]]
+- [[summaries/claude-code-103-bilal|Claude Code 103 for Academic Researchers]]
 - [[summaries/claude-code-104-bilal|Claude Code 104: Building Your AI-Powered Research Management System]]
+- [[summaries/bilal-beginners-guide|A Beginner's Guide to Claude Code for (Non-Technical) Academics]]
 
 ## Panos Ipeirotis
 

@@ -6,7 +6,7 @@ date_updated: 2026-04-03
 
 # All Summaries
 
-This wiki contains **172** source summaries across the following categories.
+This wiki contains **173** source summaries across the following categories.
 
 ## Professional Productivity
 
@@ -69,6 +69,7 @@ See also: [[summaries/foundations-setup|Foundations & Setup overview]]
 - [[summaries/chatbots-done-right|Chatbots Done Right - From Casual Use to Genuine Productivity]]
 - [[summaries/claude-code-101-bilal|Claude Code 101 for Academic Researchers (Bilal)]]
 - [[summaries/claude-code-102-bilal|Claude Code 102 for Academic Researchers (Bilal)]]
+- [[summaries/claude-code-103-bilal|Claude Code 103 for Academic Researchers (Bilal)]]
 - [[summaries/claude-code-104-bilal|Claude Code 104: Building Your AI-Powered Research Management System (Bilal)]]
 - [[summaries/claude-code-newbies|Claude Code for Newbies - Setup Guide]]
 - [[summaries/backman-vscode-guide|Claude Code in VS Code — For Academic Economists]]
