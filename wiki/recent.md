@@ -1,7 +1,7 @@
 ---
 title: "Recent"
 tags: [index, recent]
-date_updated: 2026-05-15
+date_updated: 2026-05-26
 ---
 
 # Recent
