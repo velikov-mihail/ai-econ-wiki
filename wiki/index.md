@@ -24,7 +24,7 @@ See [[recent|more recent summaries →]]
 
 ## Categories
 
-- **[[summaries/foundations-setup|Foundations & Setup]]** (27) — Installation, privacy, getting started with AI coding tools
+- **[[summaries/foundations-setup|Foundations & Setup]]** (28) — Installation, privacy, getting started with AI coding tools
 - **[[summaries/prompt-engineering-workflow|Prompt Engineering & Workflow]]** (10) — Prompt design, plan-driven development, workflow architecture
 - **[[summaries/ai-agents|AI Agents & Agentic AI]]** (13) — Agent frameworks, agentic workflows, autonomous research
 - **[[summaries/claude-code-skills|Claude Code Skills & Advanced]]** (28) — Skills, DAAF, continuous improvement, compilation workflows
