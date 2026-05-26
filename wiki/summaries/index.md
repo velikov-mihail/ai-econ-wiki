@@ -6,7 +6,7 @@ date_updated: 2026-04-03
 
 # All Summaries
 
-This wiki contains **171** source summaries across the following categories.
+This wiki contains **172** source summaries across the following categories.
 
 ## Professional Productivity
 
@@ -138,6 +138,7 @@ See also: [[summaries/claude-code-skills|Claude Code Skills & Advanced Workflows
 - [[summaries/cc-series-38-plug-paulgp|Part 38: A Plug for Paul Goldsmith-Pinkham's Markus Academy Series]]
 - [[summaries/skill-library|Skill Library]]
 - [[summaries/skills-markus-162-6|Skills: Claude Code for Economists (Markus Academy 162-6)]]
+- [[summaries/skills-specifying-thinking|Skills: Specifying How an Agent Should Think (Substack companion)]]
 - [[summaries/your-claude-md|Your CLAUDE.md]]
 
 ## AI Agents & Agentic AI

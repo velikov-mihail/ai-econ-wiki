@@ -8,6 +8,7 @@ date_updated: 2026-05-26
 
 The last 15 pages added to the wiki, newest first. Generated from git history — see [[visualizations/source-timeline|Source Timeline]] for sources ordered by publication date.
 
+- **2026-05-26** — [[summaries/skills-specifying-thinking|Skills: Specifying How an Agent Should Think (Substack companion)]] — Paul Goldsmith-Pinkham
 - **2026-05-26** — [[summaries/skills-markus-162-6|Skills: Claude Code for Economists (Markus Academy 162-6)]] — Paul Goldsmith-Pinkham
 - **2026-05-26** — [[summaries/permissions-sandboxes-substack|Permissions, Sandboxes, and Autonomous Agents (companion Substack post)]] — Paul Goldsmith-Pinkham
 - **2026-05-26** — [[summaries/permissions-openclaw-markus-162-7|Permissions & OpenClaw: Claude Code for Economists (Markus Academy 162-7)]] — Paul Goldsmith-Pinkham
@@ -22,4 +23,3 @@ The last 15 pages added to the wiki, newest first. Generated from git history �
 - **2026-05-15** — [[concepts/emergent-behavior|Emergent Behavior in Multi-Agent Systems]] (concept)
 - **2026-05-15** — [[concepts/citation-hallucination|Citation Hallucination]] (concept)
 - **2026-05-15** — [[summaries/worldseed|WorldSeed: A Multi-Agent World Engine for Emergent Outcomes]] — Jie Ding
-- **2026-05-15** — [[summaries/haaland-reviewer|Reviewer: A Reproducible Multi-Agent Reviewer for Economics Papers]] — Ingar Haaland
