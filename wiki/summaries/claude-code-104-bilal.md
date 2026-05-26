@@ -13,7 +13,7 @@ date_published: 2026-05-25
 - **Key Ideas**
   - End-to-end recipe for a personal AI-powered research management system using **Obsidian + Claude Code + Web Clipper**. One-time setup; afterwards the system absorbs new material with a single prompt.
   - **Two-folder architecture inside one Obsidian vault** (`MyWiki/`): a `raw/` inbox folder for everything you collect (PDFs, clipped webpages, notes) and a `wiki/` folder where Claude Code builds bidirectionally-linked synthesized notes.
-  - **Obsidian as a graphic interface for a folder**: anything in the vault folder is also in Obsidian, and vice versa. The `[[double-bracket]]` link convention makes the wiki navigable.
+  - **Obsidian as a graphic interface for a folder**: anything in the vault folder is also in Obsidian, and vice versa. The Obsidian double-bracket wikilink convention makes the wiki navigable.
   - **Obsidian Web Clipper** (browser extension) captures webpages as markdown into the `raw/` folder. Critical setup step: in the Clipper's default template, change Note location from `Clippings` to `raw` so clips land in the right place automatically.
   - **Two instruction files** govern Claude Code's behavior:
     - `AGENTS.md` — project-wide instructions (researcher's field, topic, source types, organization scheme, linking conventions, citation rules, an explicit "never edit/move/delete anything in raw/" rule).
@@ -24,7 +24,7 @@ date_published: 2026-05-25
 
 - **Summary**
 
-This fourth installment is more operational than conceptual: it documents a specific stack (Obsidian vault + Claude Code + Obsidian Web Clipper) and the exact instruction files (`AGENTS.md`, `Index.md`) that make the stack behave as a self-organizing knowledge base. The architecture mirrors what is canonical in this very wiki — a `raw/` inbox folder is never edited by the agent, and a `wiki/` folder is where synthesis happens with bidirectional `[[wikilinks]]`. The Web Clipper closes the input loop so that webpages can be captured with one click into the same place where PDFs and notes already live.
+This fourth installment is more operational than conceptual: it documents a specific stack (Obsidian vault + Claude Code + Obsidian Web Clipper) and the exact instruction files (`AGENTS.md`, `Index.md`) that make the stack behave as a self-organizing knowledge base. The architecture mirrors what is canonical in this very wiki — a `raw/` inbox folder is never edited by the agent, and a `wiki/` folder is where synthesis happens with bidirectional double-bracket wikilinks. The Web Clipper closes the input loop so that webpages can be captured with one click into the same place where PDFs and notes already live.
 
 Two design choices distinguish this from the simpler "one folder, one CLAUDE.md" pattern in [[claude-code-101-bilal|101]]. First, the read/write separation: by convention, the agent only writes to `wiki/` and only reads from `raw/`. Second, the explicit Index.md as a living navigation hub, separate from the project-level instructions in `AGENTS.md`. Note the AGENTS.md naming convention — this matches the cross-tool standard also used by OpenAI Codex (see [[codex-101-bilal]]), positioning the system as agent-agnostic rather than Claude-specific.
 
