@@ -51,6 +51,7 @@ All authors referenced in the knowledge base, with links to their summaries.
 
 - [[summaries/spina-paper|Claude Code for Academics: An AI Agent for Empirical Research]]
 - [[summaries/brownbag-claude-skills|Claude Code Skills for Academic Researchers: A Practical Introduction]]
+- [[summaries/spina-apsa-2026|Claude Code for Academics: APSA 2026 Presentation]]
 
 ## Alexander M. Dickerson
 
@@ -76,6 +77,7 @@ All authors referenced in the knowledge base, with links to their summaries.
 - [[summaries/ai-agents-econ-research|AI Agents for Economic Research (VoxDev Webinar)]]
 - [[summaries/panjwani-slides|AI Agents for Economics Research (Slides)]]
 - [[summaries/panjwani-codex-course|OpenAI Codex Full Course (4 Hours): Build & Ship]]
+- [[summaries/panjwani-guide-codex-economists|Guide to Codex for Economists]]
 
 ## Anton Korinek
 
@@ -305,6 +307,12 @@ All authors referenced in the knowledge base, with links to their summaries.
 
 - [[summaries/kohler-agentic-reproduction|Read the Paper, Write the Code]] (with Kohler, Zollikofer, Hoyle & Ash)
 
+## Jonathan Shock
+
+*University of Cape Town*
+
+- [[summaries/shock-genai-research-course|Generative AI for Research (UCT Course)]]
+
 ## Joshua Gans
 
 - [[summaries/reflections-vibe-research|Reflections on Vibe Researching]]
@@ -314,6 +322,14 @@ All authors referenced in the knowledge base, with links to their summaries.
 *Brookings Institution*
 
 - [[summaries/train-left-station|The Train Has Left the Station]] (with Solomon Messing)
+
+## Marcel Olbert
+
+*Mannheim Business School*
+
+- [[summaries/mannheim-clinic-session1-video1|Mannheim AI Code Clinic — Session 1, Video 1]] (with Philipp Doerrenberg)
+- [[summaries/mannheim-clinic-session1-video2|Mannheim AI Code Clinic — Session 1, Video 2]]
+- [[summaries/mannheim-clinic-session2|Mannheim AI Code Clinic — Session 2]] (with Richard Winter)
 
 ## Markus Brunnermeier
 
@@ -348,6 +364,18 @@ All authors referenced in the knowledge base, with links to their summaries.
 - [[summaries/claude-code-104-bilal|Claude Code 104: Building Your AI-Powered Research Management System]]
 - [[summaries/bilal-beginners-guide|A Beginner's Guide to Claude Code for (Non-Technical) Academics]]
 
+## Paul Seidel
+
+*Mannheim Business School*
+
+- [[summaries/mannheim-clinic-session1-video3|Mannheim AI Code Clinic — Session 1, Video 3]]
+
+## Philipp Doerrenberg
+
+*Mannheim Business School*
+
+- [[summaries/mannheim-clinic-session1-video1|Mannheim AI Code Clinic — Session 1, Video 1]] (with Marcel Olbert)
+
 ## Panos Ipeirotis
 
 - [[summaries/project-manager-claude|Claude Code as Project Manager]]
@@ -379,6 +407,12 @@ All authors referenced in the knowledge base, with links to their summaries.
 ## Piotrek Orlowski
 
 - [[summaries/claude-wrds-tools|Claude Code WRDS Toolkit]]
+
+## Richard Winter
+
+*Mannheim Business School*
+
+- [[summaries/mannheim-clinic-session2|Mannheim AI Code Clinic — Session 2]] (with Marcel Olbert)
 
 ## Rich Sutton
 
@@ -451,9 +485,10 @@ All authors referenced in the knowledge base, with links to their summaries.
 
 - [[summaries/research-paper-disappear|When Will the Research Paper Disappear in Economics?]]
 
-## Vincent Gregoire
+## Vincent Grégoire
 
 - [[summaries/vibe-research|Vibe Research]]
+- [[summaries/vibe-research-2|Vibe Research II: My Three Days with Fable 5]]
 
 ## Will Douglas Heaven
 

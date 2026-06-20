@@ -6,7 +6,7 @@ date_updated: 2026-04-03
 
 # All Summaries
 
-This wiki contains **173** source summaries across the following categories.
+This wiki contains **181** source summaries across the following categories.
 
 ## Professional Productivity
 
@@ -79,9 +79,14 @@ See also: [[summaries/foundations-setup|Foundations & Setup overview]]
 - [[summaries/claude-code-hacks|Every Claude Code Hack I Know (March 2026)]]
 - [[summaries/getting-started-researchers|Getting Started with Claude Code: A Researcher's Setup Guide]]
 - [[summaries/getting-started-economists|Getting Started: Claude Code for Economists (Markus Academy Ep. 162-1)]]
+- [[summaries/panjwani-guide-codex-economists|Guide to Codex for Economists]]
 - [[summaries/install-mac|Install Claude Code (Mac)]]
 - [[summaries/install-windows|Install Claude Code (Windows)]]
 - [[summaries/mcp-setup|MCP Setup - Connecting Claude Code to External Services]]
+- [[summaries/mannheim-clinic-session1-video1|Mannheim AI Code Clinic — Session 1, Video 1 (Doerrenberg & Olbert)]]
+- [[summaries/mannheim-clinic-session1-video2|Mannheim AI Code Clinic — Session 1, Video 2 (Olbert)]]
+- [[summaries/mannheim-clinic-session1-video3|Mannheim AI Code Clinic — Session 1, Video 3 (Seidel)]]
+- [[summaries/mannheim-clinic-session2|Mannheim AI Code Clinic — Session 2 (Olbert & Winter)]]
 - [[summaries/my-claude-code-setup|My Claude Code Setup - Academic Workflow Template]]
 - [[summaries/panjwani-codex-course|OpenAI Codex Full Course (4 Hours): Build & Ship]]
 - [[summaries/permissions-openclaw-markus-162-7|Permissions & OpenClaw: Claude Code for Economists (Markus Academy 162-7)]]
@@ -188,9 +193,11 @@ See also: [[summaries/academic-research|AI for Academic Research & Publishing ov
 - [[summaries/cc-series-32-modest-proposal-editors|Claude Code 32: A Modest Proposal for Editors]]
 - [[summaries/cc-series-44-four-criteria-referee|Claude Code 44: My Four Criteria for Using Agents, with an Application to Referee Reports]]
 - [[summaries/cc-series-12-empirical-research|Claude Code Part 12: How I Use Claude Code for Empirical Research]]
+- [[summaries/spina-apsa-2026|Claude Code for Academics: APSA 2026 Presentation (Spina)]]
 - [[summaries/velikov-edhec|EDHEC Master Class: Using AI for Research]]
 - [[summaries/feedback-machines|Feedback Machines: Writing and editing research papers with generative AI]]
 - [[summaries/korinek-2023|Generative AI for Economic Research: Use Cases and Implications for Economists]]
+- [[summaries/shock-genai-research-course|Generative AI for Research (UCT Course)]]
 - [[summaries/openai-automated-researcher|OpenAI is throwing everything into building a fully automated researcher]]
 - [[summaries/point-by-point|Point by Point: Guided R&R Response Letters]]
 - [[summaries/project-ape|Project APE: Can Policy Evaluation Be Automated?]]
@@ -199,6 +206,7 @@ See also: [[summaries/academic-research|AI for Academic Research & Publishing ov
 - [[summaries/reflections-vibe-research|Reflections on Vibe Researching]]
 - [[summaries/research-in-time-of-ai|Research in the Time of AI]]
 - [[summaries/haaland-reviewer|Reviewer: A Reproducible Multi-Agent Reviewer for Economics Papers]]
+- [[summaries/vibe-research-2|Vibe Research II: My Three Days with Fable 5]]
 - [[summaries/vibe-research|Vibe Research, or How I Wrote an Academic Paper in Four Days]]
 - [[summaries/research-paper-disappear|When will the research paper disappear in economics?]]
 - [[summaries/writing-thinking-ai-assistance|Writing & Thinking with AI Assistance (Goldsmith-Pinkham Substack)]]

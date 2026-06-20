@@ -14,10 +14,13 @@ Vibe research, feedback machines, AI-assisted academic writing, and the future o
 - [[velikov-smeal-cop|AI for Business & Economic Research: From Chatbots to Agents]] — Velikov's Penn State Smeal Community-of-Practice deck synthesizing the wiki for a faculty audience
 - [[velikov-edhec|EDHEC Master Class: Using AI for Research]] — Velikov's 6-hour EDHEC class: two Beamer decks + six runnable Claude Code demos (skills, FRED agent, referee, strategic-revision, CAPM replication pipeline)
 - [[vibe-research|Vibe Research]] — Gregoire wrote a finance paper in 4 days with AI
+- [[vibe-research-2|Vibe Research II: Three Days with Fable 5]] — Grégoire on Fable 5: closed-form proofs, autonomous video walkthroughs, and access revoked by US government order
 - [[reflections-vibe-research|Reflections on Vibe Researching]] — Gans's year-long AI-first experiment and its failures
 - [[feedback-machines|Feedback Machines]] — Bäckman on structured paper feedback with Claude/Cursor
 - [[prompts-to-paper|Prompts-to-Paper]] — Chen uses AI co-authors (o1, Sonnet, Deep Research) to write a theory paper on hedging AI risk
 - [[stress-test-research-pipeline|Stress-Test Research Pipeline]] — Lopez-Lira's pipeline for evaluating PhD research ideas
+- [[shock-genai-research-course|Generative AI for Research (UCT Course)]] — Shock's 12-week NQF Level 9 postgraduate course: LLM foundations, ethics, literature review, writing, data analysis, agents, and Claude Code advanced track
+- [[spina-apsa-2026|Claude Code for Academics: APSA 2026 (Spina)]] — Comprehensive practical guide: CLAUDE.md/session-log/DATA.md scaffold, Cunningham Conjecture, skills vs commands, Plan mode, safety, and the "bottleneck is you" honest assessment
 
 ### AI and the Future of Research
 - [[ai-one-shot-papers|AI One-Shot Papers]] — Goldsmith-Pinkham on AI-generated papers' over-reliance on diff-in-diff
