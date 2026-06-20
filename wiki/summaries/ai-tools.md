@@ -27,3 +27,6 @@ Comparing AI tools (ChatGPT, Claude, Cursor, NotebookLM) and choosing the right 
 ### Collaboration & Resources
 - [[llm-collaboration|LLM Collaboration]] — Korinek's guide to effective human-LLM collaboration
 - [[awesome-econ-ai|Awesome Econ AI Stuff]] — Curated resource list for economists using AI
+
+### Frontier Models
+- [[vibe-research-2|Vibe Research II: Three Days with Fable 5]] — Grégoire on a qualitative capability jump with Fable 5: closed-form proofs, autonomous video production, US government shutdown
