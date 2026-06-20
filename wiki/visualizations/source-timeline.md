@@ -181,6 +181,7 @@ All sources in the knowledge base, ordered chronologically by publication date.
 - **April 27** — [[summaries/agentic-bootcamp-2-aslim-beam|Agentic AI Bootcamp — Session 2: Research Workflows, Teaching & Applications]] — Erkmen G. Aslim & Emily Beam
 
 ### May
+- **May 1** — [[summaries/shock-genai-research-course|Generative AI for Research (UCT Course)]] — Jonathan Shock
 - **May 2** — [[summaries/panjwani-codex-course|OpenAI Codex Full Course (4 Hours): Build & Ship]] — Aniket Panjwani
 - **May 5** — [[summaries/ars-claude-code|Academic Research Skills for Claude Code (ARS)]] — Edward Cheng-I Wu
 - **May 7** — [[summaries/claude-code-101-bilal|Claude Code 101 for Academic Researchers]] — Mushtaq Bilal
@@ -199,6 +200,15 @@ All sources in the knowledge base, ordered chronologically by publication date.
 - **March 21, 2026** — [[summaries/agentic-intelligence-explosion|Agentic AI and the Next Intelligence Explosion]] — James Evans, Benjamin Bratton & Blaise Agüera y Arcas
 - **April 2026 (working paper)** — [[summaries/kohler-agentic-reproduction|Read the Paper, Write the Code: Agentic Reproduction of Social-Science Results]] — Kohler, Zollikofer, Einsiedler, Hoyle & Ash (ETH)
 
+### June
+- **June 16** — [[summaries/mannheim-clinic-session1-video1|Mannheim AI Code Clinic — Session 1, Video 1 (Doerrenberg & Olbert)]] — Philipp Doerrenberg & Marcel Olbert
+- **June 16** — [[summaries/mannheim-clinic-session1-video2|Mannheim AI Code Clinic — Session 1, Video 2 (Olbert)]] — Marcel Olbert
+- **June 16** — [[summaries/mannheim-clinic-session1-video3|Mannheim AI Code Clinic — Session 1, Video 3 (Seidel)]] — Paul Seidel
+- **June 17** — [[summaries/mannheim-clinic-session2|Mannheim AI Code Clinic — Session 2 (Olbert & Winter)]] — Marcel Olbert & Richard Winter
+- **June 20** — [[summaries/panjwani-guide-codex-economists|Guide to Codex for Economists]] — Aniket Panjwani
+- **June 20** — [[summaries/spina-apsa-2026|Claude Code for Academics: APSA 2026 (Spina)]] — Alessandro Spina
+- **June 20** — [[summaries/vibe-research-2|Vibe Research II: My Three Days with Fable 5]] — Vincent Grégoire
+
 ### 2026 (date not specified)
 - [[summaries/point-by-point|Point by Point: Guided R&R Response Letters]] — Abhishek Nagaraj
 - [[summaries/haaland-reviewer|Reviewer: A Reproducible Multi-Agent Reviewer for Economics Papers]] — Ingar Haaland
@@ -208,7 +218,7 @@ All sources in the knowledge base, ordered chronologically by publication date.
 
 ## Summary Statistics
 
-- **Total sources:** 177
-- **Date range:** March 2019 – May 2026
+- **Total sources:** 185
+- **Date range:** March 2019 – June 2026
 - **Peak activity:** March 2026 (84 sources)
-- **Most prolific authors:** Chris Blattman (44), Scott Cunningham (28), Paul Goldsmith-Pinkham (13), Mushtaq Bilal (4), Ethan Mollick (5)
+- **Most prolific authors:** Chris Blattman (44), Scott Cunningham (28), Paul Goldsmith-Pinkham (13), Mushtaq Bilal (7), Ethan Mollick (5)
