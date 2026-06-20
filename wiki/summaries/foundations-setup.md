@@ -32,6 +32,14 @@ Getting started with AI coding tools: installation, privacy, environment configu
 - [[codex-101-bilal|Codex 101 for Academic Researchers]] — Bilal's Codex onramp; AGENTS.md as the project instruction file
 - [[codex-102-bilal|Codex 102 for Academic Researchers]] — Bilal on long projects in Codex: subfolders, Plan Mode, custom agents, hooks
 - [[panjwani-codex-course|OpenAI Codex Full Course (4 Hours)]] — Panjwani's full-stack Codex course; five primitives of agentic coding; Codex-first recommendation
+- [[panjwani-guide-codex-economists|Guide to Codex for Economists]] — Panjwani's timestamped economist-specific viewing plan for the Codex course; skills as highest-leverage concept; four practical exercises
+
+### Clinics & Workshops
+- [[mannheim-clinic-session1-video1|Mannheim AI Code Clinic — Session 1, Video 1 (Doerrenberg & Olbert)]] — Opening session of the Mannheim AI Code Clinic, May 20, 2026
+- [[mannheim-clinic-session1-video2|Mannheim AI Code Clinic — Session 1, Video 2 (Olbert)]] — Marcel Olbert's demonstration segment from Session 1
+- [[mannheim-clinic-session1-video3|Mannheim AI Code Clinic — Session 1, Video 3 (Seidel)]] — Paul Seidel's demonstration segment from Session 1
+- [[mannheim-clinic-session2|Mannheim AI Code Clinic — Session 2 (Olbert & Winter)]] — Second Mannheim clinic session, May 26, 2026; Marcel Olbert & Richard Winter
+- [[spina-apsa-2026|Claude Code for Academics: APSA 2026 (Spina)]] — Complete practical guide: project scaffold (CLAUDE.md/session-log/DATA.md/SCRIPT REGISTRY), Cunningham Conjecture, skills, safety, ROI framing
 
 ### Configuration & Privacy
 - [[privacy-setup|Privacy & Setup]] — Data handling, display vs. transmission prevention, pre-flight checklists

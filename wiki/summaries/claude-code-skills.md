@@ -51,3 +51,4 @@ Building skills, the DAAF framework, continuous improvement, and compilation wor
 
 ### Presentations
 - [[spina-paper|Claude Code for Academics]] — Spina's AI agent for empirical research (paper + slides)
+- [[spina-apsa-2026|Claude Code for Academics: APSA 2026 (Spina)]] — APSA 2026 version: skills vs commands taxonomy, /spin-up, /wrap-up, /code-sweep, /paper-editor, /data-profiler, /glossary, /pinboard
