@@ -8,7 +8,8 @@ sources:
   - "[[summaries/llm-collaboration.md]]"
   - "[[summaries/research-in-time-of-ai.md]]"
   - "[[summaries/vibe-research.md]]"
-date_updated: 2026-04-03
+  - "[[summaries/integration-collaboration-substack.md]]"
+date_updated: 2026-08-23
 ---
 
 # Reproducibility and Transparency
@@ -39,6 +40,12 @@ At the same time, AI offers potential reproducibility benefits. AI-generated cod
 
 **Gregoire ([[summaries/vibe-research.md|Vibe Research]])** documents specific transparency challenges from his four-day paper. Reference accuracy was a real problem -- one fabricated reference and one with wrong metadata. He admits discomfort with not fully understanding every line of math in his own paper, raising the question of what intellectual ownership means when AI contributes substantially to the technical content.
 
+**Goldsmith-Pinkham ([[summaries/integration-collaboration-substack.md|Integration and Collaboration in AI Research Work]])** supplies the most concrete verification protocol in this wiki, and names the failure mode: **verification debt**. AI collapsed the cost of doing empirical work while the cost of checking it barely moved, raising the *relative* price of verification — so researchers do more of the cheap activity and less of the expensive one. His response is to put the demand for verifiability *in the prompt, before the work happens*: checkpoint commits whose messages say **why**, a `DECISIONS.md` recording each methodological choice with rejected alternatives and a confidence level, a `LOG.md` narrative a coauthor can follow, and a **sample-attrition table at every stage** (the N, what dropped, why). Commits then change the unit of verification — you review one bounded diff at a time rather than 800 lines at once.
+
+His demo documents two failures worth internalizing. **Documentation is a map, not a verdict**: `DECISIONS.md` claimed a cumulative-abnormal-return robustness check that existed in neither code nor output. And **clean code can silently answer a different question**: the pipeline was built on CRSP *monthly* files, making first-day returns unrecoverable — a defensible-looking choice, no bug, materially different analysis, surfaced only by a targeted reconciliation request. His prescription for both is smaller task chunks.
+
+On provenance, the rule is that **no number in the draft is typed by hand**: the pipeline emits `results.tex` and `figure.pdf`, the paper ingests them via `\input` and `\includegraphics{}`, and Overleaf syncs to the repo (a paid-tier feature on both the GitHub and Dropbox routes). But he states the limit himself: **a correctly wired pipeline guarantees the number in the paper matches what the code produced, not that the code is correct.** "Clean provenance can faithfully publish a wrong estimate" — review the method before wiring it in. On AI-reviews-AI he is willing but unsatisfied, returning to the IBM line that *a computer can never be held accountable*: a human signs off.
+
 ## Practical Implications
 
 For economics researchers concerned with reproducibility and transparency:
@@ -49,6 +56,9 @@ For economics researchers concerned with reproducibility and transparency:
 - **Build in adversarial review**: use separate AI agents (or human reviewers) to check AI-generated analysis. The agent that wrote the code should not be the only one reviewing it.
 - **Disclose AI use thoughtfully**: document what AI did and what the human did, focusing on analytical decisions rather than mechanical contributions. The GUIDE-LLM standard provides a template.
 - **Replication packages should work independently of AI**: the final code in a replication package should be human-readable, runnable without AI tools, and produce the same results deterministically.
+- **Ask for the trail in the prompt, not after**: checkpoint commits, a decisions file with confidence levels, a plain-language log, and stage-by-stage sample attrition
+- **Treat the agent's decision log as a claim**: check what it says it did against the code and the output — it will report work it never performed
+- **Wire results into the draft, but review the method first**: provenance guarantees fidelity, not correctness
 - **Be suspicious of AI-generated empirical designs**: if your AI agent defaulted to DiD, ask whether that was the best identification strategy or just the easiest one to automate.
 
 ## Open Questions
@@ -67,4 +77,5 @@ For economics researchers concerned with reproducibility and transparency:
 - [[summaries/daaf-framework.md|DAAF Framework]] -- Built-in reproducibility infrastructure
 - [[summaries/llm-collaboration.md|LLM Collaboration]] -- Korinek on technical reproducibility challenges
 - [[summaries/research-in-time-of-ai.md|Research in the Time of AI]] -- Goldsmith-Pinkham on the dual-edged quality implications
+- [[summaries/integration-collaboration-substack.md|Integration and Collaboration in AI Research Work]] -- Goldsmith-Pinkham's verification-debt framing and a concrete review protocol
 - [[summaries/vibe-research.md|Vibe Research]] -- Gregoire on reference verification and intellectual ownership

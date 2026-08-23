@@ -8,6 +8,7 @@ date_updated: 2026-08-23
 
 The last 15 pages added to the wiki, newest first. Generated from git history — see [[visualizations/source-timeline|Source Timeline]] for sources ordered by publication date.
 
+- **2026-08-23** — [[summaries/integration-collaboration-substack|Integration and Collaboration in AI Research Work (Substack companion)]] — Paul Goldsmith-Pinkham
 - **2026-08-23** — [[summaries/integration-collaboration-markus-162-8|Integration & Collaboration: Claude Code for Economists (Markus Academy 162-8)]] — Paul Goldsmith-Pinkham
 - **2026-08-23** — [[summaries/prompts-swarms-markus-166-4|Prompts and Agent Swarms (Markus Academy 166-4)]] — Fedor Sandomirskiy
 - **2026-08-23** — [[summaries/which-model-markus-166-3|Which Model to Use for Theory (Markus Academy 166-3)]] — Pietro Ortoleva
@@ -22,4 +23,3 @@ The last 15 pages added to the wiki, newest first. Generated from git history �
 - **2026-06-20** — [[summaries/mannheim-clinic-session1-video2|Mannheim AI Code Clinic — Session 1, Video 2 (Olbert)]] — Marcel Olbert
 - **2026-06-20** — [[summaries/mannheim-clinic-session1-video1|Mannheim AI Code Clinic — Session 1, Video 1 (Doerrenberg & Olbert)]] — Marcel Olbert & Philipp Doerrenberg
 - **2026-06-20** — [[summaries/panjwani-guide-codex-economists|Guide to Codex for Economists]] — Aniket Panjwani
-- **2026-06-20** — [[summaries/shock-genai-research-course|Generative AI for Research (UCT Course)]] — Jonathan Shock

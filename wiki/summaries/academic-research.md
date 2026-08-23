@@ -40,6 +40,7 @@ Vibe research, feedback machines, AI-assisted academic writing, and the future o
 - [[cc-series-24-agents-auditing-did|Multiple Agents Auditing Your DiD Code]] — Hallucination as measurement error, cross-language verification
 - [[cc-series-29-finding-facts|Can Claude Code Find Facts?]] — Automated DiD paper in 3.5 hours, epistemological questions
 - [[integration-collaboration-markus-162-8|Integration & Collaboration (Markus Academy 162-8)]] — Goldsmith-Pinkham on verification debt, commits as review units, GitHub Issues as feedback, Overleaf sync; live IPO replication that surfaces two real agent errors
+- [[integration-collaboration-substack|Integration and Collaboration in AI Research Work (Substack companion)]] — The written protocol: verification debt, DECISIONS.md/LOG.md/attrition tables, issues as feedback, "provenance ≠ correctness"
 - [[kohler-agentic-reproduction|Read the Paper, Write the Code]] — Kohler et al. (ETH): 48-paper benchmark; OpenCode GPT-5.4 hits 91% sign, >80% within 95% CI without access to original code
 
 ### Publishing & Peer Review
