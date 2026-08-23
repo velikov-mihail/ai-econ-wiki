@@ -6,7 +6,7 @@ date_updated: 2026-04-03
 
 # All Summaries
 
-This wiki contains **185** source summaries across the following categories.
+This wiki contains **186** source summaries across the following categories.
 
 ## Professional Productivity
 
@@ -112,6 +112,7 @@ See also: [[summaries/ai-tools|AI Tools & Comparisons overview]]
 - [[summaries/sign-of-future-gpt55|Sign of the Future: GPT-5.5]]
 - [[summaries/teaching-ai-your-voice|Teaching AI Your Voice]]
 - [[summaries/using-llms-cursor|Using LLMs with Cursor: Modern AI for Economics Research]]
+- [[summaries/which-model-markus-166-3|Which Model to Use for Theory (Markus Academy 166-3)]]
 - [[summaries/coarse-ink|coarse.ink: Open-Source AI Academic Paper Reviewer]]
 
 ## Claude Code Skills & Advanced Workflows

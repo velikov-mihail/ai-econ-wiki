@@ -1,7 +1,7 @@
 ---
 title: "AI Tools & Comparisons"
 tags: [category, ai-tools]
-date_updated: 2026-04-03
+date_updated: 2026-08-23
 ---
 
 # AI Tools & Comparisons
@@ -20,6 +20,9 @@ Comparing AI tools (ChatGPT, Claude, Cursor, NotebookLM) and choosing the right 
 - [[coarse-ink|coarse.ink]] — Open-source AI paper reviewer (~$2/review) by Van Dijcke
 - [[notebooklm|NotebookLM]] — Blattman on Google's NotebookLM for research
 - [[sign-of-future-gpt55|Sign of the Future: GPT-5.5]] — Mollick: PhD paper from 4 prompts, models/apps/harnesses frame
+
+### Model Choice for Theory
+- [[which-model-markus-166-3|Which Model to Use for Theory (Markus Academy 166-3)]] — Ortoleva's intelligence-vs-stamina tradeoff; Pro/$20/free recommendations; browser beats agents for proof work
 
 ### Codex Ecosystem
 - [[ars-codex|Academic Research Skills for Codex (ARS-Codex)]] — Codex-native port of ARS as a single suite skill
