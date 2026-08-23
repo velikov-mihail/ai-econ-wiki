@@ -6,7 +6,7 @@ date_updated: 2026-04-03
 
 # All Summaries
 
-This wiki contains **189** source summaries across the following categories.
+This wiki contains **190** source summaries across the following categories.
 
 ## Professional Productivity
 
@@ -165,6 +165,7 @@ See also: [[summaries/ai-agents|AI Agents & Agentic AI overview]]
 - [[summaries/baylor-ai-taskforce|How to Encourage Adoption of AI Among Faculty: Experience, Cost, and the Killer Use Case]]
 - [[summaries/learn-ai-coding-agents|Learn About AI Coding Agents]]
 - [[summaries/my580-agentic-ai|MY580: Agentic AI for Social Science and Data Science Research]]
+- [[summaries/scientist-one|ScientistOne: Towards Human-Level Autonomous Research via Chain-of-Evidence]]
 - [[summaries/worldseed|WorldSeed: A Multi-Agent World Engine for Emergent Outcomes]]
 
 ## Data Analysis & Web Scraping

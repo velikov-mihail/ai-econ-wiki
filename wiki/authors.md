@@ -283,6 +283,10 @@ All authors referenced in the knowledge base, with links to their summaries.
 
 - [[summaries/kansoy-ai-future-research|AI, Ideas, and the Future of Research (Deck)]]
 
+## Google Cloud AI Research
+
+- [[summaries/scientist-one|ScientistOne: Towards Human-Level Autonomous Research via Chain-of-Evidence]]
+
 ## Halil Kaan Canan
 
 - [[summaries/katmer-code|KatmerCode: Claude Code inside Obsidian]]

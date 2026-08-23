@@ -30,5 +30,8 @@ Agent frameworks, agentic workflows, and autonomous AI systems for research.
 - [[learn-ai-coding-agents|Learn About AI Coding Agents]] — Skills, rules, subagents, and configuration hierarchy
 - [[claude-dispatch|Claude Dispatch and the Power of Interfaces]] — Mollick on interface design and cognitive load
 
+### Autonomous Research Systems
+- [[scientist-one|ScientistOne: Autonomous Research via Chain-of-Evidence]] — Google Cloud AI Research: CoE Audit finds systematic integrity failures in every autonomous system tested (21% hallucinated refs, 42% score verification), while all match human expert solution quality
+
 ### Multi-Agent Simulations
 - [[worldseed|WorldSeed: World Engine for Emergent Outcomes]] — Ding's scene-agnostic multi-agent engine: Autoresearch (72 peer-reviewed papers, val_loss -24.7%), role drift, emergence over workflow
