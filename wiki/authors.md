@@ -269,6 +269,12 @@ All authors referenced in the knowledge base, with links to their summaries.
 - [[summaries/shape-of-ai|The Shape of AI: Jaggedness, Bottlenecks and Salients]]
 - [[summaries/sign-of-future-gpt55|Sign of the Future: GPT-5.5]]
 
+## Fedor Sandomirskiy
+
+*Princeton University*
+
+- [[summaries/theory-miniseries-markus-166|AI for Economic Theorists & Mathematicians (Markus Academy 166 overview)]] (with Pietro Ortoleva)
+
 ## Fatih Kansoy
 
 *University of Oxford*
@@ -409,6 +415,12 @@ All authors referenced in the knowledge base, with links to their summaries.
 ## Pedro Sant'Anna
 
 - [[summaries/my-claude-code-setup|My Claude Code Setup]]
+
+## Pietro Ortoleva
+
+*Princeton University*
+
+- [[summaries/theory-miniseries-markus-166|AI for Economic Theorists & Mathematicians (Markus Academy 166 overview)]] (with Fedor Sandomirskiy)
 
 ## Piotrek Orlowski
 

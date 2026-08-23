@@ -6,7 +6,7 @@ date_updated: 2026-04-03
 
 # All Summaries
 
-This wiki contains **182** source summaries across the following categories.
+This wiki contains **183** source summaries across the following categories.
 
 ## Professional Productivity
 
@@ -185,6 +185,7 @@ See also: [[summaries/academic-research|AI for Academic Research & Publishing ov
 
 - [[summaries/ai-one-shot-papers|AI One-Shot Papers]]
 - [[summaries/velikov-smeal-cop|AI for Business & Economic Research: From Chatbots to Agents]]
+- [[summaries/theory-miniseries-markus-166|AI for Economic Theorists & Mathematicians (Markus Academy 166 Mini-Series Overview)]]
 - [[summaries/stress-test-research-pipeline|AI-Powered Pipeline to Stress-Test Research Ideas Before PhD Students Spend a Year on Them]]
 - [[summaries/applications-generative-ai|Applications of Generative AI for Economic Research]]
 - [[summaries/can-ai-replace-researchers|Can AI Replace Social Science Researchers?]]
