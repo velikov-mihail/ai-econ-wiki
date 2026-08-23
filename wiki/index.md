@@ -24,14 +24,14 @@ See [[recent|more recent summaries →]]
 
 ## Categories
 
-- **[[summaries/foundations-setup|Foundations & Setup]]** (34) — Installation, privacy, getting started with AI coding tools
-- **[[summaries/prompt-engineering-workflow|Prompt Engineering & Workflow]]** (10) — Prompt design, plan-driven development, workflow architecture
-- **[[summaries/ai-agents|AI Agents & Agentic AI]]** (13) — Agent frameworks, agentic workflows, autonomous research
+- **[[summaries/foundations-setup|Foundations & Setup]]** (35) — Installation, privacy, getting started with AI coding tools
+- **[[summaries/prompt-engineering-workflow|Prompt Engineering & Workflow]]** (11) — Prompt design, plan-driven development, workflow architecture
+- **[[summaries/ai-agents|AI Agents & Agentic AI]]** (14) — Agent frameworks, agentic workflows, autonomous research
 - **[[summaries/claude-code-skills|Claude Code Skills & Advanced]]** (29) — Skills, DAAF, continuous improvement, compilation workflows
 - **[[summaries/data-analysis|Data Analysis & Web Scraping]]** (10) — WRDS, EDGAR, scraping, data pipelines
-- **[[summaries/academic-research|Academic Research & Publishing]]** (29) — Vibe research, feedback machines, AI-assisted writing, agentic reproducibility
+- **[[summaries/academic-research|Academic Research & Publishing]]** (34) — Vibe research, feedback machines, AI-assisted writing, agentic reproducibility
 - **[[summaries/finance-econometrics|Finance & Econometrics]]** (15) — Project APE, automated research in finance, asset-pricing repos, structural change theory
-- **[[summaries/ai-tools|AI Tools & Comparisons]]** (11) — ChatGPT vs Claude, Cursor, NotebookLM, paper-review tools
+- **[[summaries/ai-tools|AI Tools & Comparisons]]** (12) — ChatGPT vs Claude, Cursor, NotebookLM, paper-review tools
 - **[[summaries/institutional-societal|Institutional & Societal]]** (20) — AI adoption, the bitter lesson, AI as normal technology, plural intelligence
 - **[[summaries/professional-productivity|Professional Productivity]]** (13) — Executive assistant, project management, tax, meetings
 

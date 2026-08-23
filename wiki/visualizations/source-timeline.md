@@ -1,7 +1,7 @@
 ---
 title: "Source Timeline"
 tags: [visualization, navigation, timeline]
-date_updated: 2026-05-15
+date_updated: 2026-08-23
 ---
 
 # Source Timeline
@@ -209,6 +209,19 @@ All sources in the knowledge base, ordered chronologically by publication date.
 - **June 20** — [[summaries/spina-apsa-2026|Claude Code for Academics: APSA 2026 (Spina)]] — Alessandro Spina
 - **June 20** — [[summaries/vibe-research-2|Vibe Research II: My Three Days with Fable 5]] — Vincent Grégoire
 
+### July
+- **July 2** — [[summaries/integration-collaboration-substack|Integration and Collaboration in AI Research Work (Substack companion)]] — Paul Goldsmith-Pinkham
+- **July 3** — [[summaries/integration-collaboration-markus-162-8|Integration & Collaboration: Claude Code for Economists (Markus Academy 162-8)]] — Paul Goldsmith-Pinkham
+
+### August
+- **August 3** — [[summaries/theory-miniseries-markus-166|AI for Economic Theorists & Mathematicians (Markus Academy 166 overview)]] — Pietro Ortoleva & Fedor Sandomirskiy
+- **August 4** — [[summaries/theory-core-uses-markus-166-1|Core Uses of AI for Economic Theory (Markus Academy 166-1)]] — Pietro Ortoleva
+- **August 4** — [[summaries/ai-creativity-markus-166-2|Can AI Be Creative? (Markus Academy 166-2)]] — Fedor Sandomirskiy
+- **August 4** — [[summaries/which-model-markus-166-3|Which Model to Use for Theory (Markus Academy 166-3)]] — Pietro Ortoleva
+- **August 4** — [[summaries/prompts-swarms-markus-166-4|Prompts and Agent Swarms (Markus Academy 166-4)]] — Fedor Sandomirskiy
+- **August 21** — [[summaries/ai-engineering-skills-map|AI Engineering Skills Map: Building and Deploying AI Applications]] — Andrew Ng
+- **August 2026** — [[summaries/scientist-one|ScientistOne: Towards Human-Level Autonomous Research via Chain-of-Evidence]] — Google Cloud AI Research
+
 ### 2026 (date not specified)
 - [[summaries/point-by-point|Point by Point: Guided R&R Response Letters]] — Abhishek Nagaraj
 - [[summaries/haaland-reviewer|Reviewer: A Reproducible Multi-Agent Reviewer for Economics Papers]] — Ingar Haaland
@@ -218,7 +231,7 @@ All sources in the knowledge base, ordered chronologically by publication date.
 
 ## Summary Statistics
 
-- **Total sources:** 185
-- **Date range:** March 2019 – June 2026
+- **Total sources:** 194
+- **Date range:** March 2019 – August 2026
 - **Peak activity:** March 2026 (84 sources)
-- **Most prolific authors:** Chris Blattman (44), Scott Cunningham (28), Paul Goldsmith-Pinkham (13), Mushtaq Bilal (7), Ethan Mollick (5)
+- **Most prolific authors:** Chris Blattman (44), Scott Cunningham (28), Paul Goldsmith-Pinkham (15), Mushtaq Bilal (7), Ethan Mollick (5)
