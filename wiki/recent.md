@@ -1,13 +1,14 @@
 ---
 title: "Recent"
 tags: [index, recent]
-date_updated: 2026-06-20
+date_updated: 2026-08-23
 ---
 
 # Recent
 
 The last 15 pages added to the wiki, newest first. Generated from git history — see [[visualizations/source-timeline|Source Timeline]] for sources ordered by publication date.
 
+- **2026-08-23** — [[summaries/ai-engineering-skills-map|AI Engineering Skills Map: Building and Deploying AI Applications]] — Andrew Ng
 - **2026-06-20** — [[summaries/spina-apsa-2026|Claude Code for Academics: APSA 2026 Presentation (Spina)]] — Alessandro Spina
 - **2026-06-20** — [[summaries/vibe-research-2|Vibe Research II: My Three Days with Fable 5]] — Vincent Grégoire
 - **2026-06-20** — [[summaries/mannheim-clinic-session2|Mannheim AI Code Clinic — Session 2 (Olbert & Winter)]] — Marcel Olbert & Richard Winter
@@ -22,4 +23,3 @@ The last 15 pages added to the wiki, newest first. Generated from git history �
 - **2026-05-26** — [[summaries/permissions-sandboxes-substack|Permissions, Sandboxes, and Autonomous Agents (companion Substack post)]] — Paul Goldsmith-Pinkham
 - **2026-05-26** — [[summaries/permissions-openclaw-markus-162-7|Permissions & OpenClaw: Claude Code for Economists (Markus Academy 162-7)]] — Paul Goldsmith-Pinkham
 - **2026-05-26** — [[summaries/claude-code-104-bilal|Claude Code 104: Building Your AI-Powered Research Management System (Bilal)]] — Mushtaq Bilal
-- **2026-05-26** — [[summaries/bilal-beginners-guide|A Beginner's Guide to Claude Code for (Non-Technical) Academics]] — Mushtaq Bilal

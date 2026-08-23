@@ -57,6 +57,12 @@ All authors referenced in the knowledge base, with links to their summaries.
 
 - [[summaries/dickerson-ai-asset-pricing|ai-asset-pricing: Empirical Asset Pricing Tools]]
 
+## Andrew Ng
+
+*DeepLearning.AI / Stanford*
+
+- [[summaries/ai-engineering-skills-map|AI Engineering Skills Map: Building and Deploying AI Applications]]
+
 ## Andrew Y. Chen
 
 *Federal Reserve Board*

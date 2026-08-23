@@ -8,7 +8,8 @@ sources:
   - "[[summaries/thread-cblatts.md]]"
   - "[[summaries/thread-alexolegimas.md]]"
   - "[[summaries/tax-season.md]]"
-date_updated: 2026-04-03
+  - "[[summaries/ai-engineering-skills-map.md]]"
+date_updated: 2026-08-23
 ---
 
 # AI Skills for Researchers
@@ -26,6 +27,8 @@ The AI skills researchers need are different from those of software engineers or
 - **Privacy awareness**: Understanding data handling implications of different tools
 - **Verification methods**: Techniques for checking AI output accuracy
 
+Andrew Ng's [[summaries/ai-engineering-skills-map|AI Engineering Skills Map]] offers a complementary taxonomy from the builder's side — LLM foundations, grounding models with data, building agentic systems, evaluation-driven development, operating in production, and machine learning foundations. Researchers who move from *using* agents to *building* them (automated screeners, text-as-data classifiers, replication harnesses) cross into that skill set. Ng's central claim — that a disciplined evals and error-analysis loop is what separates competent builders from great ones — is the builder-side restatement of the verification competency above.
+
 ## Practical Implications
 
 - **Learn by doing**: The best way to develop AI skills is to use AI tools on real research tasks
@@ -40,6 +43,7 @@ The AI skills researchers need are different from those of software engineers or
 - [[summaries/thread-cblatts|Chris Blattman Thread: From Claude Code Skeptic to Power User]]
 - [[summaries/thread-alexolegimas|Alex Imas Thread: Man-Computer Symbiosis and the Excitement of AI in Research]]
 - [[summaries/tax-season|Using Claude Code for Tax Season]]
+- [[summaries/ai-engineering-skills-map|AI Engineering Skills Map: Building and Deploying AI Applications]]
 
 ## Related Concepts
 

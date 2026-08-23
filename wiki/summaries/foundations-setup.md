@@ -1,7 +1,7 @@
 ---
 title: "Foundations & Setup"
 tags: [category, foundations-setup]
-date_updated: 2026-04-03
+date_updated: 2026-08-23
 ---
 
 # Foundations & Setup
@@ -55,3 +55,6 @@ Getting started with AI coding tools: installation, privacy, environment configu
 - [[chatbot-essentials|Chatbot Essentials]] — Core chatbot interaction patterns and best practices
 - [[chatbots-done-right|Chatbots Done Right]] — Advanced chatbot usage patterns
 - [[claude-code-hacks|Every Claude Code Hack I Know]] — Power-user tips and tricks (March 2026)
+
+### Skills & Fundamentals
+- [[ai-engineering-skills-map|AI Engineering Skills Map: Building and Deploying AI Applications]] — Ng's six sub-skills for AI application work; evals/error analysis as the differentiating skill
