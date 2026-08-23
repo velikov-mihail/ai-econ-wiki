@@ -7,7 +7,8 @@ sources:
   - "[[summaries/worldseed.md]]"
   - "[[summaries/coarse-ink.md]]"
   - "[[summaries/cc-series-24-agents-auditing-did.md]]"
-date_updated: 2026-05-15
+  - "[[summaries/ai-creativity-markus-166-2.md]]"
+date_updated: 2026-08-23
 ---
 
 # Multi-Agent Systems
@@ -20,6 +21,8 @@ Two design philosophies are visible in current tools:
 
 - **Pipelined / orchestrated** — agents are called in a fixed sequence by an orchestrator. Each agent's output is schema-validated, normalized, and handed to the next. Examples: [[summaries/ars-claude-code|ARS]]'s 10-stage pipeline; [[summaries/haaland-reviewer|Haaland's Reviewer]]'s deterministic 10-step flow; [[summaries/coarse-ink|coarse.ink]]'s single-pass review.
 - **Emergent / world-seeded** — agents are given roles, rules, private information, and consequences; the orchestrator only enforces the rules. The sequence emerges. Example: [[summaries/worldseed|WorldSeed]], whose Autoresearch demo produced 72 peer-reviewed papers in 11 hours through emergent role drift no one configured.
+
+A third philosophy appears in mathematical proof search: **parallel exploration with a stopping rule**. GPT-5.6 Sol Ultra proved the cycle double cover conjecture by spawning 64 agents to pursue different proof strategies simultaneously, under an explicit instruction not to return an answer before eight hours of work ([[summaries/ai-creativity-markus-166-2|Markus Academy 166-2]]). Here the agents share a goal rather than roles, and the orchestrator's job is to kill converging branches rather than to sequence outputs. The swarm buys coverage of a large search space; the minimum-runtime instruction buys persistence past the point where a single session would give up.
 
 Cross-cutting design concerns include: (1) preventing the agents from sharing a cognitive frame ("frame-lock" — the Devil's Advocate attacks arguments but never premises); (2) anti-sycophancy protocols so reviewers don't concede under pushback; (3) traceability — every output linked back to the agent that produced it, the inputs it saw, and the schema it passed.
 

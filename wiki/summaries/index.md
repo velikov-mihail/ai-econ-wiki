@@ -6,7 +6,7 @@ date_updated: 2026-04-03
 
 # All Summaries
 
-This wiki contains **184** source summaries across the following categories.
+This wiki contains **185** source summaries across the following categories.
 
 ## Professional Productivity
 
@@ -188,6 +188,7 @@ See also: [[summaries/academic-research|AI for Academic Research & Publishing ov
 - [[summaries/theory-miniseries-markus-166|AI for Economic Theorists & Mathematicians (Markus Academy 166 Mini-Series Overview)]]
 - [[summaries/stress-test-research-pipeline|AI-Powered Pipeline to Stress-Test Research Ideas Before PhD Students Spend a Year on Them]]
 - [[summaries/applications-generative-ai|Applications of Generative AI for Economic Research]]
+- [[summaries/ai-creativity-markus-166-2|Can AI Be Creative? (Markus Academy 166-2)]]
 - [[summaries/can-ai-replace-researchers|Can AI Replace Social Science Researchers?]]
 - [[summaries/cc-series-24-agents-auditing-did|Claude Code 24: Multiple Agents Auditing Your Diff-in-Diff Code (Part 1)]]
 - [[summaries/cc-series-27-research-vs-publishing|Claude Code 27: Research and Publishing Are Now Two Different Things]]
