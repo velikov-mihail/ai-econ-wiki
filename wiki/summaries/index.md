@@ -6,7 +6,7 @@ date_updated: 2026-04-03
 
 # All Summaries
 
-This wiki contains **186** source summaries across the following categories.
+This wiki contains **187** source summaries across the following categories.
 
 ## Professional Productivity
 
@@ -242,4 +242,5 @@ See also: [[summaries/prompt-engineering-workflow|Prompt Engineering & Workflow 
 - [[summaries/prompt-engineering|Prompt Engineering]]
 - [[summaries/prompt-plan-review-revise|Prompt, Plan, Review, Revise]]
 - [[summaries/prompting-insights-golub|Prompting Insights: Modern AI for Economics Research with Benjamin Golub]]
+- [[summaries/prompts-swarms-markus-166-4|Prompts and Agent Swarms (Markus Academy 166-4)]]
 - [[summaries/workflows|Workflows]]

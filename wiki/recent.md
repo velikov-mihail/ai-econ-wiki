@@ -8,6 +8,7 @@ date_updated: 2026-08-23
 
 The last 15 pages added to the wiki, newest first. Generated from git history — see [[visualizations/source-timeline|Source Timeline]] for sources ordered by publication date.
 
+- **2026-08-23** — [[summaries/prompts-swarms-markus-166-4|Prompts and Agent Swarms (Markus Academy 166-4)]] — Fedor Sandomirskiy
 - **2026-08-23** — [[summaries/which-model-markus-166-3|Which Model to Use for Theory (Markus Academy 166-3)]] — Pietro Ortoleva
 - **2026-08-23** — [[summaries/ai-creativity-markus-166-2|Can AI Be Creative? (Markus Academy 166-2)]] — Fedor Sandomirskiy
 - **2026-08-23** — [[summaries/theory-core-uses-markus-166-1|Core Uses of AI for Economic Theory (Markus Academy 166-1)]] — Pietro Ortoleva
@@ -22,4 +23,3 @@ The last 15 pages added to the wiki, newest first. Generated from git history �
 - **2026-06-20** — [[summaries/panjwani-guide-codex-economists|Guide to Codex for Economists]] — Aniket Panjwani
 - **2026-06-20** — [[summaries/shock-genai-research-course|Generative AI for Research (UCT Course)]] — Jonathan Shock
 - **2026-05-26** — [[summaries/claude-code-103-bilal|Claude Code 103 for Academic Researchers (Bilal)]] — Mushtaq Bilal
-- **2026-05-26** — [[summaries/skills-specifying-thinking|Skills: Specifying How an Agent Should Think (Substack companion)]] — Paul Goldsmith-Pinkham

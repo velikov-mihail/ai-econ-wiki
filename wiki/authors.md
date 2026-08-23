@@ -275,6 +275,7 @@ All authors referenced in the knowledge base, with links to their summaries.
 
 - [[summaries/theory-miniseries-markus-166|AI for Economic Theorists & Mathematicians (Markus Academy 166 overview)]] (with Pietro Ortoleva)
 - [[summaries/ai-creativity-markus-166-2|Can AI Be Creative? (Markus Academy 166-2)]]
+- [[summaries/prompts-swarms-markus-166-4|Prompts and Agent Swarms (Markus Academy 166-4)]]
 
 ## Fatih Kansoy
 

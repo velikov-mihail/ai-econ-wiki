@@ -7,7 +7,8 @@ sources:
   - "[[summaries/prompt-plan-review-revise.md]]"
   - "[[summaries/patterns.md]]"
   - "[[summaries/your-claude-md.md]]"
-date_updated: 2026-04-03
+  - "[[summaries/prompts-swarms-markus-166-4.md]]"
+date_updated: 2026-08-23
 ---
 
 ## Definition
@@ -32,12 +33,21 @@ For economics researchers, prompt engineering intersects with existing skills in
 
 **Blattman (Patterns)** ([[summaries/patterns.md]]) catalogs structural and behavioral patterns that extend prompting into reusable tools. The Critic Stance pattern explicitly shifts Claude from collaborator to critic, counteracting its default tendency toward agreement. Depth Calibration adjusts thoroughness to task stakes. Domain Auto-Detection infers the right behavior from content signals rather than requiring explicit flags.
 
+**Sandomirskiy** ([[summaries/prompts-swarms-markus-166-4.md|Markus Academy 166-4]]) argues the craft has migrated from prompt engineering to **context engineering**, and — counterintuitively — that its value is *inversely* proportional to model quality: frontier models tolerate imperfect context, free-tier models do not. His central technique is **prompt expansion**: write a lazy two-liner, have *the same model that will execute it* rewrite it into a multi-page specification with attached-file contents folded in, spend ~15 minutes reviewing the expansion, then run it with nothing attached. The review step is where misunderstandings get caught before a long run is wasted. Use the same model for both stages, since a model knows its own preferences and cannot know a newer model's.
+
+He supplies the mechanism behind the self-verification problem the other sources flag: **models want to please the user**, so a session asked to check its own proof will find it correct. The fix is architectural — run a **prover instance and a verifier instance in parallel** (same model, different instances, always the best you have) and cycle minor gaps back; when the task has no objective answer, add a **third instance as judge** over the exchange. Two mechanical rules complete the picture: **never attach a PDF** (conversion pollutes and consumes the context window — feed LaTeX, or convert to Markdown in a separate run first), and **summarize-and-restart** long sessions into a fresh instance. Because output is non-deterministic, high-value prompts like proofreading should be **run multiple times** and the findings pooled and screened.
+
 ## Practical Implications
 
 - **Match effort to stakes**: Use light prompts for email drafts and quick lookups. Use standard prompts (with assumptions and rationale) for data analysis. Use deep prompts (with verification steps) for econometric methodology and identification strategy.
 - **Give behavioral instructions proactively**: Tell the model to be concise, follow existing notation, and not rewrite from scratch *before* it generates output -- not after.
 - **Use the six-part structure for high-stakes work**: Role, Context, Task, Constraints, Output Format, and Bookend (restating the key instruction at the end for long prompts).
 - **Do not argue with the model**: If it produces a wrong result, start a fresh chat with correct context rather than trying to fix it inline. Poisoned context degrades all subsequent output.
+- **Let the model write the prompt**: Expand a two-line ask into a full specification using the same model that will run it, then review the expansion before executing.
+- **One task per prompt**: Decompose anything separable, especially on non-frontier models.
+- **Never let a session grade its own work**: Separate prover and verifier instances; add a judge when the criticism itself is contestable.
+- **Feed LaTeX or Markdown, never PDFs**: PDF attachment forces an in-context conversion that crowds out the task.
+- **Wrap a prompt you like into a reusable artifact**: a custom GPT or a Claude Skill, so you stop re-expanding the same request.
 - **Separate instructions from content**: Use XML-style tags (`<paper>`, `<data>`, `<instructions>`) to prevent the AI from confusing your meta-instructions with the material being analyzed.
 - **Break complex tasks into chains**: Course-correct between steps rather than getting mediocre output across all subtasks at once.
 - **Give the AI permission to disagree**: Explicitly state "push back if you think this approach is wrong" to counteract sycophancy.

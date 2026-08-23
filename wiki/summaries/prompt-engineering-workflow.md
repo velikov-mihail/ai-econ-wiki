@@ -1,7 +1,7 @@
 ---
 title: "Prompt Engineering & Workflow Architecture"
 tags: [category, prompt-engineering]
-date_updated: 2026-04-03
+date_updated: 2026-08-23
 ---
 
 # Prompt Engineering & Workflow Architecture
@@ -13,6 +13,9 @@ Designing effective prompts, plan-driven development, and structuring AI-assiste
 ### Prompting Fundamentals
 - [[prompt-engineering|Prompt Engineering]] — Blattman's guide to crafting effective prompts
 - [[prompting-insights-golub|Prompting Insights (Golub)]] — Benjamin Golub's prompting philosophy from Markus Academy Ep. 154
+
+### Advanced Prompting & Verification
+- [[prompts-swarms-markus-166-4|Prompts and Agent Swarms (Markus Academy 166-4)]] — Sandomirskiy on prompt expansion, prover/verifier/judge, never feeding PDFs, and the 64-agent swarm recipe with an escalation escape hatch
 
 ### Plan-Driven Development
 - [[prompt-plan-review-revise|Prompt, Plan, Review, Revise]] — Four-phase iterative workflow for AI-assisted projects
