@@ -8,6 +8,7 @@ date_updated: 2026-08-23
 
 The last 15 pages added to the wiki, newest first. Generated from git history — see [[visualizations/source-timeline|Source Timeline]] for sources ordered by publication date.
 
+- **2026-08-23** — [[summaries/theory-core-uses-markus-166-1|Core Uses of AI for Economic Theory (Markus Academy 166-1)]] — Pietro Ortoleva
 - **2026-08-23** — [[summaries/theory-miniseries-markus-166|AI for Economic Theorists & Mathematicians (Markus Academy 166 Mini-Series Overview)]] — Fedor Sandomirskiy & Pietro Ortoleva
 - **2026-08-23** — [[summaries/ai-engineering-skills-map|AI Engineering Skills Map: Building and Deploying AI Applications]] — Andrew Ng
 - **2026-06-20** — [[summaries/spina-apsa-2026|Claude Code for Academics: APSA 2026 Presentation (Spina)]] — Alessandro Spina
@@ -22,4 +23,3 @@ The last 15 pages added to the wiki, newest first. Generated from git history �
 - **2026-05-26** — [[summaries/skills-specifying-thinking|Skills: Specifying How an Agent Should Think (Substack companion)]] — Paul Goldsmith-Pinkham
 - **2026-05-26** — [[summaries/skills-markus-162-6|Skills: Claude Code for Economists (Markus Academy 162-6)]] — Paul Goldsmith-Pinkham
 - **2026-05-26** — [[summaries/permissions-sandboxes-substack|Permissions, Sandboxes, and Autonomous Agents (companion Substack post)]] — Paul Goldsmith-Pinkham
-- **2026-05-26** — [[summaries/permissions-openclaw-markus-162-7|Permissions & OpenClaw: Claude Code for Economists (Markus Academy 162-7)]] — Paul Goldsmith-Pinkham

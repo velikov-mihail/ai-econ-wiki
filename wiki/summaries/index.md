@@ -6,7 +6,7 @@ date_updated: 2026-04-03
 
 # All Summaries
 
-This wiki contains **183** source summaries across the following categories.
+This wiki contains **184** source summaries across the following categories.
 
 ## Professional Productivity
 
@@ -196,6 +196,7 @@ See also: [[summaries/academic-research|AI for Academic Research & Publishing ov
 - [[summaries/cc-series-44-four-criteria-referee|Claude Code 44: My Four Criteria for Using Agents, with an Application to Referee Reports]]
 - [[summaries/cc-series-12-empirical-research|Claude Code Part 12: How I Use Claude Code for Empirical Research]]
 - [[summaries/spina-apsa-2026|Claude Code for Academics: APSA 2026 Presentation (Spina)]]
+- [[summaries/theory-core-uses-markus-166-1|Core Uses of AI for Economic Theory (Markus Academy 166-1)]]
 - [[summaries/velikov-edhec|EDHEC Master Class: Using AI for Research]]
 - [[summaries/feedback-machines|Feedback Machines: Writing and editing research papers with generative AI]]
 - [[summaries/korinek-2023|Generative AI for Economic Research: Use Cases and Implications for Economists]]

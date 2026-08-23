@@ -421,6 +421,7 @@ All authors referenced in the knowledge base, with links to their summaries.
 *Princeton University*
 
 - [[summaries/theory-miniseries-markus-166|AI for Economic Theorists & Mathematicians (Markus Academy 166 overview)]] (with Fedor Sandomirskiy)
+- [[summaries/theory-core-uses-markus-166-1|Core Uses of AI for Economic Theory (Markus Academy 166-1)]]
 
 ## Piotrek Orlowski
 
