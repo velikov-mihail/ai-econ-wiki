@@ -2,7 +2,7 @@
 title: "AI Agents for Economics Research"
 tags: [summary, academic-paper, ai-agents, agentic-coding, claude-code, codex]
 sources:
-  - "[[raw/papers/Ankit_Panjwani_AI_Agents_for_Economic_Research.pdf]]"
+  - "[[raw/pdfs/Ankit_Panjwani_AI_Agents_for_Economic_Research.pdf]]"
 date_updated: 2026-04-03
 date_published: 2026-03-12
 ---

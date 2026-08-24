@@ -2,7 +2,7 @@
 title: "Agentic AI Bootcamp — Session 2: Research Workflows, Teaching & Applications"
 tags: [summary, claude-code-skills]
 sources:
-  - "[[raw/papers/session_2_slides.pdf]]"
+  - "[[raw/pdfs/session_2_slides.pdf]]"
 date_updated: 2026-05-15
 date_published: 2026-04-27
 ---

@@ -2,7 +2,7 @@
 title: "Claude Code for Academics: APSA 2026 Presentation (Spina)"
 tags: [summary, academic-research, claude-code, foundations-setup, claude-md-files, ai-agents]
 sources:
-  - "[[raw/papers/Alessandro_APSA_Part1_2026.pdf]]"
+  - "[[raw/pdfs/Alessandro_APSA_Part1_2026.pdf]]"
 date_updated: 2026-06-20
 date_published: 2026-06-20
 ---

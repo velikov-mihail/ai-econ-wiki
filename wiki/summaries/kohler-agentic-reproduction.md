@@ -2,7 +2,7 @@
 title: "Read the Paper, Write the Code: Agentic Reproduction of Social-Science Results"
 tags: [summary, academic-research]
 sources:
-  - "[[raw/papers/Kohler-Zollikofer-Einsiedler-Hoyle-Ash-Read-Paper-Write-Code-Agentic-Reproduction-Social-Science-Results.pdf]]"
+  - "[[raw/pdfs/Kohler-Zollikofer-Einsiedler-Hoyle-Ash-Read-Paper-Write-Code-Agentic-Reproduction-Social-Science-Results.pdf]]"
 date_updated: 2026-04-25
 date_published: 2026-04
 ---

@@ -2,7 +2,7 @@
 title: "Some Thoughts on AI and Research"
 tags: [summary, institutional-societal, human-capital, ai-adoption, career-advice]
 sources:
-  - "[[raw/papers/IA AI note_1.pdf]]"
+  - "[[raw/pdfs/IA AI note_1.pdf]]"
 date_updated: 2026-04-05
 date_published: 2026-04-03
 ---

@@ -2,7 +2,7 @@
 title: "Agentic AI Bootcamp — Session 1: From Chat to Autonomous Agents"
 tags: [summary, foundations-setup]
 sources:
-  - "[[raw/papers/session_1_slides.pdf]]"
+  - "[[raw/pdfs/session_1_slides.pdf]]"
 date_updated: 2026-05-15
 date_published: 2026-04-22
 ---

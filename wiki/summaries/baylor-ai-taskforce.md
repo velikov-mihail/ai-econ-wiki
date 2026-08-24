@@ -2,7 +2,7 @@
 title: "How to Encourage Adoption of AI Among Faculty: Experience, Cost, and the Killer Use Case"
 tags: [summary, academic-paper, ai-adoption, faculty, institutional-strategy, ai-agents]
 sources:
-  - "[[raw/papers/baylor_ai_taskforce.pdf]]"
+  - "[[raw/pdfs/baylor_ai_taskforce.pdf]]"
 date_updated: 2026-04-03
 date_published: 2026-02
 ---

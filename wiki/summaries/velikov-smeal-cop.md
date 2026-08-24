@@ -2,7 +2,7 @@
 title: "AI for Business & Economic Research: From Chatbots to Agents"
 tags: [summary, academic-research]
 sources:
-  - "[[raw/papers/main_velikov_smeal_cop.tex]]"
+  - "[[raw/pdfs/main_velikov_smeal_cop.tex]]"
 date_updated: 2026-04-25
 date_published: 2026-04-06
 ---

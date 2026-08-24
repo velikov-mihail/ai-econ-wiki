@@ -2,7 +2,7 @@
 title: "Agentic AI and the Next Intelligence Explosion"
 tags: [summary, institutional-societal]
 sources:
-  - "[[raw/papers/Agentic AI and the next intelligence explosion.pdf]]"
+  - "[[raw/pdfs/Agentic AI and the next intelligence explosion.pdf]]"
 date_updated: 2026-04-25
 date_published: 2026-03-21
 ---

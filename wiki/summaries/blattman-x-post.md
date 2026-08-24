@@ -8,7 +8,7 @@ tags:
 - ai-adoption
 - non-coder
 sources:
-- '[[raw/papers/Post by Chris Blattman on X.pdf]]'
+- '[[raw/pdfs/Post by Chris Blattman on X.pdf]]'
 date_updated: 2026-04-03
 date_published: 2026-02
 ---

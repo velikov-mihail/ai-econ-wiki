@@ -2,7 +2,7 @@
 title: "Claude Code Skills for Academic Researchers: A Practical Introduction"
 tags: [summary, claude-code-skills, skills, claude-code, workflow, presentation]
 sources:
-  - "[[raw/papers/Brownbag_Claude_Skills.pdf]]"
+  - "[[raw/pdfs/Brownbag_Claude_Skills.pdf]]"
 date_updated: 2026-04-05
 date_published: 2026-04-01
 ---

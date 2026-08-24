@@ -8,7 +8,7 @@ tags:
 - AI-pipeline
 - multi-agent-systems
 sources:
-- '[[raw/papers/ZeroPaper - An Autonomous Research System.pdf]]'
+- '[[raw/pdfs/ZeroPaper - An Autonomous Research System.pdf]]'
 date_updated: 2026-05-15
 date_published: 2026-05-01
 ---
