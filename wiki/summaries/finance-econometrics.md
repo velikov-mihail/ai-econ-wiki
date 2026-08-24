@@ -14,6 +14,7 @@ AI applied to finance research, policy evaluation, and econometric analysis.
 - [[kazinnik-cemfi-day1|Day 1: Foundations, Applications, and Agentic Tools]] — LLM as the newest economic instrument; provider vs. researcher choices; five levels of agentic research; "use agents for labor, use economics for judgment"
 - [[kazinnik-cemfi-day2|Day 2: Natural Language Understanding and Measurement]] — Fedspeak benchmark (500 FOMC sentences, 3 RAs), GPT-4 vs. BERT/dictionaries, "digital Romers," quantized local models on earnings calls, LLM→embedding→K-means topic pipeline
 - [[kazinnik-cemfi-day3|Day 3: Forecasting, Prediction, and Survey Augmentation]] — Synthetic SPF forecasters beat humans at longer horizons, but only with human input in the prompt; the prediction-vs-estimation "econometric contract"; leakage tests and debiased estimation
+- [[kazinnik-cemfi-day4|Day 4: Synthetic Agents, Simulations, and Counterfactuals]] — Homo silicus; a 200-cell bank-run simulation benchmarked against 1,158 humans across 8 LLMs; cell-level bias correction; agent architectures; LLM survey augmentation
 
 
 ### Automated Research
