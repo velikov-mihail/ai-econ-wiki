@@ -6,7 +6,7 @@ date_updated: 2026-04-03
 
 # All Summaries
 
-This wiki contains **193** source summaries across the following categories.
+This wiki contains **194** source summaries across the following categories.
 
 ## Professional Productivity
 
@@ -230,6 +230,7 @@ See also: [[summaries/finance-econometrics|Finance & Econometrics Applications o
 - [[summaries/claude-wrds-tools|Claude Code WRDS Toolkit (piotrek-orlowski/claude-wrds-public)]]
 - [[summaries/kazinnik-cemfi-day1|Economics with LLMs — Day 1: Foundations, Applications, and Agentic Tools]]
 - [[summaries/kazinnik-cemfi-day2|Economics with LLMs — Day 2: Natural Language Understanding and Measurement]]
+- [[summaries/kazinnik-cemfi-day3|Economics with LLMs — Day 3: Forecasting, Prediction, and Survey Augmentation]]
 - [[summaries/automated-research-finance|Seeking Collaboration to Test Automated Research in Finance]]
 - [[summaries/what-will-be-scarce|What Will Be Scarce?]]
 - [[summaries/zeropaper-gallery|ZeroPaper Gallery: Papers Produced by an Autonomous Research Pipeline]]

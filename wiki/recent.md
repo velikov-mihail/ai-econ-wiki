@@ -8,7 +8,8 @@ date_updated: 2026-08-23
 
 The last 15 pages added to the wiki, newest first. Generated from git history — see [[visualizations/source-timeline|Source Timeline]] for sources ordered by publication date.
 
-- **2026-08-24** — [[summaries/kazinnik-cemfi-day2|Economics with LLMs — Day 2: Natural Language Understanding and Measurement]] — Sophia Kazinnik
+- **2026-08-24** — [[summaries/kazinnik-cemfi-day3|Economics with LLMs — Day 3: Forecasting, Prediction, and Survey Augmentation]] — Sophia Kazinnik
+- **2026-08-23** — [[summaries/kazinnik-cemfi-day2|Economics with LLMs — Day 2: Natural Language Understanding and Measurement]] — Sophia Kazinnik
 - **2026-08-23** — [[summaries/kazinnik-cemfi-day1|Economics with LLMs — Day 1: Foundations, Applications, and Agentic Tools]] — Sophia Kazinnik
 - **2026-08-23** — [[summaries/aiesi-post-training|Post-Training LLMs (AIESI 2026)]] — Kawin Ethayarajh
 - **2026-08-23** — [[summaries/scientist-one|ScientistOne: Towards Human-Level Autonomous Research via Chain-of-Evidence]] — Google Cloud AI Research
@@ -22,4 +23,3 @@ The last 15 pages added to the wiki, newest first. Generated from git history �
 - **2026-08-23** — [[summaries/ai-engineering-skills-map|AI Engineering Skills Map: Building and Deploying AI Applications]] — Andrew Ng
 - **2026-06-20** — [[summaries/spina-apsa-2026|Claude Code for Academics: APSA 2026 Presentation (Spina)]] — Alessandro Spina
 - **2026-06-20** — [[summaries/vibe-research-2|Vibe Research II: My Three Days with Fable 5]] — Vincent Grégoire
-- **2026-06-20** — [[summaries/mannheim-clinic-session2|Mannheim AI Code Clinic — Session 2 (Olbert & Winter)]] — Marcel Olbert & Richard Winter
