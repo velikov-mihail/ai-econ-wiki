@@ -521,6 +521,7 @@ All authors referenced in the knowledge base, with links to their summaries.
 - [[summaries/kazinnik-cemfi-day2|Economics with LLMs — Day 2: Natural Language Understanding and Measurement]]
 - [[summaries/kazinnik-cemfi-day3|Economics with LLMs — Day 3: Forecasting, Prediction, and Survey Augmentation]]
 - [[summaries/kazinnik-cemfi-day4|Economics with LLMs — Day 4: Synthetic Agents, Simulations, and Counterfactuals]]
+- [[summaries/kazinnik-cemfi-day5|Economics with LLMs — Day 5: LLMs as Economic Subjects]]
 
 ## Tyler Cowen
 

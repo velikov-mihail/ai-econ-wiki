@@ -8,7 +8,8 @@ date_updated: 2026-08-23
 
 The last 15 pages added to the wiki, newest first. Generated from git history — see [[visualizations/source-timeline|Source Timeline]] for sources ordered by publication date.
 
-- **2026-08-24** — [[summaries/kazinnik-cemfi-day4|Economics with LLMs — Day 4: Synthetic Agents, Simulations, and Counterfactuals]] — Sophia Kazinnik
+- **2026-08-24** — [[summaries/kazinnik-cemfi-day5|Economics with LLMs — Day 5: LLMs as Economic Subjects]] — Sophia Kazinnik
+- **2026-08-23** — [[summaries/kazinnik-cemfi-day4|Economics with LLMs — Day 4: Synthetic Agents, Simulations, and Counterfactuals]] — Sophia Kazinnik
 - **2026-08-23** — [[summaries/kazinnik-cemfi-day3|Economics with LLMs — Day 3: Forecasting, Prediction, and Survey Augmentation]] — Sophia Kazinnik
 - **2026-08-23** — [[summaries/kazinnik-cemfi-day2|Economics with LLMs — Day 2: Natural Language Understanding and Measurement]] — Sophia Kazinnik
 - **2026-08-23** — [[summaries/kazinnik-cemfi-day1|Economics with LLMs — Day 1: Foundations, Applications, and Agentic Tools]] — Sophia Kazinnik
@@ -22,4 +23,3 @@ The last 15 pages added to the wiki, newest first. Generated from git history �
 - **2026-08-23** — [[summaries/theory-core-uses-markus-166-1|Core Uses of AI for Economic Theory (Markus Academy 166-1)]] — Pietro Ortoleva
 - **2026-08-23** — [[summaries/theory-miniseries-markus-166|AI for Economic Theorists & Mathematicians (Markus Academy 166 Mini-Series Overview)]] — Fedor Sandomirskiy & Pietro Ortoleva
 - **2026-08-23** — [[summaries/ai-engineering-skills-map|AI Engineering Skills Map: Building and Deploying AI Applications]] — Andrew Ng
-- **2026-06-20** — [[summaries/spina-apsa-2026|Claude Code for Academics: APSA 2026 Presentation (Spina)]] — Alessandro Spina
