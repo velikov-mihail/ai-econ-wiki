@@ -8,7 +8,7 @@ date_updated: 2026-08-23
 
 The last 15 pages added to the wiki, newest first. Generated from git history — see [[visualizations/source-timeline|Source Timeline]] for sources ordered by publication date.
 
-- **2026-08-24** — [[summaries/kazinnik-cemfi-day5|Economics with LLMs — Day 5: LLMs as Economic Subjects]] — Sophia Kazinnik
+- **2026-08-23** — [[summaries/kazinnik-cemfi-day5|Economics with LLMs — Day 5: LLMs as Economic Subjects]] — Sophia Kazinnik
 - **2026-08-23** — [[summaries/kazinnik-cemfi-day4|Economics with LLMs — Day 4: Synthetic Agents, Simulations, and Counterfactuals]] — Sophia Kazinnik
 - **2026-08-23** — [[summaries/kazinnik-cemfi-day3|Economics with LLMs — Day 3: Forecasting, Prediction, and Survey Augmentation]] — Sophia Kazinnik
 - **2026-08-23** — [[summaries/kazinnik-cemfi-day2|Economics with LLMs — Day 2: Natural Language Understanding and Measurement]] — Sophia Kazinnik
