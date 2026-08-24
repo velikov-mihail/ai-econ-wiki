@@ -14,9 +14,10 @@ and maintain a structured wiki in wiki/.
 - When summarizing sources, always link back to the original in raw/
 
 ## Vault Structure
-- raw/articles/ — clipped web articles (.md)
-- raw/papers/ — PDFs, TeX files
-- raw/images/ — local images
+- raw/ — any subfolder here is scanned for new sources; organize freely
+  - raw/articles/, raw/Clippings/ — clipped web articles (.md)
+  - raw/pdfs/ — PDFs, TeX files
+  - raw/images/ — local images (never ingested)
 - wiki/summaries/ — one summary per source
 - wiki/concepts/ — concept pages synthesizing across sources
 - wiki/log.md — chronological operations log (internal use)

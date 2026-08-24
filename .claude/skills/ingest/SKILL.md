@@ -21,7 +21,7 @@ User runs `/ingest` or asks to process new sources.
 
 2. **Process one source at a time**. For each pending source:
 
-   a. Read the raw file (from `raw/articles/` or `raw/papers/`).
+   a. Read the raw file (it may live in any subfolder of `raw/`).
 
    b. Create a summary in `wiki/summaries/` following the existing template. Use `wiki/summaries/agentic-everything.md` as the reference template. Every summary must have:
       - YAML frontmatter: `title`, `tags` (first tag is `summary`, second is the category slug), `sources` (wikilink to raw file), `date_updated`, `date_published`
