@@ -6,7 +6,7 @@ date_updated: 2026-04-03
 
 # All Summaries
 
-This wiki contains **190** source summaries across the following categories.
+This wiki contains **191** source summaries across the following categories.
 
 ## Professional Productivity
 
@@ -48,6 +48,7 @@ See also: [[summaries/institutional-societal|Institutional & Societal Implicatio
 - [[summaries/cc-series-31-satisfaction-discovering|Claude Code 31: Hadn't the Satisfaction Always Been in the Discovering, Not the Discoveries?]]
 - [[summaries/how-scientists-use-claude-code|How Do Scientists Use Claude Code?]]
 - [[summaries/thread-jesusferna|Jesus Fernandez-Villaverde Thread: Twelve Arguments for Traditional Higher Education]]
+- [[summaries/aiesi-post-training|Post-Training LLMs (AIESI 2026)]]
 - [[summaries/andrews-ai-research|Some Thoughts on AI and Research]]
 - [[summaries/something-big-happening|Something Big Is Happening]]
 - [[summaries/ai-people-right-a-lot|The AI People Have Been Right a Lot]]

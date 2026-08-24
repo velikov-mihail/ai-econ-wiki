@@ -1,7 +1,7 @@
 ---
 title: "Author Index"
 tags: [index, authors, navigation]
-date_updated: 2026-05-15
+date_updated: 2026-08-23
 ---
 
 # Author Index
@@ -340,6 +340,12 @@ All authors referenced in the knowledge base, with links to their summaries.
 *Brookings Institution*
 
 - [[summaries/train-left-station|The Train Has Left the Station]] (with Solomon Messing)
+
+## Kawin Ethayarajh
+
+*University of Chicago Booth*
+
+- [[summaries/aiesi-post-training|Post-Training LLMs (AIESI 2026)]]
 
 ## Marcel Olbert
 

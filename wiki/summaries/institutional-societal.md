@@ -1,7 +1,7 @@
 ---
 title: "Institutional & Societal Implications"
 tags: [category, institutional-societal]
-date_updated: 2026-04-26
+date_updated: 2026-08-23
 ---
 
 # Institutional & Societal Implications
@@ -15,6 +15,7 @@ The broader impact of AI on academia, research institutions, and society.
 - [[bitter-lesson|The Bitter Lesson]] — Sutton: general computation-scaling methods always win
 - [[shape-of-ai|The Shape of AI]] — Mollick: jagged frontier, bottlenecks, and salients
 - [[ai-progress-mental-model|Why No One Can Agree About AI Progress]] — Kim's Mind/Body/Instructions model explaining why expert opinion splits
+- [[aiesi-post-training|Post-Training LLMs (AIESI 2026)]] — Ethayarajh (Booth): SFT → DPO/KTO → GRPO → RLVR → distillation; reward as a principal-agent problem; "mecha-nudges" and Etsy evidence that environments adapt to AI agents
 
 ### Academic Disruption
 - [[academics-wake-up|Academics Need to Wake Up on AI]] — Kustov on urgency of AI adoption in academia
