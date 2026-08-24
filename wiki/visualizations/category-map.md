@@ -16,9 +16,9 @@ graph TD
     CS["<b>Claude Code Skills<br/>& Advanced</b><br/>29 summaries"]
     DA["<b>Data Analysis &<br/>Web Scraping</b><br/>10 summaries"]
     AR["<b>Academic Research<br/>& Publishing</b><br/>34 summaries"]
-    FE["<b>Finance &<br/>Econometrics</b><br/>15 summaries"]
+    FE["<b>Finance &<br/>Econometrics</b><br/>20 summaries"]
     AT["<b>AI Tools &<br/>Comparisons</b><br/>12 summaries"]
-    IS["<b>Institutional &<br/>Societal</b><br/>20 summaries"]
+    IS["<b>Institutional &<br/>Societal</b><br/>21 summaries"]
     PP["<b>Professional<br/>Productivity</b><br/>13 summaries"]
 
     %% Foundational layer

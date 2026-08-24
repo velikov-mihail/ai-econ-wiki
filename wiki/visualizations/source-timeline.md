@@ -219,7 +219,13 @@ All sources in the knowledge base, ordered chronologically by publication date.
 - **August 4** — [[summaries/ai-creativity-markus-166-2|Can AI Be Creative? (Markus Academy 166-2)]] — Fedor Sandomirskiy
 - **August 4** — [[summaries/which-model-markus-166-3|Which Model to Use for Theory (Markus Academy 166-3)]] — Pietro Ortoleva
 - **August 4** — [[summaries/prompts-swarms-markus-166-4|Prompts and Agent Swarms (Markus Academy 166-4)]] — Fedor Sandomirskiy
+- **August 6–11** — [[summaries/aiesi-post-training|Post-Training LLMs (AIESI 2026)]] — Kawin Ethayarajh
+- **August 17** — [[summaries/kazinnik-cemfi-day1|Economics with LLMs — Day 1: Foundations, Applications, and Agentic Tools]] — Sophia Kazinnik
+- **August 18** — [[summaries/kazinnik-cemfi-day2|Economics with LLMs — Day 2: Natural Language Understanding and Measurement]] — Sophia Kazinnik
+- **August 19** — [[summaries/kazinnik-cemfi-day3|Economics with LLMs — Day 3: Forecasting, Prediction, and Survey Augmentation]] — Sophia Kazinnik
+- **August 20** — [[summaries/kazinnik-cemfi-day4|Economics with LLMs — Day 4: Synthetic Agents, Simulations, and Counterfactuals]] — Sophia Kazinnik
 - **August 21** — [[summaries/ai-engineering-skills-map|AI Engineering Skills Map: Building and Deploying AI Applications]] — Andrew Ng
+- **August 21** — [[summaries/kazinnik-cemfi-day5|Economics with LLMs — Day 5: LLMs as Economic Subjects]] — Sophia Kazinnik
 - **August 2026** — [[summaries/scientist-one|ScientistOne: Towards Human-Level Autonomous Research via Chain-of-Evidence]] — Google Cloud AI Research
 
 ### 2026 (date not specified)
@@ -231,7 +237,7 @@ All sources in the knowledge base, ordered chronologically by publication date.
 
 ## Summary Statistics
 
-- **Total sources:** 194
+- **Total sources:** 200
 - **Date range:** March 2019 – August 2026
 - **Peak activity:** March 2026 (84 sources)
 - **Most prolific authors:** Chris Blattman (44), Scott Cunningham (28), Paul Goldsmith-Pinkham (15), Mushtaq Bilal (7), Ethan Mollick (5)
