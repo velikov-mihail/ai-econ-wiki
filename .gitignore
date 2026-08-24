@@ -1,6 +1,9 @@
 # Raw source data (kept local/Dropbox only)
 raw/
 
+# Stray top-level clippings folder (sources belong in raw/Clippings/)
+Clippings/
+
 # Obsidian vault config (local editor prefs)
 .obsidian/
 

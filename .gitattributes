@@ -1,0 +1,13 @@
+# Normalize all text to LF in the repository. The vault syncs through
+# Dropbox and gets edited from Windows, which otherwise rewrites every
+# wiki page to CRLF and produces thousands of lines of phantom diff.
+* text=auto eol=lf
+
+# Binaries: never touch.
+*.pdf binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.webp binary
+*.ico binary
