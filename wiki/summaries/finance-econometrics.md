@@ -12,6 +12,7 @@ AI applied to finance research, policy evaluation, and econometric analysis.
 
 ### Economics with LLMs (Kazinnik, CEMFI Summer School 2026)
 - [[kazinnik-cemfi-day1|Day 1: Foundations, Applications, and Agentic Tools]] — LLM as the newest economic instrument; provider vs. researcher choices; five levels of agentic research; "use agents for labor, use economics for judgment"
+- [[kazinnik-cemfi-day2|Day 2: Natural Language Understanding and Measurement]] — Fedspeak benchmark (500 FOMC sentences, 3 RAs), GPT-4 vs. BERT/dictionaries, "digital Romers," quantized local models on earnings calls, LLM→embedding→K-means topic pipeline
 
 
 ### Automated Research
