@@ -513,6 +513,12 @@ All authors referenced in the knowledge base, with links to their summaries.
 
 - [[summaries/train-left-station|The Train Has Left the Station]] (with Joshua Tucker)
 
+## Sophia Kazinnik
+
+*Digital Economy Lab, Stanford University*
+
+- [[summaries/kazinnik-cemfi-day1|Economics with LLMs — Day 1: Foundations, Applications, and Agentic Tools]]
+
 ## Tyler Cowen
 
 *George Mason University / Marginal Revolution*

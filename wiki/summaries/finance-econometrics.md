@@ -1,7 +1,7 @@
 ---
 title: "Finance & Econometrics Applications"
 tags: [category, finance-econometrics]
-date_updated: 2026-04-26
+date_updated: 2026-08-23
 ---
 
 # Finance & Econometrics Applications
@@ -9,6 +9,10 @@ date_updated: 2026-04-26
 AI applied to finance research, policy evaluation, and econometric analysis.
 
 ## Summaries
+
+### Economics with LLMs (Kazinnik, CEMFI Summer School 2026)
+- [[kazinnik-cemfi-day1|Day 1: Foundations, Applications, and Agentic Tools]] — LLM as the newest economic instrument; provider vs. researcher choices; five levels of agentic research; "use agents for labor, use economics for judgment"
+
 
 ### Automated Research
 - [[project-ape|Project APE]] — Fully automated economics research pipeline with multi-model tournament

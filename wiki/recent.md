@@ -8,7 +8,8 @@ date_updated: 2026-08-23
 
 The last 15 pages added to the wiki, newest first. Generated from git history — see [[visualizations/source-timeline|Source Timeline]] for sources ordered by publication date.
 
-- **2026-08-24** — [[summaries/aiesi-post-training|Post-Training LLMs (AIESI 2026)]] — Kawin Ethayarajh
+- **2026-08-24** — [[summaries/kazinnik-cemfi-day1|Economics with LLMs — Day 1: Foundations, Applications, and Agentic Tools]] — Sophia Kazinnik
+- **2026-08-23** — [[summaries/aiesi-post-training|Post-Training LLMs (AIESI 2026)]] — Kawin Ethayarajh
 - **2026-08-23** — [[summaries/scientist-one|ScientistOne: Towards Human-Level Autonomous Research via Chain-of-Evidence]] — Google Cloud AI Research
 - **2026-08-23** — [[summaries/integration-collaboration-substack|Integration and Collaboration in AI Research Work (Substack companion)]] — Paul Goldsmith-Pinkham
 - **2026-08-23** — [[summaries/integration-collaboration-markus-162-8|Integration & Collaboration: Claude Code for Economists (Markus Academy 162-8)]] — Paul Goldsmith-Pinkham
@@ -22,4 +23,3 @@ The last 15 pages added to the wiki, newest first. Generated from git history �
 - **2026-06-20** — [[summaries/vibe-research-2|Vibe Research II: My Three Days with Fable 5]] — Vincent Grégoire
 - **2026-06-20** — [[summaries/mannheim-clinic-session2|Mannheim AI Code Clinic — Session 2 (Olbert & Winter)]] — Marcel Olbert & Richard Winter
 - **2026-06-20** — [[summaries/mannheim-clinic-session1-video3|Mannheim AI Code Clinic — Session 1, Video 3 (Seidel)]] — Paul Seidel
-- **2026-06-20** — [[summaries/mannheim-clinic-session1-video2|Mannheim AI Code Clinic — Session 1, Video 2 (Olbert)]] — Marcel Olbert
