@@ -8,6 +8,7 @@ date_updated: 2026-09-30
 
 The last 15 pages added to the wiki, newest first. Generated from git history — see [[visualizations/source-timeline|Source Timeline]] for sources ordered by publication date.
 
+- **2026-09-30** — [[summaries/living-science|Introducing Living Science]] — Chenhao Tan
 - **2026-09-30** — [[summaries/wharton-prompt-library|Prompt Library (Wharton Generative AI Labs)]] — Ethan Mollick & Lilach Mollick
 - **2026-09-30** — [[summaries/beamer-parrot|Beyond the Stochastic Beamer Parrot (Bäckman)]] — Claes Bäckman
 - **2026-09-30** — [[summaries/barrios-skills|Barrios Skills — AI Workflows for Academic Research (Barrios)]] — John Manuel Barrios
@@ -22,4 +23,3 @@ The last 15 pages added to the wiki, newest first. Generated from git history �
 - **2026-08-23** — [[summaries/kazinnik-cemfi-day1|Economics with LLMs — Day 1: Foundations, Applications, and Agentic Tools]] — Sophia Kazinnik
 - **2026-08-23** — [[summaries/aiesi-post-training|Post-Training LLMs (AIESI 2026)]] — Kawin Ethayarajh
 - **2026-08-23** — [[summaries/scientist-one|ScientistOne: Towards Human-Level Autonomous Research via Chain-of-Evidence]] — Google Cloud AI Research
-- **2026-08-23** — [[summaries/integration-collaboration-substack|Integration and Collaboration in AI Research Work (Substack companion)]] — Paul Goldsmith-Pinkham

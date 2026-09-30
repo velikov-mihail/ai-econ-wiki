@@ -6,7 +6,7 @@ date_updated: 2026-04-03
 
 # All Summaries
 
-This wiki contains **202** source summaries across the following categories.
+This wiki contains **203** source summaries across the following categories.
 
 ## Professional Productivity
 
@@ -210,6 +210,7 @@ See also: [[summaries/academic-research|AI for Academic Research & Publishing ov
 - [[summaries/shock-genai-research-course|Generative AI for Research (UCT Course)]]
 - [[summaries/integration-collaboration-markus-162-8|Integration & Collaboration: Claude Code for Economists (Markus Academy 162-8)]]
 - [[summaries/integration-collaboration-substack|Integration and Collaboration in AI Research Work (Substack companion)]]
+- [[summaries/living-science|Introducing Living Science]]
 - [[summaries/openai-automated-researcher|OpenAI is throwing everything into building a fully automated researcher]]
 - [[summaries/point-by-point|Point by Point: Guided R&R Response Letters]]
 - [[summaries/project-ape|Project APE: Can Policy Evaluation Be Automated?]]

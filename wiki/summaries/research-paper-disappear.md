@@ -43,3 +43,4 @@ This is a thought-provoking piece from one of the most influential economics blo
 - [[summaries/ai-one-shot-papers]]
 - [[summaries/openai-automated-researcher]]
 - [[summaries/reflections-vibe-research]]
+- [[summaries/living-science]]

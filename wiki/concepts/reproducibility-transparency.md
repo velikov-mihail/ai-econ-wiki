@@ -9,7 +9,8 @@ sources:
   - "[[summaries/research-in-time-of-ai.md]]"
   - "[[summaries/vibe-research.md]]"
   - "[[summaries/integration-collaboration-substack.md]]"
-date_updated: 2026-08-23
+  - "[[summaries/living-science.md]]"
+date_updated: 2026-09-30
 ---
 
 # Reproducibility and Transparency
@@ -46,6 +47,8 @@ His demo documents two failures worth internalizing. **Documentation is a map, n
 
 On provenance, the rule is that **no number in the draft is typed by hand**: the pipeline emits `results.tex` and `figure.pdf`, the paper ingests them via `\input` and `\includegraphics{}`, and Overleaf syncs to the repo (a paid-tier feature on both the GitHub and Dropbox routes). But he states the limit himself: **a correctly wired pipeline guarantees the number in the paper matches what the code produced, not that the code is correct.** "Clean provenance can faithfully publish a wrong estimate" — review the method before wiring it in. On AI-reviews-AI he is willing but unsatisfied, returning to the IBM line that *a computer can never be held accountable*: a human signs off.
 
+**Tan ([[summaries/living-science.md|Introducing Living Science]])** puts cheap AI-powered replication into practice and pushes it one step further, from *replication* to *continuation*. Living Science uses a replication agent to reproduce influential economics papers from their public packages and then extend them to newer data. It publishes the repos on GitHub, asks the original authors for feedback, and takes community comments. The launch reports show both outcomes: Cengiz et al.'s minimum-wage and Shimer's job-finding results hold up, while Blanchard–Katz's migration response has fallen from 38% to 24–28%. Tan's argument for a *shared* record is about common knowledge: a private re-analysis doesn't stop the field from citing a stale estimate.
+
 ## Practical Implications
 
 For economics researchers concerned with reproducibility and transparency:
@@ -59,6 +62,7 @@ For economics researchers concerned with reproducibility and transparency:
 - **Ask for the trail in the prompt, not after**: checkpoint commits, a decisions file with confidence levels, a plain-language log, and stage-by-stage sample attrition
 - **Treat the agent's decision log as a claim**: check what it says it did against the code and the output — it will report work it never performed
 - **Wire results into the draft, but review the method first**: provenance guarantees fidelity, not correctness
+- **Expect your results to be extended by others**: papers built on regularly updated public data are prime targets for agent-driven continuation, so ship replication packages and methods sections that an agent can follow
 - **Be suspicious of AI-generated empirical designs**: if your AI agent defaulted to DiD, ask whether that was the best identification strategy or just the easiest one to automate.
 
 ## Open Questions
@@ -79,3 +83,4 @@ For economics researchers concerned with reproducibility and transparency:
 - [[summaries/research-in-time-of-ai.md|Research in the Time of AI]] -- Goldsmith-Pinkham on the dual-edged quality implications
 - [[summaries/integration-collaboration-substack.md|Integration and Collaboration in AI Research Work]] -- Goldsmith-Pinkham's verification-debt framing and a concrete review protocol
 - [[summaries/vibe-research.md|Vibe Research]] -- Gregoire on reference verification and intellectual ownership
+- [[summaries/living-science.md|Introducing Living Science]] -- Agent-driven replication and extension of influential econ papers as a public living record

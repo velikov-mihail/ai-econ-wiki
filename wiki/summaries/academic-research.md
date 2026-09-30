@@ -44,6 +44,7 @@ Vibe research, feedback machines, AI-assisted academic writing, and the future o
 - [[integration-collaboration-substack|Integration and Collaboration in AI Research Work (Substack companion)]] — The written protocol: verification debt, DECISIONS.md/LOG.md/attrition tables, issues as feedback, "provenance ≠ correctness"
 - [[verifying-llm-output|Verifying LLM Output (Bäckman)]] — Practical verification protocol: git diffs, fresh-agent review, second model, `/quiz-me` comprehension skill, spec-only reimplementation in another language, and `decisions.md`
 - [[kohler-agentic-reproduction|Read the Paper, Write the Code]] — Kohler et al. (ETH): 48-paper benchmark; OpenCode GPT-5.4 hits 91% sign, >80% within 95% CI without access to original code
+- [[living-science|Introducing Living Science]] — Tan (UChicago): agent-driven replication + extension of influential econ papers on new data (min. wage, Shimer ins/outs, Blanchard–Katz), published as a public living record
 
 ### Publishing & Peer Review
 - [[cc-series-27-research-vs-publishing|Research and Publishing Are Now Two Different Things]] — Supply-demand analysis of manuscript production costs

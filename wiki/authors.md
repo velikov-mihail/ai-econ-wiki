@@ -153,6 +153,12 @@ All authors referenced in the knowledge base, with links to their summaries.
 
 - [[summaries/how-scientists-use-claude-code|How Do Scientists Use Claude Code?]]
 
+## Chenhao Tan
+
+*University of Chicago*
+
+- [[summaries/living-science|Introducing Living Science]]
+
 ## Chris Blattman
 
 *University of Chicago*

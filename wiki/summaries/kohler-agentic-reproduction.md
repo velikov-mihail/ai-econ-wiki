@@ -65,3 +65,4 @@ Direct and high. This is the most rigorous evidence to date on the *current* fea
   - [[summaries/ai-powered-scholarship]]
   - [[summaries/cc-series-44-four-criteria-referee]]
   - [[summaries/agentic-everything]]
+  - [[summaries/living-science]]
