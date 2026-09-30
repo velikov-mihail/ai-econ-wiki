@@ -1,7 +1,7 @@
 ---
 title: "Source Timeline"
 tags: [visualization, navigation, timeline]
-date_updated: 2026-08-23
+date_updated: 2026-09-30
 ---
 
 # Source Timeline
@@ -26,6 +26,7 @@ All sources in the knowledge base, ordered chronologically by publication date.
 
 ## 2025
 
+- **March 19** — [[summaries/wharton-prompt-library|Prompt Library (Wharton Generative AI Labs)]] — Ethan Mollick & Lilach Mollick
 - **April 2025** — [[summaries/prompts-to-paper|Prompts-to-Paper: Hedging the AI Singularity]] — Andrew Y. Chen
 - **April 15** — [[summaries/ai-normal-technology|AI as Normal Technology]] — Arvind Narayanan & Sayash Kapoor
 - **August 2025** — [[summaries/ai-agents-generative-ai|AI Agents — Generative AI for Economic Research]] — Anton Korinek
@@ -208,6 +209,7 @@ All sources in the knowledge base, ordered chronologically by publication date.
 - **June 20** — [[summaries/panjwani-guide-codex-economists|Guide to Codex for Economists]] — Aniket Panjwani
 - **June 20** — [[summaries/spina-apsa-2026|Claude Code for Academics: APSA 2026 (Spina)]] — Alessandro Spina
 - **June 20** — [[summaries/vibe-research-2|Vibe Research II: My Three Days with Fable 5]] — Vincent Grégoire
+- **June 2026** — [[summaries/koren-theorist-toolbox|Theorist Toolbox: Claude Code Skills for Economic Theory]] — Moran Koren
 
 ### July
 - **July 2** — [[summaries/integration-collaboration-substack|Integration and Collaboration in AI Research Work (Substack companion)]] — Paul Goldsmith-Pinkham
@@ -227,6 +229,12 @@ All sources in the knowledge base, ordered chronologically by publication date.
 - **August 21** — [[summaries/ai-engineering-skills-map|AI Engineering Skills Map: Building and Deploying AI Applications]] — Andrew Ng
 - **August 21** — [[summaries/kazinnik-cemfi-day5|Economics with LLMs — Day 5: LLMs as Economic Subjects]] — Sophia Kazinnik
 - **August 2026** — [[summaries/scientist-one|ScientistOne: Towards Human-Level Autonomous Research via Chain-of-Evidence]] — Google Cloud AI Research
+- **August 2026** — [[summaries/verifying-llm-output|Verifying LLM Output — for Academic Economists]] — Claes Bäckman
+
+### September
+- **September 29** — [[summaries/beamer-parrot|Beyond the Stochastic Beamer Parrot]] — Claes Bäckman
+- **September 2026** — [[summaries/barrios-skills|Barrios Skills — AI Workflows for Academic Research]] — John Manuel Barrios
+- **September 2026** — [[summaries/matray-ai-guide|AI Guide for Economists: Working with AI — A Philosophy]] — Adrien Matray
 
 ### 2026 (date not specified)
 - [[summaries/point-by-point|Point by Point: Guided R&R Response Letters]] — Abhishek Nagaraj
@@ -237,7 +245,7 @@ All sources in the knowledge base, ordered chronologically by publication date.
 
 ## Summary Statistics
 
-- **Total sources:** 200
-- **Date range:** March 2019 – August 2026
+- **Total sources:** 206
+- **Date range:** March 2019 – September 2026
 - **Peak activity:** March 2026 (84 sources)
-- **Most prolific authors:** Chris Blattman (44), Scott Cunningham (28), Paul Goldsmith-Pinkham (15), Mushtaq Bilal (7), Ethan Mollick (5)
+- **Most prolific authors:** Chris Blattman (44), Scott Cunningham (28), Paul Goldsmith-Pinkham (15), Mushtaq Bilal (7), Ethan Mollick (6)

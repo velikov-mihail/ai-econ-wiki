@@ -1,7 +1,7 @@
 ---
 title: "Category Map"
 tags: [visualization, navigation]
-date_updated: 2026-08-23
+date_updated: 2026-09-30
 ---
 
 # Category Map
@@ -10,12 +10,12 @@ A visual map of how the ten knowledge-base categories relate to one another. Arr
 
 ```mermaid
 graph TD
-    FS["<b>Foundations & Setup</b><br/>35 summaries"]
-    PE["<b>Prompt Engineering<br/>& Workflow</b><br/>11 summaries"]
+    FS["<b>Foundations & Setup</b><br/>36 summaries"]
+    PE["<b>Prompt Engineering<br/>& Workflow</b><br/>12 summaries"]
     AG["<b>AI Agents &<br/>Agentic AI</b><br/>14 summaries"]
-    CS["<b>Claude Code Skills<br/>& Advanced</b><br/>29 summaries"]
+    CS["<b>Claude Code Skills<br/>& Advanced</b><br/>31 summaries"]
     DA["<b>Data Analysis &<br/>Web Scraping</b><br/>10 summaries"]
-    AR["<b>Academic Research<br/>& Publishing</b><br/>34 summaries"]
+    AR["<b>Academic Research<br/>& Publishing</b><br/>36 summaries"]
     FE["<b>Finance &<br/>Econometrics</b><br/>20 summaries"]
     AT["<b>AI Tools &<br/>Comparisons</b><br/>12 summaries"]
     IS["<b>Institutional &<br/>Societal</b><br/>21 summaries"]
