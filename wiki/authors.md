@@ -207,6 +207,7 @@ All authors referenced in the knowledge base, with links to their summaries.
 *Aarhus University*
 
 - [[summaries/ai-research-feedback-skills|AI Research Feedback Skills]]
+- [[summaries/beamer-parrot|Beyond the Stochastic Beamer Parrot]]
 - [[summaries/backman-vscode-guide|Claude Code in VS Code — For Academic Economists]]
 - [[summaries/feedback-machines|Feedback Machines]]
 - [[summaries/verifying-llm-output|Verifying LLM Output — for Academic Economists]]

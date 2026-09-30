@@ -6,7 +6,7 @@ date_updated: 2026-04-03
 
 # All Summaries
 
-This wiki contains **200** source summaries across the following categories.
+This wiki contains **201** source summaries across the following categories.
 
 ## Professional Productivity
 
@@ -126,6 +126,7 @@ See also: [[summaries/claude-code-skills|Claude Code Skills & Advanced Workflows
 - [[summaries/ars-claude-code|Academic Research Skills for Claude Code (ARS)]]
 - [[summaries/agentic-bootcamp-2-aslim-beam|Agentic AI Bootcamp — Session 2: Research Workflows, Teaching & Applications]]
 - [[summaries/barrios-skills|Barrios Skills — AI Workflows for Academic Research (Barrios)]]
+- [[summaries/beamer-parrot|Beyond the Stochastic Beamer Parrot (Bäckman)]]
 - [[summaries/build-your-own|Build Your Own]]
 - [[summaries/building-skills|Building Skills]]
 - [[summaries/cherny-code|ChernyCode: Boris Cherny's Productivity Tips for AI-Assisted Coding]]

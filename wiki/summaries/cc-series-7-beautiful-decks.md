@@ -40,4 +40,5 @@ Directly applicable to any economist who presents research via Beamer. The "deck
   - [[summaries/cc-series-6-video-explainer]]
   - [[summaries/cc-series-9-bib-files]]
   - [[summaries/cc-series-10-lecture-decks]]
+  - [[summaries/beamer-parrot]] — Bäckman on moving beyond Beamer to interactive explorable decks
   - [[summaries/cc-changed-how-i-work-4]]

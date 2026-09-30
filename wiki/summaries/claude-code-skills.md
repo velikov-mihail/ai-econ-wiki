@@ -39,6 +39,7 @@ Building skills, the DAAF framework, continuous improvement, and compilation wor
 - [[cc-series-7-beautiful-decks|Part 7: Making Beautiful Decks]] — Rhetoric of decks, tacit knowledge, Beamer for future self
 - [[cc-series-9-bib-files|Part 9: .bib Files and Article Retrieval]] — Automated bibliography and literature workflow
 - [[cc-series-10-lecture-decks|Part 10: Lecture Decks]] — Dictation approach to deck creation, optimal MB/MC
+- [[beamer-parrot|Beyond the Stochastic Beamer Parrot (Bäckman)]] — `/explorable-deck`: interactive Quarto decks in the spirit of Nicky Case's explorable explanations; AI for new things, not old things faster
 - [[cc-series-33-continue-learning|Part 33: Help Claude Help Us]] — Cautionary tale on domain expertise and verification
 - [[cc-series-38-plug-paulgp|Part 38: A Plug for Goldsmith-Pinkham's Series]] — Endorsement of Markus Academy Claude Code series
 
