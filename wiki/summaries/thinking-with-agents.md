@@ -3,7 +3,8 @@ title: "Thinking with Agents (UVM Agentic AI Bootcamp)"
 tags: [summary, foundations-setup]
 sources:
   - "[[raw/articles/Thinking with Agents.md]]"
-date_updated: 2026-05-15
+  - "[[raw/articles/Thinking with Agents 1.md]]"
+date_updated: 2026-09-30
 date_published: 2026-04-22
 ---
 
@@ -19,13 +20,15 @@ date_published: 2026-04-22
 - **"What to try next" homework** is concrete and low-stakes: try a data-exploration → analysis-plan workflow on your own data, draft an assignment, run `/econ-audit` on a paper before submission, or use Claude Code to revise a draft.
 - **Skills are distributed as an installable bundle** — `npx skills add thinkingwithagents/skills` pulls the full economist pack; individual skills can be added with `--skill <name>`. This makes the bootcamp's playbooks reusable across institutions, not just UVM.
 
+- **Site update (June 2026 re-clip): from bootcamp page to standing resource hub.** The later version of the landing page is reorganized around three entry points instead of the two sessions: **[Getting Started](https://thinkingwithagents.github.io/getting-started.html)** (terminal, Git, setup, in "layers," with a **$0 path** for "one week and no budget"; the claim is that most economists can be doing useful work in an afternoon), **[Skills & Workflows](https://thinkingwithagents.github.io/skills-workflows.html)** (installable research and teaching skills plus 30-minute workflow recipes), and **[Teaching Modules](https://eabeam.github.io/teaching-ai)** (drop-in lesson plans and exercises for your own courses and workshops). A "Where should I start?" router sends readers by persona: never used a terminal → Layer 1; uses ChatGPT but wants real tools → Layer 3; already on Claude Code → Skills & Workflows; wants to teach → Teaching Modules. A companion **[Substack](https://thinkingwithagents.substack.com/)** now carries posts on hidden researcher decisions and pre-registration under agentic AI, a "Workflow Wednesday" series (starting with transcription apps), and reflections on iterating with agents in teaching prep.
+
 ## Summary
 
 This is the landing page for *Thinking with Agents*, a two-session agentic-AI bootcamp run by Erkmen G. Aslim and Emily Beam at the University of Vermont's Department of Economics in April 2026. The page is a thin index — its real content lives in the two slide decks (linked) and a separate [applications gallery](https://thinkingwithagents.github.io/applications.html) where each `/`-named skill (e.g., `/code-review`, `/econ-audit`, `/research-brainstorm`, `/find-data`, `/academic-beamer-deck`) gets its own page with the SKILL.md spec and a usage walkthrough.
 
 The pedagogical structure is "concepts first, applications second." Session 1 takes attendees from chat-AI to agentic tools, introduces the context window as the load-bearing concept, walks through planning files, and lands on safety/permissions. Session 2 then demos those concepts on a real paper-in-progress (a Bangladesh remote-education RCT) — code audit, adversarial paper review, and a live "do Lee bounds" exercise from referee comment to results — followed by a teaching-side build of a `lecture-builder` skill via `/skill-creator`.
 
-The site is positioned as a course-in-a-box: anyone can install the skill bundle, run through the prep guide, and replicate the bootcamp at their own institution. It is the closest thing in the wiki to a turn-key agentic-AI-for-economists curriculum.
+The site is positioned as a course-in-a-box: anyone can install the skill bundle, run through the prep guide, and replicate the bootcamp at their own institution. It is the closest thing in the wiki to a turn-key agentic-AI-for-economists curriculum. By mid-2026 the site had outgrown the bootcamp: it is now a persona-routed onboarding hub with a layered setup path, a skills/recipes gallery, reusable teaching modules, and an ongoing Substack. Beam (associate professor; development economics and RCTs) and Aslim (assistant professor; health economics and applied micro) present it as a standing resource rather than a record of one event.
 
 ## Relevance to Economics Research
 
