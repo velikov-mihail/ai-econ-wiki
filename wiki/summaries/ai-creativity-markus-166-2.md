@@ -2,7 +2,7 @@
 title: "Can AI Be Creative? (Markus Academy 166-2)"
 tags: [summary, academic-research, economic-theory, llm-reasoning, ai-limitations, multi-agent-systems]
 sources:
-  - "[[raw/Clippings/Can AI Be Creative? AI for Economic Theory with Ortoleva & Sandomirskiy  Markus Academy  166-2.md]]"
+  - "[[raw/articles/Can AI Be Creative? AI for Economic Theory with Ortoleva & Sandomirskiy  Markus Academy  166-2.md]]"
 date_updated: 2026-08-23
 date_published: 2026-08-04
 ---

@@ -2,7 +2,7 @@
 title: "AI for Economic Theorists & Mathematicians (Markus Academy 166 Mini-Series Overview)"
 tags: [summary, academic-research, economic-theory, ai-agents, prompt-engineering]
 sources:
-  - "[[raw/Clippings/AI for Economic Theorists & Mathematicians, a Mini-Series.md]]"
+  - "[[raw/articles/AI for Economic Theorists & Mathematicians, a Mini-Series.md]]"
 date_updated: 2026-08-23
 date_published: 2026-08-03
 ---

@@ -2,7 +2,7 @@
 title: "Integration and Collaboration in AI Research Work (Substack companion)"
 tags: [summary, academic-research, version-control-research, reproducibility-transparency, claude-code]
 sources:
-  - "[[raw/Clippings/Integration and Collaboration in AI Research Work.md]]"
+  - "[[raw/articles/Integration and Collaboration in AI Research Work.md]]"
 date_updated: 2026-08-23
 date_published: 2026-07-02
 ---

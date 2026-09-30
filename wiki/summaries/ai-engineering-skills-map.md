@@ -2,7 +2,7 @@
 title: "AI Engineering Skills Map: Building and Deploying AI Applications"
 tags: [summary, foundations-setup, ai-skills, ai-agents, human-capital]
 sources:
-  - "[[raw/Clippings/AI Engineering Skills Map Building and Deploying AI Applications.md]]"
+  - "[[raw/articles/AI Engineering Skills Map Building and Deploying AI Applications.md]]"
 date_updated: 2026-08-23
 date_published: 2026-08-21
 ---

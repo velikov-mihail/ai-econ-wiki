@@ -2,7 +2,7 @@
 title: "Which Model to Use for Theory (Markus Academy 166-3)"
 tags: [summary, ai-tools, economic-theory, ai-pricing-and-access, ai-agents]
 sources:
-  - "[[raw/Clippings/Which Model to Use AI for Economic Theory with Ortoleva & Sandomirskiy  Markus Academy  166-3.md]]"
+  - "[[raw/articles/Which Model to Use AI for Economic Theory with Ortoleva & Sandomirskiy  Markus Academy  166-3.md]]"
 date_updated: 2026-08-23
 date_published: 2026-08-04
 ---

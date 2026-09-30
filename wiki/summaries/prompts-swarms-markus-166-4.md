@@ -2,7 +2,7 @@
 title: "Prompts and Agent Swarms (Markus Academy 166-4)"
 tags: [summary, prompt-engineering-workflow, economic-theory, multi-agent-systems, context-management]
 sources:
-  - "[[raw/Clippings/Promtps and Agent Swarms AI for Econ Theory with Ortoleva & Sandomirskiy  Markus Academy  166-4.md]]"
+  - "[[raw/articles/Promtps and Agent Swarms AI for Econ Theory with Ortoleva & Sandomirskiy  Markus Academy  166-4.md]]"
 date_updated: 2026-08-23
 date_published: 2026-08-04
 ---

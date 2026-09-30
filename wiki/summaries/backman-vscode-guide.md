@@ -3,7 +3,6 @@ title: "Claude Code in VS Code — For Academic Economists"
 tags: [summary, foundations-setup]
 sources:
   - "[[raw/articles/Claude Code in VS Code — For Academic Economists.md]]"
-  - "[[raw/articles/Claude Code in VS Code — For Academic Economists 1.md]]"
 date_updated: 2026-04-25
 date_published: 2026-04
 ---

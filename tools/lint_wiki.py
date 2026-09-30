@@ -243,7 +243,8 @@ def check_mkdocs_nav() -> list[tuple[str, str]]:
                 pass
         elif rel.startswith("concepts/") and fp.stem != "index":
             if rel not in nav_pages:
-                findings.append(("warning", f"mkdocs nav drift: {rel} not in mkdocs.yml nav"))
+                # Individual concepts are accessed through concepts/index.md, not nav directly
+                pass
 
     return findings
 

@@ -2,7 +2,7 @@
 title: "Integration & Collaboration: Claude Code for Economists (Markus Academy 162-8)"
 tags: [summary, academic-research, claude-code, version-control-research, reproducibility-transparency]
 sources:
-  - "[[raw/Clippings/Integration & Collaboration Claude Code for Econ. w P. Goldsmith-Pinkham  Markus Academy  162-8.md]]"
+  - "[[raw/articles/Integration & Collaboration Claude Code for Econ. w P. Goldsmith-Pinkham  Markus Academy  162-8.md]]"
 date_updated: 2026-08-23
 date_published: 2026-07-03
 ---

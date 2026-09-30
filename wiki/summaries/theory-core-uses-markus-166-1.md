@@ -2,7 +2,7 @@
 title: "Core Uses of AI for Economic Theory (Markus Academy 166-1)"
 tags: [summary, academic-research, economic-theory, llm-reasoning, ai-limitations]
 sources:
-  - "[[raw/Clippings/Core Uses of AI for Economic Theory with Ortoleva & Sandomirskiy  Markus Academy  166-1.md]]"
+  - "[[raw/articles/Core Uses of AI for Economic Theory with Ortoleva & Sandomirskiy  Markus Academy  166-1.md]]"
 date_updated: 2026-08-23
 date_published: 2026-08-04
 ---

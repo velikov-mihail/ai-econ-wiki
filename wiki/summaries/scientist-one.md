@@ -2,7 +2,7 @@
 title: "ScientistOne: Towards Human-Level Autonomous Research via Chain-of-Evidence"
 tags: [summary, ai-agents, automated-research, multi-agent, reproducibility-transparency]
 sources:
-  - "[[raw/Clippings/ScientistOne Towards Human-Level Autonomous Research via Chain-of-Evidence.md]]"
+  - "[[raw/articles/ScientistOne Towards Human-Level Autonomous Research via Chain-of-Evidence.md]]"
 date_updated: 2026-08-23
 date_published: 2026-08
 ---
