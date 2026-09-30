@@ -2,7 +2,7 @@
 title: "Theorist Toolbox: Claude Code Skills for Economic Theory (Koren)"
 tags: [summary, academic-research, claude-code-skills, economic-theory, multi-agent, verification]
 sources:
-  - "[[raw/Clippings/A toolkit of Claude Code skills for doing economic theory with LLMs math-proof (single-pass proving), codex-math (adversarial verification), and co-math (multi-agent proof projects). With a VCG-for-grade-inflation case s.md]]"
+  - "[[raw/articles/A toolkit of Claude Code skills for doing economic theory with LLMs math-proof (single-pass proving), codex-math (adversarial verification), and co-math (multi-agent proof projects). With a VCG-for-grade-inflation case s.md]]"
 date_updated: 2026-09-30
 date_published: 2026-06
 ---

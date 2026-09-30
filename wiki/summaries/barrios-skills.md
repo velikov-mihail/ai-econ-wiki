@@ -2,7 +2,7 @@
 title: "Barrios Skills — AI Workflows for Academic Research (Barrios)"
 tags: [summary, claude-code-skills, mcp, wrds, accounting, finance, writing]
 sources:
-  - "[[raw/Clippings/Barrios Skills — AI workflows for academic research.md]]"
+  - "[[raw/articles/Barrios Skills — AI workflows for academic research.md]]"
 date_updated: 2026-09-30
 date_published: 2026-09
 ---

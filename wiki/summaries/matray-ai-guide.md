@@ -2,7 +2,7 @@
 title: "AI Guide for Economists: Working with AI — A Philosophy (Matray)"
 tags: [summary, foundations-setup, claude-code, verification, mindset, claude-md]
 sources:
-  - "[[raw/Clippings/AI Guide for Economists.md]]"
+  - "[[raw/articles/AI Guide for Economists.md]]"
 date_updated: 2026-09-30
 date_published: 2026-09
 ---

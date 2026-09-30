@@ -2,7 +2,7 @@
 title: "Verifying LLM Output — for Academic Economists (Bäckman)"
 tags: [summary, academic-research, verification, empirical-methods, git, claude-code]
 sources:
-  - "[[raw/Clippings/Verifying LLM output — for academic economists.md]]"
+  - "[[raw/articles/Verifying LLM output — for academic economists.md]]"
 date_updated: 2026-09-30
 date_published: 2026-08
 ---

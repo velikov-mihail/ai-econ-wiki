@@ -2,7 +2,7 @@
 title: "Beyond the Stochastic Beamer Parrot (Bäckman)"
 tags: [summary, claude-code-skills, presentations, visualization, explorable-explanations]
 sources:
-  - "[[raw/Clippings/Beyond the Stochastic Beamer Parrot.md]]"
+  - "[[raw/articles/Beyond the Stochastic Beamer Parrot.md]]"
 date_updated: 2026-09-30
 date_published: 2026-09-29
 ---

@@ -2,7 +2,7 @@
 title: "Prompt Library (Wharton Generative AI Labs)"
 tags: [summary, prompt-engineering-workflow, prompting, teaching, resources]
 sources:
-  - "[[raw/Clippings/Prompt Library.md]]"
+  - "[[raw/articles/Prompt Library.md]]"
 date_updated: 2026-09-30
 date_published: 2025-03-19
 ---
