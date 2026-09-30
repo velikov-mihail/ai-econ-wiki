@@ -77,4 +77,5 @@ Finally, the framing of the endgame is measured in a way most AI-and-research co
   - [[summaries/writing-thinking-ai-assistance]]
   - [[summaries/cc-series-24-agents-auditing-did]]
   - [[summaries/kohler-agentic-reproduction]]
+  - [[summaries/verifying-llm-output]] — Bäckman's verification checklist, which builds on this protocol
   - [[summaries/research-in-time-of-ai]]

@@ -4,6 +4,7 @@ tags: [concept, tools, reproducibility]
 sources:
   - "[[summaries/baylor-ai-taskforce.md]]"
   - "[[summaries/spina-paper.md]]"
+  - "[[summaries/verifying-llm-output.md]]"
 date_updated: 2026-04-03
 ---
 
@@ -34,3 +35,4 @@ Common translation tasks:
 - [[concepts/coding-with-llms|Coding With Llms]]
 - [[concepts/reproducibility-transparency|Reproducibility Transparency]]
 - [[concepts/ai-research-tools|Ai Research Tools]]
+- [[concepts/verifying-ai-output|Verifying AI Output]]

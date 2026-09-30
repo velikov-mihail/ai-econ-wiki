@@ -47,3 +47,4 @@ The plan-driven development approach embodies HITL principles — the AI propose
 - [[concepts/research-quality|Research Quality]]
 - [[concepts/ai-limitations|Ai Limitations]]
 - [[concepts/human-ai-collaboration|Human Ai Collaboration]]
+- [[concepts/verifying-ai-output|Verifying AI Output]]

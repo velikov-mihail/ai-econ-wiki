@@ -6,7 +6,7 @@ date_updated: 2026-04-03
 
 # All Summaries
 
-This wiki contains **197** source summaries across the following categories.
+This wiki contains **198** source summaries across the following categories.
 
 ## Professional Productivity
 
@@ -216,6 +216,7 @@ See also: [[summaries/academic-research|AI for Academic Research & Publishing ov
 - [[summaries/research-in-time-of-ai|Research in the Time of AI]]
 - [[summaries/haaland-reviewer|Reviewer: A Reproducible Multi-Agent Reviewer for Economics Papers]]
 - [[summaries/koren-theorist-toolbox|Theorist Toolbox: Claude Code Skills for Economic Theory (Koren)]]
+- [[summaries/verifying-llm-output|Verifying LLM Output — for Academic Economists (Bäckman)]]
 - [[summaries/vibe-research-2|Vibe Research II: My Three Days with Fable 5]]
 - [[summaries/vibe-research|Vibe Research, or How I Wrote an Academic Paper in Four Days]]
 - [[summaries/research-paper-disappear|When will the research paper disappear in economics?]]

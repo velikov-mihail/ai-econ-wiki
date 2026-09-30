@@ -8,6 +8,8 @@ date_updated: 2026-09-30
 
 The last 15 pages added to the wiki, newest first. Generated from git history — see [[visualizations/source-timeline|Source Timeline]] for sources ordered by publication date.
 
+- **2026-09-30** — [[summaries/verifying-llm-output|Verifying LLM Output — for Academic Economists (Bäckman)]] — Claes Bäckman
+- **2026-09-30** — [[concepts/verifying-ai-output|Verifying AI Output]] (concept)
 - **2026-09-30** — [[summaries/koren-theorist-toolbox|Theorist Toolbox: Claude Code Skills for Economic Theory (Koren)]] — Moran Koren
 - **2026-08-23** — [[summaries/kazinnik-cemfi-day5|Economics with LLMs — Day 5: LLMs as Economic Subjects]] — Sophia Kazinnik
 - **2026-08-23** — [[summaries/kazinnik-cemfi-day4|Economics with LLMs — Day 4: Synthetic Agents, Simulations, and Counterfactuals]] — Sophia Kazinnik
@@ -21,5 +23,3 @@ The last 15 pages added to the wiki, newest first. Generated from git history �
 - **2026-08-23** — [[summaries/prompts-swarms-markus-166-4|Prompts and Agent Swarms (Markus Academy 166-4)]] — Fedor Sandomirskiy
 - **2026-08-23** — [[summaries/which-model-markus-166-3|Which Model to Use for Theory (Markus Academy 166-3)]] — Pietro Ortoleva
 - **2026-08-23** — [[summaries/ai-creativity-markus-166-2|Can AI Be Creative? (Markus Academy 166-2)]] — Fedor Sandomirskiy
-- **2026-08-23** — [[summaries/theory-core-uses-markus-166-1|Core Uses of AI for Economic Theory (Markus Academy 166-1)]] — Pietro Ortoleva
-- **2026-08-23** — [[summaries/theory-miniseries-markus-166|AI for Economic Theorists & Mathematicians (Markus Academy 166 Mini-Series Overview)]] — Fedor Sandomirskiy & Pietro Ortoleva

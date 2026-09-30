@@ -6,7 +6,7 @@ date_updated: 2026-04-03
 
 # Concept Pages
 
-**68** cross-cutting concept pages synthesizing ideas across multiple sources.
+**69** cross-cutting concept pages synthesizing ideas across multiple sources.
 
 - [[concepts/ai-adoption-academia|AI Adoption in Academia]]
 - [[concepts/ai-agents|AI Agents]]
@@ -71,6 +71,7 @@ date_updated: 2026-04-03
 - [[concepts/sycophancy-and-bias|Sycophancy and Bias in AI]]
 - [[concepts/text-as-data|Text as Data]]
 - [[concepts/jagged-frontier|The Jagged Frontier]]
+- [[concepts/verifying-ai-output|Verifying AI Output]]
 - [[concepts/version-control-research|Version Control for Research]]
 - [[concepts/vibe-research|Vibe Research]]
 - [[concepts/voice-and-transcription|Voice and Transcription]]
