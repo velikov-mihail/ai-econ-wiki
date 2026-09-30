@@ -43,6 +43,7 @@ The borrowable patterns even for someone not adopting the toolkit wholesale: pre
 
 - **Related Summaries**
   - [[summaries/claude-wrds-tools]]
+  - [[summaries/barrios-skills]] — WRDS/EDGAR skills plus vendored wrds-mcp
   - [[summaries/dickerson-ai-asset-pricing]]
   - [[summaries/awesome-econ-ai]]
   - [[summaries/spina-paper]]

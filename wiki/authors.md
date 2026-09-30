@@ -330,6 +330,10 @@ All authors referenced in the knowledge base, with links to their summaries.
 
 - [[summaries/kohler-agentic-reproduction|Read the Paper, Write the Code]] (with Kohler, Zollikofer, Hoyle & Ash)
 
+## John Manuel Barrios
+
+- [[summaries/barrios-skills|Barrios Skills — AI Workflows for Academic Research]]
+
 ## Jonathan Shock
 
 *University of Cape Town*

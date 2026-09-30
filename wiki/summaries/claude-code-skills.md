@@ -47,6 +47,7 @@ Building skills, the DAAF framework, continuous improvement, and compilation wor
 - [[brownbag-claude-skills|Brownbag: Claude Code Skills]] — Spina's practical guide to building Claude Code skills
 - [[agentic-bootcamp-2-aslim-beam|Agentic AI Bootcamp — Session 2]] — Aslim & Beam's applied demos: /code-review, /econ-audit (vs. 11 real referees), Lee bounds live, /skill-creator + lecture-builder
 - [[ars-claude-code|Academic Research Skills for Claude Code (ARS)]] — Wu's 25-mode plugin suite: deep research, paper writing, peer review, 10-stage pipeline with integrity gates
+- [[barrios-skills|Barrios Skills]] — Accounting/finance skill + MCP pack: WRDS SQL patterns, SEC EDGAR with CIK discipline, pyfixest, Stata tables, Cochrane-style writing and an AI-tell humanizer, ~51k-paper econ lit search
 - [[katmer-code|KatmerCode: Claude Code inside Obsidian]] — Canan's Obsidian plugin with inline diff editing and 7 academic skills (/peer-review, /cite-verify, /lit-search, …)
 
 ### Presentations
