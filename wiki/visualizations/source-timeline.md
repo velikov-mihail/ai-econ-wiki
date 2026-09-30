@@ -189,6 +189,13 @@ All sources in the knowledge base, ordered chronologically by publication date.
 - **May 7** — [[summaries/claude-code-102-bilal|Claude Code 102 for Academic Researchers]] — Mushtaq Bilal
 - **May 13** — [[summaries/codex-101-bilal|Codex 101 for Academic Researchers]] — Mushtaq Bilal
 - **May 15** — [[summaries/codex-102-bilal|Codex 102 for Academic Researchers]] — Mushtaq Bilal
+- **May 20** — [[summaries/claude-code-103-bilal|Claude Code 103 for Academic Researchers]] — Mushtaq Bilal
+- **May 22** — [[summaries/bilal-beginners-guide|A Beginner's Guide to Claude Code for (Non-Technical) Academics]] — Mushtaq Bilal
+- **May 23** — [[summaries/permissions-sandboxes-substack|Permissions, Sandboxes, and Autonomous Agents]] — Paul Goldsmith-Pinkham
+- **May 23** — [[summaries/skills-specifying-thinking|Skills: Specifying How an Agent Should Think]] — Paul Goldsmith-Pinkham
+- **May 25** — [[summaries/claude-code-104-bilal|Claude Code 104: Building Your AI-Powered Research Management System]] — Mushtaq Bilal
+- **May 25** — [[summaries/skills-markus-162-6|Skills: Claude Code for Economists (Markus Academy 162-6)]] — Paul Goldsmith-Pinkham
+- **May 25** — [[summaries/permissions-openclaw-markus-162-7|Permissions & OpenClaw: Claude Code for Economists (Markus Academy 162-7)]] — Paul Goldsmith-Pinkham
 - **May 2026** — [[summaries/ars-codex|Academic Research Skills for Codex (ARS-Codex)]] — Edward Cheng-I Wu
 - **May 2026** — [[summaries/katmer-code|KatmerCode: Claude Code inside Obsidian]] — Halil Kaan Canan
 - **May 2026** — [[summaries/my580-agentic-ai|MY580: Agentic AI for Social Science and Data Science Research]] — Daniel de Kadt
@@ -245,7 +252,7 @@ All sources in the knowledge base, ordered chronologically by publication date.
 
 ## Summary Statistics
 
-- **Total sources:** 206
+- **Total sources:** 202
 - **Date range:** March 2019 – September 2026
 - **Peak activity:** March 2026 (84 sources)
-- **Most prolific authors:** Chris Blattman (44), Scott Cunningham (28), Paul Goldsmith-Pinkham (15), Mushtaq Bilal (7), Ethan Mollick (6)
+- **Most prolific authors:** Chris Blattman (44), Scott Cunningham (28), Paul Goldsmith-Pinkham (19), Mushtaq Bilal (7), Ethan Mollick (6)
