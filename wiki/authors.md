@@ -274,6 +274,7 @@ All authors referenced in the knowledge base, with links to their summaries.
 - [[summaries/guide-which-ai|A Guide to Which AI to Use in the Agentic Era]]
 - [[summaries/shape-of-ai|The Shape of AI: Jaggedness, Bottlenecks and Salients]]
 - [[summaries/sign-of-future-gpt55|Sign of the Future: GPT-5.5]]
+- [[summaries/wharton-prompt-library|Prompt Library (Wharton Generative AI Labs)]] (with Lilach Mollick)
 
 ## Fedor Sandomirskiy
 
@@ -356,6 +357,12 @@ All authors referenced in the knowledge base, with links to their summaries.
 *University of Chicago Booth*
 
 - [[summaries/aiesi-post-training|Post-Training LLMs (AIESI 2026)]]
+
+## Lilach Mollick
+
+*Wharton Generative AI Labs, University of Pennsylvania*
+
+- [[summaries/wharton-prompt-library|Prompt Library (Wharton Generative AI Labs)]] (with Ethan Mollick)
 
 ## Marcel Olbert
 

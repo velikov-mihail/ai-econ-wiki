@@ -6,7 +6,7 @@ date_updated: 2026-04-03
 
 # All Summaries
 
-This wiki contains **201** source summaries across the following categories.
+This wiki contains **202** source summaries across the following categories.
 
 ## Professional Productivity
 
@@ -254,6 +254,7 @@ See also: [[summaries/prompt-engineering-workflow|Prompt Engineering & Workflow 
 - [[summaries/cc-series-11-deck-prompt|Claude Code Part 11: Use This Prompt to Make a Deck]]
 - [[summaries/patterns|Patterns]]
 - [[summaries/prompt-engineering|Prompt Engineering]]
+- [[summaries/wharton-prompt-library|Prompt Library (Wharton Generative AI Labs)]]
 - [[summaries/prompt-plan-review-revise|Prompt, Plan, Review, Revise]]
 - [[summaries/prompting-insights-golub|Prompting Insights: Modern AI for Economics Research with Benjamin Golub]]
 - [[summaries/prompts-swarms-markus-166-4|Prompts and Agent Swarms (Markus Academy 166-4)]]

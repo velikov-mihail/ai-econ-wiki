@@ -13,6 +13,7 @@ Designing effective prompts, plan-driven development, and structuring AI-assiste
 ### Prompting Fundamentals
 - [[prompt-engineering|Prompt Engineering]] — Blattman's guide to crafting effective prompts
 - [[prompting-insights-golub|Prompting Insights (Golub)]] — Benjamin Golub's prompting philosophy from Markus Academy Ep. 154
+- [[wharton-prompt-library|Prompt Library (Wharton Generative AI Labs)]] — Ethan & Lilach Mollick's CC BY 4.0 library of structured prompt templates, plus a checklist for testing reusable prompts across runs and models
 
 ### Advanced Prompting & Verification
 - [[prompts-swarms-markus-166-4|Prompts and Agent Swarms (Markus Academy 166-4)]] — Sandomirskiy on prompt expansion, prover/verifier/judge, never feeding PDFs, and the 64-agent swarm recipe with an escalation escape hatch
