@@ -4,6 +4,7 @@ tags: [concept, quality, verification, methodology]
 sources:
   - "[[summaries/verifying-llm-output.md]]"
   - "[[summaries/koren-theorist-toolbox.md]]"
+  - "[[summaries/matray-ai-guide.md]]"
   - "[[summaries/integration-collaboration-substack.md]]"
   - "[[summaries/integration-collaboration-markus-162-8.md]]"
   - "[[summaries/cc-series-24-agents-auditing-did.md]]"
@@ -19,7 +20,7 @@ Verifying AI output means building deliberate checks that establish whether AI-p
 
 ## Context & Background
 
-Agents are good at removing the errors that announce themselves: they iterate until code compiles, the script runs, and the table fills in. What remains are **silent errors**, outputs that look plausible but rest on a shortcut. Examples include a merge that drops half the sample, a panel balanced by deleting 40% of firm-years, clustering at the wrong level, or a proof step waved through with "clearly." Two features of LLMs make these errors dangerous. Models never flag their own uncertainty, and a model that produced an output is biased toward confirming it. Goldsmith-Pinkham calls the resulting backlog of unchecked results **verification debt**.
+Agents are good at removing the errors that announce themselves: they iterate until code compiles, the script runs, and the table fills in. What remains are **silent errors**, outputs that look plausible but rest on a shortcut. Examples include a merge that drops half the sample, a panel balanced by deleting 40% of firm-years, clustering at the wrong level, or a proof step waved through with "clearly." Two features of LLMs make these errors dangerous. Models never flag their own uncertainty, and a model that produced an output is biased toward confirming it. Goldsmith-Pinkham calls the resulting backlog of unchecked results **verification debt**. Matray adds a third trait: the model is *quietly lazy*. It resolves ambiguity in the least-effort direction and declares work "redundant" to avoid it, so the question is not only "is this wrong?" but "is this cutting corners?" ([[summaries/matray-ai-guide|Matray]]).
 
 ## Key Principles
 

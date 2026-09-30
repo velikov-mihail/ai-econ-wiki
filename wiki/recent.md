@@ -8,6 +8,7 @@ date_updated: 2026-09-30
 
 The last 15 pages added to the wiki, newest first. Generated from git history — see [[visualizations/source-timeline|Source Timeline]] for sources ordered by publication date.
 
+- **2026-09-30** — [[summaries/matray-ai-guide|AI Guide for Economists: Working with AI — A Philosophy (Matray)]] — Adrien Matray
 - **2026-09-30** — [[summaries/verifying-llm-output|Verifying LLM Output — for Academic Economists (Bäckman)]] — Claes Bäckman
 - **2026-09-30** — [[concepts/verifying-ai-output|Verifying AI Output]] (concept)
 - **2026-09-30** — [[summaries/koren-theorist-toolbox|Theorist Toolbox: Claude Code Skills for Economic Theory (Koren)]] — Moran Koren
@@ -22,4 +23,3 @@ The last 15 pages added to the wiki, newest first. Generated from git history �
 - **2026-08-23** — [[summaries/integration-collaboration-markus-162-8|Integration & Collaboration: Claude Code for Economists (Markus Academy 162-8)]] — Paul Goldsmith-Pinkham
 - **2026-08-23** — [[summaries/prompts-swarms-markus-166-4|Prompts and Agent Swarms (Markus Academy 166-4)]] — Fedor Sandomirskiy
 - **2026-08-23** — [[summaries/which-model-markus-166-3|Which Model to Use for Theory (Markus Academy 166-3)]] — Pietro Ortoleva
-- **2026-08-23** — [[summaries/ai-creativity-markus-166-2|Can AI Be Creative? (Markus Academy 166-2)]] — Fedor Sandomirskiy

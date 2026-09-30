@@ -16,6 +16,10 @@ All authors referenced in the knowledge base, with links to their summaries.
 
 - [[summaries/point-by-point|Point by Point: Guided R&R Response Letters]]
 
+## Adrien Matray
+
+- [[summaries/matray-ai-guide|AI Guide for Economists: Working with AI — A Philosophy]]
+
 ## Alejandro Lopez-Lira
 
 - [[summaries/automated-research-finance|Seeking Collaboration to Test Automated Research in Finance]]

@@ -22,6 +22,7 @@ Getting started with AI coding tools: installation, privacy, environment configu
 - [[getting-started-economists|Getting Started: Claude Code for Economists]] — Markus Academy Ep. 162-1, conversational introduction to Claude Code
 - [[claude-code-newbies|Claude Code for Newbies]] — Blattman's beginner guide to first Claude Code session
 - [[ai-for-professionals|AI for Professionals Who Don't Code]] — Blattman's site overview and philosophy
+- [[matray-ai-guide|AI Guide for Economists (Matray)]] — Mindset-first opener: AI as an over-eager, overconfident, *quietly lazy* collaborator; verification, independence, context hygiene, and three-strikes automation
 - [[thinking-with-agents|Thinking with Agents (UVM Bootcamp landing page)]] — Aslim & Beam's two-session course-in-a-box, with installable skill bundle
 - [[agentic-bootcamp-1-aslim-beam|Agentic AI Bootcamp — Session 1]] — Concepts: chat vs. agentic AI, the AI ladder, context window, planning, permissions, voice files
 - [[claude-code-101-bilal|Claude Code 101 for Academic Researchers]] — Bilal's 4M-view non-technical onramp: "bring AI into the folder"
