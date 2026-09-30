@@ -29,7 +29,7 @@ See [[recent|more recent summaries →]]
 - **[[summaries/ai-agents|AI Agents & Agentic AI]]** (14) — Agent frameworks, agentic workflows, autonomous research
 - **[[summaries/claude-code-skills|Claude Code Skills & Advanced]]** (31) — Skills, DAAF, continuous improvement, compilation workflows
 - **[[summaries/data-analysis|Data Analysis & Web Scraping]]** (10) — WRDS, EDGAR, scraping, data pipelines
-- **[[summaries/academic-research|Academic Research & Publishing]]** (36) — Vibe research, feedback machines, AI-assisted writing, agentic reproducibility, verification, theory tooling
+- **[[summaries/academic-research|Academic Research & Publishing]]** (37) — Vibe research, feedback machines, AI-assisted writing, agentic reproducibility, verification, theory tooling
 - **[[summaries/finance-econometrics|Finance & Econometrics]]** (20) — Project APE, automated research in finance, asset-pricing repos, structural change theory
 - **[[summaries/ai-tools|AI Tools & Comparisons]]** (12) — ChatGPT vs Claude, Cursor, NotebookLM, paper-review tools
 - **[[summaries/institutional-societal|Institutional & Societal]]** (21) — AI adoption, the bitter lesson, AI as normal technology, plural intelligence

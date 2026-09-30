@@ -240,6 +240,7 @@ All sources in the knowledge base, ordered chronologically by publication date.
 
 ### September
 - **September 29** — [[summaries/beamer-parrot|Beyond the Stochastic Beamer Parrot]] — Claes Bäckman
+- **September 29** — [[summaries/living-science|Introducing Living Science]] — Chenhao Tan
 - **September 2026** — [[summaries/barrios-skills|Barrios Skills — AI Workflows for Academic Research]] — John Manuel Barrios
 - **September 2026** — [[summaries/matray-ai-guide|AI Guide for Economists: Working with AI — A Philosophy]] — Adrien Matray
 
@@ -252,7 +253,7 @@ All sources in the knowledge base, ordered chronologically by publication date.
 
 ## Summary Statistics
 
-- **Total sources:** 202
+- **Total sources:** 203
 - **Date range:** March 2019 – September 2026
 - **Peak activity:** March 2026 (84 sources)
 - **Most prolific authors:** Chris Blattman (44), Scott Cunningham (28), Paul Goldsmith-Pinkham (19), Mushtaq Bilal (7), Ethan Mollick (6)
