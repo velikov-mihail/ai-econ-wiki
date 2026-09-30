@@ -55,4 +55,5 @@ The rabbit-hole warning — that wasted time scales with your own ignorance — 
   - [[summaries/prompts-swarms-markus-166-4]]
   - [[summaries/prompts-to-paper]]
   - [[summaries/vibe-research-2]]
+  - [[summaries/koren-theorist-toolbox]] — installable proof skills that implement the prover/verifier separation
   - [[summaries/getting-started-economists]]

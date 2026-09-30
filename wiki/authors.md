@@ -378,6 +378,12 @@ All authors referenced in the knowledge base, with links to their summaries.
 - [[summaries/velikov-smeal-cop|AI for Business & Economic Research: From Chatbots to Agents]]
 - [[summaries/velikov-edhec|EDHEC Master Class: Using AI for Research]]
 
+## Moran Koren
+
+*Ben-Gurion University of the Negev*
+
+- [[summaries/koren-theorist-toolbox|Theorist Toolbox: Claude Code Skills for Economic Theory]]
+
 ## Mushtaq Bilal
 
 - [[summaries/claude-code-101-bilal|Claude Code 101 for Academic Researchers]]

@@ -26,6 +26,7 @@ Vibe research, feedback machines, AI-assisted academic writing, and the future o
 - [[theory-miniseries-markus-166|AI for Economic Theorists & Mathematicians (Markus Academy 166 overview)]] — Ortoleva & Sandomirskiy's four-episode series: theory as a fixed point, creativity evidence from math, model choice, agent swarms
 - [[theory-core-uses-markus-166-1|Core Uses of AI for Economic Theory (166-1)]] — Ortoleva's seven use cases; sketching as most underused; proof attack/repair/inspiration; the two-weekend rabbit hole
 - [[ai-creativity-markus-166-2|Can AI Be Creative? (166-2)]] — Sandomirskiy on the Erdős retraction, poor attribution vs. superb aggregation, and three conjectures that fell
+- [[koren-theorist-toolbox|Theorist Toolbox (Koren)]] — Claude Code skills for proofs: single-pass `math-proof`, adversarial `codex-math`, and a six-agent `co-math` team with reviewer gates, Lean verification, and strict-mode hooks
 
 ### AI and the Future of Research
 - [[ai-one-shot-papers|AI One-Shot Papers]] — Goldsmith-Pinkham on AI-generated papers' over-reliance on diff-in-diff
