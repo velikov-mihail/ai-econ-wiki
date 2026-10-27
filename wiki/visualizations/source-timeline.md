@@ -248,12 +248,14 @@ All sources in the knowledge base, ordered chronologically by publication date.
 - [[summaries/point-by-point|Point by Point: Guided R&R Response Letters]] — Abhishek Nagaraj
 - [[summaries/haaland-reviewer|Reviewer: A Reproducible Multi-Agent Reviewer for Economics Papers]] — Ingar Haaland
 - [[summaries/worldseed|WorldSeed: A Multi-Agent World Engine for Emergent Outcomes]] — Jie Ding
+- [[summaries/backman-ai-workshop|Practical AI for Academics & Teaching (Bäckman Workshops)]] — Claes Bäckman
+- [[summaries/econ-yolobox|EconYoloBox: Sandboxed YOLO-Mode Environment for Economics Research]] — Andrew Y. Chen
 
 ---
 
 ## Summary Statistics
 
-- **Total sources:** 203
+- **Total sources:** 205
 - **Date range:** March 2019 – September 2026
 - **Peak activity:** March 2026 (84 sources)
-- **Most prolific authors:** Chris Blattman (44), Scott Cunningham (28), Paul Goldsmith-Pinkham (19), Mushtaq Bilal (7), Ethan Mollick (6)
+- **Most prolific authors:** Chris Blattman (44), Scott Cunningham (28), Paul Goldsmith-Pinkham (19), Mushtaq Bilal (7), Ethan Mollick (6), Claes Bäckman (6)

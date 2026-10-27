@@ -24,12 +24,12 @@ See [[recent|more recent summaries →]]
 
 ## Categories
 
-- **[[summaries/foundations-setup|Foundations & Setup]]** (36) — Installation, privacy, getting started with AI coding tools
+- **[[summaries/foundations-setup|Foundations & Setup]]** (37) — Installation, privacy, getting started with AI coding tools
 - **[[summaries/prompt-engineering-workflow|Prompt Engineering & Workflow]]** (12) — Prompt design, plan-driven development, workflow architecture
 - **[[summaries/ai-agents|AI Agents & Agentic AI]]** (14) — Agent frameworks, agentic workflows, autonomous research
 - **[[summaries/claude-code-skills|Claude Code Skills & Advanced]]** (31) — Skills, DAAF, continuous improvement, compilation workflows
 - **[[summaries/data-analysis|Data Analysis & Web Scraping]]** (10) — WRDS, EDGAR, scraping, data pipelines
-- **[[summaries/academic-research|Academic Research & Publishing]]** (37) — Vibe research, feedback machines, AI-assisted writing, agentic reproducibility, verification, theory tooling
+- **[[summaries/academic-research|Academic Research & Publishing]]** (38) — Vibe research, feedback machines, AI-assisted writing, agentic reproducibility, verification, theory tooling
 - **[[summaries/finance-econometrics|Finance & Econometrics]]** (20) — Project APE, automated research in finance, asset-pricing repos, structural change theory
 - **[[summaries/ai-tools|AI Tools & Comparisons]]** (12) — ChatGPT vs Claude, Cursor, NotebookLM, paper-review tools
 - **[[summaries/institutional-societal|Institutional & Societal]]** (21) — AI adoption, the bitter lesson, AI as normal technology, plural intelligence
