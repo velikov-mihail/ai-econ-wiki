@@ -2,7 +2,7 @@
 title: "Practical AI for Academics & Teaching (Bäckman Workshops)"
 tags: [summary, academic-research, teaching, claude-code, skills, verification, workshop]
 sources:
-  - "[[raw/Clippings/Practical AI for Academics.md]]"
+  - "[[raw/articles/Practical AI for Academics.md]]"
 date_updated: 2026-10-27
 date_published: 2026
 ---

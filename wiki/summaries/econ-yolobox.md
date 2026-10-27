@@ -2,7 +2,7 @@
 title: "EconYoloBox: Sandboxed YOLO-Mode Environment for Economics Research"
 tags: [summary, foundations-setup, sandboxing, docker, claude-code, codex, autonomous-agents]
 sources:
-  - "[[raw/Clippings/chenandrewyEconYoloBox.md]]"
+  - "[[raw/articles/chenandrewyEconYoloBox.md]]"
 date_updated: 2026-10-27
 date_published: 2026
 ---

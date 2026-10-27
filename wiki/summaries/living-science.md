@@ -2,7 +2,7 @@
 title: "Introducing Living Science"
 tags: [summary, academic-research, reproducibility, automated-research]
 sources:
-  - "[[raw/Clippings/Introducing Living Science.md]]"
+  - "[[raw/articles/Introducing Living Science.md]]"
 date_updated: 2026-09-30
 date_published: 2026-09-29
 ---
