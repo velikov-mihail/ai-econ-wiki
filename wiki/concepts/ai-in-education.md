@@ -3,10 +3,11 @@ title: "AI in Education"
 tags: [concept, education, teaching]
 sources:
   - "[[summaries/agentic-everything.md]]"
+  - "[[summaries/backman-ai-workshop.md]]"
   - "[[summaries/baylor-ai-taskforce.md]]"
   - "[[summaries/stress-test-research-pipeline.md]]"
   - "[[summaries/thread-jesusferna.md]]"
-date_updated: 2026-04-03
+date_updated: 2026-10-27
 ---
 
 # AI in Education
@@ -27,6 +28,10 @@ Key considerations include:
 ## Key Perspectives
 
 Some sources argue that economics programs must urgently integrate AI literacy into curricula, as graduates will be expected to use these tools professionally. Others caution that over-reliance on AI in education may undermine the development of fundamental analytical skills.
+
+## Assessment After Agents
+
+Bäckman's teaching workshop ([[summaries/backman-ai-workshop]]) builds the day around a thesis an agent writes live during the lecture. His argument is that take-home grades have stopped measuring learning and AI detectors cannot fix that. He has faculty respond with rubric-based feedback plus an AI second opinion, oral-defence questions, a reusable grading skill built from their own rubric, and an explicit course AI policy.
 
 ## Practical Implications
 

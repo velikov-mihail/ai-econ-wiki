@@ -6,7 +6,7 @@ date_updated: 2026-04-03
 
 # All Summaries
 
-This wiki contains **203** source summaries across the following categories.
+This wiki contains **204** source summaries across the following categories.
 
 ## Professional Productivity
 
@@ -213,6 +213,7 @@ See also: [[summaries/academic-research|AI for Academic Research & Publishing ov
 - [[summaries/living-science|Introducing Living Science]]
 - [[summaries/openai-automated-researcher|OpenAI is throwing everything into building a fully automated researcher]]
 - [[summaries/point-by-point|Point by Point: Guided R&R Response Letters]]
+- [[summaries/backman-ai-workshop|Practical AI for Academics & Teaching (Bäckman Workshops)]]
 - [[summaries/project-ape|Project APE: Can Policy Evaluation Be Automated?]]
 - [[summaries/prompts-to-paper|Prompts-to-Paper: Hedging the AI Singularity]]
 - [[summaries/kohler-agentic-reproduction|Read the Paper, Write the Code: Agentic Reproduction of Social-Science Results]]

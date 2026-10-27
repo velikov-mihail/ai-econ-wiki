@@ -51,4 +51,5 @@ This is the most complete practical verification protocol in the wiki for empiri
   - [[summaries/koren-theorist-toolbox]] — the same principles applied to proofs
   - [[summaries/ai-research-feedback-skills]] — Bäckman's skill collection (review-paper consistency checks)
   - [[summaries/backman-vscode-guide]]
+  - [[summaries/backman-ai-workshop]]
   - [[summaries/kohler-agentic-reproduction]]

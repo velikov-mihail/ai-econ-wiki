@@ -1,7 +1,7 @@
 ---
 title: "AI for Academic Research & Publishing"
 tags: [category, academic-research]
-date_updated: 2026-08-23
+date_updated: 2026-10-27
 ---
 
 # AI for Academic Research & Publishing
@@ -21,6 +21,7 @@ Vibe research, feedback machines, AI-assisted academic writing, and the future o
 - [[stress-test-research-pipeline|Stress-Test Research Pipeline]] — Lopez-Lira's pipeline for evaluating PhD research ideas
 - [[shock-genai-research-course|Generative AI for Research (UCT Course)]] — Shock's 12-week NQF Level 9 postgraduate course: LLM foundations, ethics, literature review, writing, data analysis, agents, and Claude Code advanced track
 - [[spina-apsa-2026|Claude Code for Academics: APSA 2026 (Spina)]] — Comprehensive practical guide: CLAUDE.md/session-log/DATA.md scaffold, Cunningham Conjecture, skills vs commands, Plan mode, safety, and the "bottleneck is you" honest assessment
+- [[backman-ai-workshop|Practical AI for Academics & Teaching (Bäckman)]] — Two workshop series: LLM/agent foundations and silent-error checks; `/review-paper`, `/explorable-deck`, `voice.md`, `/review-paper-code`, secure-server data; a teaching day built around a thesis an agent writes live
 
 ### Economic Theory & Mathematics
 - [[theory-miniseries-markus-166|AI for Economic Theorists & Mathematicians (Markus Academy 166 overview)]] — Ortoleva & Sandomirskiy's four-episode series: theory as a fixed point, creativity evidence from math, model choice, agent swarms
