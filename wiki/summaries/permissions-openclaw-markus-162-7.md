@@ -34,6 +34,7 @@ The "Duncan Idaho" portion is the most distinctive contribution. It demonstrates
 For empirical economists, this is the closest the series gets to a deployable autonomous-RA recipe. The sandboxing pattern (read-only mount of raw data, writable scratch folder for outputs, no network unless explicitly granted) is exactly the discipline that protects WRDS extracts, restricted Census data, or any project where licensing limits redistribution. Goldsmith-Pinkham's Dockerfile choices (Python + R + LaTeX + DuckDB + `uv`) are a reasonable canonical stack for an asset-pricing or applied-micro project. The Duncan Idaho pattern — an agent with read-only access to a curated paper pipeline plus project Dropbox — is a working answer to "how do I make literature review and replication continuous rather than episodic." The data-governance caveat (sandboxing does not solve PII leakage to remote models) is a useful reminder that container isolation and model-side privacy filtering are independent layers.
 
 - **Related Concepts**
+  - [[concepts/agent-sandboxing]]
   - [[concepts/claude-code]]
   - [[concepts/data-privacy]]
   - [[concepts/multi-agent-systems]]
@@ -41,6 +42,7 @@ For empirical economists, this is the closest the series gets to a deployable au
   - [[concepts/agentic-workflows]]
 
 - **Related Summaries**
+  - [[summaries/econ-yolobox]]
   - [[summaries/claude-container]]
   - [[summaries/getting-started-economists]]
   - [[summaries/data-analysis-economists]]

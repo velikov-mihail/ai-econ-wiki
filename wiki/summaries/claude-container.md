@@ -30,12 +30,14 @@ The guide is particularly valuable for its 12 detailed academic use cases, each 
 Containers solve a real barrier to adoption: many researchers hesitate to give Claude Code full system access, especially on machines with important data. This guide makes sandboxing accessible to non-technical users, which is critical for broader faculty adoption. The pre-installed stack (Python, R, DuckDB) covers the standard economics research toolkit, and the reproducibility benefits --- recreating exact environments for coauthors or replication packages --- align with growing expectations in empirical economics.
 
 - **Related Concepts**
+  - [[concepts/agent-sandboxing]]
   - [[concepts/claude-code]]
   - [[concepts/data-privacy]]
   - [[concepts/ide-and-terminal]]
   - [[concepts/reproducibility-transparency]]
 
 - **Related Summaries**
+  - [[summaries/econ-yolobox]]
   - [[summaries/getting-started-researchers]]
   - [[summaries/privacy-setup]]
   - [[summaries/install-mac]]

@@ -71,6 +71,7 @@ All authors referenced in the knowledge base, with links to their summaries.
 
 *Federal Reserve Board*
 
+- [[summaries/econ-yolobox|EconYoloBox: Sandboxed YOLO-Mode Environment for Economics Research]]
 - [[summaries/prompts-to-paper|Prompts-to-Paper: Hedging the AI Singularity]]
 - [[summaries/ralph-wiggum-asset-pricing|ralph-wiggum-asset-pricing: Open-Source Loop for Generating Asset Pricing Papers]]
 

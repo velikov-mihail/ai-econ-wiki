@@ -6,7 +6,7 @@ date_updated: 2026-04-03
 
 # Concept Pages
 
-**69** cross-cutting concept pages synthesizing ideas across multiple sources.
+**70** cross-cutting concept pages synthesizing ideas across multiple sources.
 
 - [[concepts/ai-adoption-academia|AI Adoption in Academia]]
 - [[concepts/ai-agents|AI Agents]]
@@ -24,6 +24,7 @@ date_updated: 2026-04-03
 - [[concepts/ai-peer-review|AI-Assisted Peer Review]]
 - [[concepts/visualization|AI-Assisted Visualization]]
 - [[concepts/ai-writing|AI-Assisted Writing]]
+- [[concepts/agent-sandboxing|Agent Sandboxing & Permission Modes]]
 - [[concepts/agentic-ai|Agentic AI]]
 - [[concepts/agentic-workflows|Agentic Workflows]]
 - [[concepts/automated-research|Automated Research]]

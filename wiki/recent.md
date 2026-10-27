@@ -8,6 +8,8 @@ date_updated: 2026-10-27
 
 The last 15 pages added to the wiki, newest first. Generated from git history — see [[visualizations/source-timeline|Source Timeline]] for sources ordered by publication date.
 
+- **2026-10-27** — [[summaries/econ-yolobox|EconYoloBox: Sandboxed YOLO-Mode Environment for Economics Research]] — Andrew Y. Chen
+- **2026-10-27** — [[concepts/agent-sandboxing|Agent Sandboxing & Permission Modes]] (concept)
 - **2026-10-27** — [[summaries/backman-ai-workshop|Practical AI for Academics & Teaching (Bäckman Workshops)]] — Claes Bäckman
 - **2026-09-30** — [[summaries/living-science|Introducing Living Science]] — Chenhao Tan
 - **2026-09-30** — [[summaries/wharton-prompt-library|Prompt Library (Wharton Generative AI Labs)]] — Ethan Mollick & Lilach Mollick
@@ -21,5 +23,3 @@ The last 15 pages added to the wiki, newest first. Generated from git history �
 - **2026-08-23** — [[summaries/kazinnik-cemfi-day4|Economics with LLMs — Day 4: Synthetic Agents, Simulations, and Counterfactuals]] — Sophia Kazinnik
 - **2026-08-23** — [[summaries/kazinnik-cemfi-day3|Economics with LLMs — Day 3: Forecasting, Prediction, and Survey Augmentation]] — Sophia Kazinnik
 - **2026-08-23** — [[summaries/kazinnik-cemfi-day2|Economics with LLMs — Day 2: Natural Language Understanding and Measurement]] — Sophia Kazinnik
-- **2026-08-23** — [[summaries/kazinnik-cemfi-day1|Economics with LLMs — Day 1: Foundations, Applications, and Agentic Tools]] — Sophia Kazinnik
-- **2026-08-23** — [[summaries/aiesi-post-training|Post-Training LLMs (AIESI 2026)]] — Kawin Ethayarajh

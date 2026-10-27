@@ -2,12 +2,13 @@
 title: "Data Privacy in AI Research"
 tags: [concept, privacy, security, data]
 sources:
+  - "[[summaries/econ-yolobox.md]]"
   - "[[summaries/getting-started-economists.md]]"
   - "[[summaries/getting-started-researchers.md]]"
   - "[[summaries/llm-collaboration.md]]"
   - "[[summaries/mcp-setup.md]]"
   - "[[summaries/privacy-setup.md]]"
-date_updated: 2026-04-03
+date_updated: 2026-10-27
 ---
 
 # Data Privacy in AI Research
@@ -40,6 +41,7 @@ Several sources emphasize the importance of understanding privacy settings befor
 
 ## Related Concepts
 
+- [[concepts/agent-sandboxing|Agent Sandboxing]]
 - [[concepts/ai-tools-landscape|Ai Tools Landscape]]
 - [[concepts/ai-limitations|Ai Limitations]]
 - [[concepts/reproducibility-transparency|Reproducibility Transparency]]

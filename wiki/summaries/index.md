@@ -6,7 +6,7 @@ date_updated: 2026-04-03
 
 # All Summaries
 
-This wiki contains **204** source summaries across the following categories.
+This wiki contains **205** source summaries across the following categories.
 
 ## Professional Productivity
 
@@ -79,6 +79,7 @@ See also: [[summaries/foundations-setup|Foundations & Setup overview]]
 - [[summaries/claude-container|Claude Container: A Complete Beginner's Guide]]
 - [[summaries/codex-101-bilal|Codex 101 for Academic Researchers (Bilal)]]
 - [[summaries/codex-102-bilal|Codex 102 for Academic Researchers (Bilal)]]
+- [[summaries/econ-yolobox|EconYoloBox: Sandboxed YOLO-Mode Environment for Economics Research]]
 - [[summaries/claude-code-hacks|Every Claude Code Hack I Know (March 2026)]]
 - [[summaries/getting-started-researchers|Getting Started with Claude Code: A Researcher's Setup Guide]]
 - [[summaries/getting-started-economists|Getting Started: Claude Code for Economists (Markus Academy Ep. 162-1)]]

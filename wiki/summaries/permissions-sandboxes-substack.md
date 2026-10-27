@@ -37,6 +37,7 @@ The closing footnote on Duncan Idaho — *ghola* persistence in the Dune univers
 For empirical economists this is the canonical defensive checklist: minimize mounts, sandbox the environment, filter PII, and for restricted data (Census micro, HIPAA-covered health data, proprietary trading data) use a local model — not a remote API behind a sandbox. The Bedrock pathway is a genuinely useful concrete option for academic researchers who need Anthropic-quality models on data that cannot leave a HIPAA-compliant boundary. The API-vs-subscription distinction is non-obvious and matters for any researcher who uses Claude on identifiable data: API calls (per-token) have a contractual no-training guarantee that Pro/Max ($20/100/200 per month) subscriptions do not. For coauthors building shared agent infrastructure, the Slack-bot pattern (Duncan + Slack) is a concrete recipe for giving an entire research team access to an agent that has read-only access to project data and writable access to a shared output folder.
 
 - **Related Concepts**
+  - [[concepts/agent-sandboxing]]
   - [[concepts/claude-code]]
   - [[concepts/data-privacy]]
   - [[concepts/multi-agent-systems]]
@@ -44,6 +45,7 @@ For empirical economists this is the canonical defensive checklist: minimize mou
   - [[concepts/agentic-workflows]]
 
 - **Related Summaries**
+  - [[summaries/econ-yolobox]]
   - [[summaries/permissions-openclaw-markus-162-7]]
   - [[summaries/claude-container]]
   - [[summaries/writing-thinking-ai-assistance]]

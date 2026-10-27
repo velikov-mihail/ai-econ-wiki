@@ -1,7 +1,7 @@
 ---
 title: "Foundations & Setup"
 tags: [category, foundations-setup]
-date_updated: 2026-08-23
+date_updated: 2026-10-27
 ---
 
 # Foundations & Setup
@@ -50,6 +50,7 @@ Getting started with AI coding tools: installation, privacy, environment configu
 ### Safety & Sandboxing
 - [[claude-container|Claude Container Guide]] — Docker-based sandbox for safe YOLO-mode Claude Code usage
 - [[permissions-openclaw-markus-162-7|Permissions & OpenClaw (Markus Academy 162-7)]] — Goldsmith-Pinkham on permission modes, Docker sandboxes, Safe House, and the Duncan Idaho autonomous-RA pattern
+- [[econ-yolobox|EconYoloBox (Chen)]] — Dev-container setup with paired YOLO (firewalled, no prompts) and normie (open internet, auto mode) containers on one workspace; package volumes are read-only in YOLO; OpenAlex and Mistral OCR tools
 - [[permissions-sandboxes-substack|Permissions, Sandboxes, and Autonomous Agents (Substack companion)]] — Written companion with copy-pasteable Docker/safehouse commands and a privacy hierarchy (API vs. subscription, Bedrock, local models)
 
 ### Chatbot & Interaction Patterns
